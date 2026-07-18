@@ -448,50 +448,50 @@ image: /assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-ove
 
 ## Introduction
 
-The Pentagon UFO videos did something unusual: they turned a long-stigmatised subject into a mainstream evidence debate without proving the most dramatic thing many viewers hoped they proved. The three short Navy clips usually known as FLIR, GIMBAL and GOFAST showed unidentified aerial phenomena recorded by military sensors in 2004 and 2015, and the Pentagon later confirmed their authenticity and formally released them. What they did not do was verify alien craft, exotic physics or a hidden extraterrestrial programme. Their cultural force came from a different mechanism: official provenance, striking cockpit audio, elite witnesses and a celebrity-linked [media pipeline]({{ 'media-pipeline/' | relative_url }}), especially through Tom DeLonge’s [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}), helped move UAP from late-night fringe material into front-page journalism, cable news, streaming television and congressional attention. U.S. Department of War+2Popular Mechanics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>
+The Pentagon UFO videos did something unusual: they turned a long-stigmatised subject into a mainstream evidence debate without proving the most dramatic thing many viewers hoped they proved. The three short Navy clips usually known as FLIR, GIMBAL and GOFAST showed unidentified aerial phenomena recorded by military sensors in 2004 and 2015, and the Pentagon later confirmed their authenticity and formally released them. What they did not do was verify alien craft, exotic physics or a hidden extraterrestrial programme. Their cultural force came from a different mechanism: official provenance, striking cockpit audio, elite witnesses and a celebrity-linked [media pipeline]({{ 'media-pipeline/' | relative_url }}), especially through Tom DeLonge’s [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}), helped move UAP from late-night fringe material into front-page journalism, cable news, streaming television and congressional attention. U.S. Department of War+2Popular Mechanics<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-overview.webp" | relative_url }}" alt="Overview image for Navy Videos" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because the videos sit at the centre of the modern “[UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }})” story. They are not merely celebrity anecdotes, and they are not scientific proof of extraterrestrial visitation. They are official-looking fragments of [military]({{ 'military/' | relative_url }}) sensor data whose public reception was heavily shaped by entertainment figures, documentary storytelling and media attention. The result was a new kind of UFO moment: less “I saw something strange” and more “the government has footage, former officials are talking, and a rock star helped put it on television.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span><span class="citation-popover-snippet">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span></span></span>
+That distinction matters because the videos sit at the centre of the modern “[UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }})” story. They are not merely celebrity anecdotes, and they are not scientific proof of extraterrestrial visitation. They are official-looking fragments of [military]({{ 'military/' | relative_url }}) sensor data whose public reception was heavily shaped by entertainment figures, documentary storytelling and media attention. The result was a new kind of UFO moment: less “I saw something strange” and more “the government has footage, former officials are talking, and a rock star helped put it on television.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span><span class="citation-popover-snippet">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span></span></span>
 
 ## The 2004 and 2015 videos
 
-The three best-known Pentagon UFO videos are usually discussed as a set, but they are not all from the same incident. The Department of Defense said in April 2020 that it had authorised the release of three unclassified Navy videos: one recorded in November 2004 and two recorded in January 2015. The 2004 clip is commonly associated with the USS Nimitz encounter off Southern California, while [GIMBAL]({{ 'gimbal/' | relative_url }}) and GOFAST are linked to Navy activity off the US East Coast in 2015. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+The three best-known Pentagon UFO videos are usually discussed as a set, but they are not all from the same incident. The Department of Defense said in April 2020 that it had authorised the release of three unclassified Navy videos: one recorded in November 2004 and two recorded in January 2015. The 2004 clip is commonly associated with the USS Nimitz encounter off Southern California, while [GIMBAL]({{ 'gimbal/' | relative_url }}) and GOFAST are linked to Navy activity off the US East Coast in 2015.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
-Their appeal is easy to understand. They are short, grainy, military-looking clips captured through aircraft targeting systems rather than polished entertainment footage. In GIMBAL, an object appears as a bright infrared shape while pilots react audibly, including the famous excitement over the object seeming to rotate. In GOFAST, the visual impression is of a small object apparently racing over the ocean. In FLIR, an oblong object appears on a targeting display before slipping away from the sensor lock. The videos are ambiguous enough to invite speculation, but official enough to feel different from ordinary internet UFO clips. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span><span class="citation-popover-snippet">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span></span></span>
+Their appeal is easy to understand. They are short, grainy, military-looking clips captured through aircraft targeting systems rather than polished entertainment footage. In GIMBAL, an object appears as a bright infrared shape while pilots react audibly, including the famous excitement over the object seeming to rotate. In GOFAST, the visual impression is of a small object apparently racing over the ocean. In FLIR, an oblong object appears on a targeting display before slipping away from the sensor lock. The videos are ambiguous enough to invite speculation, but official enough to feel different from ordinary internet UFO clips.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span><span class="citation-popover-snippet">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span></span></span>
 
-The public timeline is also important. The clips were not introduced to most people by a routine Pentagon briefing. They circulated after earlier unauthorised releases, then were amplified by major journalism and To The Stars Academy, before the Pentagon formally released them in 2020 to “clear up any misconceptions” about whether the circulating footage was real or whether there was more to the videos. The government’s own statement kept the conclusion narrow: the phenomena in the videos remained characterised as “unidentified.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+The public timeline is also important. The clips were not introduced to most people by a routine Pentagon briefing. They circulated after earlier unauthorised releases, then were amplified by major journalism and To The Stars Academy, before the Pentagon formally released them in 2020 to “clear up any misconceptions” about whether the circulating footage was real or whether there was more to the videos. The government’s own statement kept the conclusion narrow: the phenomena in the videos remained characterised as “unidentified.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
-That narrow conclusion is often lost in popular retellings. “The Pentagon confirmed UFO videos” is accurate if UFO means unidentified object or UAP. It is misleading if it is taken to mean “the Pentagon confirmed aliens.” The videos are evidence that US military personnel recorded objects or apparent objects they could not publicly identify from the available material. They are not, by themselves, evidence of origin, intent or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
+That narrow conclusion is often lost in popular retellings. “The Pentagon confirmed UFO videos” is accurate if UFO means unidentified object or UAP. It is misleading if it is taken to mean “the Pentagon confirmed aliens.” The videos are evidence that US military personnel recorded objects or apparent objects they could not publicly identify from the available material. They are not, by themselves, evidence of origin, intent or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-1-dark.svg" | relative_url }}" alt="Navy Videos illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Authentication versus explanation
 
-The key confusion is the difference between authentication and explanation. Authentication answers a limited question: are these real Navy videos, not fabricated internet hoaxes? Explanation answers a harder question: what exactly do they show? The Pentagon and Navy helped settle the first question, but not the second. The Department of Defense authorised release of the three videos and stated that the observed aerial phenomena remained unidentified; later Pentagon statements continued to stress that AARO, the All-domain Anomaly Resolution Office, had found no verifiable evidence of extraterrestrial beings, activity or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+The key confusion is the difference between authentication and explanation. Authentication answers a limited question: are these real Navy videos, not fabricated internet hoaxes? Explanation answers a harder question: what exactly do they show? The Pentagon and Navy helped settle the first question, but not the second. The Department of Defense authorised release of the three videos and stated that the observed aerial phenomena remained unidentified; later Pentagon statements continued to stress that AARO, the All-domain Anomaly Resolution Office, had found no verifiable evidence of extraterrestrial beings, activity or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
-This is why the videos are powerful as cultural evidence but limited as scientific evidence. A short infrared clip can be intriguing, especially when paired with trained pilots’ reactions, but it rarely contains enough information to calculate size, distance, speed and shape with confidence. NASA’s independent UAP study made the broader point: eyewitness reports can be interesting, but many UAP cases lack the reproducible, well-calibrated data needed for firm conclusions, and extraterrestrial life should be treated as a last-resort hypothesis after other possibilities have been ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+This is why the videos are powerful as cultural evidence but limited as scientific evidence. A short infrared clip can be intriguing, especially when paired with trained pilots’ reactions, but it rarely contains enough information to calculate size, distance, speed and shape with confidence. NASA’s independent UAP study made the broader point: eyewitness reports can be interesting, but many UAP cases lack the reproducible, well-calibrated data needed for firm conclusions, and extraterrestrial life should be treated as a last-resort hypothesis after other possibilities have been ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-Several ordinary or partly ordinary explanations have been proposed for aspects of the videos. GOFAST, for example, is often discussed in relation to parallax: an object at altitude can appear to skim rapidly over the sea when the camera platform is moving and the viewer misjudges distance. GIMBAL has prompted debate about infrared glare, camera rotation and whether the apparent rotation belongs to the object or the sensor system. These explanations do not automatically identify every object, but they show why “looks fast” or “looks rotating” is not enough to establish extraordinary performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Several ordinary or partly ordinary explanations have been proposed for aspects of the videos. GOFAST, for example, is often discussed in relation to parallax: an object at altitude can appear to skim rapidly over the sea when the camera platform is moving and the viewer misjudges distance. GIMBAL has prompted debate about infrared glare, camera rotation and whether the apparent rotation belongs to the object or the sensor system. These explanations do not automatically identify every object, but they show why “looks fast” or “looks rotating” is not enough to establish extraordinary performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-AARO’s current public imagery page also illustrates a wider pattern: some recent military UAP videos remain unresolved, but others have been assessed as balloons or birds after analysis. In one case, AARO assessed with high confidence that a 2023 infrared video showed birds; in others, objects were assessed as balloons because their appearance and motion matched lighter-than-air objects drifting with wind. That does not solve FLIR, GIMBAL or GOFAST in a single stroke, but it warns against treating every military infrared anomaly as exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+AARO’s current public imagery page also illustrates a wider pattern: some recent military UAP videos remain unresolved, but others have been assessed as balloons or birds after analysis. In one case, AARO assessed with high confidence that a 2023 infrared video showed birds; in others, objects were assessed as balloons because their appearance and motion matched lighter-than-air objects drifting with wind. That does not solve FLIR, GIMBAL or GOFAST in a single stroke, but it warns against treating every military infrared anomaly as exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-The strongest honest reading is therefore two-sided. The videos deserve attention because they involve military sensors, aviators, restricted training areas and official acknowledgement. They also deserve caution because the public clips are fragments, not complete evidence packages with all radar tracks, telemetry, sensor calibration data, classified context and independent measurements available for open review. The Pentagon videos changed the legitimacy of the conversation; they did not close the evidentiary case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span><span class="citation-popover-snippet">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span></span></span>
+The strongest honest reading is therefore two-sided. The videos deserve attention because they involve military sensors, aviators, restricted training areas and official acknowledgement. They also deserve caution because the public clips are fragments, not complete evidence packages with all radar tracks, telemetry, sensor calibration data, classified context and independent measurements available for open review. The Pentagon videos changed the legitimacy of the conversation; they did not close the evidentiary case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span><span class="citation-popover-snippet">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
 
 ## How celebrity attention changed reception
 
-Tom DeLonge’s role is the clearest example of the celebrity media effect around the Pentagon videos. DeLonge was already famous as a member of Blink-182, which meant mainstream entertainment outlets could cover UAP not only as defence or science news but also as an unexpected celebrity reinvention. To The Stars Academy, the organisation he co-founded, helped publish and promote the Navy videos, while former officials such as Luis Elizondo and Christopher Mellon gave the project government and intelligence-world credibility that a musician alone would not have provided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
+Tom DeLonge’s role is the clearest example of the celebrity media effect around the Pentagon videos. DeLonge was already famous as a member of Blink-182, which meant mainstream entertainment outlets could cover UAP not only as defence or science news but also as an unexpected celebrity reinvention. To The Stars Academy, the organisation he co-founded, helped publish and promote the Navy videos, while former officials such as Luis Elizondo and Christopher Mellon gave the project government and intelligence-world credibility that a musician alone would not have provided.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
 
-This celebrity effect did not work simply because a famous person said “believe me.” It worked because DeLonge became a bridge between three audiences that rarely overlapped cleanly: UFO believers, mainstream entertainment consumers and institutional-news readers. A story that might once have stayed inside UFO forums or specialist blogs became a hybrid media event: a New York Times front-page story, To The Stars Academy releases, cable-news appearances, History Channel programming and celebrity-profile coverage all reinforced one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair+2To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
+This celebrity effect did not work simply because a famous person said “believe me.” It worked because DeLonge became a bridge between three audiences that rarely overlapped cleanly: UFO believers, mainstream entertainment consumers and institutional-news readers. A story that might once have stayed inside UFO forums or specialist blogs became a hybrid media event: a New York Times front-page story, To The Stars Academy releases, cable-news appearances, History Channel programming and celebrity-profile coverage all reinforced one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair+2To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
 
-The New York Times piece was especially important because it reframed the subject as government accountability rather than pure paranormal curiosity. Vanity Fair’s behind-the-scenes account reported that Times editors saw the story as one about Pentagon spending, Harry Reid’s role in funding and official priorities; it also noted that the videos drew huge online audiences. In other words, the videos were not just illustrations attached to a policy story. They were the emotional engine that made the policy story travel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
+The New York Times piece was especially important because it reframed the subject as government accountability rather than pure paranormal curiosity. Vanity Fair’s behind-the-scenes account reported that Times editors saw the story as one about Pentagon spending, Harry Reid’s role in funding and official priorities; it also noted that the videos drew huge online audiences. In other words, the videos were not just illustrations attached to a policy story. They were the emotional engine that made the policy story travel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
 
-Television then extended the effect. In 2019, History announced the limited series *Unidentified: Inside America’s UFO Investigation*, executive produced by DeLonge and featuring Elizondo and Mellon. Its own promotional framing promised newly authenticated evidence, former military witnesses and a cultural conversation about unexplained phenomena. That format mattered: a documentary series can turn short clips into recurring characters in a larger story, with witnesses, suspense, expert framing and weekly narrative momentum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span><span class="citation-popover-snippet">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span></span></span>
+Television then extended the effect. In 2019, History announced the limited series *Unidentified: Inside America’s UFO Investigation*, executive produced by DeLonge and featuring Elizondo and Mellon. Its own promotional framing promised newly authenticated evidence, former military witnesses and a cultural conversation about unexplained phenomena. That format mattered: a documentary series can turn short clips into recurring characters in a larger story, with witnesses, suspense, expert framing and weekly narrative momentum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span><span class="citation-popover-snippet">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span></span></span>
 
-The celebrity connection also softened the stigma for some audiences while sharpening scepticism for others. For fans, DeLonge’s long-running interest in aliens made the story feel like a strange but coherent extension of his public [persona]({{ 'persona/' | relative_url }}). For sceptics, the same connection made the rollout look vulnerable to showmanship. That tension is part of why the Pentagon videos became so durable: they sat at the crossroads of official evidence, pop-cultural charisma and unresolved interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/music/tom-delonge-pentagon-ufo-program-unidentified-history-channel-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Tom De Longe&#x27;s New History Channel Series Investigates U.S. Government&#x27;s Secret U.F.O. Files</span><span class="citation-popover-snippet">Tom De Longe&#x27;s New History Channel Series Investigates U.S. Government&#x27;s Secret U.F.O. Files</span></span></span>
+The celebrity connection also softened the stigma for some audiences while sharpening scepticism for others. For fans, DeLonge’s long-running interest in aliens made the story feel like a strange but coherent extension of his public [persona]({{ 'persona/' | relative_url }}). For sceptics, the same connection made the rollout look vulnerable to showmanship. That tension is part of why the Pentagon videos became so durable: they sat at the crossroads of official evidence, pop-cultural charisma and unresolved interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/music/tom-delonge-pentagon-ufo-program-unidentified-history-channel-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Tom De Longe&#x27;s New History Channel Series Investigates U.S. Government&#x27;s Secret U.F.O. Files</span><span class="citation-popover-snippet">Tom De Longe&#x27;s New History Channel Series Investigates U.S. Government&#x27;s Secret U.F.O. Files</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-2-dark.svg" | relative_url }}" alt="Navy Videos illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -499,36 +499,36 @@ The celebrity connection also softened the stigma for some audiences while sharp
 
 The videos proved a few important things, but mostly at the level of process and public legitimacy rather than cosmic conclusion.
 
-They proved that some UAP material discussed online had genuine US Navy provenance. The Navy and Pentagon did not say the clips were fake; they acknowledged them as real military footage and later released them officially. That removed one common sceptical objection — fabrication — while leaving the identity of the objects open. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+They proved that some UAP material discussed online had genuine US Navy provenance. The Navy and Pentagon did not say the clips were fake; they acknowledged them as real military footage and later released them officially. That removed one common sceptical objection — fabrication — while leaving the identity of the objects open.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
-They proved that trained military personnel can encounter things they cannot immediately identify, especially in crowded or sensitive airspace. Navy officials framed UAP partly as a safety and security issue, not simply a question about aliens. That shift helped move the topic away from ridicule and towards reporting procedures, airspace incursions and data collection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
+They proved that trained military personnel can encounter things they cannot immediately identify, especially in crowded or sensitive airspace. Navy officials framed UAP partly as a safety and security issue, not simply a question about aliens. That shift helped move the topic away from ridicule and towards reporting procedures, airspace incursions and data collection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
 
-They proved that media framing can change the status of the same evidence. A grainy clip in a UFO forum, a clip embedded in a front-page newspaper investigation, a clip promoted by a celebrity-linked organisation and a clip formally released by the Pentagon are not received the same way, even if the pixels are identical. The evidence did not become sharper; its social authority changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span><span class="citation-popover-snippet">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span></span></span>
+They proved that media framing can change the status of the same evidence. A grainy clip in a UFO forum, a clip embedded in a front-page newspaper investigation, a clip promoted by a celebrity-linked organisation and a clip formally released by the Pentagon are not received the same way, even if the pixels are identical. The evidence did not become sharper; its social authority changed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span><span class="citation-popover-snippet">Does It Matter That the DOD Released Those UFO Videos? &#124; WIRED</span></span></span>
 
-They also proved that “unidentified” is a powerful but unstable public label. To investigators, it can mean “not yet resolved from available data.” To audiences, it often sounds like “possibly alien.” The Pentagon videos became a case study in how quickly that gap can widen when official ambiguity meets entertainment media, viral clips and celebrity advocacy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+They also proved that “unidentified” is a powerful but unstable public label. To investigators, it can mean “not yet resolved from available data.” To audiences, it often sounds like “possibly alien.” The Pentagon videos became a case study in how quickly that gap can widen when official ambiguity meets entertainment media, viral clips and celebrity advocacy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ## What the videos did not prove
 
-The videos did not prove extraterrestrial craft. NASA’s 2023 independent study stated that there is no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, and AARO has stated that it has found no verifiable evidence of extraterrestrial beings, activity or technology. These conclusions do not require every UAP case to be solved; they mean the public evidence has not crossed the threshold required for the extraordinary claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+The videos did not prove extraterrestrial craft. NASA’s 2023 independent study stated that there is no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, and AARO has stated that it has found no verifiable evidence of extraterrestrial beings, activity or technology. These conclusions do not require every UAP case to be solved; they mean the public evidence has not crossed the threshold required for the extraordinary claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-They did not prove that the objects performed impossible manoeuvres. The public clips lack enough open data to settle speed, distance, acceleration and size in the way a scientific or engineering assessment would require. In some cases, apparent motion can be shaped by camera movement, tracking systems, range assumptions and parallax. The visual drama of a targeting-pod display is not the same as a complete kinematic reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+They did not prove that the objects performed impossible manoeuvres. The public clips lack enough open data to settle speed, distance, acceleration and size in the way a scientific or engineering assessment would require. In some cases, apparent motion can be shaped by camera movement, tracking systems, range assumptions and parallax. The visual drama of a targeting-pod display is not the same as a complete kinematic reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
-They did not prove that celebrity advocates had privileged access to a final hidden answer. DeLonge and To The Stars Academy helped make the videos culturally visible, and their media strategy was consequential. But promotion, access and confidence are not substitutes for publicly testable evidence. The celebrity layer changed who paid attention; it did not independently identify the objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span><span class="citation-popover-snippet">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span></span></span>
+They did not prove that celebrity advocates had privileged access to a final hidden answer. DeLonge and To The Stars Academy helped make the videos culturally visible, and their media strategy was consequential. But promotion, access and confidence are not substitutes for publicly testable evidence. The celebrity layer changed who paid attention; it did not independently identify the objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span><span class="citation-popover-snippet">To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries</span></span></span>
 
-They also did not prove that sceptical explanations are automatically complete. Some debunking arguments may explain visual impressions in the clips, while some pilot testimony and classified contextual data remain unavailable to the public. The unresolved status of a case can be real without implying aliens, and scepticism can be warranted without pretending every question has been fully answered. That middle position is less dramatic than either “alien craft confirmed” or “nothing to see here,” but it matches the evidence better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
+They also did not prove that sceptical explanations are automatically complete. Some debunking arguments may explain visual impressions in the clips, while some pilot testimony and classified contextual data remain unavailable to the public. The unresolved status of a case can be real without implying aliens, and scepticism can be warranted without pretending every question has been fully answered. That middle position is less dramatic than either “alien craft confirmed” or “nothing to see here,” but it matches the evidence better.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-3-dark.svg" | relative_url }}" alt="Navy Videos illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this moment still matters
 
-The Pentagon videos matter because they changed the public pathway for UFO claims. Older celebrity UFO stories often depended on personal testimony: a musician, actor or pilot said they saw something. The Navy videos created a different format: official footage entered mainstream journalism through a celebrity-linked advocacy network, then fed television, congressional interest, new reporting guidelines and a broader UAP transparency movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair+2To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
+The Pentagon videos matter because they changed the public pathway for UFO claims. Older celebrity UFO stories often depended on personal testimony: a musician, actor or pilot said they saw something. The Navy videos created a different format: official footage entered mainstream journalism through a celebrity-linked advocacy network, then fed television, congressional interest, new reporting guidelines and a broader UAP transparency movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair+2To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
 
-They also exposed a lasting problem for UAP communication. When institutions release ambiguous material without enough context, they can reduce one misconception while feeding another. The Pentagon tried to clarify that the videos were genuine and unclassified, but the public often heard a more dramatic message: the government had finally admitted UFOs were real. In the literal sense, that was true. In the extraterrestrial sense, it was not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+They also exposed a lasting problem for UAP communication. When institutions release ambiguous material without enough context, they can reduce one misconception while feeding another. The Pentagon tried to clarify that the videos were genuine and unclassified, but the public often heard a more dramatic message: the government had finally admitted UFOs were real. In the literal sense, that was true. In the extraterrestrial sense, it was not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
-For the “UFOs and celebrities” branch, the lesson is not that celebrities make weak evidence strong. It is that celebrities can change the evidentiary environment around a case. DeLonge’s fame helped attract attention; former officials helped add institutional seriousness; major newsrooms gave the story legitimacy; television gave it narrative shape. The videos themselves remained ambiguous, but their reception became historic because the media system around them made ambiguity feel newly official. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
+For the “UFOs and celebrities” branch, the lesson is not that celebrities make weak evidence strong. It is that celebrities can change the evidentiary environment around a case. DeLonge’s fame helped attract attention; former officials helped add institutional seriousness; major newsrooms gave the story legitimacy; television gave it narrative shape. The videos themselves remained ambiguous, but their reception became historic because the media system around them made ambiguity feel newly official.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report &#124; Vanity Fair</span></span></span>
 
 The clearest conclusion is therefore restrained but significant: the Pentagon videos helped normalise public discussion of UAP while demonstrating the limits of video evidence in isolation. They made the subject harder to dismiss as pure folklore, but they also showed how quickly official uncertainty can be transformed into cultural certainty. That is why they remain central to modern UFO culture: not because they proved aliens, but because they proved that a few unresolved military clips, amplified by celebrity media, could alter the mainstream conversation.
 
@@ -537,178 +537,178 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Pentagon Videos Did and Did Not Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Pentagon Videos Did and Did Not Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Directly covers Pentagon UAP developments and the shift into mainstream discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers Pentagon UAP developments and the shift into mainstream discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses military cases, government evidence and contemporary UAP claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military cases, government evidence and contemporary UAP claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how culture, institutions and influential figures shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how culture, institutions and influential figures shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a framework for separating evidence from speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for separating evidence from speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-videos-what-the-pentagon-videos-did-and-did-not-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -724,7 +724,7 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -744,7 +744,7 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -776,7 +776,7 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -828,7 +828,7 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -873,7 +873,7 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -914,154 +914,154 @@ The clearest conclusion is therefore restrained but significant: the Pentagon vi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: Does It Matter That the DOD Released Those UFO Videos? | WIRED  
-   Link: <a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
+   Link:<a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.com  
-   Link: <a href="https://people.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://people.com/[music</a>  
+   Link:<a href="https://people.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://people.com/[music</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Examining Unidentified Anomalous Phenomena &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
+   Link:<a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
+   Link:<a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: navair.navy.mil  
    Title: mil Documents | NAVAIR  
-   Link: <a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
+   Link:<a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos  
-   Link: <a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
+   Link:<a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tothestars.media  
    Title: To The Stars*To The Stars Academy + History Channel Bring You 6-Part Docuseries  
-   Link: <a href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O</a>  
+   Link:<a href="https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-de/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooAU-h7WcKiYZJr0uignWfyUk1be91FyY27WMWU1VU0dHeSgA1O</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanityfair.com  
    Title: Vanity Fair“We May Not Be Alone”: Inside the Times’s U.F.O. Report | Vanity Fair  
-   Link: <a href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times</a>  
+   Link:<a href="https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2017/12/we-may-not-be-alone-ufo-report-times</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoo2WUx9nZaueCIXFTKeNu4kY9Jf7loXWOMan-3aIbtSbuCK0HcC" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoo2WUx9nZaueCIXFTKeNu4kY9Jf7loXWOMan-3aIbtSbuCK0HcC</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoo2WUx9nZaueCIXFTKeNu4kY9Jf7loXWOMan-3aIbtSbuCK0HcC" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoo2WUx9nZaueCIXFTKeNu4kY9Jf7loXWOMan-3aIbtSbuCK0HcC</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tom-delonge-on-his-mission-to-prove-[aliens-exist" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tom-delonge-on-his-mission-to-prove-[aliens-exist</a>  
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/tom-delonge-on-his-mission-to-prove-[aliens-exist" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tom-delonge-on-his-mission-to-prove-[aliens-exist</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: popularmechanics.com  
    Title: ufo video facts  
-   Link: <a href="https://www.popularmechanics.com/military/a29091438/ufo-video-facts/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a29091438/ufo-video-facts/</a>  
+   Link:<a href="https://www.popularmechanics.com/military/a29091438/ufo-video-facts/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a29091438/ufo-video-facts/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: TFTRH #57  
-   Link: <a href="http://www.youtube.com/watch?v=lyDaYcCbtrs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lyDaYcCbtrs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videos FLIR GIMBAL GOFAST Tom DeLonge Pentagon officially releases &#x27;UFO&#x27; videos Guardian News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lyDaYcCbtrs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lyDaYcCbtrs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videos FLIR GIMBAL GOFAST Tom DeLonge Pentagon officially releases &#x27;UFO&#x27; videos Guardian News...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Navy Pilot David Fravor Explains Nimitz UFO Incident | Joe Rogan Podcast  
-   Link: <a href="http://www.youtube.com/watch?v=X1My6K_qyeM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=X1My6K_qyeM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TFTRH #57 - Alex Dietrich: Clouds, Critical Thinking, and UFOs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=X1My6K_qyeM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=X1My6K_qyeM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TFTRH #57 - Alex Dietrich: Clouds, Critical Thinking, and UFOs...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Pentagon officially releases 'UFO' videos  
-   Link: <a href="http://www.youtube.com/watch?v=auITEKd4sjA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=auITEKd4sjA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge on declassified UFO Videos From the Pentagon Revealed...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=auITEKd4sjA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=auITEKd4sjA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge on declassified UFO Videos From the Pentagon Revealed...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
+   Link:<a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/xm1b4e/luis_elizondo_christopher_mellon_on_the_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xm1b4e/luis_elizondo_christopher_mellon_on_the_release/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/xm1b4e/luis_elizondo_christopher_mellon_on_the_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xm1b4e/luis_elizondo_christopher_mellon_on_the_release/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/</a>  
+   Link:<a href="https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/</a>  

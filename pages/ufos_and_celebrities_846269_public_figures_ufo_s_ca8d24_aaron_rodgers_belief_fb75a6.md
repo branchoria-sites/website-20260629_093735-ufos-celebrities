@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_aa
 
 ## Introduction
 
-Aaron Rodgers has become one of the best-known athletes to describe a personal UFO sighting, not because he claims to possess extraordinary evidence, but because he has consistently presented the experience as the event that shaped his own beliefs. His story centres on a snowy night in early 2005, shortly before the NFL Draft, when he says he and two other people watched a large orange object move silently behind cloud cover before hearing fighter jets overhead. Rodgers has repeatedly said that the incident itself did not prove an extraterrestrial explanation, but that subsequent reading about reported UFO patterns convinced him the experience fitted a broader phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+Aaron Rodgers has become one of the best-known athletes to describe a personal UFO sighting, not because he claims to possess extraordinary evidence, but because he has consistently presented the experience as the event that shaped his own beliefs. His story centres on a snowy night in early 2005, shortly before the NFL Draft, when he says he and two other people watched a large orange object move silently behind cloud cover before hearing fighter jets overhead. Rodgers has repeatedly said that the incident itself did not prove an extraterrestrial explanation, but that subsequent reading about reported UFO patterns convinced him the experience fitted a broader phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_aaron_rodgers_belief_fb75a6-Illustration-1-dark.svg" | relative_url }}" alt="Rodgers illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_aaron_rodgers_belief_fb75a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_aaron_rodgers_belief_fb75a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ The case illustrates an important distinction within celebrity UFO accounts. Rod
 
 ## The snowy-night sighting account
 
-Rodgers first described the experience publicly in detail during a 2016 appearance on comedian Pete Holmes' *You Made It Weird* podcast. According to Rodgers, the event occurred in February 2005 while he was staying with former University of California teammate Steve Levy's family in New Jersey before a television appearance promoting the upcoming NFL Draft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+Rodgers first described the experience publicly in detail during a 2016 appearance on comedian Pete Holmes' *You Made It Weird* podcast. According to Rodgers, the event occurred in February 2005 while he was staying with former University of California teammate Steve Levy's family in New Jersey before a television appearance promoting the upcoming NFL Draft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 
 He recalled that a distant siren prompted everyone to step outside late at night. Conditions were unusual: fresh snow, an overcast sky and enough reflected moonlight to make the clouds bright. Rodgers said they then observed:
 
@@ -302,18 +302,18 @@ He recalled that a distant siren prompted everyone to step outside late at night
 
 </div>
 
-Rodgers has consistently emphasised that the object was unlike ordinary aircraft he had previously seen. He also recalled that, after the object disappeared, several fighter jets flew overhead roughly half a minute later. Those two moments—the sighting and the later aircraft—became central to how he interpreted the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+Rodgers has consistently emphasised that the object was unlike ordinary aircraft he had previously seen. He also recalled that, after the object disappeared, several fighter jets flew overhead roughly half a minute later. Those two moments—the sighting and the later aircraft—became central to how he interpreted the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 
-In later retellings, including HBO's *Hard Knocks* in 2023, Rodgers described the object in even more cinematic terms, comparing it to the enormous spacecraft entering Earth's atmosphere in the film *Independence Day*. While the imagery became more vivid, the essential sequence of events remained largely unchanged: an unusual aerial object, multiple witnesses and fighter jets arriving afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/sports/a/markelibert/aaron-rodgers-recalls-ufo-sighting-2005-nfl-draft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-snippet">Aaron Rodgers Recalls 2005 UFO SightingSeptember 6, 2023 — 6 Sept 2023 — Aaron Rodgers has revealed he had an odd encounter with a...</span><span class="citation-popover-meta">Published: September 6, 2023</span></span></span>
+In later retellings, including HBO's *Hard Knocks* in 2023, Rodgers described the object in even more cinematic terms, comparing it to the enormous spacecraft entering Earth's atmosphere in the film *Independence Day*. While the imagery became more vivid, the essential sequence of events remained largely unchanged: an unusual aerial object, multiple witnesses and fighter jets arriving afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.complex.com/sports/a/markelibert/aaron-rodgers-recalls-ufo-sighting-2005-nfl-draft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: complex.com">[Complex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">complex.com</span><span class="citation-popover-snippet">Aaron Rodgers Recalls 2005 UFO SightingSeptember 6, 2023 — 6 Sept 2023 — Aaron Rodgers has revealed he had an odd encounter with a...</span><span class="citation-popover-meta">Published: September 6, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u2XGnKxBkRA" title="Aaron Rodgers Tells Pat McAfee About His UFO Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u2XGnKxBkRA" target="_blank" rel="noopener noreferrer">Aaron Rodgers Tells Pat McAfee About His UFO Experience</a></p><p class="youtube-embed-meta">Channel: The Pat McAfee Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u2XGnKxBkRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u2XGnKxBkRA">Open on YouTube</a></p></div></div></div>
 
 ## Other witnesses and later interpretation
 
-One feature that distinguishes Rodgers' story from many celebrity UFO anecdotes is that he has never claimed to have been the sole observer. He has consistently said that Steve Levy and Levy's brother were present and witnessed the same object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nfl/news/aaron-rodgers-wild-ufo-story-might-make-you-believe-in-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">aaron rodgers wild ufo story might make you believe in ufos</span><span class="citation-popover-snippet">Apparently, the UFO sighting went down in February 2005, the night before Rodgers...Read more...</span><span class="citation-popover-meta">Published: February 2005</span></span></span>
+One feature that distinguishes Rodgers' story from many celebrity UFO anecdotes is that he has never claimed to have been the sole observer. He has consistently said that Steve Levy and Levy's brother were present and witnessed the same object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nfl/news/aaron-rodgers-wild-ufo-story-might-make-you-believe-in-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">aaron rodgers wild ufo story might make you believe in ufos</span><span class="citation-popover-snippet">Apparently, the UFO sighting went down in February 2005, the night before Rodgers...Read more...</span><span class="citation-popover-meta">Published: February 2005</span></span></span>
 
-Media reports published shortly after Rodgers' interview also noted that Steve Levy publicly confirmed remembering the incident, saying he still regarded it as unexplained. That corroboration establishes that multiple people experienced something unusual together, although it does not identify what they actually saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2016/03/25/i-googled-warp-speed-pal-confirms-aaron-rodgers-ufo-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">i googled warp speed pal confirms aaron rodgers ufo story</span><span class="citation-popover-snippet">New York PostPal confirms Aaron Rodgers&#x27; UFO story25 Mar 2016 — Aaron Rodgers&#x27; UFO sighting may seem like a storyline from an “X-Files” e...</span></span></span>
+Media reports published shortly after Rodgers' interview also noted that Steve Levy publicly confirmed remembering the incident, saying he still regarded it as unexplained. That corroboration establishes that multiple people experienced something unusual together, although it does not identify what they actually saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2016/03/25/i-googled-warp-speed-pal-confirms-aaron-rodgers-ufo-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">i googled warp speed pal confirms aaron rodgers ufo story</span><span class="citation-popover-snippet">New York PostPal confirms Aaron Rodgers&#x27; UFO story25 Mar 2016 — Aaron Rodgers&#x27; UFO sighting may seem like a storyline from an “X-Files” e...</span></span></span>
 
 The more significant part of Rodgers' story, however, is what happened after the event. He has explained that he initially had no framework for interpreting it. Only later, after reading about UFO reports, did he conclude that aspects of his experience appeared to match recurring themes described by UFO researchers and enthusiasts.
 
@@ -322,13 +322,13 @@ Rodgers has specifically highlighted three perceived connections:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* reported UFO sightings near nuclear facilities; <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+* reported UFO sightings near nuclear facilities;<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 * fighter jets appearing after sightings;
 * the belief that official attention sometimes follows unusual aerial events.
 
 </div>
 
-He has said that he later learned the distant siren they heard was associated with a nearby nuclear power plant, reinforcing his impression that the experience fit recognised UFO patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+He has said that he later learned the distant siren they heard was associated with a nearby nuclear power plant, reinforcing his impression that the experience fit recognised UFO patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 
 This sequence is important because Rodgers presents his belief as cumulative rather than instantaneous. The sighting came first; the interpretive framework developed afterwards through reading and reflection.
 
@@ -350,7 +350,7 @@ Psychologically, this illustrates a common pathway in belief formation:
 
 </div>
 
-Rodgers has openly described this process. Rather than arguing that others should accept his conclusion simply because he is a professional athlete, he has usually framed the experience as the reason *he* became convinced that UFOs represent a genuine phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+Rodgers has openly described this process. Rather than arguing that others should accept his conclusion simply because he is a professional athlete, he has usually framed the experience as the reason *he* became convinced that UFOs represent a genuine phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 
 His account therefore functions less as an attempt to prove extraterrestrial visitation than as an explanation of why his own views changed.
 
@@ -384,7 +384,7 @@ At the same time, important limitations remain:
 
 </div>
 
-The references to fighter jets and a nearby nuclear facility are also interpretive rather than independently verified indicators of a UFO event. While such themes are common in UFO literature, their appearance alongside a sighting does not, by itself, establish an extraordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
+The references to fighter jets and a nearby nuclear facility are also interpretive rather than independently verified indicators of a UFO event. While such themes are common in UFO literature, their appearance alongside a sighting does not, by itself, establish an extraordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">aaron rodgers ufo aliens</span><span class="citation-popover-snippet">Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</span></span></span>
 
 Consequently, the account remains exactly what Rodgers has always described it as: an unexplained personal experience that convinced him, rather than a documented case that conclusively demonstrates the nature of the object observed.
 
@@ -394,7 +394,7 @@ Consequently, the account remains exactly what Rodgers has always described it a
 
 Within the broader landscape of celebrity UFO accounts, Rodgers' case stands out because it focuses on the formation of belief rather than dramatic claims of contact or conspiracy.
 
-His status as one of the NFL's most recognisable quarterbacks ensured that the story reached audiences well beyond UFO enthusiasts. Sports media, entertainment outlets and mainstream news all covered the account, exposing readers to a discussion that was less about aliens than about how intelligent, successful people interpret experiences they cannot explain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espn.com/blog/green-bay-packers/post/_/id/28929/packers-qb-aaron-rodgers-is-a-ufo-believer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espn.com">[ESPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espn.com</span><span class="citation-popover-title">packers qb aaron rodgers is a ufo believer</span><span class="citation-popover-snippet">Packers QB Aaron Rodgers is a UFO believer24 Mar 2016 — Packers QB Aaron Rodgers is a UFO believer. play. Do Aaron Rodgers and Stephe...</span></span></span>
+His status as one of the NFL's most recognisable quarterbacks ensured that the story reached audiences well beyond UFO enthusiasts. Sports media, entertainment outlets and mainstream news all covered the account, exposing readers to a discussion that was less about aliens than about how intelligent, successful people interpret experiences they cannot explain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.espn.com/blog/green-bay-packers/post/_/id/28929/packers-qb-aaron-rodgers-is-a-ufo-believer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: espn.com">[ESPN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">espn.com</span><span class="citation-popover-title">packers qb aaron rodgers is a ufo believer</span><span class="citation-popover-snippet">Packers QB Aaron Rodgers is a UFO believer24 Mar 2016 — Packers QB Aaron Rodgers is a UFO believer. play. Do Aaron Rodgers and Stephe...</span></span></span>
 
 That combination explains the story's lasting place in celebrity UFO discussions. Rodgers' testimony illustrates how a single unexplained event can become a foundational personal belief while still falling short of objective verification—a distinction that remains central to evaluating both his account and similar stories told by other [public figures]({{ 'public-figures/' | relative_url }}).
 
@@ -403,194 +403,194 @@ That combination explains the story's lasting place in celebrity UFO discussions
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aaron Rodgers Turned a Sighting Into Belief. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aaron Rodgers Turned a Sighting Into Belief. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses the kinds of cases and evidence Aaron Rodgers has said influenced his thinking after his own sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the kinds of cases and evidence Aaron Rodgers has said influenced his thinking after his own sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how personal experiences become enduring beliefs without requiring definitive proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how personal experiences become enduring beliefs without requiring definitive proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides accessible context for the broader UFO narratives that shape public and celebrity beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible context for the broader UFO narratives that shape public and celebrity beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces the concept of unidentified aerial phenomena and careful evaluation of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the concept of unidentified aerial phenomena and careful evaluation of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="rodgers-how-aaron-rodgers-turned-a-sighting-into-belief-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ That combination explains the story's lasting place in celebrity UFO discussions
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ That combination explains the story's lasting place in celebrity UFO discussions
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ That combination explains the story's lasting place in celebrity UFO discussions
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ That combination explains the story's lasting place in celebrity UFO discussions
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ That combination explains the story's lasting place in celebrity UFO discussions
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,97 +796,97 @@ That combination explains the story's lasting place in celebrity UFO discussions
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: time.com  
    Title: aaron rodgers ufo aliens  
-   Link: <a href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4270484/aaron-rodgers-ufo-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</p></details>
+   Link:<a href="https://time.com/4270484/aaron-rodgers-ufo-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/4270484/aaron-rodgers-ufo-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Is Still Convinced He Saw a U.F.O.24 Mar 2016 — Since the incident, Rodgers has been reading up on UFO sightings, and s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: espn.com  
    Title: packers qb aaron rodgers is a ufo believer  
-   Link: <a href="https://www.espn.com/blog/green-bay-packers/post/_/id/28929/packers-qb-aaron-rodgers-is-a-ufo-believer" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.com/blog/green-bay-packers/post/_/id/28929/packers-qb-aaron-rodgers-is-a-ufo-believer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Packers QB Aaron Rodgers is a UFO believer24 Mar 2016 — Packers QB Aaron Rodgers is a UFO believer. play. Do Aaron Rodgers and Stephe...</p></details>
+   Link:<a href="https://www.espn.com/blog/green-bay-packers/post/_/id/28929/packers-qb-aaron-rodgers-is-a-ufo-believer" target="_blank" rel="noopener noreferrer nofollow">https://www.espn.com/blog/green-bay-packers/post/_/id/28929/packers-qb-aaron-rodgers-is-a-ufo-believer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Packers QB Aaron Rodgers is a UFO believer24 Mar 2016 — Packers QB Aaron Rodgers is a UFO believer. play. Do Aaron Rodgers and Stephe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: complex.com  
-   Link: <a href="https://www.complex.com/sports/a/markelibert/aaron-rodgers-recalls-ufo-sighting-2005-nfl-draft" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/sports/a/markelibert/aaron-rodgers-recalls-ufo-sighting-2005-nfl-draft</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Recalls 2005 UFO SightingSeptember 6, 2023 — 6 Sept 2023 — Aaron Rodgers has revealed he had an odd encounter with a...</p></details>
+   Link:<a href="https://www.complex.com/sports/a/markelibert/aaron-rodgers-recalls-ufo-sighting-2005-nfl-draft" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/sports/a/markelibert/aaron-rodgers-recalls-ufo-sighting-2005-nfl-draft</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Recalls 2005 UFO SightingSeptember 6, 2023 — 6 Sept 2023 — Aaron Rodgers has revealed he had an odd encounter with a...</p></details>
    Published: September 6, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: complex.com  
    Title: green bay packers aaron rodgers discusses time he saw a ufo  
-   Link: <a href="https://www.complex.com/sports/a/gavin-evans/green-bay-packers-aaron-rodgers-discusses-time-he-saw-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/sports/a/gavin-evans/green-bay-packers-aaron-rodgers-discusses-time-he-saw-a-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Discusses, in Detail, the Time He Saw a...23 Mar 2016 — Rodgers&#x27; account features many standard themes frequently referred...</p></details>
+   Link:<a href="https://www.complex.com/sports/a/gavin-evans/green-bay-packers-aaron-rodgers-discusses-time-he-saw-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.complex.com/sports/a/gavin-evans/green-bay-packers-aaron-rodgers-discusses-time-he-saw-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Discusses, in Detail, the Time He Saw a...23 Mar 2016 — Rodgers&#x27; account features many standard themes frequently referred...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbssports.com  
    Title: aaron rodgers wild ufo story might make you believe in ufos  
-   Link: <a href="https://www.cbssports.com/nfl/news/aaron-rodgers-wild-ufo-story-might-make-you-believe-in-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbssports.com/nfl/news/aaron-rodgers-wild-ufo-story-might-make-you-believe-in-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently, the UFO sighting went down in February 2005, the night before Rodgers...Read more...</p></details>
+   Link:<a href="https://www.cbssports.com/nfl/news/aaron-rodgers-wild-ufo-story-might-make-you-believe-in-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbssports.com/nfl/news/aaron-rodgers-wild-ufo-story-might-make-you-believe-in-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently, the UFO sighting went down in February 2005, the night before Rodgers...Read more...</p></details>
    Published: February 2005  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nypost.com  
    Title: i googled warp speed pal confirms aaron rodgers ufo story  
-   Link: <a href="https://nypost.com/2016/03/25/i-googled-warp-speed-pal-confirms-aaron-rodgers-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2016/03/25/i-googled-warp-speed-pal-confirms-aaron-rodgers-ufo-story/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostPal confirms Aaron Rodgers&#x27; UFO story25 Mar 2016 — Aaron Rodgers&#x27; UFO sighting may seem like a storyline from an “X-Files” e...</p></details>
+   Link:<a href="https://nypost.com/2016/03/25/i-googled-warp-speed-pal-confirms-aaron-rodgers-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2016/03/25/i-googled-warp-speed-pal-confirms-aaron-rodgers-ufo-story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostPal confirms Aaron Rodgers&#x27; UFO story25 Mar 2016 — Aaron Rodgers&#x27; UFO sighting may seem like a storyline from an “X-Files” e...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/</a>  
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-man-got-closer-than-anyone-else-has-to-a-ufo-at-nellis-air-force-base-usa-for-/1621390949987538/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thecomeback.com  
    Title: aaron rodgers goes on podcast and talks about ufo incident  
-   Link: <a href="https://thecomeback.com/nfl/aaron-rodgers-goes-on-podcast-and-talks-about-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://thecomeback.com/nfl/aaron-rodgers-goes-on-podcast-and-talks-about-ufo-incident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers claims he saw UFO on You Made It Weird...23 Mar 2016 — Rodgers tells Holmes of a moment in 2005 before an appearance on ES...</p></details>
+   Link:<a href="https://thecomeback.com/nfl/aaron-rodgers-goes-on-podcast-and-talks-about-ufo-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://thecomeback.com/nfl/aaron-rodgers-goes-on-podcast-and-talks-about-ufo-incident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers claims he saw UFO on You Made It Weird...23 Mar 2016 — Rodgers tells Holmes of a moment in 2005 before an appearance on ES...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: outkick.com  
-   Link: <a href="https://www.outkick.com/sports/aaron-rodgers-details-the-time-he-saw-a-ufo-it-went-out-of-sight-and-nobody-said-a-word" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/sports/aaron-rodgers-details-the-time-he-saw-a-ufo-it-went-out-of-sight-and-nobody-said-a-word</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Details The Time He Saw A UFO Back In 20056 Sept 2023 — READ: WAS AN ALIEN PHOTOGRAPHED CASUALLY STROLLING ALONG A RIVER IN...</p></details>
+   Link:<a href="https://www.outkick.com/sports/aaron-rodgers-details-the-time-he-saw-a-ufo-it-went-out-of-sight-and-nobody-said-a-word" target="_blank" rel="noopener noreferrer nofollow">https://www.outkick.com/sports/aaron-rodgers-details-the-time-he-saw-a-ufo-it-went-out-of-sight-and-nobody-said-a-word</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Details The Time He Saw A UFO Back In 20056 Sept 2023 — READ: WAS AN ALIEN PHOTOGRAPHED CASUALLY STROLLING ALONG A RIVER IN...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bleacherreport.com  
-   Link: <a href="https://bleacherreport.com/articles/2627136-aaron-rodgers-has-an-incredibly-detailed-story-about-the-time-he-saw-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/2627136-aaron-rodgers-has-an-incredibly-detailed-story-about-the-time-he-saw-a-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>time he was on the East Coast for a predraft interview back in 2005...Read more...</p></details>
+   Link:<a href="https://bleacherreport.com/articles/2627136-aaron-rodgers-has-an-incredibly-detailed-story-about-the-time-he-saw-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/2627136-aaron-rodgers-has-an-incredibly-detailed-story-about-the-time-he-saw-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>time he was on the East Coast for a predraft interview back in 2005...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: insidehook.com  
    Title: anyone surprised aaron rodgers ufo story  
-   Link: <a href="https://www.insidehook.com/sports/anyone-surprised-aaron-rodgers-ufo-story" target="_blank" rel="noopener noreferrer nofollow">https://www.insidehook.com/sports/anyone-surprised-aaron-rodgers-ufo-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Anyone Really Surprised Aaron Rodgers Has a UFO...6 Sept 2023 — Anyone who is at all familiar with Aaron Rodgers should really not be...</p></details>
+   Link:<a href="https://www.insidehook.com/sports/anyone-surprised-aaron-rodgers-ufo-story" target="_blank" rel="noopener noreferrer nofollow">https://www.insidehook.com/sports/anyone-surprised-aaron-rodgers-ufo-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Anyone Really Surprised Aaron Rodgers Has a UFO...6 Sept 2023 — Anyone who is at all familiar with Aaron Rodgers should really not be...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wisportsheroics.com  
    Title: green bay packers aaron rodgers saw ufo  
-   Link: <a href="https://wisportsheroics.com/green-bay-packers-aaron-rodgers-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://wisportsheroics.com/green-bay-packers-aaron-rodgers-saw-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Green Bay Packers: Aaron Rodgers Saw An &quot;Incredibly...6 Sept 2023 — Aaron Rodgers saved his best story for last, saying that he saw a UF...</p></details>
+   Link:<a href="https://wisportsheroics.com/green-bay-packers-aaron-rodgers-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://wisportsheroics.com/green-bay-packers-aaron-rodgers-saw-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Green Bay Packers: Aaron Rodgers Saw An &quot;Incredibly...6 Sept 2023 — Aaron Rodgers saved his best story for last, saying that he saw a UF...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Aaron Rodgers Tells Pat Mc Afee About His UFO Experience  
-   Link: <a href="https://www.youtube.com/watch?v=u2XGnKxBkRA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u2XGnKxBkRA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Tells Pat McAfee About His UFO Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u2XGnKxBkRA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u2XGnKxBkRA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Tells Pat McAfee About His UFO Encounter...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Aaron Rodgers Details the Time He Saw UFO  
-   Link: <a href="https://www.youtube.com/watch?v=IwMKVtnshSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IwMKVtnshSg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NFL Quarterback Aaron Rogers Swears he Saw an UFO Over New Jersey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IwMKVtnshSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IwMKVtnshSg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NFL Quarterback Aaron Rogers Swears he Saw an UFO Over New Jersey...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Aaron Rodgers Claim He Saw a UFO  
-   Link: <a href="https://www.youtube.com/watch?v=fdnLWG0ItA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fdnLWG0ItA8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Tells Pat McAfee About His UFO Experience...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fdnLWG0ItA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fdnLWG0ItA8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Tells Pat McAfee About His UFO Experience...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: NFL Quarterback Aaron Rogers Swears he Saw an UFO Over New Jersey  
-   Link: <a href="https://www.youtube.com/watch?v=pD8dyqJ-hqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pD8dyqJ-hqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Claim He Saw a UFO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pD8dyqJ-hqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pD8dyqJ-hqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aaron Rodgers Claim He Saw a UFO...</p></details>

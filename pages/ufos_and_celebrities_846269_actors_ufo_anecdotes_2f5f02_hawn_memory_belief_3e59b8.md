@@ -280,28 +280,28 @@ image: /assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_ha
 
 ## Introduction
 
-Goldie Hawn's alien encounter has become one of the most discussed celebrity UFO stories not because it offers verifiable evidence of extraterrestrial life, but because of the way she tells it. Her account combines fear, physical helplessness, vivid sensory memories and a deeply emotional interpretation that she has repeated over many years with only modest changes. Rather than presenting herself as someone with proof, Hawn has consistently described an experience she believes happened and that she cannot fully explain. That distinction helps explain why her story continues to resonate within celebrity UFO culture: it is remembered less as a factual claim than as a personal testimony about mystery, memory and belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+Goldie Hawn's alien encounter has become one of the most discussed celebrity UFO stories not because it offers verifiable evidence of extraterrestrial life, but because of the way she tells it. Her account combines fear, physical helplessness, vivid sensory memories and a deeply emotional interpretation that she has repeated over many years with only modest changes. Rather than presenting herself as someone with proof, Hawn has consistently described an experience she believes happened and that she cannot fully explain. That distinction helps explain why her story continues to resonate within celebrity UFO culture: it is remembered less as a factual claim than as a personal testimony about mystery, memory and belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_hawn_memory_belief_3e59b8-Illustration-1-dark.svg" | relative_url }}" alt="Hawn Memory illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_hawn_memory_belief_3e59b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_hawn_memory_belief_3e59b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Paralysis, sound and the remembered beings
 
-Hawn has located the experience in the mid-1960s, when she was a young dancer in Southern California. She has said that after wondering whether humanity was alone in the universe, she later became unexpectedly exhausted while working, asked to sleep in a friend's car and then experienced an unusually high-pitched sound before finding herself unable to move. Looking out of the vehicle, she recalls seeing two or three silver [beings]({{ 'beings/' | relative_url }}) with triangular-shaped heads, tiny noses, no visible ears and narrow mouths, apparently observing her while communicating without ordinary speech. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+Hawn has located the experience in the mid-1960s, when she was a young dancer in Southern California. She has said that after wondering whether humanity was alone in the universe, she later became unexpectedly exhausted while working, asked to sleep in a friend's car and then experienced an unusually high-pitched sound before finding herself unable to move. Looking out of the vehicle, she recalls seeing two or three silver [beings]({{ 'beings/' | relative_url }}) with triangular-shaped heads, tiny noses, no visible ears and narrow mouths, apparently observing her while communicating without ordinary speech.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
-The physical details are central to why the account remains memorable. Rather than focusing on spacecraft or spectacular lights, Hawn's recollection centres on bodily sensations: sudden sleepiness, paralysis, an intense ringing sound and the feeling of being studied. These sensory elements are common across many reported alien encounter narratives, making her account instantly recognisable to audiences familiar with UFO folklore while remaining highly personal in its presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+The physical details are central to why the account remains memorable. Rather than focusing on spacecraft or spectacular lights, Hawn's recollection centres on bodily sensations: sudden sleepiness, paralysis, an intense ringing sound and the feeling of being studied. These sensory elements are common across many reported alien encounter narratives, making her account instantly recognisable to audiences familiar with UFO folklore while remaining highly personal in its presentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
-One feature she has increasingly emphasised is the emotional quality of the encounter. Hawn has said that when she later remembered the beings touching her face, the sensation felt "like the finger of God" and conveyed overwhelming benevolence rather than menace. During a 2026 appearance on *Jimmy Kimmel Live*, she became visibly emotional while recounting this aspect of the story, reinforcing that the lasting impact for her is emotional rather than evidential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+One feature she has increasingly emphasised is the emotional quality of the encounter. Hawn has said that when she later remembered the beings touching her face, the sensation felt "like the finger of God" and conveyed overwhelming benevolence rather than menace. During a 2026 appearance on *Jimmy Kimmel Live*, she became visibly emotional while recounting this aspect of the story, reinforcing that the lasting impact for her is emotional rather than evidential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bv-K_ZK_RYE" title="10 Stars Who Believe They Had Alien Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bv-K_ZK_RYE" target="_blank" rel="noopener noreferrer">10 Stars Who Believe They Had Alien Encounters</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bv-K_ZK_RYE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bv-K_ZK_RYE">Open on YouTube</a></p></div></div></div>
 
 ## Why the memory became more meaningful over time
 
-An unusual aspect of Hawn's story is that she has not presented it as a perfectly preserved memory. Instead, she says some details became clearer years later during conversations with an astrophysicist who had researched UFO reports. According to Hawn, questions about the experience prompted forgotten details to return, including memories of the beings' hands and their physical contact with her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+An unusual aspect of Hawn's story is that she has not presented it as a perfectly preserved memory. Instead, she says some details became clearer years later during conversations with an astrophysicist who had researched UFO reports. According to Hawn, questions about the experience prompted forgotten details to return, including memories of the beings' hands and their physical contact with her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-This gradual reconstruction matters because it shifts the discussion from a simple eyewitness report to a case about autobiographical memory. Psychologists have long noted that memories are reconstructed rather than replayed exactly as they were originally experienced. Later conversations, new beliefs and repeated retelling can all influence how memories are organised and interpreted without requiring deliberate dishonesty. That does not establish that Hawn's recollections are inaccurate, but it does mean the development of the story itself becomes part of what researchers examine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perspectives on the alien abduction phenomenon</span><span class="citation-popover-snippet">Perspectives on the alien abduction phenomenon</span></span></span>
+This gradual reconstruction matters because it shifts the discussion from a simple eyewitness report to a case about autobiographical memory. Psychologists have long noted that memories are reconstructed rather than replayed exactly as they were originally experienced. Later conversations, new beliefs and repeated retelling can all influence how memories are organised and interpreted without requiring deliberate dishonesty. That does not establish that Hawn's recollections are inaccurate, but it does mean the development of the story itself becomes part of what researchers examine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Perspectives on the alien abduction phenomenon</span><span class="citation-popover-snippet">Perspectives on the alien abduction phenomenon</span></span></span>
 
-Hawn herself has often acknowledged uncertainty. Across interviews she has said she cannot definitively say what happened, while also maintaining that the experience felt profoundly real and spiritually significant. This combination of conviction and acknowledged uncertainty distinguishes her account from claims presented as definitive proof of alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrity/goldie-hawn-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Describing the beings as having triangular, silver heads, the event occurred while she dozed in a friend’s car in West Covina, California...</span></span></span>
+Hawn herself has often acknowledged uncertainty. Across interviews she has said she cannot definitively say what happened, while also maintaining that the experience felt profoundly real and spiritually significant. This combination of conviction and acknowledged uncertainty distinguishes her account from claims presented as definitive proof of alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrity/goldie-hawn-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Describing the beings as having triangular, silver heads, the event occurred while she dozed in a friend’s car in West Covina, California...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_hawn_memory_belief_3e59b8-Illustration-2-dark.svg" | relative_url }}" alt="Hawn Memory illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_hawn_memory_belief_3e59b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_actors_ufo_anecdotes_2f5f02_hawn_memory_belief_3e59b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -309,9 +309,9 @@ Hawn herself has often acknowledged uncertainty. Across interviews she has said 
 
 The story has gained additional cultural attention because it exists alongside other UFO-related anecdotes within Hawn's family.
 
-Her longtime partner, Kurt Russell, has publicly described seeing unusual lights while piloting an aircraft near Phoenix in 1997, only later realising that the date corresponded with the well-known [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event. Unlike Hawn's account, Russell's concerns unidentified lights rather than close contact, yet media coverage often links the two stories because they come from the same household. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
+Her longtime partner, Kurt Russell, has publicly described seeing unusual lights while piloting an aircraft near Phoenix in 1997, only later realising that the date corresponded with the well-known [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event. Unlike Hawn's account, Russell's concerns unidentified lights rather than close contact, yet media coverage often links the two stories because they come from the same household.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
 
-Their son Wyatt Russell has also defended his mother's [sincerity]({{ 'sincerity/' | relative_url }}) in interviews and has described an unusual aerial sighting of his own. His comments do not independently verify Hawn's experience, but they reinforce the family's willingness to discuss anomalous experiences publicly rather than treating them as embarrassing or off-limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Wyatt Russell says mom Goldie Hawn&#x27;s alien story is true</span><span class="citation-popover-snippet">Hawn had previously shared her experience from early in her career on an Apple Fitness+ episode, describing seeing triangular-shaped head...</span></span></span>
+Their son Wyatt Russell has also defended his mother's [sincerity]({{ 'sincerity/' | relative_url }}) in interviews and has described an unusual aerial sighting of his own. His comments do not independently verify Hawn's experience, but they reinforce the family's willingness to discuss anomalous experiences publicly rather than treating them as embarrassing or off-limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Wyatt Russell says mom Goldie Hawn&#x27;s alien story is true</span><span class="citation-popover-snippet">Hawn had previously shared her experience from early in her career on an Apple Fitness+ episode, describing seeing triangular-shaped head...</span></span></span>
 
 This family overlap increases the stories' cultural visibility. Instead of a single isolated celebrity anecdote, audiences encounter a network of related accounts connected through family conversation, making them easier to remember and revisit.
 
@@ -322,9 +322,9 @@ This family overlap increases the stories' cultural visibility. Instead of a sin
 
 Hawn's account illustrates an important distinction in discussions about celebrity UFO stories: sincerity is not the same as verification.
 
-Nothing publicly available independently confirms the events she describes. There are no contemporaneous records, physical evidence or corroborating witnesses that establish an encounter with extraterrestrial beings. Organisations that investigate unidentified anomalous phenomena, including NASA and the U.S. government's official review programmes, continue to state that they have found no verified evidence that reported UAP represent extraterrestrial technology. Her testimony therefore remains a personal experience rather than confirmed evidence of alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Nothing publicly available independently confirms the events she describes. There are no contemporaneous records, physical evidence or corroborating witnesses that establish an encounter with extraterrestrial beings. Organisations that investigate unidentified anomalous phenomena, including NASA and the U.S. government's official review programmes, continue to state that they have found no verified evidence that reported UAP represent extraterrestrial technology. Her testimony therefore remains a personal experience rather than confirmed evidence of alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-At the same time, sceptical explanations do not necessarily imply fabrication. Researchers have suggested that experiences involving sudden paralysis, high-frequency sounds, an intense sensed presence and vivid visual imagery may sometimes resemble episodes of [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}) or related transitions between sleeping and waking. These experiences can feel completely real to the person undergoing them and often become powerful lifelong memories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
+At the same time, sceptical explanations do not necessarily imply fabrication. Researchers have suggested that experiences involving sudden paralysis, high-frequency sounds, an intense sensed presence and vivid visual imagery may sometimes resemble episodes of [sleep paralysis]({{ 'sleep-paralysis/' | relative_url }}) or related transitions between sleeping and waking. These experiences can feel completely real to the person undergoing them and often become powerful lifelong memories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span><span class="citation-popover-snippet">arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment</span></span></span>
 
 The available evidence therefore supports a careful distinction. It is reasonable to conclude that Hawn appears sincere about describing an experience that profoundly affected her. It is not possible, based on publicly available evidence, to conclude that the experience demonstrates contact with extraterrestrial beings.
 
@@ -334,201 +334,201 @@ The available evidence therefore supports a careful distinction. It is reasonabl
 
 Goldie Hawn's account endures because its emotional centre is stronger than its evidential one. Rather than inviting audiences to inspect photographs or technical data, it invites them to consider questions about memory, fear, wonder and the limits of personal certainty.
 
-Her willingness to admit that she does not know exactly what happened, while continuing to describe the event as transformative, gives the story a quality that many celebrity UFO anecdotes lack. Whether readers interpret it as an extraordinary encounter, a psychologically meaningful experience or an example of reconstructed memory, its lasting appeal comes from that unresolved tension between deeply held personal belief and the absence of independent verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Her willingness to admit that she does not know exactly what happened, while continuing to describe the event as transformative, gives the story a quality that many celebrity UFO anecdotes lack. Whether readers interpret it as an extraordinary encounter, a psychologically meaningful experience or an example of reconstructed memory, its lasting appeal comes from that unresolved tension between deeply held personal belief and the absence of independent verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111</span><span class="citation-popover-snippet">Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/suzqvlOt7y4" title="Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer">Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters</a></p><p class="youtube-embed-meta">Channel: Jimmy Kimmel Live</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=suzqvlOt7y4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Goldie Hawn&#x27;s Alien Story Sticks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Goldie Hawn&#x27;s Alien Story Sticks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Provides cultural and folkloric context for why personal UFO narratives like Goldie Hawn&#x27;s continue to resonate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cultural and folkloric context for why personal UFO narratives like Goldie Hawn&#x27;s continue to resonate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances eyewitness accounts with questions of evidence, matching the article&#x27;s distinction between sincerity and verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances eyewitness accounts with questions of evidence, matching the article&#x27;s distinction between sincerity and verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers understand belief formation, memory, and why emotionally powerful experiences feel convincing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand belief formation, memory, and why emotionally powerful experiences feel convincing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers a framework for evaluating remarkable personal stories while respecting the difference between experience and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a framework for evaluating remarkable personal stories while respecting the difference between experience and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="hawn-memory-why-goldie-hawn-s-alien-story-sticks-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ Her willingness to admit that she does not know exactly what happened, while con
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ Her willingness to admit that she does not know exactly what happened, while con
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ Her willingness to admit that she does not know exactly what happened, while con
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ Her willingness to admit that she does not know exactly what happened, while con
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ Her willingness to admit that she does not know exactly what happened, while con
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,103 +734,103 @@ Her willingness to admit that she does not know exactly what happened, while con
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: people.com  
    Title: goldie hawn recounts meeting 2 aliens with triangular shaped heads 11968111  
-   Link: <a href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow">https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</p></details>
+   Link:<a href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow">https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Says She Once Met 2 Aliens with &#x27;Triangular-...6 May 2026 — Goldie Hawn recalled an experience she claimed she once had with...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrity/goldie-hawn-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/goldie-hawn-alien-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Describing the beings as having triangular, silver heads, the event occurred while she dozed in a friend’s car in West Covina, California...</p></details>
+   Link:<a href="https://ew.com/celebrity/goldie-hawn-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/goldie-hawn-alien-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Describing the beings as having triangular, silver heads, the event occurred while she dozed in a friend’s car in West Covina, California...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Perspectives on the alien abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Sleep Paralysis: phenomenology, neurophysiology and treatment  
-   Link: <a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
+   Link:<a href="https://arxiv.org/abs/1704.02342" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.02342</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;), long fascinated by the paranormal...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;), long fascinated by the paranormal...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ew.com  
    Title: Wyatt Russell says mom Goldie Hawn's alien story is true  
-   Link: <a href="https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hawn had previously shared her experience from early in her career on an Apple Fitness+ episode, describing seeing triangular-shaped head...</p></details>
+   Link:<a href="https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hawn had previously shared her experience from early in her career on an Apple Fitness+ episode, describing seeing triangular-shaped head...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: latimes.com  
    Title: Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter  
-   Link: <a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abc.com  
-   Link: <a href="https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33" target="_blank" rel="noopener noreferrer nofollow">https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harlem Globetrotters... encounter with aliens in the 60s...</p></details>
+   Link:<a href="https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33" target="_blank" rel="noopener noreferrer nofollow">https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harlem Globetrotters... encounter with aliens in the 60s...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wgem.com  
    Title: goldie hawn shares alien encounter she experienced more than 50 years ago  
-   Link: <a href="https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn shares alien encounter she experienced...30 Oct 2023 — Goldie Hawn shares alien encounter she experienced more than 50 years...</p></details>
+   Link:<a href="https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn shares alien encounter she experienced...30 Oct 2023 — Goldie Hawn shares alien encounter she experienced more than 50 years...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: aliens are abducting me. Worst one yet · r/Sleepparalysis. • 1d ago  
-   Link: <a href="https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone think Goldie Hawn&#x27;s alien encounter is just sleep paralysis?March 2, 2024 — Anyone think Goldie Hawn&#x27;s alien encounter is just sle...</p></details>
+   Link:<a href="https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone think Goldie Hawn&#x27;s alien encounter is just sleep paralysis?March 2, 2024 — Anyone think Goldie Hawn&#x27;s alien encounter is just sle...</p></details>
    Published: March 2, 2024  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fox5dc.com  
    Title: Goldie Hawn says she 'made contact' with aliens: 'They touched my  
-   Link: <a href="https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023 — Goldie Hawn recalled making contact with &quot;two or three&quot; extraterrestrial beings who &quot;touched&quot; her face when she was 20...</p></details>
+   Link:<a href="https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023 — Goldie Hawn recalled making contact with &quot;two or three&quot; extraterrestrial beings who &quot;touched&quot; her face when she was 20...</p></details>
    Published: October 30, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sinisterhood/videos/goldie-hawns-extraterrestrial-encounter-involved-a-high-pitched-frequency-and-th/1752791492558086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sinisterhood/videos/goldie-hawns-extraterrestrial-encounter-involved-a-high-pitched-frequency-and-th/1752791492558086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inois, Urbana Champaign, who was researching alien encounters. Pawn...</p></details>
+   Link:<a href="https://www.facebook.com/sinisterhood/videos/goldie-hawns-extraterrestrial-encounter-involved-a-high-pitched-frequency-and-th/1752791492558086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sinisterhood/videos/goldie-hawns-extraterrestrial-encounter-involved-a-high-pitched-frequency-and-th/1752791492558086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inois, Urbana Champaign, who was researching alien encounters. Pawn...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly sleepy (not knowing why) and needed to lie down to sleep...</p></details>
+   Link:<a href="https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly sleepy (not knowing why) and needed to lie down to sleep...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nottheonion/comments/1t5f5ro/goldie_hawn_gets_emotional_while_sharing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nottheonion/comments/1t5f5ro/goldie_hawn_gets_emotional_while_sharing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn recounts alien encounter: &#x27;Oh, my God. latimes...</p></details>
+   Link:<a href="https://www.reddit.com/r/nottheonion/comments/1t5f5ro/goldie_hawn_gets_emotional_while_sharing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nottheonion/comments/1t5f5ro/goldie_hawn_gets_emotional_while_sharing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn recounts alien encounter: &#x27;Oh, my God. latimes...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unilad.com  
-   Link: <a href="https://www.unilad.com/celebrity/goldie-hawn-recalls-alien-encounter-emotional-jimmy-kimmel-291515-20260501" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/celebrity/goldie-hawn-recalls-alien-encounter-emotional-jimmy-kimmel-291515-20260501</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The actress, 80, appeared on Jimmy Kimmel...Read more...</p></details>
+   Link:<a href="https://www.unilad.com/celebrity/goldie-hawn-recalls-alien-encounter-emotional-jimmy-kimmel-291515-20260501" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/celebrity/goldie-hawn-recalls-alien-encounter-emotional-jimmy-kimmel-291515-20260501</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The actress, 80, appeared on Jimmy Kimmel...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e 1960s.... In a recent interview, Goldie Hawn...</p></details>
+   Link:<a href="https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e 1960s.... In a recent interview, Goldie Hawn...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/lifestyle/goldie-hawn-details-wild-encounter-023845768.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/lifestyle/goldie-hawn-details-wild-encounter-023845768.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn details a wild encounter with aliensOct 27, 2023 — Goldie Hawn is opening up about an alien encounter she says she experience...</p></details>
+   Link:<a href="https://www.yahoo.com/lifestyle/goldie-hawn-details-wild-encounter-023845768.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/lifestyle/goldie-hawn-details-wild-encounter-023845768.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn details a wild encounter with aliensOct 27, 2023 — Goldie Hawn is opening up about an alien encounter she says she experience...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/z8L9daNSX4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/z8L9daNSX4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ropped the full story on Jimmy Kimmel Live saying she was...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/z8L9daNSX4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/z8L9daNSX4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ropped the full story on Jimmy Kimmel Live saying she was...</p></details>

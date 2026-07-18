@@ -278,7 +278,7 @@ When a mass UFO sighting later becomes part of popular culture, the earliest wit
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_early_witness_report_0158a6-Illustration-1-dark.svg" | relative_url }}" alt="Early Reports illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_early_witness_report_0158a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_early_witness_report_0158a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The 13 March 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) illustrate this principle especially well. The case later acquired [famous witnesses]({{ 'famous-witnesses/' | relative_url }}), including actor and pilot Kurt Russell and former Arizona governor Fife Symington, yet the foundation of the case remains the near-contemporaneous reports from ordinary observers, emergency calls, media coverage and early compilations assembled before the story had hardened into modern UFO folklore. These early records help distinguish what people actually described at the time from what later became part of the legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</span></span></span>
+The 13 March 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) illustrate this principle especially well. The case later acquired [famous witnesses]({{ 'famous-witnesses/' | relative_url }}), including actor and pilot Kurt Russell and former Arizona governor Fife Symington, yet the foundation of the case remains the near-contemporaneous reports from ordinary observers, emergency calls, media coverage and early compilations assembled before the story had hardened into modern UFO folklore. These early records help distinguish what people actually described at the time from what later became part of the legend.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</span></span></span>
 
 ## What near-contemporaneous reports can preserve
 
@@ -300,9 +300,9 @@ Early material preserves details such as:
 
 </div>
 
-Because these observations were recorded before witnesses had extensive opportunities to compare stories, they provide a better basis for identifying patterns and disagreements. Rather than treating every report as evidence of one enormous craft, investigators can ask whether different observers were actually describing separate aerial events. This distinction became central to later analyses of the Phoenix Lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</span></span></span>
+Because these observations were recorded before witnesses had extensive opportunities to compare stories, they provide a better basis for identifying patterns and disagreements. Rather than treating every report as evidence of one enormous craft, investigators can ask whether different observers were actually describing separate aerial events. This distinction became central to later analyses of the Phoenix Lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</span></span></span>
 
-A notable feature of the earliest reports is that they do not present a perfectly uniform story. Some witnesses described what appeared to be a large V-shaped or chevron formation travelling across Arizona, while others reported lights that seemed fixed over the Phoenix area later in the evening. That variation became one of the strongest reasons later investigators argued that the widely remembered "Phoenix Lights" may actually combine more than one event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+A notable feature of the earliest reports is that they do not present a perfectly uniform story. Some witnesses described what appeared to be a large V-shaped or chevron formation travelling across Arizona, while others reported lights that seemed fixed over the Phoenix area later in the evening. That variation became one of the strongest reasons later investigators argued that the widely remembered "Phoenix Lights" may actually combine more than one event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
@@ -311,9 +311,9 @@ A notable feature of the earliest reports is that they do not present a perfectl
 
 Celebrity testimony attracts attention, but it also changes the context in which older evidence is interpreted.
 
-Kurt Russell publicly discussed his experience in 2017, recalling that while flying into Phoenix he reported unusual lights to air traffic control. His account is valuable because he places himself within the original [timeline]({{ 'timeline/' | relative_url }}) rather than claiming a separate encounter years later. Even so, the public first learned the story roughly two decades after the event, meaning it cannot substitute for records created on or near the night itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+Kurt Russell publicly discussed his experience in 2017, recalling that while flying into Phoenix he reported unusual lights to air traffic control. His account is valuable because he places himself within the original [timeline]({{ 'timeline/' | relative_url }}) rather than claiming a separate encounter years later. Even so, the public first learned the story roughly two decades after the event, meaning it cannot substitute for records created on or near the night itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
-Fife [Symington]({{ 'symington/' | relative_url }})'s case illustrates a different effect. As Arizona's governor in 1997, he initially responded publicly with humour, including the well-known press conference featuring an aide dressed as an alien. Ten years later he stated that he had personally witnessed something he considered extraordinary. Whether one accepts his interpretation or not, the chronology matters: his recollection belongs to a later phase of public memory rather than to the earliest documentary record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
+Fife [Symington]({{ 'symington/' | relative_url }})'s case illustrates a different effect. As Arizona's governor in 1997, he initially responded publicly with humour, including the well-known press conference featuring an aide dressed as an alien. Ten years later he stated that he had personally witnessed something he considered extraordinary. Whether one accepts his interpretation or not, the chronology matters: his recollection belongs to a later phase of public memory rather than to the earliest documentary record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
 
 Neither celebrity account invalidates the earlier reports. Instead, both demonstrate how a mass sighting develops culturally. The original observations become filtered through interviews, documentaries, anniversary coverage and public expectations, making it increasingly difficult to separate firsthand description from retrospective interpretation.
 
@@ -336,7 +336,7 @@ Several factors can produce variation even when observers watch the same sky:
 
 </div>
 
-The Phoenix Lights provide examples of all these possibilities. Reports extended across hundreds of kilometres and covered several hours, making it plausible that different witnesses observed different aircraft formations or [military]({{ 'military/' | relative_url }}) activities in addition to whatever else may have occurred. Later efforts to compress all reports into a single dramatic narrative risk losing these distinctions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The Phoenix Lights provide examples of all these possibilities. Reports extended across hundreds of kilometres and covered several hours, making it plausible that different witnesses observed different aircraft formations or [military]({{ 'military/' | relative_url }}) activities in addition to whatever else may have occurred. Later efforts to compress all reports into a single dramatic narrative risk losing these distinctions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvKLeaPWPyw" title="March 13, 1997 Phoenix, Arizona UFO Lights - ORIGINAL VIDEO!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvKLeaPWPyw" target="_blank" rel="noopener noreferrer">March 13, 1997 Phoenix, Arizona UFO Lights - ORIGINAL VIDEO!!</a></p><p class="youtube-embed-meta">Channel: AZDigitalTransfers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvKLeaPWPyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvKLeaPWPyw">Open on YouTube</a></p></div></div></div>
@@ -345,9 +345,9 @@ The Phoenix Lights provide examples of all these possibilities. Reports extended
 
 Early evidence is valuable, but it has important limitations.
 
-Emergency call logs, newspaper interviews and UFO [reporting]({{ 'reporting/' | relative_url }}) databases preserve only part of the original information. Many witnesses never reported their observations, while others submitted reports months or even years later. Databases may therefore contain both genuinely contemporaneous accounts and retrospective recollections, requiring careful attention to reporting dates as well as event dates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org+2nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 11614NUFORC UFO Sighting 11614. Occurred: 1997-03-13 20:30 Local (18:30) Reported: 2000-01-07 00:00 Pacific Duration...</span><span class="citation-popover-meta">Published: January 7, 2000</span></span></span>
+Emergency call logs, newspaper interviews and UFO [reporting]({{ 'reporting/' | relative_url }}) databases preserve only part of the original information. Many witnesses never reported their observations, while others submitted reports months or even years later. Databases may therefore contain both genuinely contemporaneous accounts and retrospective recollections, requiring careful attention to reporting dates as well as event dates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org+2nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC UFO Sighting 11614NUFORC UFO Sighting 11614. Occurred: 1997-03-13 20:30 Local (18:30) Reported: 2000-01-07 00:00 Pacific Duration...</span><span class="citation-popover-meta">Published: January 7, 2000</span></span></span>
 
-Similarly, early summaries prepared by investigators should not be treated as definitive. The National UFO Reporting Center's first major summary of the Phoenix Lights explicitly described itself as preliminary, noting that it had been compiled before many written witness statements had been received and warning that later evidence could alter its conclusions. That acknowledgement is an important reminder that "early" does not automatically mean "complete" or "correct". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</span></span></span>
+Similarly, early summaries prepared by investigators should not be treated as definitive. The National UFO Reporting Center's first major summary of the Phoenix Lights explicitly described itself as preliminary, noting that it had been compiled before many written witness statements had been received and warning that later evidence could alter its conclusions. That acknowledgement is an important reminder that "early" does not automatically mean "complete" or "correct".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</span></span></span>
 
 Public summaries also compress diverse testimony into a coherent narrative for readers. While useful for orientation, they inevitably omit contradictions, uncertain timings and minority observations that may later prove significant.
 
@@ -376,194 +376,194 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Early UFO Reports Matter Most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Early UFO Reports Matter Most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains the importance of careful witness testimony and evaluation of UFO reports, matching the page&#x27;s emphasis on early accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the importance of careful witness testimony and evaluation of UFO reports, matching the page&#x27;s emphasis on early accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witness to Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rhk3tAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witness to Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witness to Roswell">Witness to Roswell</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Carey, Donald R. Schmitt</p>
         
-        <p class="fr-book-desc">Illustrates how witness statements evolve over time, providing useful context for discussing early versus later accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how witness statements evolve over time, providing useful context for discussing early versus later accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witness+to+Roswell+by+Thomas+J.+Carey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on primary witnesses and documentary evidence rather than folklore, aligning with the article&#x27;s treatment of contemporaneous repo...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on primary witnesses and documentary evidence rather than folklore, aligning with the article&#x27;s treatment of contemporaneous repo...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Highlights investigation practices and the value of original case documentation over later retellings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights investigation practices and the value of original case documentation over later retellings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witness+to+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witness to Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="early-reports-why-early-ufo-reports-matter-most-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,108 +769,108 @@ Viewed this way, celebrity witnesses become part of the history of the case rath
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights | NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</p></details>
+   Link:<a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights | NUFORC13 Aug 1997 — A preliminary summary of perhaps the most dramatic UFO sighting that has been reported to the Na...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Fife Symington  
-   Link: <a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11614</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 11614NUFORC UFO Sighting 11614. Occurred: 1997-03-13 20:30 Local (18:30) Reported: 2000-01-07 00:00 Pacific Duration...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=11614" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=11614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 11614NUFORC UFO Sighting 11614. Occurred: 1997-03-13 20:30 Local (18:30) Reported: 2000-01-07 00:00 Pacific Duration...</p></details>
    Published: January 7, 2000  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=12046" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=12046</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 12046NUFORC UFO Sighting 12046. Occurred: 1997-03-13 20:30 Local Reported: 2000-02-17 00:00 Pacific Duration: 3 min...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=12046" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=12046</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 12046NUFORC UFO Sighting 12046. Occurred: 1997-03-13 20:30 Local Reported: 2000-02-17 00:00 Pacific Duration: 3 min...</p></details>
    Published: February 17, 2000  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings1997-03-13, Phoenix Lights, North AmericaUnited States; Phoenix, Arizona, Many residents photographed li...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings1997-03-13, Phoenix Lights, North AmericaUnited States; Phoenix, Arizona, Many residents photographed li...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/phoenix2/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights – 2 Years Later13 Mar 1999 — For more details on this case, see our original report, or read sighting descriptions in...</p></details>
+   Link:<a href="https://nuforc.org/phoenix2/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights – 2 Years Later13 Mar 1999 — For on this case, see our original report, or read sighting descriptions in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/sighting/?id=137572" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137572</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137572NUFORC UFO Sighting 137572. Occurred: 1997-03-17 20:15 Local (03,17, 199) Reported: 2017-12-04 23:31 Pacific Du...</p></details>
+   Link:<a href="https://nuforc.org/sighting/?id=137572" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/sighting/?id=137572</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC UFO Sighting 137572NUFORC UFO Sighting 137572. Occurred: 1997-03-17 20:15 Local (03,17, 199) Reported: 2017-12-04 23:31 Pacific Du...</p></details>
    Published: December 4, 2017  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Phoenix Lights incidentHigh profile witnesses to the Phoenix Lights include actor Kurt Russell who was flying a plane and...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Phoenix Lights incidentHigh profile witnesses to the Phoenix Lights include actor Kurt Russell who was flying a plane and...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1giic8g/were_there_any_mass_witness_reports_of_a_craft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1giic8g/were_there_any_mass_witness_reports_of_a_craft/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1997 thousands of Arizona residents witnessed a Large Unidentified Flying Objects moving across the Night Sky. High profile...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1giic8g/were_there_any_mass_witness_reports_of_a_craft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1giic8g/were_there_any_mass_witness_reports_of_a_craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1997 thousands of Arizona residents witnessed a Large Unidentified Flying Objects moving across the Night Sky. High profile...</p></details>
    Published: March 13, 1997  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academia.edu  
    Title: ((NUFORC Note: The date of the "Phoenix Lights" case is Thursday,  
-   Link: <a href="https://www.academia.edu/3540726/Combined_UFO_Reports_The_Phoenix_and_Norfolk_Incidents_Virginia_and_Phoenix" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3540726/Combined_UFO_Reports_The_Phoenix_and_Norfolk_Incidents_Virginia_and_Phoenix</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(DOC) Combined UFO Reports - The Phoenix and Norfolk...March 13, 1997 – UFO Sighting Reports from Village Labs From Village...</p></details>
+   Link:<a href="https://www.academia.edu/3540726/Combined_UFO_Reports_The_Phoenix_and_Norfolk_Incidents_Virginia_and_Phoenix" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3540726/Combined_UFO_Reports_The_Phoenix_and_Norfolk_Incidents_Virginia_and_Phoenix</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(DOC) Combined UFO Reports - The Phoenix and Norfolk...March 13, 1997 – UFO Sighting Reports from Village Labs From Village...</p></details>
    Published: March 13, 1997  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKDy1QfBlxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: 28 years later, the mystery enduresOn the night of March 13, 1997, thousands of Arizonans looked up and... Kurt Russ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKDy1QfBlxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: 28 years later, the mystery enduresOn the night of March 13, 1997, thousands of Arizonans looked up and... Kurt Russ...</p></details>
    Published: March 13, 1997  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discoveryuk.com  
    Title: the phoenix lights phenomenon an unsolved ufo mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — The first occurrence – between approximately 7.30pm and 8.45pm on Mar...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — The first occurrence – between approximately 7.30pm and 8.45pm on Mar...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Man behind famous ‘Phoenix Lights’ footage still mystified, 26 years later  
-   Link: <a href="https://www.youtube.com/watch?v=fK337HT9CZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fK337HT9CZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights 1997 news broadcast raw footage archive From the archives: &#x27;Phoenix lights&#x27; anniversary coverage 12 News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fK337HT9CZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fK337HT9CZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights 1997 news broadcast raw footage archive From the archives: &#x27;Phoenix lights&#x27; anniversary coverage 12 News...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABC15/posts/it-was-back-on-march-13-1997-when-thousands-of-people-across-the-valley-across-a/1399393078899751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/it-was-back-on-march-13-1997-when-thousands-of-people-across-the-valley-across-a/1399393078899751/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was back on March 13, 1997, when thousands of people...Actor Kurt Russell, an amateur pilot, then reported seeing the lights...</p></details>
+   Link:<a href="https://www.facebook.com/ABC15/posts/it-was-back-on-march-13-1997-when-thousands-of-people-across-the-valley-across-a/1399393078899751/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/it-was-back-on-march-13-1997-when-thousands-of-people-across-the-valley-across-a/1399393078899751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was back on March 13, 1997, when thousands of people...Actor Kurt Russell, an amateur pilot, then reported seeing the lights...</p></details>
    Published: March 13, 1997  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=v1Fh0g5wJ7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v1Fh0g5wJ7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona Governor Fife Symington is not among them...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v1Fh0g5wJ7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v1Fh0g5wJ7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona Governor Fife Symington is not among them...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GGSe4FW5FRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GGSe4FW5FRc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1997 Phoenix, Arizona UFO Lights - ORIGINAL VIDEO...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GGSe4FW5FRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GGSe4FW5FRc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1997 Phoenix, Arizona UFO Lights - ORIGINAL VIDEO...</p></details>
    Published: March 13, 1997  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bvKLeaPWPyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvKLeaPWPyw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man behind famous ‘Phoenix Lights’ footage still mystified, 26 years later...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bvKLeaPWPyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvKLeaPWPyw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Man behind famous ‘Phoenix Lights’ footage still mystified, 26 years later...</p></details>
    Published: March 13, 1997  

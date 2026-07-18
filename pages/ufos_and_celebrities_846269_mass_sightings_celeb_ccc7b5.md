@@ -448,17 +448,17 @@ image: /assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-ov
 
 ## Introduction
 
-Mass UFO sightings become culturally heavier when a famous witness later steps into the same witness pool. A celebrity does not make an event scientifically stronger by fame alone, but their account can change how the public reads the case: from a strange local episode into a shared cultural memory. The [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) are the clearest model. On 13 March 1997, many people across Arizona and nearby areas reported unusual lights or formations in the night sky; years later, actor and pilot Kurt Russell said he had seen and reported lights while flying into Phoenix, while former Arizona governor Fife [Symington]({{ 'symington/' | relative_url }}) also said he had witnessed the event after publicly making light of it at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — Several individuals called from that vicinity to recount that approximately 8:17 p.m., they witn...</span></span></span>
+Mass UFO sightings become culturally heavier when a famous witness later steps into the same witness pool. A celebrity does not make an event scientifically stronger by fame alone, but their account can change how the public reads the case: from a strange local episode into a shared cultural memory. The [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) are the clearest model. On 13 March 1997, many people across Arizona and nearby areas reported unusual lights or formations in the night sky; years later, actor and pilot Kurt Russell said he had seen and reported lights while flying into Phoenix, while former Arizona governor Fife [Symington]({{ 'symington/' | relative_url }}) also said he had witnessed the event after publicly making light of it at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org+2ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — Several individuals called from that vicinity to recount that approximately 8:17 p.m., they witn...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-overview.webp" | relative_url }}" alt="Overview image for Mass Sightings" loading="eager" decoding="sync" fetchpriority="high">
-The useful question is not whether celebrities “prove” a UFO case. They do not. The better question is what changes when a mass sighting already has multiple reports, videos, local records, official explanations, sceptical analysis and then a celebrity witness. In that setting, fame affects attention, memory, credibility and mythology, while the evidence still has to be judged by timing, corroboration, data quality and alternative explanations. NASA’s 2023 UAP study and the Pentagon’s AARO reports both stress that serious assessment depends on robust, well-characterised evidence rather than status, publicity or the word “unidentified” being treated as a shortcut to extraterrestrial conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The useful question is not whether celebrities “prove” a UFO case. They do not. The better question is what changes when a mass sighting already has multiple reports, videos, local records, official explanations, sceptical analysis and then a celebrity witness. In that setting, fame affects attention, memory, credibility and mythology, while the evidence still has to be judged by timing, corroboration, data quality and alternative explanations. NASA’s 2023 UAP study and the Pentagon’s AARO reports both stress that serious assessment depends on robust, well-characterised evidence rather than status, publicity or the word “unidentified” being treated as a shortcut to extraterrestrial conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Why Public Events Weigh Differently From Private Celebrity Anecdotes
 
 A private celebrity UFO anecdote is usually a small evidential unit: one famous person, one recollection, perhaps a second witness, and often little else. A mass sighting is messier but potentially more useful because it creates overlapping accounts. Different observers may report direction, time, shape, colour, speed, altitude, silence, aircraft noise, weather conditions, photographs, video, emergency calls or official responses. That makes it possible to compare claims rather than simply admire or dismiss a famous witness.
 
-The problem is that mass sightings also multiply ambiguity. A single night can contain more than one event, and later retellings can collapse separate observations into one dramatic story. The Phoenix Lights are often described as one incident, but many accounts and analyses distinguish between an earlier moving formation seen over a broad area and later stationary lights near Phoenix, the latter widely linked to [military]({{ 'military/' | relative_url }}) flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">phoenix lights ufo mystery explanations 19105870</span><span class="citation-popover-snippet">phoenix lights ufo mystery explanations 19105870</span></span></span>
+The problem is that mass sightings also multiply ambiguity. A single night can contain more than one event, and later retellings can collapse separate observations into one dramatic story. The Phoenix Lights are often described as one incident, but many accounts and analyses distinguish between an earlier moving formation seen over a broad area and later stationary lights near Phoenix, the latter widely linked to [military]({{ 'military/' | relative_url }}) flares.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">phoenix lights ufo mystery explanations 19105870</span><span class="citation-popover-snippet">phoenix lights ufo mystery explanations 19105870</span></span></span>
 
 Celebrity witnesses matter most when they add one of three things:
 
@@ -471,7 +471,7 @@ Celebrity witnesses matter most when they add one of three things:
 
 </div>
 
-Kurt Russell’s Phoenix Lights story is interesting because it involves all three. He was not just a famous actor commenting on UFOs years later; he said he was piloting a plane with his son Oliver on approach to Phoenix and saw a formation of lights over the airport. His status as a pilot gives the account more context than a passing celebrity remark, while his fame helped recirculate the case when he discussed it publicly in 2017. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">kurt russell reveals detailed encounter with ufo</span><span class="citation-popover-snippet">Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</span></span></span>
+Kurt Russell’s Phoenix Lights story is interesting because it involves all three. He was not just a famous actor commenting on UFOs years later; he said he was piloting a plane with his son Oliver on approach to Phoenix and saw a formation of lights over the airport. His status as a pilot gives the account more context than a passing celebrity remark, while his fame helped recirculate the case when he discussed it publicly in 2017.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">kurt russell reveals detailed encounter with ufo</span><span class="citation-popover-snippet">Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-1-dark.svg" | relative_url }}" alt="Mass Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -479,20 +479,20 @@ Kurt Russell’s Phoenix Lights story is interesting because it involves all thr
 
 The Phoenix Lights remain the strongest case family for understanding mass sightings with celebrity witnesses because the event has several layers: widespread public [reporting]({{ 'reporting/' | relative_url }}), visual media, official and sceptical explanations, a state governor’s involvement, and a later Hollywood witness account.
 
-The National UFO Reporting Center’s Phoenix Lights page, posted in 1997, describes calls from several individuals who reported bright lights around the 8.17 pm window, showing how early witness collection began close to the event rather than entirely through later folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — Several individuals called from that vicinity to recount that approximately 8:17 p.m., they witn...</span></span></span> Local and national summaries have since described the broader incident as involving many reports across Arizona, with recurring claims of a V-shaped or triangular arrangement of lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">lights arizona ufo legend 1997</span><span class="citation-popover-snippet">lights arizona ufo legend 1997</span></span></span>
+The National UFO Reporting Center’s Phoenix Lights page, posted in 1997, describes calls from several individuals who reported bright lights around the 8.17 pm window, showing how early witness collection began close to the event rather than entirely through later folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">The Phoenix Lights &#124; NUFORC13 Aug 1997 — Several individuals called from that vicinity to recount that approximately 8:17 p.m., they witn...</span></span></span> Local and national summaries have since described the broader incident as involving many reports across Arizona, with recurring claims of a V-shaped or triangular arrangement of lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">lights arizona ufo legend 1997</span><span class="citation-popover-snippet">lights arizona ufo legend 1997</span></span></span>
 
-The case is also a warning against treating “mass sighting” as a single, clean data point. Some witnesses reported a huge moving formation; others filmed or saw lights that appeared stationary or slowly descending. Sceptical investigators have argued that at least the later Phoenix-area lights are consistent with illumination flares dropped during military training, while other analyses describe the earlier reports as aircraft formations connected to Air National Guard activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The case is also a warning against treating “mass sighting” as a single, clean data point. Some witnesses reported a huge moving formation; others filmed or saw lights that appeared stationary or slowly descending. Sceptical investigators have argued that at least the later Phoenix-area lights are consistent with illumination flares dropped during military training, while other analyses describe the earlier reports as aircraft formations connected to Air National Guard activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
-That division matters because celebrity memory can attach itself to one strand of a multi-strand event. Russell’s account concerns lights seen while approaching Phoenix by air. Symington’s later account described a large, silent, delta-shaped object seen over the Phoenix area. Those accounts are culturally linked by the phrase “Phoenix Lights”, but evidentially they still need to be placed against the event’s time windows, sight lines and competing explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">I mean when I saw it, I said this is definitely a UFO. I have never seen anything like this...Read more...</span></span></span>
+That division matters because celebrity memory can attach itself to one strand of a multi-strand event. Russell’s account concerns lights seen while approaching Phoenix by air. Symington’s later account described a large, silent, delta-shaped object seen over the Phoenix area. Those accounts are culturally linked by the phrase “Phoenix Lights”, but evidentially they still need to be placed against the event’s time windows, sight lines and competing explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">I mean when I saw it, I said this is definitely a UFO. I have never seen anything like this...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ## Kurt Russell: A Famous Witness Inside the Timeline
 
-Kurt Russell’s account gained traction because it arrived as a striking late identification: he said he was the unnamed pilot who reported the lights while flying into Phoenix. In media reports of his 2017 interview, Russell described seeing six lights in a uniform V-shape over the airport while he was on approach with his son. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">kurt russell reveals detailed encounter with ufo</span><span class="citation-popover-snippet">Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</span></span></span>
+Kurt Russell’s account gained traction because it arrived as a striking late identification: he said he was the unnamed pilot who reported the lights while flying into Phoenix. In media reports of his 2017 interview, Russell described seeing six lights in a uniform V-shape over the airport while he was on approach with his son.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">kurt russell reveals detailed encounter with ufo</span><span class="citation-popover-snippet">Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</span></span></span>
 
-The strongest part of the account is not that Russell is famous. It is that he described himself as a pilot actively communicating with air traffic control, noticing an aerial formation in a context where [pilots]({{ 'pilots/' | relative_url }}) are already watching the sky and airport environment. That gives the story a more concrete evidential shape than a red-carpet anecdote. It also makes the account memorable because he reportedly did not connect the experience to the famous Phoenix Lights until years later, when the event was being discussed on television. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/news/ni61212098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Open source on imdb.com.</span></span></span>
+The strongest part of the account is not that Russell is famous. It is that he described himself as a pilot actively communicating with air traffic control, noticing an aerial formation in a context where [pilots]({{ 'pilots/' | relative_url }}) are already watching the sky and airport environment. That gives the story a more concrete evidential shape than a red-carpet anecdote. It also makes the account memorable because he reportedly did not connect the experience to the famous Phoenix Lights until years later, when the event was being discussed on television.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/news/ni61212098/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Open source on imdb.com.</span></span></span>
 
 The weaker part is timing and documentation. Public retellings of Russell’s role are mostly based on later interviews and entertainment-news coverage, not on a readily accessible primary air-traffic-control transcript naming him. A later celebrity identification can be sincere and still be vulnerable to memory compression: dates, public narratives and personal recollection can fuse after an event becomes famous.
 
@@ -502,11 +502,11 @@ That does not make the account worthless. It means it should be treated as a not
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-2-dark.svg" | relative_url }}" alt="Mass Sightings illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fife Symington: Public Authority, Private Witness, Delayed Disclosure
 
-Fife Symington’s role shows a different kind of celebrity witness: not entertainment fame, but public authority. He was Arizona’s governor during the 1997 event. At the time, he held a press conference that mocked the UFO panic by presenting an aide in an alien costume. A decade later, he said he had seen the phenomenon himself and described it as unlike anything he recognised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">former governor says he saw ufo</span><span class="citation-popover-snippet">former governor says he saw ufo</span></span></span>
+Fife Symington’s role shows a different kind of celebrity witness: not entertainment fame, but public authority. He was Arizona’s governor during the 1997 event. At the time, he held a press conference that mocked the UFO panic by presenting an aide in an alien costume. A decade later, he said he had seen the phenomenon himself and described it as unlike anything he recognised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">former governor says he saw ufo</span><span class="citation-popover-snippet">former governor says he saw ufo</span></span></span>
 
-That reversal is why Symington remains central to Phoenix Lights culture. A governor who publicly made light of the reports, then later said he had personally witnessed something extraordinary, gives the story a built-in tension: official levity versus private uncertainty. In 2007, ABC News reported Symington saying the sighting was “definitely a UFO” in the literal sense that he could not identify it, and that he had never seen anything like it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">I mean when I saw it, I said this is definitely a UFO. I have never seen anything like this...Read more...</span></span></span>
+That reversal is why Symington remains central to Phoenix Lights culture. A governor who publicly made light of the reports, then later said he had personally witnessed something extraordinary, gives the story a built-in tension: official levity versus private uncertainty. In 2007, ABC News reported Symington saying the sighting was “definitely a UFO” in the literal sense that he could not identify it, and that he had never seen anything like it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">I mean when I saw it, I said this is definitely a UFO. I have never seen anything like this...Read more...</span></span></span>
 
-His account is evidentially stronger than a casual rumour because he was a named public figure, a pilot, and a person directly connected to the official response. Yet it is also complicated by delay. He did not publicly identify himself as a witness at the time. Later explanations for his silence included concern about public panic and the responsibilities of office, but from an evidence standpoint the delay still matters because early, contemporaneous accounts are generally easier to test than retrospective ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">former governor says he saw ufo</span><span class="citation-popover-snippet">former governor says he saw ufo</span></span></span>
+His account is evidentially stronger than a casual rumour because he was a named public figure, a pilot, and a person directly connected to the official response. Yet it is also complicated by delay. He did not publicly identify himself as a witness at the time. Later explanations for his silence included concern about public panic and the responsibilities of office, but from an evidence standpoint the delay still matters because early, contemporaneous accounts are generally easier to test than retrospective ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">former governor says he saw ufo</span><span class="citation-popover-snippet">former governor says he saw ufo</span></span></span>
 
 Symington’s case also shows why celebrity or authority testimony cuts both ways. Believers see a credible insider belatedly confirming that the event was not easily dismissed. Sceptics see an account that became public only after the Phoenix Lights had already grown into a famous UFO legend. Both readings are possible unless the claim is pinned down by independent, time-matched evidence.
 
@@ -517,7 +517,7 @@ Symington’s case also shows why celebrity or authority testimony cuts both way
 
 Mass sightings can feel self-corroborating: if thousands of people saw something, surely the event must be clear. In practice, large witness pools can produce both stronger and weaker evidence at the same time. They are stronger because investigators can look for repeated patterns. They are weaker because human perception varies, social discussion spreads quickly, and later narratives often flatten differences between reports.
 
-The Phoenix Lights demonstrate this tension. Witnesses reported lights across a large region and several hours, but not every report necessarily describes the same object or cause. Sceptical accounts separate the night into different phenomena, including aircraft formations and flares, while UFO-oriented retellings often emphasise the continuity of a large silent craft moving across Arizona. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The Phoenix Lights demonstrate this tension. Witnesses reported lights across a large region and several hours, but not every report necessarily describes the same object or cause. Sceptical accounts separate the night into different phenomena, including aircraft formations and flares, while UFO-oriented retellings often emphasise the continuity of a large silent craft moving across Arizona.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 For celebrity witnesses, the key questions are practical rather than personal:
 
@@ -527,17 +527,17 @@ For celebrity witnesses, the key questions are practical rather than personal:
 * **Was the witness describing lights, a structured craft, or an interpretation of both?** A formation of lights and a solid object are not the same evidential claim.
 * **Is there instrument data?** Radar, calibrated cameras, flight logs and air-traffic records carry different weight from memory alone.
 
-This is where modern UAP research [standards]({{ 'standards/' | relative_url }}) are relevant. NASA’s independent study did not argue that witness reports should be ignored; it argued that UAP research needs better data capture, calibrated observations and rigorous methods. AARO has made a similar point from the defence side: many cases remain unresolved because the available data are insufficient, not because an exotic explanation has been demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+This is where modern UAP research [standards]({{ 'standards/' | relative_url }}) are relevant. NASA’s independent study did not argue that witness reports should be ignored; it argued that UAP research needs better data capture, calibrated observations and rigorous methods. AARO has made a similar point from the defence side: many cases remain unresolved because the available data are insufficient, not because an exotic explanation has been demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-3-dark.svg" | relative_url }}" alt="Mass Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Celebrity Witnesses Change — and What They Do Not
 
-A celebrity witness changes the social life of a mass sighting. Their account can revive interest, draw mainstream media coverage, bring younger audiences to old cases, and make a local event easier to remember. Kurt Russell’s connection turned the Phoenix Lights into a Hollywood-adjacent story; Symington’s later admission turned it into a case about public office, credibility and the pressure to [ridicule]({{ 'ridicule/' | relative_url }}) strange reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">kurt russell reveals detailed encounter with ufo</span><span class="citation-popover-snippet">Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</span></span></span>
+A celebrity witness changes the social life of a mass sighting. Their account can revive interest, draw mainstream media coverage, bring younger audiences to old cases, and make a local event easier to remember. Kurt Russell’s connection turned the Phoenix Lights into a Hollywood-adjacent story; Symington’s later admission turned it into a case about public office, credibility and the pressure to [ridicule]({{ 'ridicule/' | relative_url }}) strange reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">kurt russell reveals detailed encounter with ufo</span><span class="citation-popover-snippet">Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</span></span></span>
 
 What celebrity does not change is the burden of evidence. A famous pilot can misjudge distance, altitude or formation. A governor can be sincere and still mistaken. A large crowd can observe real lights while disagreeing about what those lights were. The word “UFO” only means unidentified in the observer’s account; it does not by itself establish alien technology, secret aircraft or any single cause.
 
-The most responsible reading is therefore layered. The Phoenix Lights were a real public event in the sense that many people reported seeing unusual lights and the incident became part of Arizona history. Some portions of the night have plausible conventional explanations, especially the later flare-like lights. Some witness claims, including those from Russell and Symington, remain culturally important and evidentially interesting, but they are not decisive without stronger contemporaneous records and technical data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">lights arizona ufo legend 1997</span><span class="citation-popover-snippet">lights arizona ufo legend 1997</span></span></span>
+The most responsible reading is therefore layered. The Phoenix Lights were a real public event in the sense that many people reported seeing unusual lights and the incident became part of Arizona history. Some portions of the night have plausible conventional explanations, especially the later flare-like lights. Some witness claims, including those from Russell and Symington, remain culturally important and evidentially interesting, but they are not decisive without stronger contemporaneous records and technical data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">lights arizona ufo legend 1997</span><span class="citation-popover-snippet">lights arizona ufo legend 1997</span></span></span>
 
 That is why mass sightings with celebrity witnesses sit at the centre of the UFOs-and-celebrities topic. They are more substantial than isolated star anecdotes, but less tidy than believers or debunkers often suggest. Their real value is not that fame proves the extraordinary. It is that fame forces a broader audience to confront how difficult it is to evaluate public anomalies when witness memory, official explanation, media retelling and cultural myth all occupy the same sky.
 
@@ -546,194 +546,194 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Happens When Stars Join Mass Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Happens When Stars Join Mass Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains mass sightings and witness evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains mass sightings and witness evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Shows how famous cases influence modern UAP debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how famous cases influence modern UAP debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Compares high-profile witness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Compares high-profile witness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D Kitei M D</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h4lkAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D Kitei M D</p>
         
-        <p class="fr-book-desc">Examines the best-known celebrity-linked mass sighting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the best-known celebrity-linked mass sighting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D+Kitei+M+D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="mass-sightings-what-happens-when-stars-join-mass-sightings-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -749,7 +749,7 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -769,7 +769,7 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -801,7 +801,7 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -853,7 +853,7 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -898,7 +898,7 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -939,143 +939,143 @@ That is why mass sightings with celebrity witnesses sit at the centre of the UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nuforc.org  
-   Link: <a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights | NUFORC13 Aug 1997 — Several individuals called from that vicinity to recount that approximately 8:17 p.m., they witn...</p></details>
+   Link:<a href="https://nuforc.org/phoenix/" target="_blank" rel="noopener noreferrer nofollow">https://nuforc.org/phoenix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights | NUFORC13 Aug 1997 — Several individuals called from that vicinity to recount that approximately 8:17 p.m., they witn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: axios.com  
    Title: lights arizona ufo legend 1997  
-   Link: <a href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997</a>  
+   Link:<a href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/news/ni61212098/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni61212098/</a>  
+   Link:<a href="https://www.imdb.com/news/ni61212098/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/news/ni61212098/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: deseret.com  
    Title: former governor says he saw ufo  
-   Link: <a href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/</a>  
+   Link:<a href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Fife Symington  
-   Link: <a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/GMA/story?id=2994569&amp;page=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I mean when I saw it, I said this is definitely a UFO. I have never seen anything like this...Read more...</p></details>
+   Link:<a href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/GMA/story?id=2994569&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;I mean when I saw it, I said this is definitely a UFO. I have never seen anything like this...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pagesix.com  
    Title: kurt russell reveals detailed encounter with ufo  
-   Link: <a href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</p></details>
+   Link:<a href="https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2017/06/21/kurt-russell-reveals-detailed-encounter-with-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page SixKurt Russell reported UFO sighting decades ago21 Jun 2017 — Kurt Russell has revealed he was the pilot who reported the “Phoenix...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: phoenixnewtimes.com  
    Title: phoenix lights ufo mystery explanations 19105870  
-   Link: <a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
+   Link:<a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
+   Link:<a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ufoevidence.org  
    Title: The Phoenix Lights  
-   Link: <a href="https://www.ufoevidence.org/cases/case270.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case270.htm</a>  
+   Link:<a href="https://www.ufoevidence.org/cases/case270.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case270.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kids.kiddle.co  
    Title: Phoenix lights  
-   Link: <a href="https://kids.kiddle.co/Phoenix_lights" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Phoenix_lights</a>  
+   Link:<a href="https://kids.kiddle.co/Phoenix_lights" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Phoenix_lights</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stampaday.wordpress.com  
    Title: the phoenix lights  
-   Link: <a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
+   Link:<a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Governor Mocked 10,000 UFO Witnesses — Then Admitted He Was One Of Them  
-   Link: <a href="http://www.youtube.com/watch?v=mCMDmQhL3Eo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mCMDmQhL3Eo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Phoenix Lights UFO pilot Kurt Russell was the civil pilot witness to the phoenix lights UFO lcdvasrm...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=mCMDmQhL3Eo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mCMDmQhL3Eo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Phoenix Lights UFO pilot Kurt Russell was the civil pilot witness to the phoenix lights UFO lcdvasrm...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFO Mystery: Kurt Russell Was the Pilot Who Reported the Phoenix Lights  
-   Link: <a href="http://www.youtube.com/watch?v=VuHP1mAL1DY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VuHP1mAL1DY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Governor Mocked 10,000 UFO Witnesses — Then Admitted He Was One Of Them...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=VuHP1mAL1DY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VuHP1mAL1DY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Governor Mocked 10,000 UFO Witnesses — Then Admitted He Was One Of Them...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Kurt Russell Shares UFO "Phoenix Lights" Experience | UFO Witness  
-   Link: <a href="http://www.youtube.com/watch?v=Ok6zPFn42jA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ok6zPFn42jA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell was the civil pilot witness to the phoenix lights UFO...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Ok6zPFn42jA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ok6zPFn42jA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell was the civil pilot witness to the phoenix lights UFO...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Kurt Russell was the civil pilot witness to the phoenix lights UFO  
-   Link: <a href="http://www.youtube.com/watch?v=wR_dxZJGWfU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wR_dxZJGWfU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governor Admits He Saw THE PHOENIX LIGHTS UFO #UAP...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wR_dxZJGWfU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wR_dxZJGWfU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Governor Admits He Saw THE PHOENIX LIGHTS UFO #UAP...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Governor Admits He Saw THE PHOENIX LIGHTS UFO #UAP  
-   Link: <a href="http://www.youtube.com/watch?v=Vjxijors6vQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Vjxijors6vQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery: Kurt Russell Was the Pilot Who Reported the Phoenix Lights...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Vjxijors6vQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Vjxijors6vQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Mystery: Kurt Russell Was the Pilot Who Reported the Phoenix Lights...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/</a>  
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/an-independent-group-of-scientists-and-experts-convened-by-nasa-has-released-its/707781994709288/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SlappedHam/posts/did-you-know-kurt-russell-was-the-pilot-who-first-reported-the-legendary-phoenix/1471207207704845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SlappedHam/posts/did-you-know-kurt-russell-was-the-pilot-who-first-reported-the-legendary-phoenix/1471207207704845/</a>  
+   Link:<a href="https://www.facebook.com/SlappedHam/posts/did-you-know-kurt-russell-was-the-pilot-who-first-reported-the-legendary-phoenix/1471207207704845/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SlappedHam/posts/did-you-know-kurt-russell-was-the-pilot-who-first-reported-the-legendary-phoenix/1471207207704845/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: fifesymington.com  
-   Link: <a href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/</a>  
+   Link:<a href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ay2gy6/former_arizona_governor_fife_symington_setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ay2gy6/former_arizona_governor_fife_symington_setting/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ay2gy6/former_arizona_governor_fife_symington_setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ay2gy6/former_arizona_governor_fife_symington_setting/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRxjofVjEl1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxjofVjEl1/</a>  
+   Link:<a href="https://www.instagram.com/reel/DRxjofVjEl1/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRxjofVjEl1/</a>  

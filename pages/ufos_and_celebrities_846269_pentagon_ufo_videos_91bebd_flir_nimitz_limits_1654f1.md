@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_fli
 
 ## Introduction
 
-The FLIR video associated with the 2004 USS Nimitz encounter is one of the most discussed pieces of modern UFO evidence, but it is also one of the easiest to misunderstand. The publicly available clip is genuine [military]({{ 'military/' | relative_url }}) footage released by the US Department of Defense, yet it represents only a short infrared recording from a much larger event involving pilot observations, shipborne radar reports and other claimed sensor detections. As a result, the central question is not simply whether the video is authentic—it is—but how much it can actually demonstrate on its own. The answer is less dramatic than many popular retellings suggest. The clip provides valuable evidence that a Navy targeting system tracked an unidentified object, but it cannot by itself establish the object's distance, size, speed, origin or extraordinary capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</span></span></span>
+The FLIR video associated with the 2004 USS Nimitz encounter is one of the most discussed pieces of modern UFO evidence, but it is also one of the easiest to misunderstand. The publicly available clip is genuine [military]({{ 'military/' | relative_url }}) footage released by the US Department of Defense, yet it represents only a short infrared recording from a much larger event involving pilot observations, shipborne radar reports and other claimed sensor detections. As a result, the central question is not simply whether the video is authentic—it is—but how much it can actually demonstrate on its own. The answer is less dramatic than many popular retellings suggest. The clip provides valuable evidence that a Navy targeting system tracked an unidentified object, but it cannot by itself establish the object's distance, size, speed, origin or extraordinary capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_flir_nimitz_limits_1654f1-Illustration-1-dark.svg" | relative_url }}" alt="FLIR illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_flir_nimitz_limits_1654f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_flir_nimitz_limits_1654f1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Within the broader story of [Pentagon UFO videos]({{ 'navy-videos/' | relative_u
 
 ## The public FLIR video as evidence
 
-The released recording, commonly known as **FLIR1**, was captured using the AN/ASQ-228 Advanced Targeting Forward-Looking Infrared (ATFLIR) pod carried by an F/A-18 Super Hornet. The video shows a heat-emitting object being tracked before the targeting system loses lock as the object moves out of frame. [Cockpit audio]({{ 'cockpit-audio/' | relative_url }}) records the aircrew reacting to the successful sensor lock and then to its apparent departure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</span></span></span>
+The released recording, commonly known as **FLIR1**, was captured using the AN/ASQ-228 Advanced Targeting Forward-Looking Infrared (ATFLIR) pod carried by an F/A-18 Super Hornet. The video shows a heat-emitting object being tracked before the targeting system loses lock as the object moves out of frame. [Cockpit audio]({{ 'cockpit-audio/' | relative_url }}) records the aircrew reacting to the successful sensor lock and then to its apparent departure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</span></span></span>
 
 As evidence, the clip establishes several points with reasonable confidence:
 
@@ -302,7 +302,7 @@ As evidence, the clip establishes several points with reasonable confidence:
 
 </div>
 
-None of those points automatically demonstrates exotic technology. Infrared imagery compresses three-dimensional events into a two-dimensional display and lacks the contextual information needed to reconstruct an object's true motion. Critical variables such as target range, precise geometry, aircraft manoeuvres and complete telemetry are absent from the publicly released clip. Without those data, apparent acceleration or unusual motion seen on screen can be misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</span></span></span>
+None of those points automatically demonstrates exotic technology. Infrared imagery compresses three-dimensional events into a two-dimensional display and lacks the contextual information needed to reconstruct an object's true motion. Critical variables such as target range, precise geometry, aircraft manoeuvres and complete telemetry are absent from the publicly released clip. Without those data, apparent acceleration or unusual motion seen on screen can be misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</span></span></span>
 
 This distinction is often lost because viewers naturally interpret the image as though they were watching an ordinary camera recording. In reality, ATFLIR is a complex targeting instrument whose display overlays, tracking modes and field-of-view changes require technical interpretation.
 
@@ -313,7 +313,7 @@ This distinction is often lost because viewers naturally interpret the image as 
 
 The FLIR clip is only one fragment of the wider 14 November 2004 Nimitz incident.
 
-According to pilot testimony, radar operators aboard the USS Princeton had reported unusual tracks over several days before fighter aircraft were directed to investigate. Commander David Fravor and other aviators later described seeing a white, wingless object visually before another aircraft subsequently recorded the infrared footage commonly released as FLIR1. Multiple participants have stated that the video was not recorded during Fravor's visual engagement itself but during a later intercept by another aircrew. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">Sky HISTORY TV channelWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+According to pilot testimony, radar operators aboard the USS Princeton had reported unusual tracks over several days before fighter aircraft were directed to investigate. Commander David Fravor and other aviators later described seeing a white, wingless object visually before another aircraft subsequently recorded the infrared footage commonly released as FLIR1. Multiple participants have stated that the video was not recorded during Fravor's visual engagement itself but during a later intercept by another aircrew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">Sky HISTORY TV channelWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 This sequence creates an important evidence problem. Public discussion frequently treats the FLIR recording, radar reports and eyewitness testimony as though they were one continuous, fully documented sensor record. They are not.
 
@@ -329,7 +329,7 @@ Instead, the public evidence consists of overlapping but incomplete components:
 
 </div>
 
-Whether every reported radar contact corresponds to the object seen visually or to the object recorded in FLIR cannot be demonstrated solely from publicly available material. The lack of a complete synchronised sensor [timeline]({{ 'timeline/' | relative_url }}) prevents independent researchers from reconstructing the event with the precision that would normally be expected in an aviation investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">Sky HISTORY TV channelWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Whether every reported radar contact corresponds to the object seen visually or to the object recorded in FLIR cannot be demonstrated solely from publicly available material. The lack of a complete synchronised sensor [timeline]({{ 'timeline/' | relative_url }}) prevents independent researchers from reconstructing the event with the precision that would normally be expected in an aviation investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[Sky HISTORY TV channel+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">Sky HISTORY TV channelWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_flir_nimitz_limits_1654f1-Illustration-2-dark.svg" | relative_url }}" alt="FLIR illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_flir_nimitz_limits_1654f1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_flir_nimitz_limits_1654f1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,7 +343,7 @@ For example, investigators would ideally want access to:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* radar tracks with timestamps; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">Sky HISTORY TV channelWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+* radar tracks with timestamps;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">uss nimitz 2004 tic tac ufo encounter</span><span class="citation-popover-snippet">Sky HISTORY TV channelWhen Top Gun Pilots Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 * aircraft position and flight parameters;
 * communications logs;
 * mission records showing the sequence of interceptions;
@@ -362,7 +362,7 @@ The missing evidence therefore increases uncertainty rather than supporting eith
 
 ## Why provenance is not explanation
 
-One of the strongest aspects of the FLIR video is its provenance. Unlike anonymous internet footage, the Department of Defense confirmed that the recording is authentic military imagery and officially released it in 2020 after determining that publication would not compromise sensitive capabilities. The department also stated that the purpose was to resolve confusion over whether the circulating footage was genuine, not to endorse any particular explanation. The observed object remained officially classified only as an unidentified aerial phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</span></span></span>
+One of the strongest aspects of the FLIR video is its provenance. Unlike anonymous internet footage, the Department of Defense confirmed that the recording is authentic military imagery and officially released it in 2020 after determining that publication would not compromise sensitive capabilities. The department also stated that the purpose was to resolve confusion over whether the circulating footage was genuine, not to endorse any particular explanation. The observed object remained officially classified only as an unidentified aerial phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</span></span></span>
 
 Authenticity answers one question while leaving another unresolved.
 
@@ -391,178 +391,178 @@ For researchers who argue the case deserves continued attention, the combination
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the FLIR Clip Can and Cannot Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the FLIR Clip Can and Cannot Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes discussion of notable Navy encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of notable Navy encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-first interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-first interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Provides context for military sensors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military sensors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines investigative methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines investigative methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ITALERI 1:720 scale model kit of the USS Nimitz (CVN-68) sealed box un-opened"><img src="{{ '/assets/images/marketplace-covers/b93add6a5ed665143afc.jpg' | relative_url }}" alt="Listing image for ITALERI 1:720 scale model kit of the USS Nimitz (CVN-68) sealed box un-opened" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">ITALERI 1:720 scale model kit of the USS Nimitz (CVN-68) sealed box un-opened</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USS Nimitz model">Search <span data-ebay-domain-label>eBay.co.uk</span>: USS Nimitz model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ITALERI 1:720 scale model kit of the USS Nimitz (CVN-68) sealed box un-opened"><img src="{{ '/assets/images/marketplace-covers/b93add6a5ed665143afc.jpg' | relative_url }}" alt="Listing image for ITALERI 1:720 scale model kit of the USS Nimitz (CVN-68) sealed box un-opened" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">ITALERI 1:720 scale model kit of the USS Nimitz (CVN-68) sealed box un-opened</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USS Nimitz model">Search<span data-ebay-domain-label>eBay.co.uk</span>: USS Nimitz model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-Inch USS Nimitz (CVN-68) Aircraft Carrier Model – Lead Ship Nimitz-Class"><img src="{{ '/assets/images/marketplace-covers/4103dbe6b53fc2dc90b8.jpg' | relative_url }}" alt="Listing image for 12-Inch USS Nimitz (CVN-68) Aircraft Carrier Model – Lead Ship Nimitz-Class" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">12-Inch USS Nimitz (CVN-68) Aircraft Carrier Model – Lead Ship Nimitz-Class</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USS Nimitz model">Search <span data-ebay-domain-label>eBay.co.uk</span>: USS Nimitz model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 12-Inch USS Nimitz (CVN-68) Aircraft Carrier Model – Lead Ship Nimitz-Class"><img src="{{ '/assets/images/marketplace-covers/4103dbe6b53fc2dc90b8.jpg' | relative_url }}" alt="Listing image for 12-Inch USS Nimitz (CVN-68) Aircraft Carrier Model – Lead Ship Nimitz-Class" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">12-Inch USS Nimitz (CVN-68) Aircraft Carrier Model – Lead Ship Nimitz-Class</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USS Nimitz model">Search<span data-ebay-domain-label>eBay.co.uk</span>: USS Nimitz model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Nimitz CVN-68 1:800 Model Ship - New Unused Kit Inside Box - Rare Model!"><img src="{{ '/assets/images/marketplace-covers/53c188ea4dbd8abbb064.jpg' | relative_url }}" alt="Listing image for USS Nimitz CVN-68 1:800 Model Ship - New Unused Kit Inside Box - Rare Model!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">USS Nimitz CVN-68 1:800 Model Ship - New Unused Kit Inside Box - Rare Model!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USS Nimitz model">Search <span data-ebay-domain-label>eBay.co.uk</span>: USS Nimitz model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Nimitz CVN-68 1:800 Model Ship - New Unused Kit Inside Box - Rare Model!"><img src="{{ '/assets/images/marketplace-covers/53c188ea4dbd8abbb064.jpg' | relative_url }}" alt="Listing image for USS Nimitz CVN-68 1:800 Model Ship - New Unused Kit Inside Box - Rare Model!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">USS Nimitz CVN-68 1:800 Model Ship - New Unused Kit Inside Box - Rare Model!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USS Nimitz model">Search<span data-ebay-domain-label>eBay.co.uk</span>: USS Nimitz model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=USS+Nimitz+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USS Nimitz model" data-ebay-reference="flir-what-the-flir-clip-can-and-cannot-prove-ufos-and-celebrities-uss-nimitz-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ For researchers who argue the case deserves continued attention, the combination
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ For researchers who argue the case deserves continued attention, the combination
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ For researchers who argue the case deserves continued attention, the combination
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ For researchers who argue the case deserves continued attention, the combination
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ For researchers who argue the case deserves continued attention, the combination
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,103 +768,103 @@ For researchers who argue the case deserves continued attention, the combination
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: statement by the department of defense on the release of historical navy videos  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — DOD is releasing the videos in order to clear up...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</p></details>
+   Link:<a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
    Title: uss nimitz 2004 tic tac ufo encounter  
-   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelWhen Top Gun [Pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</p></details>
+   Link:<a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelWhen Top Gun [Pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) Tangled with a Baffling Tic-Tac...16 May 2019 — Fighter pilots and radar operators from the US...</p></details>
    Published: May 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: military.com  
    Title: navy declassifies its notorious ufo sighting videos  
-   Link: <a href="https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Declassifies its Notorious &#x27;UFO Sighting&#x27; Videos5 Apr 2024 — &quot;DoD is releasing the videos in order to clear up any misconceptions by...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2020/04/27/navy-declassifies-its-notorious-ufo-sighting-videos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Declassifies its Notorious &#x27;UFO Sighting&#x27; Videos5 Apr 2024 — &quot;DoD is releasing the videos in order to clear up any misconceptions by...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his experience s...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his experience s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon later addressed and officially released the first three videos of unidentified aerial phenomena (UAP)...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon later addressed and officially released the first three videos of unidentified aerial phenomena (UAP)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: military-history.fandom.com  
    Title: Pentagon UFO videos  
-   Link: <a href="https://military-history.fandom.com/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Pentagon_UFO_videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO videos - Military Wiki - FandomIn 2023, David Fravor, the pilot who reported the USS Nimitz sighting from the FLIR video, gave testim...</p></details>
+   Link:<a href="https://military-history.fandom.com/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Pentagon_UFO_videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO videos - Military Wiki - FandomIn 2023, David Fravor, the pilot who reported the USS Nimitz sighting from the FLIR video, gave testim...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The One UAP Case the Pentagon Still Can&#x27;t ExplainThe Princeton was equipped with the AN/SPY-1 radar, part of the Aegis combat system, one...</p></details>
+   Link:<a href="https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40our1truegod/the-one-uap-case-the-pentagon-still-cant-explain-45458e33a989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The One UAP Case the Pentagon Still Can&#x27;t ExplainThe Princeton was equipped with the AN/SPY-1 radar, part of the Aegis combat system, one...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Princeton&#x27;s Radar and Telemetry Systems During...It&#x27;s complete drivel. The FLIR video is recorded data from the Nimitz incident by O...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bom4e9/uss_princetons_radar_and_telemetry_systems_during/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Princeton&#x27;s Radar and Telemetry Systems During...It&#x27;s complete drivel. The FLIR video is recorded data from the Nimitz incident by O...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that occurred near...</p></details>
+   Link:<a href="https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/21000/highly-detailed-report-on-harrowing-encounter-between-f-a-18s-and-ufo-off-baja-surfaces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Detailed Official Report On Harrowing Encounter Between...22 May 2018 — The paper recounts a course of bizarre events that occurred near...</p></details>
    Published: May 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: in 2020 the pentagon announced the formation of a ufo task force after officials  
-   Link: <a href="https://www.facebook.com/KTVHNews/posts/in-2020-the-pentagon-announced-the-formation-of-a-ufo-task-force-after-officials/10162780229326509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTVHNews/posts/in-2020-the-pentagon-announced-the-formation-of-a-ufo-task-force-after-officials/10162780229326509/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2020, the Pentagon announced the formation of a UFO...On Monday, the Department of Defense formally released three Navy videos that c...</p></details>
+   Link:<a href="https://www.facebook.com/KTVHNews/posts/in-2020-the-pentagon-announced-the-formation-of-a-ufo-task-force-after-officials/10162780229326509/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KTVHNews/posts/in-2020-the-pentagon-announced-the-formation-of-a-ufo-task-force-after-officials/10162780229326509/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2020, the Pentagon announced the formation of a UFO...On Monday, the Department of Defense formally released three Navy videos that c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: uss nimitz incident 2004 off the coast of san diego several pilots from vfa 41 s  
-   Link: <a href="https://www.facebook.com/CrewOperations/posts/uss-nimitz-incident-2004-off-the-coast-of-san-diego-several-pilots-from-vfa-41-s/1047436634082103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CrewOperations/posts/uss-nimitz-incident-2004-off-the-coast-of-san-diego-several-pilots-from-vfa-41-s/1047436634082103/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No nation has claimed responsibility. No known technology matches the observed capabilities. For the pilots involved, the...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/CrewOperations/posts/uss-nimitz-incident-2004-off-the-coast-of-san-diego-several-pilots-from-vfa-41-s/1047436634082103/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CrewOperations/posts/uss-nimitz-incident-2004-off-the-coast-of-san-diego-several-pilots-from-vfa-41-s/1047436634082103/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No nation has claimed responsibility. No known technology matches the observed capabilities. For the pilots involved, the...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: What could be a logical explanation for the tic tac shaped aircraft spotted  
-   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: meer.com  
    Title: 79187 uss nimitz tic tac ufo unveiling inexplicable physics  
-   Link: <a href="https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Nimitz Tic Tac UFO: unveiling inexplicable physics23 Apr 2024 — The Pentagon officially confirmed the authenticity of the videos in 2...</p></details>
+   Link:<a href="https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics" target="_blank" rel="noopener noreferrer nofollow">https://www.meer.com/en/79187-uss-nimitz-tic-tac-ufo-unveiling-inexplicable-physics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USS Nimitz Tic Tac UFO: unveiling inexplicable physics23 Apr 2024 — The Pentagon officially confirmed the authenticity of the videos in 2...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: stwserve.com  
    Title: pentagon releases ufo footage and confirms their veracity  
-   Link: <a href="https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/" target="_blank" rel="noopener noreferrer nofollow">https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases UFO Footage and Confirms Their...5 May 2020 — The video itself, which was officially declassified recently, is known a...</p></details>
+   Link:<a href="https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/" target="_blank" rel="noopener noreferrer nofollow">https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases UFO Footage and Confirms Their...5 May 2020 — The video itself, which was officially declassified recently, is known a...</p></details>
    Published: May 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: coffeeordie.com  
-   Link: <a href="https://www.coffeeordie.com/article/nimitz-tic-tac" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/nimitz-tic-tac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 19, 2022 — The Nimitz incident is one of the best-documented UAP reports on record, with evidence from sensor data, video footage, an...</p></details>
+   Link:<a href="https://www.coffeeordie.com/article/nimitz-tic-tac" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/nimitz-tic-tac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 19, 2022 — The Nimitz incident is one of the best-documented UAP reports on record, with evidence from sensor data, video footage, an...</p></details>
    Published: May 19, 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vor and Dietrich; Navy pilots recall “unsettling” 2004 UAP sighting.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/1371r3p/does_anyone_know_where_i_can_find_a_description/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vor and Dietrich; Navy pilots recall “unsettling” 2004 UAP sighting.Read more...</p></details>

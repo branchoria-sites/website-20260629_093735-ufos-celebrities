@@ -337,7 +337,7 @@ For scientific or legal purposes, documenting this history matters because every
 
 A strong custody trail answers questions such as:
 
-* Who took the photograph? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">best ufo picture calvine photo found 30 years missing 1733673</span><span class="citation-popover-snippet">Best&#x27; UFO Picture Ever, the Calvine Photo, Found After 30...15 Aug 2022 — On August 4, 1990, two hikers near Calvine in Scotland took a...</span><span class="citation-popover-meta">Published: August 4, 1990</span></span></span>
+* Who took the photograph?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">best ufo picture calvine photo found 30 years missing 1733673</span><span class="citation-popover-snippet">Best&#x27; UFO Picture Ever, the Calvine Photo, Found After 30...15 Aug 2022 — On August 4, 1990, two hikers near Calvine in Scotland took a...</span><span class="citation-popover-meta">Published: August 4, 1990</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,9 +354,9 @@ This principle is routine in accident investigation, forensic science and journa
 
 The reported 1990 Calvine sighting in Scotland is frequently described as one of the most intriguing UFO photographic cases precisely because so much attention has focused on reconstructing the image's provenance rather than simply debating what it depicts.
 
-According to released records and later investigations, two witnesses reportedly supplied photographs and negatives to the *Daily Record*, which then passed material to the UK Ministry of Defence. The original negatives subsequently disappeared from public view, while only poor photocopies entered the public record through released government files. Decades later, a surviving photographic print held by former RAF press officer Craig Lindsay was located and subjected to detailed photographic examination. Investigators compared physical characteristics of the print with Ministry of Defence photocopies to establish whether they represented the same original image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span><span class="citation-popover-snippet">February 12, 2025 — by A Robinson · 2025 — The Calvine Image provided by Craig Lindsay is a genuine photograph of the Calvine sighting an...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
+According to released records and later investigations, two witnesses reportedly supplied photographs and negatives to the *Daily Record*, which then passed material to the UK Ministry of Defence. The original negatives subsequently disappeared from public view, while only poor photocopies entered the public record through released government files. Decades later, a surviving photographic print held by former RAF press officer Craig Lindsay was located and subjected to detailed photographic examination. Investigators compared physical characteristics of the print with Ministry of Defence photocopies to establish whether they represented the same original image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span><span class="citation-popover-snippet">February 12, 2025 — by A Robinson · 2025 — The Calvine Image provided by Craig Lindsay is a genuine photograph of the Calvine sighting an...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
 
-This work illustrates an important point. Even though researchers concluded that the surviving print itself appeared to be an authentic photograph of a real scene before the camera, that finding did **not** establish what the photographed object actually was. The provenance of the print became stronger than before, but competing explanations—including an unusual aircraft, a suspended object, an optical effect or another unidentified object—remain under discussion because provenance and interpretation are separate questions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span><span class="citation-popover-snippet">February 12, 2025 — by A Robinson · 2025 — The Calvine Image provided by Craig Lindsay is a genuine photograph of the Calvine sighting an...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
+This work illustrates an important point. Even though researchers concluded that the surviving print itself appeared to be an authentic photograph of a real scene before the camera, that finding did **not** establish what the photographed object actually was. The provenance of the print became stronger than before, but competing explanations—including an unusual aircraft, a suspended object, an optical effect or another unidentified object—remain under discussion because provenance and interpretation are separate questions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shura.shu.ac.uk">[SHURA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shura.shu.ac.uk</span><span class="citation-popover-title">SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO</span><span class="citation-popover-snippet">February 12, 2025 — by A Robinson · 2025 — The Calvine Image provided by Craig Lindsay is a genuine photograph of the Calvine sighting an...</span><span class="citation-popover-meta">Published: February 12, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_hard_data_celebrity_730f1e_ufo_photo_provenance_2e2c5f-Illustration-2-dark.svg" | relative_url }}" alt="Photo Proof illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_hard_data_celebrity_730f1e_ufo_photo_provenance_2e2c5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_hard_data_celebrity_730f1e_ufo_photo_provenance_2e2c5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -417,7 +417,7 @@ A celebrity may sincerely report seeing an unusual object, but investigators sti
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Is the original image available? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000015433.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid. Svinger having an approximate 2&quot;x3&quot; image format. pr...</span></span></span>
+* Is the original image available?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/docs/DOC_0000015433.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[cia.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid. Svinger having an approximate 2&quot;x3&quot; image format. pr...</span></span></span>
 * Does the original file still exist?
 * Can the capture time be verified?
 * Can independent records confirm the circumstances?
@@ -446,194 +446,194 @@ The strongest photographic evidence typically combines several elements:
 When those elements are missing, a photograph may still be historically fascinating or culturally influential, but its evidential value is limited. In UFO investigations, provenance is not a technical detail added after the fact—it is what allows an image to move from an interesting picture towards evidence that can withstand careful scrutiny.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does a UFO Photo Become Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does a UFO Photo Become Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces systematic approaches to assessing UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces systematic approaches to assessing UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explains why corroborating evidence matters more than images alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why corroborating evidence matters more than images alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Adds historical perspective to evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds historical perspective to evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="photo-proof-when-does-a-ufo-photo-become-evidence-ufos-and-celebrities-ufo-art-print-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ When those elements are missing, a photograph may still be historically fascinat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ When those elements are missing, a photograph may still be historically fascinat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ When those elements are missing, a photograph may still be historically fascinat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ When those elements are missing, a photograph may still be historically fascinat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ When those elements are missing, a photograph may still be historically fascinat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,73 +839,73 @@ When those elements are missing, a photograph may still be historically fascinat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: shura.shu.ac.uk  
    Title: SHURAPHOTOGRAPHIC ANALYSIS OF THE CALVINE UFO  
-   Link: <a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2025 — by A Robinson · 2025 — The Calvine Image provided by Craig Lindsay is a genuine photograph of the Calvine sighting an...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/34877/1/Robinson-PhotographicAnalysisVersion5%28VoR%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 12, 2025 — by A Robinson · 2025 — The Calvine Image provided by Craig Lindsay is a genuine photograph of the Calvine sighting an...</p></details>
    Published: February 12, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: shura.shu.ac.uk  
    Title: calvine ufo photographic analysis v4  
-   Link: <a href="https://shura.shu.ac.uk/32102/1/calvine_ufo_photographic_analysis_v4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/32102/1/calvine_ufo_photographic_analysis_v4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of the 10x8” print of calvine ufo...by A Robinson · 2023 — The photograph is a colour print from a Black and White film printed...</p></details>
+   Link:<a href="https://shura.shu.ac.uk/32102/1/calvine_ufo_photographic_analysis_v4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shura.shu.ac.uk/32102/1/calvine_ufo_photographic_analysis_v4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of the 10x8” print of calvine ufo...by A Robinson · 2023 — The photograph is a colour print from a Black and White film printed...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000015433.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015433.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid. Svinger having an approximate 2&quot;x3&quot; image format. pr...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/DOC_0000015433.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000015433.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PHOTO ANALYSIS OF UFO PHOTOGRAPHYThe original photography was taken with a Polaroid. Svinger having an approximate 2&quot;x3&quot; image format. pr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/feb/11/what-really-happened-in-calvine-the-mystery-behind-the-best-ufo-picture-ever-seen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What really happened in Calvine? The mystery behind...11 Feb 2025 — In August 1990, two hikers sent photos of a strange diamond-shaped a...</p></details>
    Published: August 1990  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newsweek.com  
    Title: best ufo picture [calvine photo](&#123;&#123; 'calvine-photo/' | relative_url &#125;&#125;) found 30 years missing 1733673  
-   Link: <a href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Best&#x27; UFO Picture Ever, the Calvine Photo, Found After 30...15 Aug 2022 — On August 4, 1990, two hikers near Calvine in Scotland took a...</p></details>
+   Link:<a href="https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/best-ufo-picture-calvine-photo-found-30-years-missing-1733673</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Best&#x27; UFO Picture Ever, the Calvine Photo, Found After 30...15 Aug 2022 — On August 4, 1990, two hikers near Calvine in Scotland took a...</p></details>
    Published: August 4, 1990  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>king us look in one place and waste time - knowing it could/would be...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/woy7t5/the_calvine_ufo_photo_debunked_and_why_we_must/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>king us look in one place and waste time - knowing it could/would be...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed ItThe image showed a silent, diamond‑shaped object suspended in the sky...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the Calvine UFO photograph | In Case You Missed ItThe image showed a silent, diamond‑shaped object suspended in the sky...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mo4A_gRr90w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mo4A_gRr90w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>y surfaced, sparking debates among UFO enthusiasts and skeptics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mo4A_gRr90w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mo4A_gRr90w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y surfaced, sparking debates among UFO enthusiasts and skeptics...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Calvine UFO photograph  
-   Link: <a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO photographThe Calvine UFO was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Per...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Calvine_UFO_photograph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Calvine_UFO_photograph</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calvine UFO photographThe Calvine UFO was a reported sighting of an unidentified flying object (UFO) near the hamlet of Calvine in Per...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=wFaBB4cMHUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wFaBB4cMHUU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photographic evidence of UFO&#x27;s (From NASA and the CIA) - with Ed Wilson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wFaBB4cMHUU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wFaBB4cMHUU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photographic evidence of UFO&#x27;s (From NASA and the CIA) - with Ed Wilson...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Calvine UFO Sighting  
-   Link: <a href="https://www.youtube.com/watch?v=7j1NwlKL9zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7j1NwlKL9zQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Kirk Conspiracies, Missile Vs. Mystery Orb, &amp; UFO Cults EXPOSED | Mick West...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7j1NwlKL9zQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7j1NwlKL9zQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Charlie Kirk Conspiracies, Missile Vs. Mystery Orb, &amp; UFO Cults EXPOSED | Mick West...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Photographic evidence of UFO's (From NASA and the CIA)  
-   Link: <a href="https://www.youtube.com/watch?v=lS1pMyCMrzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lS1pMyCMrzU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLIR1: Official UAP Footage from the USG for Public Release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lS1pMyCMrzU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lS1pMyCMrzU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLIR1: Official UAP Footage from the USG for Public Release...</p></details>

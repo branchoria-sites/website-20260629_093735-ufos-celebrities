@@ -280,11 +280,11 @@ Jimmy Carter's UFO report remains one of the most frequently cited examples of a
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_carter_presidential_e632fc-Illustration-1-dark.svg" | relative_url }}" alt="Carter illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_carter_presidential_e632fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_carter_presidential_e632fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1969 Georgia sighting record
 
-The event occurred in 1969 in Leary, Georgia, before Carter became governor or president. According to the report he later filed, he and roughly ten other people were waiting outside before a Lions Club meeting when they noticed a bright object about 30 degrees above the western horizon. Carter described it as initially appearing bright and whitish before changing to bluish and reddish colours. He wrote that it seemed to approach, stop, retreat, return and finally disappear after remaining visible for approximately ten to fifteen minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — In October 1969, the then-Governor of Georgia, Jimmy Carter, saw a UFO over...</span><span class="citation-popover-meta">Published: October 1969</span></span></span>
+The event occurred in 1969 in Leary, Georgia, before Carter became governor or president. According to the report he later filed, he and roughly ten other people were waiting outside before a Lions Club meeting when they noticed a bright object about 30 degrees above the western horizon. Carter described it as initially appearing bright and whitish before changing to bluish and reddish colours. He wrote that it seemed to approach, stop, retreat, return and finally disappear after remaining visible for approximately ten to fifteen minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — In October 1969, the then-Governor of Georgia, Jimmy Carter, saw a UFO over...</span><span class="citation-popover-meta">Published: October 1969</span></span></span>
 
-An important feature of the case is its timing. Although the observation took place in 1969, Carter did not submit a formal report until September 1973, after the International UFO Bureau requested one while he was serving as Governor of Georgia. The surviving report therefore represents a retrospective account rather than notes written immediately after the event. That distinction matters because investigators must rely on memory rather than contemporaneous field observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — In October 1969, the then-Governor of Georgia, Jimmy Carter, saw a UFO over...</span><span class="citation-popover-meta">Published: October 1969</span></span></span>
+An important feature of the case is its timing. Although the observation took place in 1969, Carter did not submit a formal report until September 1973, after the International UFO Bureau requested one while he was serving as Governor of Georgia. The surviving report therefore represents a retrospective account rather than notes written immediately after the event. That distinction matters because investigators must rely on memory rather than contemporaneous field observations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">do records show proof of ufos</span><span class="citation-popover-snippet">National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — In October 1969, the then-Governor of Georgia, Jimmy Carter, saw a UFO over...</span><span class="citation-popover-meta">Published: October 1969</span></span></span>
 
-The report itself is unusually detailed for a public figure. Carter estimated the object's apparent size, described its changing colours and motion, noted the viewing conditions, and stated that stars were visible while the Sun and Moon were not. He also emphasised that the object appeared self-luminous rather than merely reflecting light. These descriptive details are one reason the report continues to be discussed decades later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveJimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other peopl...</span></span></span>
+The report itself is unusually detailed for a public figure. Carter estimated the object's apparent size, described its changing colours and motion, noted the viewing conditions, and stated that stars were visible while the Sun and Moon were not. He also emphasised that the object appeared self-luminous rather than merely reflecting light. These descriptive details are one reason the report continues to be discussed decades later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveJimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other peopl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSISgAgdyH0" title="Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer">Jimmy Carter Actually Filed a UFO Report with NASA Before Becoming President</a></p><p class="youtube-embed-meta">Channel: Inside Edition &middot; Views: 66.7K &middot; Uploaded: September 2016 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSISgAgdyH0">Open on YouTube</a></p></div></div></div>
@@ -293,9 +293,9 @@ The report itself is unusually detailed for a public figure. Carter estimated th
 
 Many unidentified aerial sightings are forgotten because they remain local anecdotes. Carter's did not. His later election as President of the United States transformed a regional report into an internationally discussed archival case.
 
-During the 1976 presidential campaign, Carter spoke publicly about the experience and expressed support for greater openness regarding UFO information. Those remarks drew widespread media attention and permanently linked his personal sighting with his political career. The result was that journalists, historians, UFO researchers and sceptics all began treating the report as more than a local curiosity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">carter files report on ufo sighting</span><span class="citation-popover-snippet">Jimmy Carter files report on UFO sightingNov 16, 2009 — Future President Jimmy Carter files a report with the International UFO Bu...</span></span></span>
+During the 1976 presidential campaign, Carter spoke publicly about the experience and expressed support for greater openness regarding UFO information. Those remarks drew widespread media attention and permanently linked his personal sighting with his political career. The result was that journalists, historians, UFO researchers and sceptics all began treating the report as more than a local curiosity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">carter files report on ufo sighting</span><span class="citation-popover-snippet">Jimmy Carter files report on UFO sightingNov 16, 2009 — Future President Jimmy Carter files a report with the International UFO Bu...</span></span></span>
 
-The report's survival also owes much to archival preservation. The original documentation is held within the holdings of the Jimmy Carter Presidential Library and is referenced by the US National Archives and Records Administration as part of its catalogue of presidential records relating to unidentified flying objects and unidentified anomalous phenomena (UAP). Rather than presenting the report as proof of extraordinary events, the National Archives preserves it as a historical government record documenting what a future president reported seeing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...This page provides a list of presidential records related t...</span></span></span>
+The report's survival also owes much to archival preservation. The original documentation is held within the holdings of the Jimmy Carter Presidential Library and is referenced by the US National Archives and Records Administration as part of its catalogue of presidential records relating to unidentified flying objects and unidentified anomalous phenomena (UAP). Rather than presenting the report as proof of extraordinary events, the National Archives preserves it as a historical government record documenting what a future president reported seeing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...This page provides a list of presidential records related t...</span></span></span>
 
 This archival status distinguishes Carter's case from many celebrity UFO stories. Researchers are not dependent solely on interviews or memoirs; they can examine the wording of the original report itself and compare later public statements with the preserved document.
 
@@ -305,11 +305,11 @@ This archival status distinguishes Carter's case from many celebrity UFO stories
 
 The [Carter sighting]({{ 'carter-sighting/' | relative_url }}) has never achieved consensus because several competing explanations remain plausible.
 
-The best-known sceptical explanation identifies the object as the planet Venus. Investigator Robert Sheaffer reconstructed Carter's likely viewing date and argued that Venus was exceptionally bright in the appropriate part of the evening sky. Bright planets near the horizon can appear to shimmer, change colour because of atmospheric effects, and seem to move relative to nearby objects when viewed under certain conditions, particularly if the observer is not using fixed reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
+The best-known sceptical explanation identifies the object as the planet Venus. Investigator Robert Sheaffer reconstructed Carter's likely viewing date and argued that Venus was exceptionally bright in the appropriate part of the evening sky. Bright planets near the horizon can appear to shimmer, change colour because of atmospheric effects, and seem to move relative to nearby objects when viewed under certain conditions, particularly if the observer is not using fixed reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">Identification studies of UFOs</span></span></span>
 
-Carter rejected that explanation. In later interviews he said he was familiar with the appearance of Venus, owned an amateur telescope and did not believe the object he observed matched the planet. He suggested instead that it may have been some form of [military]({{ 'military/' | relative_url }}) testing or another unknown aerial phenomenon, while stopping short of claiming it was an alien spacecraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5atlanta.com">[FOX 5 Atlanta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5atlanta.com</span><span class="citation-popover-title">jimmy carter ufo sighting</span><span class="citation-popover-snippet">Here&#x27;s what...Mar 23, 2023 — He said with certainty the object he saw was not Venus. Carter&#x27;s further interest in UFOs. In the documents...</span></span></span>
+Carter rejected that explanation. In later interviews he said he was familiar with the appearance of Venus, owned an amateur telescope and did not believe the object he observed matched the planet. He suggested instead that it may have been some form of [military]({{ 'military/' | relative_url }}) testing or another unknown aerial phenomenon, while stopping short of claiming it was an alien spacecraft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fox5atlanta.com">[FOX 5 Atlanta]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fox5atlanta.com</span><span class="citation-popover-title">jimmy carter ufo sighting</span><span class="citation-popover-snippet">Here&#x27;s what...Mar 23, 2023 — He said with certainty the object he saw was not Venus. Carter&#x27;s further interest in UFOs. In the documents...</span></span></span>
 
-Another proposed explanation links the observation to a high-altitude barium release associated with military rocket testing from Eglin Air Force Base. Supporters argue that illuminated chemical clouds can produce unusual glowing appearances and changing colours that resemble parts of Carter's description. This hypothesis has attracted attention in more recent technical discussions but has not become a universally accepted resolution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[Historic Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-title">jimmy carter ufo</span><span class="citation-popover-snippet">Historic MysteriesJimmy Carter, and his Encounter with a UFOOct 5, 2023 — One possible explanation for the UFO sighting has been that wha...</span></span></span>
+Another proposed explanation links the observation to a high-altitude barium release associated with military rocket testing from Eglin Air Force Base. Supporters argue that illuminated chemical clouds can produce unusual glowing appearances and changing colours that resemble parts of Carter's description. This hypothesis has attracted attention in more recent technical discussions but has not become a universally accepted resolution.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicmysteries.com">[Historic Mysteries]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicmysteries.com</span><span class="citation-popover-title">jimmy carter ufo</span><span class="citation-popover-snippet">Historic MysteriesJimmy Carter, and his Encounter with a UFOOct 5, 2023 — One possible explanation for the UFO sighting has been that wha...</span></span></span>
 
 What is notable is that every major explanation attempts to account for the same documented report rather than disputing whether Carter submitted one. The debate centres on interpretation of the observation, not on the authenticity of the archival record.
 
@@ -339,194 +339,194 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_carter_presidential_e632fc-Illustration-3-dark.svg" | relative_url }}" alt="Carter illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_carter_presidential_e632fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_public_figures_ufo_s_ca8d24_carter_presidential_e632fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Jimmy Carter&#x27;s UFO Report Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Jimmy Carter&#x27;s UFO Report Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical and scientific context for evaluating reported UFO sightings such as Jimmy Carter&#x27;s.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical and scientific context for evaluating reported UFO sightings such as Jimmy Carter&#x27;s.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Explains how official investigations assess unexplained aerial sightings and public reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official investigations assess unexplained aerial sightings and public reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on testimony from prominent and official witnesses, closely matching Carter&#x27;s documented report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on testimony from prominent and official witnesses, closely matching Carter&#x27;s documented report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers understand skeptical evaluation of eyewitness reports and astronomical explanations such as Venus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand skeptical evaluation of eyewitness reports and astronomical explanations such as Venus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="carter-what-jimmy-carter-s-ufo-report-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,106 +732,106 @@ For that reason, Carter's report occupies an unusual place in UFO history. It is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — In October 1969, the then-Governor of Georgia, Jimmy Carter, saw a UFO over...</p></details>
+   Link:<a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs?Feb 9, 2018 — In October 1969, the then-Governor of Georgia, Jimmy Carter, saw a UFO over...</p></details>
    Published: October 1969  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: carter files report on ufo sighting  
-   Link: <a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter files report on UFO sightingNov 16, 2009 — Future President Jimmy Carter files a report with the International UFO Bu...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-18/carter-files-report-on-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter files report on UFO sightingNov 16, 2009 — Future President Jimmy Carter files a report with the International UFO Bu...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Jimmy Carter UFO incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter UFO incidentJimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object whi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jimmy_Carter_UFO_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter UFO incidentJimmy Carter, United States president from 1977 until 1981, reported seeing an unidentified flying object whi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...This page provides a list of presidential records related t...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...This page provides a list of presidential records related t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fox5atlanta.com  
    Title: jimmy carter ufo sighting  
-   Link: <a href="https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what...Mar 23, 2023 — He said with certainty the object he saw was not Venus. Carter&#x27;s further interest in UFOs. In the documents...</p></details>
+   Link:<a href="https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/jimmy-carter-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what...Mar 23, 2023 — He said with certainty the object he saw was not Venus. Carter&#x27;s further interest in UFOs. In the documents...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveJimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other peopl...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/carter.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/carter.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveJimmy Carter&#x27;s UFO ReportLook at Carter&#x27;s answers to the questions and see if you think he and 10 other peopl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: historicmysteries.com  
    Title: jimmy carter ufo  
-   Link: <a href="https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesJimmy Carter, and his Encounter with a UFOOct 5, 2023 — One possible explanation for the UFO sighting has been that wha...</p></details>
+   Link:<a href="https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/jimmy-carter-ufo/36868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesJimmy Carter, and his Encounter with a UFOOct 5, 2023 — One possible explanation for the UFO sighting has been that wha...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: debunker.com  
-   Link: <a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>But it now turns out that there was something else visible at that place and time.Read more...</p></details>
+   Link:<a href="https://www.debunker.com/texts/carter_ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.debunker.com/texts/carter_ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But it now turns out that there was something else visible at that place and time.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: unilad.com  
    Title: president jimmy carter ufo sighting 272586 20240730  
-   Link: <a href="https://www.unilad.com/news/us-news/president-jimmy-carter-ufo-sighting-272586-20240730" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/us-news/president-jimmy-carter-ufo-sighting-272586-20240730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking true story of US president who reported seeing a...30 Jul 2024 — The 39th US President of the United States, Jimmy Carter, once...</p></details>
+   Link:<a href="https://www.unilad.com/news/us-news/president-jimmy-carter-ufo-sighting-272586-20240730" target="_blank" rel="noopener noreferrer nofollow">https://www.unilad.com/news/us-news/president-jimmy-carter-ufo-sighting-272586-20240730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shocking true story of US president who reported seeing a...30 Jul 2024 — The 39th US President of the United States, Jimmy Carter, once...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wgcu.org  
    Title: opinion when jimmy carter and i spoke about ufos  
-   Link: <a href="https://www.wgcu.org/2025-01-11/opinion-when-jimmy-carter-and-i-spoke-about-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wgcu.org/2025-01-11/opinion-when-jimmy-carter-and-i-spoke-about-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion: When Jimmy Carter and I spoke about UFOsJan 11, 2025 — I recalled that in 1973 when he was governor of Georgia, Jimmy Carter rep...</p></details>
+   Link:<a href="https://www.wgcu.org/2025-01-11/opinion-when-jimmy-carter-and-i-spoke-about-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.wgcu.org/2025-01-11/opinion-when-jimmy-carter-and-i-spoke-about-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion: When Jimmy Carter and I spoke about UFOsJan 11, 2025 — I recalled that in 1973 when he was governor of Georgia, Jimmy Carter rep...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: yahoo.com  
    Title: carters ufo hounded him years 103000604  
-   Link: <a href="https://www.yahoo.com/lifestyle/carters-ufo-hounded-him-years-103000604.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/lifestyle/carters-ufo-hounded-him-years-103000604.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carter&#x27;s UFO hounded him for years. Few knew his...Jan 4, 2025 — Though Carter never claimed to have spotted aliens or a flying saucer —...</p></details>
+   Link:<a href="https://www.yahoo.com/lifestyle/carters-ufo-hounded-him-years-103000604.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/lifestyle/carters-ufo-hounded-him-years-103000604.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carter&#x27;s UFO hounded him for years. Few knew his...Jan 4, 2025 — Though Carter never claimed to have spotted aliens or a flying saucer —...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: vocal.media  
    Title: How Can Venus Be a UFO? | Futurism  
-   Link: <a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A celebrated UFO report, widely publicized in the 1970s, is Jimmy Carter&#x27;s sighting in Georgia, before he was governor. Hundre...</p></details>
+   Link:<a href="https://vocal.media/futurism/how-can-venus-be-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/how-can-venus-be-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A celebrated UFO report, widely publicized in the 1970s, is Jimmy Carter&#x27;s sighting in Georgia, before he was governor. Hundre...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: <a href="http://www.youtube.com/watch?v=zck77_0lRiI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zck77_0lRiI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter UFO sighting presidential archives President Jimmy Carter&#x27;s ASTONISHING UFO Sighting (Season 2) | UFO Files | The UnXplained...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zck77_0lRiI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zck77_0lRiI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter UFO sighting presidential archives President Jimmy Carter&#x27;s ASTONISHING UFO Sighting (Season 2) | UFO Files | The UnXplained...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: retroculturati.com  
    Title: the darndest thing ive ever seen  
-   Link: <a href="https://retroculturati.com/2016/09/18/the-darndest-thing-ive-ever-seen/" target="_blank" rel="noopener noreferrer nofollow">https://retroculturati.com/2016/09/18/the-darndest-thing-ive-ever-seen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Darndest Thing I&#x27;ve Ever Seen”...Sep 18, 2016 — In 1973 future thirty ninth American President Jimmy Carter filed a report with the...</p></details>
+   Link:<a href="https://retroculturati.com/2016/09/18/the-darndest-thing-ive-ever-seen/" target="_blank" rel="noopener noreferrer nofollow">https://retroculturati.com/2016/09/18/the-darndest-thing-ive-ever-seen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“The Darndest Thing I&#x27;ve Ever Seen”...Sep 18, 2016 — In 1973 future thirty ninth American President Jimmy Carter filed a report with the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSISgAgdyH0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aSISgAgdyH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aSISgAgdyH0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 4 UFO Sightings AROUND THE WORLD! | The Proof Is Out...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=GUqx8yzE5kk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GUqx8yzE5kk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - President Jimmy Carter on UFOs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GUqx8yzE5kk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GUqx8yzE5kk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book - President Jimmy Carter on UFOs...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/1341703682541178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/1341703682541178/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter&#x27;s 1969 UFO. President...An intriguing possibility - Jimmy Carter&#x27;s UFO sighting may have been a Barium space cloud. Jimmy C...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/1341703682541178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/1341703682541178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Carter&#x27;s 1969 UFO. President...An intriguing possibility - Jimmy Carter&#x27;s UFO sighting may have been a Barium space cloud. Jimmy C...</p></details>

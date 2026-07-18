@@ -452,27 +452,27 @@ Believing that aliens may exist is not the same as [reporting]({{ 'reporting/' |
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-overview.webp" | relative_url }}" alt="Overview image for Belief vs Sight" loading="eager" decoding="sync" fetchpriority="high">
-The difference matters because the strongest official and scientific language is careful: NASA says it has not found credible evidence of extraterrestrial life and that there is no evidence UAP are extraterrestrial, while the Pentagon’s AARO historical review found no verifiable evidence that past UFO or UAP investigations confirmed extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Celebrity stories can still be culturally significant, but their evidential value depends on what kind of claim is actually being made.
+The difference matters because the strongest official and scientific language is careful: NASA says it has not found credible evidence of extraterrestrial life and that there is no evidence UAP are extraterrestrial, while the Pentagon’s AARO historical review found no verifiable evidence that past UFO or UAP investigations confirmed extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> Celebrity stories can still be culturally significant, but their evidential value depends on what kind of claim is actually being made.
 
 ## The basic split: alien belief versus UFO evidence
 
 The easiest way to read celebrity alien [headlines]({{ 'headlines/' | relative_url }}) is to separate three different claims that often get blended together.
 
-First, there is **general belief in extraterrestrial life**. This is the mildest and most common claim. It usually means the person thinks life exists somewhere beyond Earth because the universe is vast, because many planets exist, or because it feels unlikely that Earth is unique. Halle Berry’s 2014 comments on *Late Show with David Letterman* fit this category: she said she did not believe humanity was the only species in existence and thought other life was “out there”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">halle berry tells david letterman 717089</span><span class="citation-popover-snippet">The &quot;Extant&quot; star also spilled the beans about her character&#x27;s pregnancy in...Read more...</span></span></span> That is a belief about cosmic probability, not a claim that she saw a spacecraft.
+First, there is **general belief in extraterrestrial life**. This is the mildest and most common claim. It usually means the person thinks life exists somewhere beyond Earth because the universe is vast, because many planets exist, or because it feels unlikely that Earth is unique. Halle Berry’s 2014 comments on *Late Show with David Letterman* fit this category: she said she did not believe humanity was the only species in existence and thought other life was “out there”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">halle berry tells david letterman 717089</span><span class="citation-popover-snippet">The &quot;Extant&quot; star also spilled the beans about her character&#x27;s pregnancy in...Read more...</span></span></span> That is a belief about cosmic probability, not a claim that she saw a spacecraft.
 
-Second, there is **belief that some UFOs may be alien craft**. This is stronger. It moves from “life may exist somewhere” to “some unidentified things in Earth’s skies may be visitors”. Polling shows that this is a separate public attitude: Gallup found in 2021 that 41% of US adults thought at least some UFO sightings involved alien spacecraft, while half still thought all sightings could be explained by human activity or natural phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">larger minority says ufos alien spacecraft.aspx</span><span class="citation-popover-snippet">larger minority says ufos alien spacecraft.aspx</span></span></span>
+Second, there is **belief that some UFOs may be alien craft**. This is stronger. It moves from “life may exist somewhere” to “some unidentified things in Earth’s skies may be visitors”. Polling shows that this is a separate public attitude: Gallup found in 2021 that 41% of US adults thought at least some UFO sightings involved alien spacecraft, while half still thought all sightings could be explained by human activity or natural phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">larger minority says ufos alien spacecraft.aspx</span><span class="citation-popover-snippet">larger minority says ufos alien spacecraft.aspx</span></span></span>
 
-Third, there is a **personal sighting claim**. This means the person says they saw something unusual themselves. John Lennon’s 1974 New York sighting is a classic celebrity example: he and [May Pang]({{ 'may-pang/' | relative_url }}) reported seeing an unidentified object over the city, and Lennon later referenced the event in the *Walls and Bridges* album material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">john lennon sees ufo new york city</span><span class="citation-popover-snippet">john lennon sees ufo new york city</span></span></span> That is more specific than a belief in aliens, but still not the same as verified evidence of alien technology.
+Third, there is a **personal sighting claim**. This means the person says they saw something unusual themselves. John Lennon’s 1974 New York sighting is a classic celebrity example: he and [May Pang]({{ 'may-pang/' | relative_url }}) reported seeing an unidentified object over the city, and Lennon later referenced the event in the *Walls and Bridges* album material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">john lennon sees ufo new york city</span><span class="citation-popover-snippet">john lennon sees ufo new york city</span></span></span> That is more specific than a belief in aliens, but still not the same as verified evidence of alien technology.
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-Illustration-1-dark.svg" | relative_url }}" alt="Belief vs Sight illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## General belief claims are often reasonable, but they prove little
 
-Many celebrity alien comments are really statements of openness. “The universe is too big for us to be alone” is not a fringe evidential claim; it is a common intuition also found in mainstream polling. Pew Research Center reported in 2021 that most Americans believed intelligent life exists beyond Earth, while only a small minority saw UFOs as a major national security threat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Open source on pewresearch.org.</span></span></span> CBS News polling in June 2026 similarly found that most Americans believed extraterrestrial life exists, though the stronger claim that alien life is already here drew less support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
+Many celebrity alien comments are really statements of openness. “The universe is too big for us to be alone” is not a fringe evidential claim; it is a common intuition also found in mainstream polling. Pew Research Center reported in 2021 that most Americans believed intelligent life exists beyond Earth, while only a small minority saw UFOs as a major national security threat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Open source on pewresearch.org.</span></span></span> CBS News polling in June 2026 similarly found that most Americans believed extraterrestrial life exists, though the stronger claim that alien life is already here drew less support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">Open source on cbsnews.com.</span></span></span>
 
 That gap is the whole point. Belief in alien life can rest on scale: billions of galaxies, vast numbers of stars, and an expanding catalogue of planets beyond the Solar System. A person can think life elsewhere is likely while also doubting that alien [pilots]({{ 'pilots/' | relative_url }}) have crossed interstellar distances to appear as ambiguous lights over Earth.
 
-Barack Obama’s 2026 clarification after joking that aliens were “real” is a useful non-celebrity-adjacent example because it states the distinction plainly. He explained that, statistically, the universe is vast enough to make life elsewhere plausible, but that the distances between solar systems make visits unlikely and that he saw no evidence during his presidency of extraterrestrial contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2026/02/16/obama-aliens-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Aliens are &#x27;real,&#x27; Obama says, as Washington shrugs</span><span class="citation-popover-snippet">This muted reaction reflects a changing cultural and political landscape where belief in extraterrestrial life is more mainstream. Polls...</span></span></span> That is almost the cleanest possible version of the split: belief in alien life, no claim of alien visitation, and no personal sighting.
+Barack Obama’s 2026 clarification after joking that aliens were “real” is a useful non-celebrity-adjacent example because it states the distinction plainly. He explained that, statistically, the universe is vast enough to make life elsewhere plausible, but that the distances between solar systems make visits unlikely and that he saw no evidence during his presidency of extraterrestrial contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.washingtonpost.com/politics/2026/02/16/obama-aliens-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Aliens are &#x27;real,&#x27; Obama says, as Washington shrugs</span><span class="citation-popover-snippet">This muted reaction reflects a changing cultural and political landscape where belief in extraterrestrial life is more mainstream. Polls...</span></span></span> That is almost the cleanest possible version of the split: belief in alien life, no claim of alien visitation, and no personal sighting.
 
 In celebrity culture, however, the softer claim is often made to look stronger. A headline about “celebrities who believe in aliens” may include people who simply speculate about life elsewhere, people who say they saw a UFO, people who promote [UFO documentaries]({{ 'documentaries/' | relative_url }}), and people who speak in spiritual or paranormal terms. The reader sees one list, but the evidence categories are not equal.
 
@@ -483,9 +483,9 @@ In celebrity culture, however, the softer claim is often made to look stronger. 
 
 A personal UFO sighting deserves to be read as a testimony claim, not as a belief claim. The question becomes: what exactly was seen, who else saw it, when was it reported, was there a photo or sensor record, and were ordinary explanations checked?
 
-John Lennon’s 1974 story is vivid because it has a date, a place, a second named witness in May Pang, and a trace in Lennon’s own creative record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">john lennon sees ufo new york city</span><span class="citation-popover-snippet">john lennon sees ufo new york city</span></span></span> Those features make it a memorable anecdote. They do not make it a scientific case. Without independent instrument data, a clear image, air-traffic corroboration, or multiple separately documented witness reports tied to the same object, the evidential ceiling remains low.
+John Lennon’s 1974 story is vivid because it has a date, a place, a second named witness in May Pang, and a trace in Lennon’s own creative record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">john lennon sees ufo new york city</span><span class="citation-popover-snippet">john lennon sees ufo new york city</span></span></span> Those features make it a memorable anecdote. They do not make it a scientific case. Without independent instrument data, a clear image, air-traffic corroboration, or multiple separately documented witness reports tied to the same object, the evidential ceiling remains low.
 
-The same applies when modern stars describe “UFO” experiences in interviews. A sighting may be sincere and still not be diagnostic. Human observers can misjudge distance, altitude, speed and size, especially at night or when an object lacks a clear reference point. That is why NASA’s public UAP material stresses data quality and says unexplained observations are not, by themselves, evidence of extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The same applies when modern stars describe “UFO” experiences in interviews. A sighting may be sincere and still not be diagnostic. Human observers can misjudge distance, altitude, speed and size, especially at night or when an object lacks a clear reference point. That is why NASA’s public UAP material stresses data quality and says unexplained observations are not, by themselves, evidence of extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 This does not mean witnesses are lying. It means “unidentified” is a temporary status, not a conclusion. A celebrity may be accurately reporting that they could not identify something. The leap from “I could not identify it” to “therefore it was alien” is an interpretation layered on top of the sighting.
 
@@ -499,7 +499,7 @@ There are three common mechanisms behind the confusion.
 
 **The word “alien” does too much work.** It can mean microbial life on a distant moon, intelligent life somewhere in the galaxy, non-human visitors to Earth, or beings involved in abduction folklore. A celebrity may mean the first or second, while a headline nudges readers towards the third.
 
-**The word “UFO” is treated as if it means spacecraft.** Officially and logically, a UFO or UAP is unidentified; it is not automatically extraterrestrial. NASA’s FAQ states that there is no evidence UAP are extraterrestrial, and AARO’s 2024 historical report said it found no evidence that US government or academic investigations validated sightings as extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+**The word “UFO” is treated as if it means spacecraft.** Officially and logically, a UFO or UAP is unidentified; it is not automatically extraterrestrial. NASA’s FAQ states that there is no evidence UAP are extraterrestrial, and AARO’s 2024 historical report said it found no evidence that US government or academic investigations validated sightings as extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 **Belief, experience and advocacy get mixed together.** Tom DeLonge, for example, matters in UFO culture not simply because he is a famous musician, but because he helped push UAP material and disclosure politics into mainstream entertainment and media discussion. That is a cultural role, not the same thing as providing direct proof of alien craft.
 
@@ -518,9 +518,9 @@ If the claim is **“I saw something I could not explain”**, treat it as testi
 
 If the claim is **“I saw alien spacecraft”**, look for the missing step. Did the person explain why the object was not a drone, aircraft, balloon, satellite, meteor, reflection or optical illusion? The more extraordinary the interpretation, the more support it needs.
 
-If the claim is **“the government knows”**, separate public distrust from evidence. Gallup found in 2019 that many Americans believed the US government knew more about UFOs than it was saying, but that belief is not the same as proof that alien material exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans skeptical ufos say government knows.aspx</span><span class="citation-popover-snippet">americans skeptical ufos say government knows.aspx</span></span></span>
+If the claim is **“the government knows”**, separate public distrust from evidence. Gallup found in 2019 that many Americans believed the US government knew more about UFOs than it was saying, but that belief is not the same as proof that alien material exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">americans skeptical ufos say government knows.aspx</span><span class="citation-popover-snippet">americans skeptical ufos say government knows.aspx</span></span></span>
 
-If the claim appears in a **celebrity list**, check whether the article is mixing categories. Business Insider’s roundup, for instance, places general alien belief, UFO belief and first-person sightings in one entertainment format, which is useful for pop-culture browsing but not for weighing evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider13 celebrities who say they believe in aliens or UFOs</span><span class="citation-popover-snippet">Business Insider13 celebrities who say they believe in aliens or UFOs</span></span></span>
+If the claim appears in a **celebrity list**, check whether the article is mixing categories. Business Insider’s roundup, for instance, places general alien belief, UFO belief and first-person sightings in one entertainment format, which is useful for pop-culture browsing but not for weighing evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/stars-who-believe-in-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider13 celebrities who say they believe in aliens or UFOs</span><span class="citation-popover-snippet">Business Insider13 celebrities who say they believe in aliens or UFOs</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-Illustration-3-dark.svg" | relative_url }}" alt="Belief vs Sight illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -537,194 +537,194 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Believing in Aliens Is Not a UFO Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Believing in Aliens Is Not a UFO Sighting. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Gives readers a framework for classifying sightings without conflating them with alien belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers a framework for classifying sightings without conflating them with alien belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers examples of sighting claims that can be compared with general belief statements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers examples of sighting claims that can be compared with general belief statements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports the broad philosophical question of life in a vast universe without claiming UFO proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the broad philosophical question of life in a vast universe without claiming UFO proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Perfectly supports the distinction between belief, evidence, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Perfectly supports the distinction between belief, evidence, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="belief-vs-sight-believing-in-aliens-is-not-a-ufo-sighting-ufos-and-celebrities-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,206 +930,206 @@ In the celebrity-UFO world, the most reliable reading habit is simple: ask wheth
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 —... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs...</p></details>
    Published: May 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: news.gallup.com  
    Title: larger minority says ufos alien spacecraft.aspx  
-   Link: <a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/353420/larger-minority-says-ufos-alien-spacecraft.aspx</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.gallup.com  
    Title: americans believe ufos.aspx  
-   Link: <a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/350096/americans-believe-ufos.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/350096/americans-believe-ufos.aspx</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.gallup.com  
    Title: americans skeptical ufos say government knows.aspx  
-   Link: <a href="https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx</a>  
+   Link:<a href="https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.gallup.com  
-   Link: <a href="https://news.gallup.com/topic/science.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/science.aspx</a>  
+   Link:<a href="https://news.gallup.com/topic/science.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/science.aspx</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pew.org  
-   Link: <a href="https://www.pew.org/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/</a>  
+   Link:<a href="https://www.pew.org/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Dr Jon Kosloski Statement for the Record SASC Open Hearing Nov2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: culture.pl  
-   Link: <a href="https://culture.pl/en/article/the-secret-connection-between-keanu-reeves-ufos-and-polish-sci-fi" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/the-secret-connection-between-keanu-reeves-ufos-and-polish-sci-fi</a>  
+   Link:<a href="https://culture.pl/en/article/the-secret-connection-between-keanu-reeves-ufos-and-polish-sci-fi" target="_blank" rel="noopener noreferrer nofollow">https://culture.pl/en/article/the-secret-connection-between-keanu-reeves-ufos-and-polish-sci-fi</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hollywoodreporter.com  
    Title: halle berry tells david letterman 717089  
-   Link: <a href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Extant&quot; star also spilled the beans about her character&#x27;s pregnancy in...Read more...</p></details>
+   Link:<a href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Extant&quot; star also spilled the beans about her character&#x27;s pregnancy in...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: beatlesbible.com  
    Title: john lennon sees ufo new york city  
-   Link: <a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
+   Link:<a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/</a>  
+   Link:<a href="https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/americans-believe-extraterrestrial-life-exists-opinion-poll/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Aliens are 'real,' Obama says, as Washington shrugs  
-   Link: <a href="https://www.washingtonpost.com/politics/2026/02/16/obama-aliens-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2026/02/16/obama-aliens-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This muted reaction reflects a changing cultural and political landscape where belief in extraterrestrial life is more mainstream. Polls...</p></details>
+   Link:<a href="https://www.washingtonpost.com/politics/2026/02/16/obama-aliens-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/politics/2026/02/16/obama-aliens-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This muted reaction reflects a changing cultural and political landscape where belief in extraterrestrial life is more mainstream. Polls...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: businessinsider.com  
    Title: Business Insider13 celebrities who say they believe in aliens or UFOs  
-   Link: <a href="https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11</a>  
+   Link:<a href="https://www.businessinsider.com/stars-who-believe-in-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stars-who-believe-in-aliens</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: yougov.com  
-   Link: <a href="https://yougov.com/en-us/topics/topic/UFOs" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/topics/topic/UFOs</a>  
+   Link:<a href="https://yougov.com/en-us/topics/topic/UFOs" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/topics/topic/UFOs</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pewresearch/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/</a>  
+   Link:<a href="https://www.facebook.com/pewresearch/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/</a>  
+   Link:<a href="https://www.pewresearch.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/topic/science/science-issues/space/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/science/science-issues/space/</a>  
+   Link:<a href="https://www.pewresearch.org/topic/science/science-issues/space/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/science/science-issues/space/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/staff/arnold-lau/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/arnold-lau/</a>  
+   Link:<a href="https://www.pewresearch.org/staff/arnold-lau/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/arnold-lau/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/formats/short-read/page/101/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/formats/short-read/page/101/</a>  
+   Link:<a href="https://www.pewresearch.org/formats/short-read/page/101/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/formats/short-read/page/101/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/staff/courtney-kennedy/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/courtney-kennedy/page/2/</a>  
+   Link:<a href="https://www.pewresearch.org/staff/courtney-kennedy/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/staff/courtney-kennedy/page/2/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cbsnews.com  
    Title: obama aliens odds real no evidence contact president  
-   Link: <a href="https://www.cbsnews.com/news/obama-aliens-odds-real-no-evidence-contact-president/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/obama-aliens-odds-real-no-evidence-contact-president/</a>  
+   Link:<a href="https://www.cbsnews.com/news/obama-aliens-odds-real-no-evidence-contact-president/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/obama-aliens-odds-real-no-evidence-contact-president/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: johnlennon.com  
    Title: Walls And Bridges  
-   Link: <a href="https://www.johnlennon.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/[music</a>  
+   Link:<a href="https://www.johnlennon.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/[music</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: washingtonpost.com  
    Title: religious americans intelligent life ufos  
-   Link: <a href="https://www.washingtonpost.com/religion/2021/08/19/religious-americans-intelligent-life-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/religion/2021/08/19/religious-americans-intelligent-life-ufos/</a>  
+   Link:<a href="https://www.washingtonpost.com/religion/2021/08/19/religious-americans-intelligent-life-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/religion/2021/08/19/religious-americans-intelligent-life-ufos/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: washingtonpost.com  
    Title: nasa ufo report uap panel  
-   Link: <a href="https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/</a>  
+   Link:<a href="https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/national-security/2023/09/14/nasa-ufo-report-uap-panel/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nickiswift.com  
    Title: celebrities who believe in aliens  
-   Link: <a href="https://www.nickiswift.com/276643/celebrities-who-believe-in-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.nickiswift.com/276643/celebrities-who-believe-in-aliens/</a>  
+   Link:<a href="https://www.nickiswift.com/276643/celebrities-who-believe-in-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.nickiswift.com/276643/celebrities-who-believe-in-aliens/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NBC10Boston/status/2040634470135386214" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NBC10Boston/status/2040634470135386214</a>  
+   Link:<a href="https://x.com/NBC10Boston/status/2040634470135386214" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NBC10Boston/status/2040634470135386214</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Pew Research Center  
-   Link: <a href="https://en.wikipedia.org/wiki/Pew_Research_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pew_Research_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pew_Research_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pew_Research_Center</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: time.com  
-   Link: <a href="https://time.com/2965625/halle-berry-aliens-extant/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2965625/halle-berry-aliens-extant/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Berry expressed her view that humanity is not the sole species in existence and predicted that discovering other life forms might take ar...</p></details>
+   Link:<a href="https://time.com/2965625/halle-berry-aliens-extant/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/2965625/halle-berry-aliens-extant/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Berry expressed her view that humanity is not the sole species in existence and predicted that discovering other life forms might take ar...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, Obama later clarified on Instagram that he had no evidence of alien contact during his presidency and was merely engaging in the...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2026/feb/16/barack-obama-no-evidence-aliens-real-interview-podcast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, Obama later clarified on Instagram that he had no evidence of alien contact during his presidency and was merely engaging in the...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discovered...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qUKEvSeGOMY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qUKEvSeGOMY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Unlocked: Inside the Pentagon&#x27;s secret files | This Is America...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: UFOs Unlocked: Inside the Pentagon's secret files | This Is America  
-   Link: <a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Superior tech or otherworldly spacecraft? | Newsmaker...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BSItX-WvGQ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: Superior tech or otherworldly spacecraft? | Newsmaker...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: UFO Spoofing & Spycraft | Eric Haseltine  
-   Link: <a href="https://www.youtube.com/watch?v=4dyp_00aeDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4dyp_00aeDA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Most UFO sightings are explainable but…&#x27;: Pentagon AARO chief tells Senate Armed Services Committee...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4dyp_00aeDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4dyp_00aeDA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Most UFO sightings are explainable but…&#x27;: Pentagon AARO chief tells Senate Armed Services Committee...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: UFOs: Superior tech or otherworldly spacecraft? | Newsmaker  
-   Link: <a href="https://www.youtube.com/watch?v=-InLWB4fkcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-InLWB4fkcQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Report Sparks Serious Talk And Debate In D.C...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-InLWB4fkcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-InLWB4fkcQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Report Sparks Serious Talk And Debate In D.C...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1gijgzs/matrix_star_keanu_reeves_also_believes_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1gijgzs/matrix_star_keanu_reeves_also_believes_that_the/</a>  
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/1gijgzs/matrix_star_keanu_reeves_also_believes_that_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1gijgzs/matrix_star_keanu_reeves_also_believes_that_the/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/</a>  
+   Link:<a href="https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/06/11/us-news/1-in-5-americans-believe-aliens-are-already-among-us-out-of-this-world-poll-says/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ipsos.com  
-   Link: <a href="https://www.ipsos.com/en-us/news-polls/americans-believe-crashed-ufo-spacecrafts-held-at-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.ipsos.com/en-us/news-polls/americans-believe-crashed-ufo-spacecrafts-held-at-area-51</a>  
+   Link:<a href="https://www.ipsos.com/en-us/news-polls/americans-believe-crashed-ufo-spacecrafts-held-at-area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.ipsos.com/en-us/news-polls/americans-believe-crashed-ufo-spacecrafts-held-at-area-51</a>  

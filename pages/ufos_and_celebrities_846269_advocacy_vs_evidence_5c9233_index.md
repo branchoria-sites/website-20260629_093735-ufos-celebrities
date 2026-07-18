@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-advocacy/
 description: Focused pages that expand on Advocacy.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233
 parent_title: Advocacy
@@ -16,7 +16,7 @@ parent_permalink: /advocacy/
 
 # Explore Topics in Advocacy
 
-The following pages expand on the main **[Advocacy]({{ '/advocacy/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Advocacy]({{ '/advocacy/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Cases]({{ '/aaro-cases/' | relative_url }})
 - [Careful Advocacy]({{ '/careful-advocacy/' | relative_url }})

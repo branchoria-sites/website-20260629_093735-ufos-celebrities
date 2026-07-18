@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_al
 
 ## Introduction
 
-Few songs have done more to fuse pop-punk with UFO culture than Blink-182's **“Aliens Exist”**. Released on *Enema of the State* in 1999, the track began as a fast, humorous anthem about government secrecy and extraterrestrials, complete with tongue-in-cheek lyrics and adolescent energy. Yet beneath the jokes lay something genuine: guitarist and vocalist Tom DeLonge had long been fascinated by UFO reports, conspiracy literature and the possibility of non-human intelligence. Over the following two decades, that fascination grew far beyond a single song, transforming DeLonge into one of the most recognisable celebrity advocates for public discussion of unidentified aerial phenomena (UAPs). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">Tom De Longe Has Something Very Important to Tell You</span><span class="citation-popover-snippet">Aliens Exist,” a track inspired by DeLonge&#x27;s interest in all things extraterrestrial. A lot has changed since then. Tom parted ways with...</span></span></span>
+Few songs have done more to fuse pop-punk with UFO culture than Blink-182's **“Aliens Exist”**. Released on *Enema of the State* in 1999, the track began as a fast, humorous anthem about government secrecy and extraterrestrials, complete with tongue-in-cheek lyrics and adolescent energy. Yet beneath the jokes lay something genuine: guitarist and vocalist Tom DeLonge had long been fascinated by UFO reports, conspiracy literature and the possibility of non-human intelligence. Over the following two decades, that fascination grew far beyond a single song, transforming DeLonge into one of the most recognisable celebrity advocates for public discussion of unidentified aerial phenomena (UAPs).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">Tom De Longe Has Something Very Important to Tell You</span><span class="citation-popover-snippet">Aliens Exist,” a track inspired by DeLonge&#x27;s interest in all things extraterrestrial. A lot has changed since then. Tom parted ways with...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_aliens_exist_gateway_de63b4-Illustration-1-dark.svg" | relative_url }}" alt="Aliens Exist illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_aliens_exist_gateway_de63b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_aliens_exist_gateway_de63b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ The importance of “Aliens Exist” is therefore not that it offered evidence f
 
 ## The song's mix of humour and sincere belief
 
-At first listen, “Aliens Exist” sounds like classic Blink-182: energetic guitars, irreverent humour and exaggerated storytelling. DeLonge even introduced the song jokingly during live performances, reinforcing the band's reputation for toilet humour and playful stage banter. That comedic framing made the subject approachable rather than frightening. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">Tom De Longe Has Something Very Important to Tell You</span><span class="citation-popover-snippet">Aliens Exist,” a track inspired by DeLonge&#x27;s interest in all things extraterrestrial. A lot has changed since then. Tom parted ways with...</span></span></span>
+At first listen, “Aliens Exist” sounds like classic Blink-182: energetic guitars, irreverent humour and exaggerated storytelling. DeLonge even introduced the song jokingly during live performances, reinforcing the band's reputation for toilet humour and playful stage banter. That comedic framing made the subject approachable rather than frightening.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">Tom De Longe Has Something Very Important to Tell You</span><span class="citation-popover-snippet">Aliens Exist,” a track inspired by DeLonge&#x27;s interest in all things extraterrestrial. A lot has changed since then. Tom parted ways with...</span></span></span>
 
 However, the lyrics reveal that the song was never purely a joke. References to secret government knowledge, hidden truths and disbelief from others reflected ideas that DeLonge has repeatedly said genuinely interested him. Rather than presenting a fictional science-fiction story, the song expresses curiosity about claims already circulating within UFO culture.
 
@@ -309,14 +309,14 @@ That evolution distinguishes "Aliens Exist" from novelty songs about little gree
 
 For many artists, an unusual lyrical theme remains confined to an album. DeLonge instead built an increasingly public identity around the subject.
 
-During the 2000s he spoke more openly in interviews about reading UFO literature, following [military]({{ 'military/' | relative_url }}) reports and believing governments possessed information that had not been shared publicly. These comments initially attracted [ridicule]({{ 'ridicule/' | relative_url }}) from parts of the music press because they sat awkwardly beside Blink-182's image as a carefree pop-punk band. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/rock/tom-delonge-ufo-timeline-8071145/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">tom delonge ufo timeline 8071145</span><span class="citation-popover-snippet">The Truth Is Out There: Tom DeLonge Quit Blink-182 to Focus on UFOs.Read more...</span></span></span>
+During the 2000s he spoke more openly in interviews about reading UFO literature, following [military]({{ 'military/' | relative_url }}) reports and believing governments possessed information that had not been shared publicly. These comments initially attracted [ridicule]({{ 'ridicule/' | relative_url }}) from parts of the music press because they sat awkwardly beside Blink-182's image as a carefree pop-punk band.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/rock/tom-delonge-ufo-timeline-8071145/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">tom delonge ufo timeline 8071145</span><span class="citation-popover-snippet">The Truth Is Out There: Tom DeLonge Quit Blink-182 to Focus on UFOs.Read more...</span></span></span>
 
 After leaving Blink-182 in 2015, DeLonge expanded that interest into a broader programme rather than simply repeating personal beliefs. His projects included:
 
 * the *Sekret Machines* book series blending fiction with claimed research;
 * the creation of **[To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) of Arts & Science**, intended to combine entertainment, publishing and aerospace interests;
 * television productions focused on military UAP investigations; and
-* collaborations with former defence and intelligence officials interested in greater public discussion of unidentified aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esquire.com/entertainment/music/q-and-a/a43594/tom-delonge-blink-182-sekret-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esquire.com">[Esquire+2Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esquire.com</span><span class="citation-popover-title">tom delonge blink 182 sekret machines</span><span class="citation-popover-snippet">Tom Delonge&#x27;s Post-Blink-182 Life: UFOs and Secret...4 Apr 2016 — The musician&#x27;s talks about his new project, Sekret Machines, an...</span></span></span>
+* collaborations with former defence and intelligence officials interested in greater public discussion of unidentified aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esquire.com/entertainment/music/q-and-a/a43594/tom-delonge-blink-182-sekret-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esquire.com">[Esquire+2Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esquire.com</span><span class="citation-popover-title">tom delonge blink 182 sekret machines</span><span class="citation-popover-snippet">Tom Delonge&#x27;s Post-Blink-182 Life: UFOs and Secret...4 Apr 2016 — The musician&#x27;s talks about his new project, Sekret Machines, an...</span></span></span>
 
 Although opinions differ sharply on DeLonge's conclusions, there is little dispute that he succeeded in moving from musician to high-profile participant in contemporary UAP discussions.
 
@@ -328,9 +328,9 @@ Although opinions differ sharply on DeLonge's conclusions, there is little dispu
 
 Many musicians use extraterrestrial imagery metaphorically. David Bowie employed alien identity as theatre, while Parliament-Funkadelic turned space travel into mythology and performance. DeLonge instead treated the subject as something deserving investigation outside [music]({{ 'music/' | relative_url }}).
 
-That distinction matters because his later work entered conversations involving journalists, former military personnel and government transparency debates. His celebrity status helped attract attention that might otherwise have remained confined to specialist UFO communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsTom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blink...5 Sept 2020 — Tom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blin...</span></span></span>
+That distinction matters because his later work entered conversations involving journalists, former military personnel and government transparency debates. His celebrity status helped attract attention that might otherwise have remained confined to specialist UFO communities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsTom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blink...5 Sept 2020 — Tom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blin...</span></span></span>
 
-At the same time, celebrity influence should not be confused with evidence. DeLonge has consistently argued that governments possess important information about UAPs, but many of his broader claims remain disputed or unverified. Official investigations have acknowledged that some aerial incidents remain unidentified while not concluding they represent extraterrestrial technology. His role is therefore best understood as an advocate for investigation rather than as someone who has conclusively demonstrated alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsTom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blink...5 Sept 2020 — Tom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blin...</span></span></span>
+At the same time, celebrity influence should not be confused with evidence. DeLonge has consistently argued that governments possess important information about UAPs, but many of his broader claims remain disputed or unverified. Official investigations have acknowledged that some aerial incidents remain unidentified while not concluding they represent extraterrestrial technology. His role is therefore best understood as an advocate for investigation rather than as someone who has conclusively demonstrated alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsTom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blink...5 Sept 2020 — Tom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blin...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sWOxh33kPn8" title="Tom DeLonge Talks UFOs and New Album, &quot;Lifeforms&quot; | At Home and Social" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sWOxh33kPn8" target="_blank" rel="noopener noreferrer">Tom DeLonge Talks UFOs and New Album, &quot;Lifeforms&quot; | At Home and Social</a></p><p class="youtube-embed-meta">Channel: AXS TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sWOxh33kPn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sWOxh33kPn8">Open on YouTube</a></p></div></div></div>
@@ -341,7 +341,7 @@ The lasting significance of "Aliens Exist" lies less in its chart performance th
 
 When it appeared in 1999, listeners largely heard it as another eccentric Blink-182 song. As DeLonge's public profile shifted, it acquired retrospective meaning. Fans began to see it as the opening chapter in a much larger story about one musician's long-term commitment to a controversial subject.
 
-That retrospective reading has become part of Blink-182's own live history. Performances of the song are now often received with an awareness of DeLonge's subsequent career, and media coverage has frequently linked renewed public attention to UAP hearings and government disclosures back to the track that first introduced his fascination with the topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">During Blink-182&#x27;s current reunion tour, fellow band member Mark Hoppus acknowledges DeLonge&#x27;s correctness before performing their song &quot;...</span></span></span>
+That retrospective reading has become part of Blink-182's own live history. Performances of the song are now often received with an awareness of DeLonge's subsequent career, and media coverage has frequently linked renewed public attention to UAP hearings and government disclosures back to the track that first introduced his fascination with the topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">During Blink-182&#x27;s current reunion tour, fellow band member Mark Hoppus acknowledges DeLonge&#x27;s correctness before performing their song &quot;...</span></span></span>
 
 Within the broader history of musicians engaging with UFO themes, this trajectory is unusually clear. Rather than merely borrowing extraterrestrial imagery for artistic effect, DeLonge allowed one song to become the starting point for an enduring public identity—moving from playful pop-punk lyrics into sustained advocacy that continues to shape how many people associate celebrities with the modern UAP conversation.
 
@@ -349,162 +349,162 @@ Within the broader history of musicians engaging with UFO themes, this trajector
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_aliens_exist_gateway_de63b4-Illustration-3-dark.svg" | relative_url }}" alt="Aliens Exist illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_aliens_exist_gateway_de63b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_aliens_exist_gateway_de63b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Aliens Exist Became a UFO Gateway. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Aliens Exist Became a UFO Gateway. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Connects to contemporary UAP advocacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects to contemporary UAP advocacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Background reading for DeLonge&#x27;s interests.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Background reading for DeLonge&#x27;s interests.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines Book 1: Chasing Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zRbXCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sekret Machines Book 1: Chasing Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines Book 1: Chasing Shadows">Sekret Machines Book 1: Chasing Shadows</a>
-        </h4>
-        <p class="fr-book-author">By Tom DeLonge, A.J. Hartley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines Book 1: Chasing Shadows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zRbXCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sekret Machines Book 1: Chasing Shadows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines Book 1: Chasing Shadows">Sekret Machines Book 1: Chasing Shadows</a>
+</h4>
+<p class="fr-book-author">By Tom DeLonge, A.J. Hartley</p>
         
-        <p class="fr-book-desc">Part of DeLonge&#x27;s wider UFO-focused project.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Part of DeLonge&#x27;s wider UFO-focused project.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
-        </h4>
-        <p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
+</h4>
+<p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
         
-        <p class="fr-book-desc">Written by Tom DeLonge, central to the page topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by Tom DeLonge, central to the page topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sekret Machines Book 1: Chasing Shadows</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sekret+Machines+Book+1%3A+Chasing+Shadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sekret Machines Book 1: Chasing Shadows</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blink 182 Aliens Exist Punk Rock Band onVintage Sweatshirt Hoodie S M L XL 234XL"><img src="{{ '/assets/images/marketplace-covers/9f8ba30bfe8b6ac9bfcc.jpg' | relative_url }}" alt="Listing image for Blink 182 Aliens Exist Punk Rock Band onVintage Sweatshirt Hoodie S M L XL 234XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer">Blink 182 Aliens Exist Punk Rock Band onVintage Sweatshirt Hoodie S M L XL 234XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aliens Exist hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: Aliens Exist hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blink 182 Aliens Exist Punk Rock Band onVintage Sweatshirt Hoodie S M L XL 234XL"><img src="{{ '/assets/images/marketplace-covers/9f8ba30bfe8b6ac9bfcc.jpg' | relative_url }}" alt="Listing image for Blink 182 Aliens Exist Punk Rock Band onVintage Sweatshirt Hoodie S M L XL 234XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer">Blink 182 Aliens Exist Punk Rock Band onVintage Sweatshirt Hoodie S M L XL 234XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aliens Exist hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: Aliens Exist hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diesel Jacquard-knitted ‘Aliens Exist’ Hoodie"><img src="{{ '/assets/images/marketplace-covers/9e0f288fe4f54a299b1b.jpg' | relative_url }}" alt="Listing image for Diesel Jacquard-knitted ‘Aliens Exist’ Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer">Diesel Jacquard-knitted ‘Aliens Exist’ Hoodie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aliens Exist hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: Aliens Exist hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Diesel Jacquard-knitted ‘Aliens Exist’ Hoodie"><img src="{{ '/assets/images/marketplace-covers/9e0f288fe4f54a299b1b.jpg' | relative_url }}" alt="Listing image for Diesel Jacquard-knitted ‘Aliens Exist’ Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer">Diesel Jacquard-knitted ‘Aliens Exist’ Hoodie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Aliens Exist hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: Aliens Exist hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Aliens+Exist+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Aliens Exist hoodie" data-ebay-reference="aliens-exist-how-aliens-exist-became-a-ufo-gateway-ufos-and-celebrities-aliens-exist-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Within the broader history of musicians engaging with UFO themes, this trajector
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Within the broader history of musicians engaging with UFO themes, this trajector
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Within the broader history of musicians engaging with UFO themes, this trajector
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Within the broader history of musicians engaging with UFO themes, this trajector
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Within the broader history of musicians engaging with UFO themes, this trajector
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,95 +710,95 @@ Within the broader history of musicians engaging with UFO themes, this trajector
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: billboard.com  
    Title: tom delonge ufo [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) 8071145  
-   Link: <a href="https://www.billboard.com/music/rock/tom-delonge-ufo-timeline-8071145/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rock/tom-delonge-ufo-timeline-8071145/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: Tom DeLonge Quit Blink-182 to Focus on UFOs.Read more...</p></details>
+   Link:<a href="https://www.billboard.com/music/rock/tom-delonge-ufo-timeline-8071145/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/rock/tom-delonge-ufo-timeline-8071145/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: Tom DeLonge Quit Blink-182 to Focus on UFOs.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: esquire.com  
    Title: tom delonge blink 182 sekret machines  
-   Link: <a href="https://www.esquire.com/entertainment/music/q-and-a/a43594/tom-delonge-blink-182-sekret-machines/" target="_blank" rel="noopener noreferrer nofollow">https://www.esquire.com/entertainment/music/q-and-a/a43594/tom-delonge-blink-182-sekret-machines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge&#x27;s Post-Blink-182 Life: UFOs and Secret...4 Apr 2016 — The musician&#x27;s talks about his new project, Sekret Machines, an...</p></details>
+   Link:<a href="https://www.esquire.com/entertainment/music/q-and-a/a43594/tom-delonge-blink-182-sekret-machines/" target="_blank" rel="noopener noreferrer nofollow">https://www.esquire.com/entertainment/music/q-and-a/a43594/tom-delonge-blink-182-sekret-machines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge&#x27;s Post-Blink-182 Life: UFOs and Secret...4 Apr 2016 — The musician&#x27;s talks about his new project, Sekret Machines, an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsTom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blink...5 Sept 2020 — Tom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blin...</p></details>
+   Link:<a href="https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/tom-delonge-on-ufo-research-i-wouldnt-have-left-blink-182-for-something-pie-in-the-sky-12061013</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsTom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blink...5 Sept 2020 — Tom DeLonge on UFO research: &#x27;I wouldn&#x27;t have left Blin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: esquire.com  
    Title: tom delonge interview 2021  
-   Link: <a href="https://www.esquire.com/entertainment/music/a37532754/tom-delonge-interview-2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.esquire.com/entertainment/music/a37532754/tom-delonge-interview-2021/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vindication of Tom DeLongeSep 10, 2021 — You cannot talk to the UFO guy without asking a question or two about UFOs, which I do. Have...</p></details>
+   Link:<a href="https://www.esquire.com/entertainment/music/a37532754/tom-delonge-interview-2021/" target="_blank" rel="noopener noreferrer nofollow">https://www.esquire.com/entertainment/music/a37532754/tom-delonge-interview-2021/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Vindication of Tom DeLongeSep 10, 2021 — You cannot talk to the UFO guy without asking a question or two about UFOs, which I do. Have...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>During Blink-182&#x27;s current reunion tour, fellow band member Mark Hoppus acknowledges DeLonge&#x27;s correctness before performing their song &quot;...</p></details>
+   Link:<a href="https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During Blink-182&#x27;s current reunion tour, fellow band member Mark Hoppus acknowledges DeLonge&#x27;s correctness before performing their song &quot;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/?srsltid=AfmBOooWOxcgGwvWZnenJ8QIrvggkwu-sHIY0nQV_gu7bbD8BtZsYCRQ" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/?srsltid=AfmBOooWOxcgGwvWZnenJ8QIrvggkwu-sHIY0nQV_gu7bbD8BtZsYCRQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182&#x27;s Tom DeLonge celebrates being right about aliensJul 26, 2023 — Blink-182&#x27;s Tom DeLonge celebrates being right about aliens: &#x27;U...</p></details>
+   Link:<a href="https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/?srsltid=AfmBOooWOxcgGwvWZnenJ8QIrvggkwu-sHIY0nQV_gu7bbD8BtZsYCRQ" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/blink-182-tom-delonge-celebrates-being-right-about-aliens/?srsltid=AfmBOooWOxcgGwvWZnenJ8QIrvggkwu-sHIY0nQV_gu7bbD8BtZsYCRQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182&#x27;s Tom DeLonge celebrates being right about aliensJul 26, 2023 — Blink-182&#x27;s Tom DeLonge celebrates being right about aliens: &#x27;U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gq.com  
    Title: Tom De Longe Has Something Very Important to Tell You  
-   Link: <a href="https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Exist,” a track inspired by DeLonge&#x27;s interest in all things extraterrestrial. A lot has changed since then. Tom parted ways with...</p></details>
+   Link:<a href="https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/tom-delonge-ufos-interview-sekret-machines-novel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Exist,” a track inspired by DeLonge&#x27;s interest in all things extraterrestrial. A lot has changed since then. Tom parted ways with...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo now serves as Director of Global Security &amp; Special Programs at the To The Stars Academy of Arts &amp; Science, co-founded by DeLong...</p></details>
+   Link:<a href="https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo now serves as Director of Global Security &amp; Special Programs at the To The Stars Academy of Arts &amp; Science, co-founded by DeLong...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fwka12/compilation_of_tom_delonge_interviews_he_got_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fwka12/compilation_of_tom_delonge_interviews_he_got_in/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compilation of Tom Delonge interviews he got in trouble forTom DeLonge apparently has pics of dead aliens on his phone? r/UFOs. • 27d ago...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fwka12/compilation_of_tom_delonge_interviews_he_got_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fwka12/compilation_of_tom_delonge_interviews_he_got_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Compilation of Tom Delonge interviews he got in trouble forTom DeLonge apparently has pics of dead aliens on his phone? r/UFOs. • 27d ago...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/17iklp0/new_tom_delonge_interview_talks_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/17iklp0/new_tom_delonge_interview_talks_about/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/17iklp0/new_tom_delonge_interview_talks_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/17iklp0/new_tom_delonge_interview_talks_about/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: newsweek.com  
    Title: tom delonge ancient civilizations went extinct disobeying aliens ufo 1840264  
-   Link: <a href="https://www.newsweek.com/tom-delonge-ancient-civilizations-went-extinct-disobeying-aliens-ufo-1840264" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/tom-delonge-ancient-civilizations-went-extinct-disobeying-aliens-ufo-1840264</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Wonders If Civilizations Went Extinct For...Nov 3, 2023 — &quot;When people kind of dismiss it, which they do, it does baffle me...</p></details>
+   Link:<a href="https://www.newsweek.com/tom-delonge-ancient-civilizations-went-extinct-disobeying-aliens-ufo-1840264" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/tom-delonge-ancient-civilizations-went-extinct-disobeying-aliens-ufo-1840264</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Wonders If Civilizations Went Extinct For...Nov 3, 2023 — &quot;When people kind of dismiss it, which they do, it does baffle me...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sWOxh33kPn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sWOxh33kPn8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Talks UFOs and New Album, &quot;Lifeforms&quot; | At...Tom Delonge of Blink 182 and Angels and Airwaves joins Katie Daryl to talk abou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sWOxh33kPn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sWOxh33kPn8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Talks UFOs and New Album, &quot;Lifeforms&quot; | At...Tom Delonge of Blink 182 and Angels and Airwaves joins Katie Daryl to talk abou...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yZFcxvmaNtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZFcxvmaNtY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Aliens Exist UFO interview Blink 182 👽CRAZY!!! Tom Delonge explains aliens and the truth #Blink182 Rock Legends TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yZFcxvmaNtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZFcxvmaNtY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Aliens Exist UFO interview Blink 182 👽CRAZY!!! Tom Delonge explains aliens and the truth #Blink182 Rock Legends TV...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: 10news.com  
-   Link: <a href="https://www.10news.com/news/blink-182s-tom-delonge-examines-ufo-report-from-san-diego-navy-pilot" target="_blank" rel="noopener noreferrer nofollow">https://www.10news.com/news/blink-182s-tom-delonge-examines-ufo-report-from-san-diego-navy-pilot</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RELATED: Former Pentagon UFO Official: &#x27;We May Not Be Alone&#x27;. &quot;My personal belief is...Read more...</p></details>
+   Link:<a href="https://www.10news.com/news/blink-182s-tom-delonge-examines-ufo-report-from-san-diego-navy-pilot" target="_blank" rel="noopener noreferrer nofollow">https://www.10news.com/news/blink-182s-tom-delonge-examines-ufo-report-from-san-diego-navy-pilot</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RELATED: Former Pentagon UFO Official: &#x27;We May Not Be Alone&#x27;. &quot;My personal belief is...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: kellyjoturner.medium.com  
    Title: what tom delonge wants you to know about ufos 8b76c097d0a3  
-   Link: <a href="https://kellyjoturner.medium.com/what-tom-delonge-wants-you-to-know-about-ufos-8b76c097d0a3" target="_blank" rel="noopener noreferrer nofollow">https://kellyjoturner.medium.com/what-tom-delonge-wants-you-to-know-about-ufos-8b76c097d0a3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Wants You to Know About UFOsIt&#x27;s not just aliens or flying saucers — it&#x27;s what it says about us, about our governments, about...</p></details>
+   Link:<a href="https://kellyjoturner.medium.com/what-tom-delonge-wants-you-to-know-about-ufos-8b76c097d0a3" target="_blank" rel="noopener noreferrer nofollow">https://kellyjoturner.medium.com/what-tom-delonge-wants-you-to-know-about-ufos-8b76c097d0a3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge Wants You to Know About UFOsIt&#x27;s not just aliens or flying saucers — it&#x27;s what it says about us, about our governments, about...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: techtimes.com  
    Title: blink 182 tom delonge aliens interview paper magazine  
-   Link: <a href="https://www.techtimes.com/articles/33716/20150218/blink-182-tom-delonge-aliens-interview-paper-magazine.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/33716/20150218/blink-182-tom-delonge-aliens-interview-paper-magazine.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182&#x27;s Tom DeLonge Has A Lot To Say About AliensFeb 18, 2015 — In an extensive interview with Paper Magazine published yesterday, De...</p></details>
+   Link:<a href="https://www.techtimes.com/articles/33716/20150218/blink-182-tom-delonge-aliens-interview-paper-magazine.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/33716/20150218/blink-182-tom-delonge-aliens-interview-paper-magazine.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blink-182&#x27;s Tom DeLonge Has A Lot To Say About AliensFeb 18, 2015 — In an extensive interview with Paper Magazine published yesterday, De...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rollingstone.com  
-   Link: <a href="https://www.rollingstone.com/music/music-features/tom-delonge-interview-ufo-footage-angels-airwaves-blink-182-843812/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-features/tom-delonge-interview-ufo-footage-angels-airwaves-blink-182-843812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneTom DeLonge on UFOs, Angels and Airwaves, Future...Jun 4, 2019 — Tom DeLonge on &#x27;Scary&#x27; UFO Footage, Angels and Airwaves an...</p></details>
+   Link:<a href="https://www.rollingstone.com/music/music-features/tom-delonge-interview-ufo-footage-angels-airwaves-blink-182-843812/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/music/music-features/tom-delonge-interview-ufo-footage-angels-airwaves-blink-182-843812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneTom DeLonge on UFOs, Angels and Airwaves, Future...Jun 4, 2019 — Tom DeLonge on &#x27;Scary&#x27; UFO Footage, Angels and Airwaves an...</p></details>

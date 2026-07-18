@@ -280,9 +280,9 @@ Fife Symington's reversal on the [Phoenix Lights]({{ 'phoenix-lights/' | relativ
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_symington_delayed_di_5a78ac-Illustration-1-dark.svg" | relative_url }}" alt="Symington illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_symington_delayed_di_5a78ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_symington_delayed_di_5a78ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1997 Press Conference and the Alien-Costume Joke
 
-In the months following the Phoenix Lights sightings, Arizona residents pressed state officials for answers. Symington initially announced that he intended to seek information about the reports, giving the impression that the state was taking public concerns seriously. Later that same day, however, he staged a televised press conference in which his chief of staff appeared in handcuffs wearing an oversized alien costume before being revealed as the supposed "culprit". The event ended with jokes that suggested the public had become overly serious about the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</span></span></span>
+In the months following the Phoenix Lights sightings, Arizona residents pressed state officials for answers. Symington initially announced that he intended to seek information about the reports, giving the impression that the state was taking public concerns seriously. Later that same day, however, he staged a televised press conference in which his chief of staff appeared in handcuffs wearing an oversized alien costume before being revealed as the supposed "culprit". The event ended with jokes that suggested the public had become overly serious about the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</span></span></span>
 
-The press conference became one of the defining images of the Phoenix Lights story. For many observers it signalled that elected officials were unwilling to engage publicly with the reports. Critics argued that the event discouraged witnesses from coming forward, while supporters of Symington later maintained that the governor was attempting to reduce anxiety during a period of intense public speculation rather than dismiss every witness outright. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Arizona Governor&#x27;s Close Encounter With UFO30 Mar 2007 — Symington recently described his sighting of the Phoenix Lights a...</span></span></span>
+The press conference became one of the defining images of the Phoenix Lights story. For many observers it signalled that elected officials were unwilling to engage publicly with the reports. Critics argued that the event discouraged witnesses from coming forward, while supporters of Symington later maintained that the governor was attempting to reduce anxiety during a period of intense public speculation rather than dismiss every witness outright.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Arizona Governor&#x27;s Close Encounter With UFO30 Mar 2007 — Symington recently described his sighting of the Phoenix Lights a...</span></span></span>
 
 Whether viewed as political theatre or poor judgement, the episode ensured that Symington's later statements would always be measured against his earlier public scepticism.
 
@@ -290,11 +290,11 @@ Whether viewed as political theatre or poor judgement, the episode ensured that 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_symington_delayed_di_5a78ac-Illustration-3-dark.svg" | relative_url }}" alt="Symington illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_symington_delayed_di_5a78ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_mass_sightings_celeb_ccc7b5_symington_delayed_di_5a78ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 2007 Witness Claim and His Pilot Background
 
-In 2007, ten years after the event, Symington disclosed that he himself had observed something unusual on the night of 13 March 1997. Speaking in interviews and later repeating the account publicly, he described seeing an enormous, silent object with a geometric or delta-like outline and bright lights along its leading edge. He argued that it did not resemble conventional aircraft known to him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
+In 2007, ten years after the event, Symington disclosed that he himself had observed something unusual on the night of 13 March 1997. Speaking in interviews and later repeating the account publicly, he described seeing an enormous, silent object with a geometric or delta-like outline and bright lights along its leading edge. He argued that it did not resemble conventional aircraft known to him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
 
-A recurring element of his account was his aviation experience. Symington frequently emphasised that he was a pilot familiar with many types of aircraft, saying that the object was unlike anything he had previously encountered. Supporters regard this as adding observational weight to his testimony because an experienced pilot may be better placed than an average observer to distinguish ordinary aircraft from something unexpected. Critics note, however, that aviation expertise does not eliminate the possibility of misperception, particularly during a night-time observation with limited reference points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
+A recurring element of his account was his aviation experience. Symington frequently emphasised that he was a pilot familiar with many types of aircraft, saying that the object was unlike anything he had previously encountered. Supporters regard this as adding observational weight to his testimony because an experienced pilot may be better placed than an average observer to distinguish ordinary aircraft from something unexpected. Critics note, however, that aviation expertise does not eliminate the possibility of misperception, particularly during a night-time observation with limited reference points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
 
-Symington also argued that the widely cited explanation involving [military]({{ 'military/' | relative_url }}) illumination flares could not account for what he believed he had seen, while acknowledging that flares may have been deployed later that evening as a separate event. This distinction mirrors one of the central debates surrounding the Phoenix Lights: many researchers separate the earlier reports of a moving formation from the later stationary lights near Phoenix that have often been attributed to military exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
+Symington also argued that the widely cited explanation involving [military]({{ 'military/' | relative_url }}) illumination flares could not account for what he believed he had seen, while acknowledging that flares may have been deployed later that evening as a separate event. This distinction mirrors one of the central debates surrounding the Phoenix Lights: many researchers separate the earlier reports of a moving formation from the later stationary lights near Phoenix that have often been attributed to military exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fife Symington</span><span class="citation-popover-snippet">Fife Symington</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pph69EovT84" title="Former Governor Fife Symington on Phoenix Lights UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pph69EovT84" target="_blank" rel="noopener noreferrer">Former Governor Fife Symington on Phoenix Lights UFOs</a></p><p class="youtube-embed-meta">Channel: Kasper ZERO</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pph69EovT84" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pph69EovT84">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ Symington also argued that the widely cited explanation involving [military]({{ 
 
 The timing of Symington's disclosure is central to evaluating its evidential value.
 
-Symington offered several explanations for remaining silent. He said he had wanted to avoid contributing to public panic while serving as governor and believed humour was an appropriate way to calm an increasingly excited public. He also suggested that, given the political pressures he faced during the late 1990s, publicly identifying himself as a witness would have created additional controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Arizona Governor&#x27;s Close Encounter With UFO30 Mar 2007 — Symington recently described his sighting of the Phoenix Lights a...</span></span></span>
+Symington offered several explanations for remaining silent. He said he had wanted to avoid contributing to public panic while serving as governor and believed humour was an appropriate way to calm an increasingly excited public. He also suggested that, given the political pressures he faced during the late 1990s, publicly identifying himself as a witness would have created additional controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsFormer Arizona Governor&#x27;s Close Encounter With UFO30 Mar 2007 — Symington recently described his sighting of the Phoenix Lights a...</span></span></span>
 
 These explanations have produced sharply different interpretations.
 
@@ -311,13 +311,13 @@ Those who view his testimony favourably argue that:
 
 * admitting to witnessing an unexplained object exposed him to [ridicule]({{ 'ridicule/' | relative_url }}) rather than personal gain;
 * his reversal appeared to acknowledge that his earlier public handling of the incident had been misleading;
-* his account broadly matched descriptions already offered by many [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}) rather than introducing an entirely new narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</span></span></span>
+* his account broadly matched descriptions already offered by many [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}) rather than introducing an entirely new narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</span></span></span>
 
 More sceptical commentators respond that:
 
 * a ten-year delay inevitably complicates assessment because memory changes over time;
 * the Phoenix Lights had already become an internationally famous UFO case before his disclosure;
-* the absence of a contemporaneous public statement makes it impossible to compare his present recollection with a documented account recorded in 1997. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Later, in 2007, Symington reportedly told a UFO investigator he&#x27;d had... UFOs, Chemtrails, and Aliens: What Science Says. Indiana Univer...</span></span></span>
+* the absence of a contemporaneous public statement makes it impossible to compare his present recollection with a documented account recorded in 1997.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Later, in 2007, Symington reportedly told a UFO investigator he&#x27;d had... UFOs, Chemtrails, and Aliens: What Science Says. Indiana Univer...</span></span></span>
 
 These competing interpretations explain why Symington's testimony remains influential without becoming decisive evidence about the event itself.
 
@@ -327,7 +327,7 @@ These competing interpretations explain why Symington's testimony remains influe
 
 Symington's account illustrates a recurring problem in evaluating historical UFO reports: witness credibility involves more than personal reputation.
 
-His status as a former governor means his testimony cannot easily be dismissed as anonymous folklore. Unlike many later commentators, he occupied a position of direct public responsibility during the original event and claimed to have sought explanations from military and law-enforcement officials shortly afterwards. That institutional perspective makes his recollections historically significant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</span></span></span>
+His status as a former governor means his testimony cannot easily be dismissed as anonymous folklore. Unlike many later commentators, he occupied a position of direct public responsibility during the original event and claimed to have sought explanations from military and law-enforcement officials shortly afterwards. That institutional perspective makes his recollections historically significant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fifesymington.com">[Fife Symington]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fifesymington.com</span><span class="citation-popover-snippet">Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</span></span></span>
 
 At the same time, delayed testimony is inherently difficult to verify. The strongest eyewitness evidence is generally recorded close to the event, when memories are freshest and can be compared against contemporaneous documents, radar data, photographs and other observations. A statement made a decade later may still be sincere but is necessarily harder to evaluate because it cannot be tested in the same way.
 
@@ -347,194 +347,194 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Symington&#x27;s Phoenix Lights Reversal Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Symington&#x27;s Phoenix Lights Reversal Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuAJAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D. Kitei</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuAJAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D. Kitei</p>
         
-        <p class="fr-book-desc">Direct coverage of the sightings, witnesses and Symington&#x27;s later statements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Direct coverage of the sightings, witnesses and Symington&#x27;s later statements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines credible witnesses including senior officials and pilots.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines credible witnesses including senior officials and pilots.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating eyewitness testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating eyewitness testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
-        </h4>
-        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+</h4>
+<p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
         
-        <p class="fr-book-desc">Useful comparison for official reactions and witness credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful comparison for official reactions and witness credibility.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque"><img src="{{ '/assets/images/marketplace-covers/0962c22fe0162a244ccf.jpg' | relative_url }}" alt="Listing image for Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Funny Alien Abduction UFO Quote Metal Sign Wall Poster Personalised Gift Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/92844bae0ab61b5340f1.jpg' | relative_url }}" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque"><img src="{{ '/assets/images/marketplace-covers/b9f3a48af145310dbf71.jpg' | relative_url }}" alt="Listing image for Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Crash Sign Hand Made Decor Metal Wall Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9142f5ac1988f82061b9.jpg' | relative_url }}" alt="Listing image for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">&#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9142f5ac1988f82061b9.jpg' | relative_url }}" alt="Listing image for &#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">&#x27;Warning UFO&#x27; Funny Sign Minimalist Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+sign+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall sign -series -television -gerry -anderson -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="symington-why-symington-s-phoenix-lights-reversal-still-matters-ufos-and-celebrities-ufo-wall-sign-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,105 +740,105 @@ His reversal did not resolve the Phoenix Lights mystery, nor did it invalidate c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Fife Symington  
-   Link: <a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Fife_Symington" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife_Symington</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Later, in 2007, Symington reportedly told a UFO investigator he&#x27;d had... UFOs, Chemtrails, and Aliens: What Science Says. Indiana Univer...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Later, in 2007, Symington reportedly told a UFO investigator he&#x27;d had... UFOs, Chemtrails, and Aliens: What Science Says. Indiana Univer...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FifeFife is a council area and lieutenancy area in Scotland. A peninsula, it is bordered by the Firth of Tay to the north, the North S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Fife" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fife</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FifeFife is a council area and lieutenancy area in Scotland. A peninsula, it is bordered by the Firth of Tay to the north, the North S...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fifesymington.com  
-   Link: <a href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</p></details>
+   Link:<a href="https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.fifesymington.com/former-arizona-governor-now-admits-seeing-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fife SymingtonFormer Arizona Governor Now Admits Seeing UFOBut I have to tell you that I do not have any evidence whatsoever of aliens or...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/GMA/story?id=2994569&amp;page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Arizona Governor&#x27;s Close Encounter With UFO30 Mar 2007 — Symington recently described his sighting of the Phoenix Lights a...</p></details>
+   Link:<a href="https://abcnews.com/GMA/story?id=2994569&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/GMA/story?id=2994569&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsFormer Arizona Governor&#x27;s Close Encounter With UFO30 Mar 2007 — Symington recently described his sighting of the Phoenix Lights a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/fife" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/fife</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya small flute (= a tube-shaped musical instrument held out sideways) with a high sound, used in m...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/fife" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/fife</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya small flute (= a tube-shaped musical instrument held out sideways) with a high sound, used in m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/fife" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/fife</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 26, 2026 — The meaning of FIFE is a small transverse flute with six to eight finger holes and usually no keys...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/fife" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/fife</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 26, 2026 — The meaning of FIFE is a small transverse flute with six to eight finger holes and usually no keys...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtu.be  
    Title: r01RXi IZZz Y  
-   Link: <a href="https://youtu.be/r01RXiIZZzY?t=1m32s" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/r01RXiIZZzY?t=1m32s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fife Symington UFO21 Sept 2009 — 1975 interview with a man who claims he was abducted by aliens. CTV... Kurt Russell Shares UFO &quot;Phoenix...</p></details>
+   Link:<a href="https://youtu.be/r01RXiIZZzY?t=1m32s" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/r01RXiIZZzY?t=1m32s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fife Symington UFO21 Sept 2009 — 1975 interview with a man who claims he was abducted by aliens. CTV... Kurt Russell Shares UFO &quot;Phoenix...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_D7R4K4181Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_D7R4K4181Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Arizona Governor Fife Symington Phoenix Lights UFO Former Arizona Governor Fife Symington on witnessing the Phoenix Lights FOX 10...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_D7R4K4181Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_D7R4K4181Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Arizona Governor Fife Symington Phoenix Lights UFO Former Arizona Governor Fife Symington on witnessing the Phoenix Lights FOX 10...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tucson.com  
    Title: conference at the state capitol in Phoenix Thursday  
-   Link: <a href="https://tucson.com/news/local/collection_0b34f5f2-f301-11e6-b269-bf5422e020e8.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/local/collection_0b34f5f2-f301-11e6-b269-bf5422e020e8.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona Daily StarPhotos: UFO conference to examine incidents like theseFife Symington joke around after Symington pulled an alien mask o...</p></details>
+   Link:<a href="https://tucson.com/news/local/collection_0b34f5f2-f301-11e6-b269-bf5422e020e8.html" target="_blank" rel="noopener noreferrer nofollow">https://tucson.com/news/local/collection_0b34f5f2-f301-11e6-b269-bf5422e020e8.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona Daily StarPhotos: UFO conference to examine incidents like theseFife Symington joke around after Symington pulled an alien mask o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: That time the government gaslighted 10 000 people  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hlcnpn/that_time_the_government_gaslighted_10_000_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hlcnpn/that_time_the_government_gaslighted_10_000_people/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alien take on UFOs a psyop. 484. 448. UFO over Nellis Airforce Base in Nevada April 19 2026 · r/aliens. • 1mo ago. UFO over Nellis Airfor...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1hlcnpn/that_time_the_government_gaslighted_10_000_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hlcnpn/that_time_the_government_gaslighted_10_000_people/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien take on UFOs a psyop. 484. 448. UFO over Nellis Airforce Base in Nevada April 19 2026 · r/aliens. • 1mo ago. UFO over Nellis Airfor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: deseret.com  
    Title: former governor says he saw ufo  
-   Link: <a href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFormer governor says he saw UFO25 Mar 2007 — Former Arizona Gov. Fife Symington trotted out an aide dressed as an alien 10 ye...</p></details>
+   Link:<a href="https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/2007/3/25/20009206/former-governor-says-he-saw-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFormer governor says he saw UFO25 Mar 2007 — Former Arizona Gov. Fife Symington trotted out an aide dressed as an alien 10 ye...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: stateline.org  
    Title: worth noting former gov saw ufo  
-   Link: <a href="https://stateline.org/2007/03/30/worth-noting-former-gov-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://stateline.org/2007/03/30/worth-noting-former-gov-saw-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WORTH NOTING: Former Gov Saw &#x27;UFO&#x27;30 Mar 2007 —... after leaving office: He says he saw aliens over Phoenix in 1997. Symington, then gov...</p></details>
+   Link:<a href="https://stateline.org/2007/03/30/worth-noting-former-gov-saw-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://stateline.org/2007/03/30/worth-noting-former-gov-saw-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WORTH NOTING: Former Gov Saw &#x27;UFO&#x27;30 Mar 2007 —... after leaving office: He says he saw aliens over Phoenix in 1997. Symington, then gov...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dictionary.zim.vn  
    Title: vn Fife là gì? | Từ điển Anh  
-   Link: <a href="https://dictionary.zim.vn/anh-viet/fife" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.zim.vn/anh-viet/fife</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>là gì? | Từ điển Anh - ViệtFife là một loại sáo nhỏ dùng trong quân nhạc và biểu diễn âm nhạc truyền thống. Từ liên quan bao gồm nhạc cụ...</p></details>
+   Link:<a href="https://dictionary.zim.vn/anh-viet/fife" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.zim.vn/anh-viet/fife</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>là gì? | Từ điển Anh - ViệtFife là một loại sáo nhỏ dùng trong quân nhạc và biểu diễn âm nhạc truyền thống. Từ liên quan bao gồm nhạc cụ...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tripadvisor.com.vn  
    Title: Top 10 Điểm đến ở Fife  
-   Link: <a href="https://www.tripadvisor.com.vn/Attractions-g186529-Activities-Fife_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com.vn/Attractions-g186529-Activities-Fife_Scotland.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Khám phá các thắng cảnh và hoạt động không thể bỏ qua: The Swilcan Bridge, St Andrews Cathedral, Khu vực đi dạo ngắm cảnh, Nhà thờ &amp; nhà...</p></details>
+   Link:<a href="https://www.tripadvisor.com.vn/Attractions-g186529-Activities-Fife_Scotland.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com.vn/Attractions-g186529-Activities-Fife_Scotland.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Khám phá các thắng cảnh và hoạt động không thể bỏ qua: The Swilcan Bridge, St Andrews Cathedral, Khu vực đi dạo ngắm cảnh, Nhà thờ &amp; nhà...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Former Arizona Governor Fife Symington on witnessing the Phoenix Lights  
-   Link: <a href="https://www.youtube.com/watch?v=v1Fh0g5wJ7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v1Fh0g5wJ7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona Governor Admits to UFO Sighting 10 Years Too Late | James Fox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v1Fh0g5wJ7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v1Fh0g5wJ7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Arizona Governor Admits to UFO Sighting 10 Years Too Late | James Fox...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: axios.com  
    Title: lights arizona ufo legend 1997  
-   Link: <a href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeremy Duda. email... alien costume at a 1997 press conference. Screenshot: CNN. Twenty...Read more...</p></details>
+   Link:<a href="https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/local/phoenix/2024/03/13/lights-arizona-ufo-legend-1997</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jeremy Duda. email... alien costume at a 1997 press conference. Screenshot: CNN. Twenty...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Former Governor Fife Symington on Phoenix Lights UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=Pph69EovT84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pph69EovT84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Arizona Gov. Fife Symington about the famous Phoenix lights in 1997...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Pph69EovT84" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Pph69EovT84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Arizona Gov. Fife Symington about the famous Phoenix lights in 1997...</p></details>

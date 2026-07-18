@@ -280,19 +280,19 @@ image: /assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_ma
 
 ## Introduction
 
-May Pang's testimony is the main reason John Lennon's 23 August 1974 UFO claim is more than a solitary celebrity anecdote. She consistently stated that she witnessed the same unusual object from the same Manhattan apartment and broadly described the same features as Lennon: a silent, brightly lit, circular or flattened-cone-shaped object moving unusually low over the city. Her account therefore strengthens the historical claim that both believed they had seen something they could not identify. At the same time, it does not resolve what the object actually was. Because both witnesses observed the same event from the same location, under the same conditions, Pang's testimony corroborates Lennon's experience rather than independently identifying the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
+May Pang's testimony is the main reason John Lennon's 23 August 1974 UFO claim is more than a solitary celebrity anecdote. She consistently stated that she witnessed the same unusual object from the same Manhattan apartment and broadly described the same features as Lennon: a silent, brightly lit, circular or flattened-cone-shaped object moving unusually low over the city. Her account therefore strengthens the historical claim that both believed they had seen something they could not identify. At the same time, it does not resolve what the object actually was. Because both witnesses observed the same event from the same location, under the same conditions, Pang's testimony corroborates Lennon's experience rather than independently identifying the object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_may_pang_testimony_c48a1e-Illustration-1-dark.svg" | relative_url }}" alt="May Pang illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_may_pang_testimony_c48a1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_may_pang_testimony_c48a1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why a Second Witness Matters
 
-In evaluating eyewitness reports, a second witness is valuable because it reduces the likelihood that an account was entirely invented or remembered by only one individual. Pang has repeated her description over decades in memoirs and interviews with relatively consistent core details. She recalled Lennon urgently calling her outside, seeing a craft with a prominent red light and multiple white lights around its edge, and watching it move silently across the skyline. Lennon independently made the event public almost immediately by writing, "On the 23rd Aug. 1974 at 9 o'clock I saw a U.F.O." in the *Walls and Bridges* album material, providing an unusually early documentary reference rather than relying solely on memories recorded years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
+In evaluating eyewitness reports, a second witness is valuable because it reduces the likelihood that an account was entirely invented or remembered by only one individual. Pang has repeated her description over decades in memoirs and interviews with relatively consistent core details. She recalled Lennon urgently calling her outside, seeing a craft with a prominent red light and multiple white lights around its edge, and watching it move silently across the skyline. Lennon independently made the event public almost immediately by writing, "On the 23rd Aug. 1974 at 9 o'clock I saw a U.F.O." in the *Walls and Bridges* album material, providing an unusually early documentary reference rather than relying solely on memories recorded years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
 
 The agreement between their accounts supports several modest conclusions:
 
 * Both consistently claimed an unusual aerial sighting occurred.
 * Neither appears to have treated the incident merely as a joke or publicity stunt.
-* The story remained broadly stable across later retellings despite being described in different settings and over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible+2Far Out Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
+* The story remained broadly stable across later retellings despite being described in different settings and over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible+2Far Out Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
 
 This is stronger than a lone celebrity recollection, because two named individuals publicly attached their reputations to essentially the same event.
 
@@ -319,13 +319,13 @@ This differs from stronger corroboration, where witnesses:
 
 Pang's testimony therefore confirms a shared experience rather than serving as an independent measurement of the object's characteristics.
 
-Another evidential consideration is timing. Much of the detailed narrative comes from Pang's later memoir *Loving John* and subsequent interviews rather than from detailed contemporaneous written statements made immediately after the sighting. While later consistency can enhance credibility, memory inevitably becomes more vulnerable to reconstruction over decades, particularly for emotionally significant events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
+Another evidential consideration is timing. Much of the detailed narrative comes from Pang's later memoir *Loving John* and subsequent interviews rather than from detailed contemporaneous written statements made immediately after the sighting. While later consistency can enhance credibility, memory inevitably becomes more vulnerable to reconstruction over decades, particularly for emotionally significant events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_may_pang_testimony_c48a1e-Illustration-2-dark.svg" | relative_url }}" alt="May Pang illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_may_pang_testimony_c48a1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_may_pang_testimony_c48a1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reports of Other Witnesses
 
-Some retellings include claims that photographer Bob Gruen contacted police and newspapers after the event and was reportedly told that other people had also reported unusual lights over Manhattan that evening. Pang herself has likewise said they believed others had seen something similar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alanehunter.com">[Alan E. Hunter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alanehunter.com</span><span class="citation-popover-title">Alan E</span><span class="citation-popover-snippet">HunterClose Encounters: The Beatles John Lennon and UFO&#x27;s.24 Apr 2018 — So Bob Gruen called up the local police precinct and asked if any...</span></span></span>
+Some retellings include claims that photographer Bob Gruen contacted police and newspapers after the event and was reportedly told that other people had also reported unusual lights over Manhattan that evening. Pang herself has likewise said they believed others had seen something similar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alanehunter.com">[Alan E. Hunter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alanehunter.com</span><span class="citation-popover-title">Alan E</span><span class="citation-popover-snippet">HunterClose Encounters: The Beatles John Lennon and UFO&#x27;s.24 Apr 2018 — So Bob Gruen called up the local police precinct and asked if any...</span></span></span>
 
 These reports are interesting because they suggest the possibility that the sighting was not confined to Lennon and Pang alone. However, they remain limited as corroboration.
 
@@ -373,179 +373,179 @@ May Pang's testimony occupies an important middle ground in assessing John Lenno
 
 It clearly improves the evidential value of the case compared with a solitary celebrity recollection because it demonstrates that another identifiable witness consistently reported seeing an unusual object alongside Lennon. That makes outright fabrication less likely and strengthens the historical claim that both sincerely believed they had witnessed something extraordinary.
 
-At the same time, her testimony cannot by itself determine whether the object represented an unusual aircraft, an atmospheric phenomenon, a perceptual error or something genuinely unexplained. Because the two principal witnesses shared the same location and experience, their accounts corroborate each other as observers but do not independently establish the object's identity. That distinction explains why the Sutton Place incident remains an intriguing historical UFO anecdote rather than a case regarded as conclusively documented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible+2Far Out Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
+At the same time, her testimony cannot by itself determine whether the object represented an unusual aircraft, an atmospheric phenomenon, a perceptual error or something genuinely unexplained. Because the two principal witnesses shared the same location and experience, their accounts corroborate each other as observers but do not independently establish the object's identity. That distinction explains why the Sutton Place incident remains an intriguing historical UFO anecdote rather than a case regarded as conclusively documented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible+2Far Out Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2axtgni0qmQ" title="JOHN LENNON&#x27;S UFO ENCOUNTER on Strange Universe (1998)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer">JOHN LENNON&#x27;S UFO ENCOUNTER on Strange Universe (1998)</a></p><p class="youtube-embed-meta">Channel: Ronald Vaughan</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2axtgni0qmQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does May Pang&#x27;s Testimony Add?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does May Pang&#x27;s Testimony Add?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a rigorous framework for evaluating multiple-witness UFO reports and corroboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a rigorous framework for evaluating multiple-witness UFO reports and corroboration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how eyewitness testimony and corroborating observations are assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how eyewitness testimony and corroborating observations are assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Offers a balanced framework for weighing eyewitness testimony and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a balanced framework for weighing eyewitness testimony and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving John on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8443879-M.jpg" alt="Cover for Loving John" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
-        </h4>
-        <p class="fr-book-author">By May Pang, Henry Edwards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving John on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8443879-M.jpg" alt="Cover for Loving John" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
+</h4>
+<p class="fr-book-author">By May Pang, Henry Edwards</p>
         
-        <p class="fr-book-desc">First published 1983. Subjects: Rock musicians, Biography, Lennon, john, 1940-1980.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1983. Subjects: Rock musicians, Biography, Lennon, john, 1940-1980.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: beatlesbible.com  
    Title: The Beatles Bible John Lennon: 'On the 23rd Aug  
-   Link: <a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</p></details>
+   Link:<a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — On the night of Friday 23 August 1974, John Lennon and his partner May Pang saw an unidentifie...</p></details>
    Published: August 1974  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faroutmagazine.co.uk  
    Title: 1974 night john lennon saw a ufo in new york  
-   Link: <a href="https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I was convinced it was a UFO.” Apparently, Lennon...Read more...</p></details>
+   Link:<a href="https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was convinced it was a UFO.” Apparently, Lennon...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: alanehunter.com  
    Title: Alan E  
-   Link: <a href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HunterClose Encounters: The Beatles John Lennon and UFO&#x27;s.24 Apr 2018 — So Bob Gruen called up the local police precinct and asked if any...</p></details>
+   Link:<a href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HunterClose Encounters: The Beatles John Lennon and UFO&#x27;s.24 Apr 2018 — So Bob Gruen called up the local police precinct and asked if any...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: May Pang  
-   Link: <a href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May_Pang</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May Pang... Lennon and I saw a flying saucer last night.&#x27;&quot; Gruen called the local police precinct which confirmed that three other peo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May_Pang</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May Pang... Lennon and I saw a flying saucer last night.&#x27;&quot; Gruen called the local police precinct which confirmed that three other peo...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
    Title: also on august 23 on this day in 1974 john lennon and may pang saw a ufo this dr  
-   Link: <a href="https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s 1974 UFO sightingBob Gruen called the police station &amp; questioned an officer about whether anyone had reported a UFO or fly...</p></details>
+   Link:<a href="https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s 1974 UFO sightingBob Gruen called the police station &amp; questioned an officer about whether anyone had reported a UFO or fly...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: also on august 23 on this day in 1974 john lennon and may pang saw a ufo this dr  
-   Link: <a href="https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/782290187235466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/782290187235466/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Also on August 23: On this day in 1974, John Lennon...It was probably about the size of a two-man Lear jet.” Lennon also described the U...</p></details>
+   Link:<a href="https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/782290187235466/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/782290187235466/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Also on August 23: On this day in 1974, John Lennon...It was probably about the size of a two-man Lear jet.” Lennon also described the U...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: when john lennon may pang saw a ufo over manhattan  
-   Link: <a href="https://www.facebook.com/Q1043NY/videos/when-john-lennon-may-pang-saw-a-ufo-over-manhattan/436404954002918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Q1043NY/videos/when-john-lennon-may-pang-saw-a-ufo-over-manhattan/436404954002918/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the liner notes for his &#x27;Walls and Bridges&#x27; album, John...John Lennon wrote that he saw a UFO &quot;on the 23rd of Aug. 1974.&quot; May Pang wa...</p></details>
+   Link:<a href="https://www.facebook.com/Q1043NY/videos/when-john-lennon-may-pang-saw-a-ufo-over-manhattan/436404954002918/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Q1043NY/videos/when-john-lennon-may-pang-saw-a-ufo-over-manhattan/436404954002918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the liner notes for his &#x27;Walls and Bridges&#x27; album, John...John Lennon wrote that he saw a UFO &quot;on the 23rd of Aug. 1974.&quot; May Pang wa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/2014/04/john-lennons -ufo-inspired-art-fetches-big-bucks/.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/2014/04/john-lennons -ufo-inspired-art-fetches-big-bucks/.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dangerousminds.net  
-   Link: <a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon sees a UFO in New York City, 197413 Apr 2015 — Steven Tucker, in his book Paranormal Merseyside, expands on Lennon&#x27;s UFO sigh...</p></details>
+   Link:<a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon sees a UFO in New York City, 197413 Apr 2015 — Steven Tucker, in his book Paranormal Merseyside, expands on Lennon&#x27;s UFO sigh...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
    Title: like a ufo you came to me 50ab7544312a  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Like a UFO You Came to Me | Point of ContactOn a hot August night in 1974, John Lennon and May Pang had a close encounter with a UFO in N...</p></details>
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Like a UFO You Came to Me | Point of ContactOn a hot August night in 1974, John Lennon and May Pang had a close encounter with a UFO in N...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g something not of this world. He later told friends and...</p></details>
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g something not of this world. He later told friends and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: 'The Lost Weekend' tells love story between John Lennon, May Pang  
-   Link: <a href="https://www.youtube.com/watch?v=_f5EM4KJCv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_f5EM4KJCv4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s UFO Sighting &amp; Ozzy&#x27;s Close Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_f5EM4KJCv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_f5EM4KJCv4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s UFO Sighting &amp; Ozzy&#x27;s Close Encounter...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The Lost Weekend&#x27; tells love story between John Lennon, May Pang...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The Lost Weekend&#x27; tells love story between John Lennon, May Pang...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: John Lennon's UFO Sighting & Ozzy's Close Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=ammhbLr5CvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ammhbLr5CvY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May Pang Exclusive Interview! The Truth about &#x27;The Lost Weekend&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ammhbLr5CvY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ammhbLr5CvY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May Pang Exclusive Interview! The Truth about &#x27;The Lost Weekend&#x27;...</p></details>

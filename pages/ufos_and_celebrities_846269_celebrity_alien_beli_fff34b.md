@@ -452,20 +452,20 @@ Some celebrities become UFO news without claiming to have seen a craft at all. T
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-overview.webp" | relative_url }}" alt="Overview image for Philosophy" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because [headlines]({{ 'headlines/' | relative_url }}) often blur three separate ideas: belief in life elsewhere, belief that UFOs are alien craft, and claims of a personal encounter. A celebrity can reasonably hold the first view while offering no evidence for the second or third. NASA makes the same separation in its public UAP guidance: the agency searches for life beyond Earth, but says it has found no credible evidence of extraterrestrial life and no evidence that UAP are extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+This distinction matters because [headlines]({{ 'headlines/' | relative_url }}) often blur three separate ideas: belief in life elsewhere, belief that UFOs are alien craft, and claims of a personal encounter. A celebrity can reasonably hold the first view while offering no evidence for the second or third. NASA makes the same separation in its public UAP guidance: the agency searches for life beyond Earth, but says it has found no credible evidence of extraterrestrial life and no evidence that UAP are extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WuR_jxhUceI" title="Do Steven Spielberg and the DISCLOSURE DAY Cast Really Believe in Aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WuR_jxhUceI" target="_blank" rel="noopener noreferrer">Do Steven Spielberg and the DISCLOSURE DAY Cast Really Believe in Aliens?</a></p><p class="youtube-embed-meta">Channel: IMDb</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WuR_jxhUceI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WuR_jxhUceI">Open on YouTube</a></p></div></div></div>
 
 ## The universe-is-too-large argument
 
-The most common philosophical version of celebrity alien belief is simple: the cosmos is too vast for Earth to be the only place where life has emerged. Keanu Reeves gave a concise version while promoting *The Day the Earth Stood Still* in 2008, saying advanced extraterrestrial life seemed “more likely than not” because “the cosmos is a pretty big place”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span><span class="citation-popover-snippet">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span></span></span>
+The most common philosophical version of celebrity alien belief is simple: the cosmos is too vast for Earth to be the only place where life has emerged. Keanu Reeves gave a concise version while promoting *The Day the Earth Stood Still* in 2008, saying advanced extraterrestrial life seemed “more likely than not” because “the cosmos is a pretty big place”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span><span class="citation-popover-snippet">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span></span></span>
 
-Emma Stone offered a more explicitly philosophical version at the 2025 Venice Film Festival while promoting *Bugonia*. She linked her belief to Carl Sagan’s cosmic perspective, saying it seemed narcissistic to assume humanity is alone in a vast universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Emma Stone declares belief in aliens during Bugonia film promo</span><span class="citation-popover-snippet">Stone praised Lanthimos’s creative vision and described *Bugonia* as reflective of contemporary societal challenges. Lanthimos emphasized...</span></span></span> Jordan Peele framed the same question emotionally rather than mathematically when discussing *Nope*, saying he believes aliens are “out there” and connecting science fiction to the fear that humans might be alone in the universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Nope director Jordan Peele: I believe there are aliens out</span><span class="citation-popover-snippet">Nope director Jordan Peele: I believe there are aliens out</span></span></span>
+Emma Stone offered a more explicitly philosophical version at the 2025 Venice Film Festival while promoting *Bugonia*. She linked her belief to Carl Sagan’s cosmic perspective, saying it seemed narcissistic to assume humanity is alone in a vast universe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Emma Stone declares belief in aliens during Bugonia film promo</span><span class="citation-popover-snippet">Stone praised Lanthimos’s creative vision and described *Bugonia* as reflective of contemporary societal challenges. Lanthimos emphasized...</span></span></span> Jordan Peele framed the same question emotionally rather than mathematically when discussing *Nope*, saying he believes aliens are “out there” and connecting science fiction to the fear that humans might be alone in the universe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Nope director Jordan Peele: I believe there are aliens out</span><span class="citation-popover-snippet">Nope director Jordan Peele: I believe there are aliens out</span></span></span>
 
 What makes these statements different from classic UFO testimony is that they start with scale, probability and humility rather than an eyewitness report. They do not say, “I saw a spacecraft.” They say, in effect, “It would be strange if nothing else existed.”
 
-That intuition has a scientific cousin, even though celebrity remarks are not scientific arguments. The SETI Institute describes the Drake Equation as a probabilistic framework for estimating the number of detectable technological civilisations in the Milky Way, not as a settled answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-snippet">Open source on seti.org.</span></span></span> NASA’s exoplanet work also gives the intuition a concrete background: modern astronomy has moved from wondering whether planets are rare to studying many worlds beyond the solar system, including future efforts such as the Habitable Worlds Observatory, designed to observe Earth-like exoplanets and search for signs of life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/exoplanets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Exoplanets</span><span class="citation-popover-snippet">Science Exoplanets</span></span></span>
+That intuition has a scientific cousin, even though celebrity remarks are not scientific arguments. The SETI Institute describes the Drake Equation as a probabilistic framework for estimating the number of detectable technological civilisations in the Milky Way, not as a settled answer.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-snippet">Open source on seti.org.</span></span></span> NASA’s exoplanet work also gives the intuition a concrete background: modern astronomy has moved from wondering whether planets are rare to studying many worlds beyond the solar system, including future efforts such as the Habitable Worlds Observatory, designed to observe Earth-like exoplanets and search for signs of life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/exoplanets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Exoplanets</span><span class="citation-popover-snippet">Science Exoplanets</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-1-dark.svg" | relative_url }}" alt="Philosophy illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -480,9 +480,9 @@ Belief without a sighting is usually softer and broader. It may express:
 * **Scientific curiosity:** interest in exoplanets, SETI, astrobiology and the search for biosignatures.
 * **Cultural mood:** a response to decades of science fiction and renewed public discussion of UAP.
 
-Emma Stone’s Venice comments are a useful example because they were attached to a film about alien paranoia, but her actual statement was not a claim that aliens are visiting Earth. She explicitly framed it through Sagan, scale and the danger of assuming human exceptionalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Emma Stone declares belief in aliens during Bugonia film promo</span><span class="citation-popover-snippet">Stone praised Lanthimos’s creative vision and described *Bugonia* as reflective of contemporary societal challenges. Lanthimos emphasized...</span></span></span> Peele’s remarks around *Nope* also sat between genre and philosophy: his alien belief was tied to fear, loneliness and spectacle, not to a personal UAP case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Nope director Jordan Peele: I believe there are aliens out</span><span class="citation-popover-snippet">Nope director Jordan Peele: I believe there are aliens out</span></span></span>
+Emma Stone’s Venice comments are a useful example because they were attached to a film about alien paranoia, but her actual statement was not a claim that aliens are visiting Earth. She explicitly framed it through Sagan, scale and the danger of assuming human exceptionalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Emma Stone declares belief in aliens during Bugonia film promo</span><span class="citation-popover-snippet">Stone praised Lanthimos’s creative vision and described *Bugonia* as reflective of contemporary societal challenges. Lanthimos emphasized...</span></span></span> Peele’s remarks around *Nope* also sat between genre and philosophy: his alien belief was tied to fear, loneliness and spectacle, not to a personal UAP case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Nope director Jordan Peele: I believe there are aliens out</span><span class="citation-popover-snippet">Nope director Jordan Peele: I believe there are aliens out</span></span></span>
 
-That separation is not pedantic. A person can believe microbial life, intelligent life or ancient alien civilisations might exist somewhere in the universe while remaining sceptical that any reported UFO is an alien craft. NASA’s UAP FAQ reflects exactly that distinction: the search for life beyond Earth is a serious scientific priority, but current UAP reports have not established extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+That separation is not pedantic. A person can believe microbial life, intelligent life or ancient alien civilisations might exist somewhere in the universe while remaining sceptical that any reported UFO is an alien craft. NASA’s UAP FAQ reflects exactly that distinction: the search for life beyond Earth is a serious scientific priority, but current UAP reports have not established extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
@@ -491,9 +491,9 @@ That separation is not pedantic. A person can believe microbial life, intelligen
 
 Celebrity alien belief becomes UFO news because media systems prefer recognisable people and memorable claims. “Actor thinks the universe may contain life elsewhere” is a cautious philosophical position. “Actor believes in aliens” is shorter, more clickable and easier to attach to UFO imagery.
 
-That compression changes the meaning. A probabilistic statement about life elsewhere can be made to sound like a statement about flying saucers. A comment made during a film press conference can become part of a broader UFO-believer list. Entertainment Weekly’s 2026 roundup, for example, grouped celebrities who believe aliens are real with others who claim to have seen UFOs, while noting that the examples range from general belief to personal UAP accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</span></span></span>
+That compression changes the meaning. A probabilistic statement about life elsewhere can be made to sound like a statement about flying saucers. A comment made during a film press conference can become part of a broader UFO-believer list. Entertainment Weekly’s 2026 roundup, for example, grouped celebrities who believe aliens are real with others who claim to have seen UFOs, while noting that the examples range from general belief to personal UAP accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</span></span></span>
 
-The mechanism is especially strong when the celebrity is promoting alien-themed work. Reeves was speaking in the context of *The Day the Earth Stood Still*. Peele was discussing *Nope*. Stone was promoting *Bugonia*, in which her character is suspected of being an alien. In each case, the film gave reporters a natural reason to ask about extraterrestrial life, and the answer then travelled beyond the film itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times+2EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span><span class="citation-popover-snippet">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span></span></span>
+The mechanism is especially strong when the celebrity is promoting alien-themed work. Reeves was speaking in the context of *The Day the Earth Stood Still*. Peele was discussing *Nope*. Stone was promoting *Bugonia*, in which her character is suspected of being an alien. In each case, the film gave reporters a natural reason to ask about extraterrestrial life, and the answer then travelled beyond the film itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times+2EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-title">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span><span class="citation-popover-snippet">Hindustan Times Keanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens exist</span></span></span>
 
 This is why celebrity alien belief often sits halfway between publicity and personal worldview. The belief may be sincere, but the public moment is shaped by a release cycle, a red carpet, a press conference or a talk-show segment. That does not make it fake; it means readers should separate the belief from the promotional setting in which it was expressed.
 
@@ -501,9 +501,9 @@ This is why celebrity alien belief often sits halfway between publicity and pers
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-2-dark.svg" | relative_url }}" alt="Philosophy illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The philosophical claim is plausible, but limited
 
-The “universe is too large” argument has intuitive force, but it is not the same as proof. The universe may contain many habitable environments, yet the steps from chemistry to life, from life to intelligence, and from intelligence to detectable technology remain uncertain. The Drake Equation is famous precisely because it organises those unknowns rather than eliminating them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-snippet">Open source on seti.org.</span></span></span>
+The “universe is too large” argument has intuitive force, but it is not the same as proof. The universe may contain many habitable environments, yet the steps from chemistry to life, from life to intelligence, and from intelligence to detectable technology remain uncertain. The Drake Equation is famous precisely because it organises those unknowns rather than eliminating them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seti.org">[SETI Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seti.org</span><span class="citation-popover-snippet">Open source on seti.org.</span></span></span>
 
-Astronomy has strengthened the background case for taking life elsewhere seriously. NASA describes the search for life beyond Earth as one of its key priorities, and its exoplanet programme is built around finding and characterising worlds beyond the solar system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/exoplanets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Exoplanets</span><span class="citation-popover-snippet">Science Exoplanets</span></span></span> The European Space Agency is similarly cautious, noting that no exoplanets are currently known to host life, even though researchers study which kinds of planets might be habitable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/Life_on_exoplanets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space Agency ESA</span></span></span>
+Astronomy has strengthened the background case for taking life elsewhere seriously. NASA describes the search for life beyond Earth as one of its key priorities, and its exoplanet programme is built around finding and characterising worlds beyond the solar system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/exoplanets/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Exoplanets</span><span class="citation-popover-snippet">Science Exoplanets</span></span></span> The European Space Agency is similarly cautious, noting that no exoplanets are currently known to host life, even though researchers study which kinds of planets might be habitable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/Life_on_exoplanets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space Agency ESA</span></span></span>
 
 That leaves celebrity philosophy in a middle position. It is neither silly nor decisive. It often echoes a real scientific mood: the search for life is legitimate, and human uniqueness should not be assumed too quickly. But when that worldview is converted into UFO certainty, the claim outruns the evidence.
 
@@ -524,194 +524,194 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-3-dark.svg" | relative_url }}" alt="Philosophy illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Celebrities Simply Believe in Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Celebrities Simply Believe in Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Shows how cosmic belief and UFO culture overlap in public imagination.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how cosmic belief and UFO culture overlap in public imagination.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Separates openness to life elsewhere from unsupported claims about alien visitation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates openness to life elsewhere from unsupported claims about alien visitation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly supports the universe-is-vast argument behind many celebrity beliefs in extraterrestrial life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the universe-is-vast argument behind many celebrity beliefs in extraterrestrial life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
-        </h4>
-        <p class="fr-book-author">By Avi Loeb</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraterrestrial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0DTUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraterrestrial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraterrestrial">Extraterrestrial</a>
+</h4>
+<p class="fr-book-author">By Avi Loeb</p>
         
-        <p class="fr-book-desc">Fits readers interested in serious arguments about possible life or intelligence beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits readers interested in serious arguments about possible life or intelligence beyond Earth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraterrestrial+by+Avi+Loeb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="philosophy-why-some-celebrities-simply-believe-in-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -727,7 +727,7 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -747,7 +747,7 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -779,7 +779,7 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -831,7 +831,7 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -876,7 +876,7 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -917,199 +917,199 @@ The strongest reading is therefore modest. Celebrity belief can normalise curios
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: people.com  
-   Link: <a href="https://people.com/venice-film-festival-emma-stone-believes-in-aliens-11795684" target="_blank" rel="noopener noreferrer nofollow">https://people.com/venice-film-festival-emma-stone-believes-in-aliens-11795684</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stone also reflected on identity in the public eye, explaining how she mentally separates her public [persona](&amp;#123;&amp;#123; &#x27;persona/&#x27; | relative_url &amp;#125;&amp;#125;) from her private self. This...</p></details>
+   Link:<a href="https://people.com/venice-film-festival-emma-stone-believes-in-aliens-11795684" target="_blank" rel="noopener noreferrer nofollow">https://people.com/venice-film-festival-emma-stone-believes-in-aliens-11795684</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stone also reflected on identity in the public eye, explaining how she mentally separates her public [persona](&amp;#123;&amp;#123; &#x27;persona/&#x27; | relative_url &amp;#125;&amp;#125;) from her private self. This...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ew.com  
    Title: Nope director Jordan Peele: I believe there are aliens out  
-   Link: <a href="https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ</a>  
+   Link:<a href="https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/movies/nope-jordan-peele-around-the-table-keke-palmer-daniel-kaluuya-steven-yeun-interview/?srsltid=AfmBOoqShiluqt4pHb8edz0ma2NksRimOyOuJ_lPHp22yl5q7Xs7uoyQ</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seti.org  
-   Link: <a href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/drake-equation/</a>  
+   Link:<a href="https://www.seti.org/research/seti-101/drake-equation/" target="_blank" rel="noopener noreferrer nofollow">https://www.seti.org/research/seti-101/drake-equation/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Exoplanets  
-   Link: <a href="https://science.nasa.gov/exoplanets/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/</a>  
+   Link:<a href="https://science.nasa.gov/exoplanets/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ew.com  
    Title: 21 celebrities who believe aliens are real  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/exoplanets/can-we-find-life/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/can-we-find-life/</a>  
+   Link:<a href="https://science.nasa.gov/exoplanets/can-we-find-life/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/can-we-find-life/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: people.com  
    Title: 2025 fall movie preview 11798032  
-   Link: <a href="https://people.com/2025-fall-movie-preview-11798032" target="_blank" rel="noopener noreferrer nofollow">https://people.com/2025-fall-movie-preview-11798032</a>  
+   Link:<a href="https://people.com/2025-fall-movie-preview-11798032" target="_blank" rel="noopener noreferrer nofollow">https://people.com/2025-fall-movie-preview-11798032</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: people.com  
    Title: nick jonas on his ufo sighting in itv interview  
-   Link: <a href="https://people.com/celebrity/nick-jonas-on-his-ufo-sighting-in-itv-interview/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/celebrity/nick-jonas-on-his-ufo-sighting-in-itv-interview/</a>  
+   Link:<a href="https://people.com/celebrity/nick-jonas-on-his-ufo-sighting-in-itv-interview/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/celebrity/nick-jonas-on-his-ufo-sighting-in-itv-interview/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: people.com  
-   Link: <a href="https://people.com/sitemap_16.xml" target="_blank" rel="noopener noreferrer nofollow">https://people.com/sitemap_16.xml</a>  
+   Link:<a href="https://people.com/sitemap_16.xml" target="_blank" rel="noopener noreferrer nofollow">https://people.com/sitemap_16.xml</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ew.com  
    Title: celebrities who believe in aliens 11992570  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorD0sRP_mASYBcQt6DLkyii5QXgTQ2_motzze8Vpa2VUMo4SsYW" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorD0sRP_mASYBcQt6DLkyii5QXgTQ2_motzze8Vpa2VUMo4SsYW</a>  
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorD0sRP_mASYBcQt6DLkyii5QXgTQ2_motzze8Vpa2VUMo4SsYW" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorD0sRP_mASYBcQt6DLkyii5QXgTQ2_motzze8Vpa2VUMo4SsYW</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ew.com  
    Title: whoopi goldberg says aliens among us long time 11994848  
-   Link: <a href="https://ew.com/whoopi-goldberg-says-aliens-among-us-long-time-11994848?srsltid=AfmBOoqhOQUtQRFFlvnzh9y8oEw7wHBa4NfZI2XpoYIsHydOUjyWyLGB" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/whoopi-goldberg-says-aliens-among-us-long-time-11994848?srsltid=AfmBOoqhOQUtQRFFlvnzh9y8oEw7wHBa4NfZI2XpoYIsHydOUjyWyLGB</a>  
+   Link:<a href="https://ew.com/whoopi-goldberg-says-aliens-among-us-long-time-11994848?srsltid=AfmBOoqhOQUtQRFFlvnzh9y8oEw7wHBa4NfZI2XpoYIsHydOUjyWyLGB" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/whoopi-goldberg-says-aliens-among-us-long-time-11994848?srsltid=AfmBOoqhOQUtQRFFlvnzh9y8oEw7wHBa4NfZI2XpoYIsHydOUjyWyLGB</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ew.com  
    Title: steven spielberg doesnt want be first human meet alien 11994354  
-   Link: <a href="https://ew.com/steven-spielberg-doesnt-want-be-first-human-meet-alien-11994354?srsltid=AfmBOoo05XbBceUvgtETJQ3S2bvuY6Seyj5_wVcBiS5SJ3LF6mk9dmHI" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-doesnt-want-be-first-human-meet-alien-11994354?srsltid=AfmBOoo05XbBceUvgtETJQ3S2bvuY6Seyj5_wVcBiS5SJ3LF6mk9dmHI</a>  
+   Link:<a href="https://ew.com/steven-spielberg-doesnt-want-be-first-human-meet-alien-11994354?srsltid=AfmBOoo05XbBceUvgtETJQ3S2bvuY6Seyj5_wVcBiS5SJ3LF6mk9dmHI" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-doesnt-want-be-first-human-meet-alien-11994354?srsltid=AfmBOoo05XbBceUvgtETJQ3S2bvuY6Seyj5_wVcBiS5SJ3LF6mk9dmHI</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ew.com  
    Title: whoopi goldberg aliens earth the view 8620921  
-   Link: <a href="https://ew.com/whoopi-goldberg-aliens-earth-the-view-8620921?srsltid=AfmBOopYEHqSC5WSvwLo7j6S0KEEXP_xvayRwG4oGkGJ5GwsehqGuZ33" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/whoopi-goldberg-aliens-earth-the-view-8620921?srsltid=AfmBOopYEHqSC5WSvwLo7j6S0KEEXP_xvayRwG4oGkGJ5GwsehqGuZ33</a>  
+   Link:<a href="https://ew.com/whoopi-goldberg-aliens-earth-the-view-8620921?srsltid=AfmBOopYEHqSC5WSvwLo7j6S0KEEXP_xvayRwG4oGkGJ5GwsehqGuZ33" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/whoopi-goldberg-aliens-earth-the-view-8620921?srsltid=AfmBOopYEHqSC5WSvwLo7j6S0KEEXP_xvayRwG4oGkGJ5GwsehqGuZ33</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
    Title: are we alone in the universe revisiting the drake equation  
-   Link: <a href="https://science.nasa.gov/universe/exoplanets/are-we-alone-in-the-universe-revisiting-the-drake-equation/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/universe/exoplanets/are-we-alone-in-the-universe-revisiting-the-drake-equation/</a>  
+   Link:<a href="https://science.nasa.gov/universe/exoplanets/are-we-alone-in-the-universe-revisiting-the-drake-equation/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/universe/exoplanets/are-we-alone-in-the-universe-revisiting-the-drake-equation/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
    Title: habitable zone  
-   Link: <a href="https://science.nasa.gov/exoplanets/habitable-zone/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/habitable-zone/</a>  
+   Link:<a href="https://science.nasa.gov/exoplanets/habitable-zone/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/exoplanets/habitable-zone/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: 29999 stephen hawking intelligent alien life danger  
-   Link: <a href="https://www.space.com/29999-stephen-hawking-intelligent-alien-life-danger.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/29999-stephen-hawking-intelligent-alien-life-danger.html</a>  
+   Link:<a href="https://www.space.com/29999-stephen-hawking-intelligent-alien-life-danger.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/29999-stephen-hawking-intelligent-alien-life-danger.html</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
    Title: If [Aliens Exist](&#123;&#123; 'aliens-exist/' | relative_url &#125;&#125;), They May Come to Get Us, Stephen  
-   Link: <a href="https://www.space.com/8288-aliens-exist-stephen-hawking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8288-aliens-exist-stephen-hawking.html</a>  
+   Link:<a href="https://www.space.com/8288-aliens-exist-stephen-hawking.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/8288-aliens-exist-stephen-hawking.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: astrobiology.com  
-   Link: <a href="https://astrobiology.com/2024/10/stephen-hawkings-warning-on-contacting-aliens-a-physics-perspective-on-the-intelligence-trap.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2024/10/stephen-hawkings-warning-on-contacting-aliens-a-physics-perspective-on-the-intelligence-trap.html</a>  
+   Link:<a href="https://astrobiology.com/2024/10/stephen-hawkings-warning-on-contacting-aliens-a-physics-perspective-on-the-intelligence-trap.html" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2024/10/stephen-hawkings-warning-on-contacting-aliens-a-physics-perspective-on-the-intelligence-trap.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hindustantimes.com  
    Title: Hindustan Times Keanu Reeves thinks it's "likely" that aliens exist  
-   Link: <a href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html</a>  
+   Link:<a href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: The Guardian Emma Stone declares belief in aliens during Bugonia film promo  
-   Link: <a href="https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stone praised Lanthimos’s creative vision and described *Bugonia* as reflective of contemporary societal challenges. Lanthimos emphasized...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/aug/28/emma-stone-declares-belief-in-aliens-during-bugonia-film-promo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stone praised Lanthimos’s creative vision and described *Bugonia* as reflective of contemporary societal challenges. Lanthimos emphasized...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: <a href="https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/Life_on_exoplanets" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/Life_on_exoplanets</a>  
+   Link:<a href="https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/Life_on_exoplanets" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Space_Science/Exoplanets/Life_on_exoplanets</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The Day The Earth Stood Still  
-   Link: <a href="https://www.youtube.com/watch?v=00J0S9JRyzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=00J0S9JRyzM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=00J0S9JRyzM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=00J0S9JRyzM</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: capitalfm.com  
    Title: believes in aliens  
-   Link: <a href="https://www.capitalfm.com/artists/nick-jonas/news/believes-in-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalfm.com/artists/nick-jonas/news/believes-in-aliens/</a>  
+   Link:<a href="https://www.capitalfm.com/artists/nick-jonas/news/believes-in-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.capitalfm.com/artists/nick-jonas/news/believes-in-aliens/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Drake equation  
-   Link: <a href="https://en.wikipedia.org/wiki/Drake_equation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drake_equation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Drake_equation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Drake_equation</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: stephen hawking right aliens  
-   Link: <a href="https://www.theguardian.com/science/2010/apr/30/stephen-hawking-right-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2010/apr/30/stephen-hawking-right-aliens</a>  
+   Link:<a href="https://www.theguardian.com/science/2010/apr/30/stephen-hawking-right-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2010/apr/30/stephen-hawking-right-aliens</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/WN/stephen-hawking-aliens-world-news-question-day/story?id=10475748" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/WN/stephen-hawking-aliens-world-news-question-day/story?id=10475748</a>  
+   Link:<a href="https://abcnews.com/WN/stephen-hawking-aliens-world-news-question-day/story?id=10475748" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/WN/stephen-hawking-aliens-world-news-question-day/story?id=10475748</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Neil de Grasse Tyson explains how aliens could be so much smarter than us  
-   Link: <a href="http://www.youtube.com/watch?v=zvv0G6LCU6c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zvv0G6LCU6c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities who believe in aliens interview universe size The Truth About Alien Species – Greys, Tall Whites, Reptilians &amp; More - Joe Rog...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=zvv0G6LCU6c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zvv0G6LCU6c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities who believe in aliens interview universe size The Truth About Alien Species – Greys, Tall Whites, Reptilians &amp; More - Joe Rog...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=8JKN8CUiW84" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8JKN8CUiW84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Aliens Exist? Professor Brian Cox Answers Your Questions | Honesty Box...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8JKN8CUiW84" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8JKN8CUiW84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Aliens Exist? Professor Brian Cox Answers Your Questions | Honesty Box...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Do Steven Spielberg and the DISCLOSURE DAY Cast Really Believe in Aliens?  
-   Link: <a href="http://www.youtube.com/watch?v=WuR_jxhUceI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WuR_jxhUceI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Emily Blunt, Colman Domingo and Steven Spielberg believe in aliens? | Today Show Australia...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=WuR_jxhUceI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WuR_jxhUceI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Emily Blunt, Colman Domingo and Steven Spielberg believe in aliens? | Today Show Australia...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Do Aliens Exist? Professor Brian Cox Answers Your Questions | Honesty Box  
-   Link: <a href="http://www.youtube.com/watch?v=0L3Vj56ftWM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0L3Vj56ftWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson explains how aliens could be so much smarter than us...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=0L3Vj56ftWM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0L3Vj56ftWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson explains how aliens could be so much smarter than us...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Steven Spielberg Believes in Aliens  
-   Link: <a href="http://www.youtube.com/watch?v=1rIu22PVFG4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1rIu22PVFG4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Steven Spielberg and the DISCLOSURE DAY Cast Really Believe in Aliens?...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1rIu22PVFG4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1rIu22PVFG4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Steven Spielberg and the DISCLOSURE DAY Cast Really Believe in Aliens?...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/spacecom/posts/a-new-catalog-of-potentially-habitable-exoplanets-provides-the-framework-for-fut/1293981215925893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/a-new-catalog-of-potentially-habitable-exoplanets-provides-the-framework-for-fut/1293981215925893/</a>  
+   Link:<a href="https://www.facebook.com/spacecom/posts/a-new-catalog-of-potentially-habitable-exoplanets-provides-the-framework-for-fut/1293981215925893/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/a-new-catalog-of-potentially-habitable-exoplanets-provides-the-framework-for-fut/1293981215925893/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DQ8CAiADDOy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ8CAiADDOy/</a>  
+   Link:<a href="https://www.instagram.com/p/DQ8CAiADDOy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ8CAiADDOy/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AstronautAbby/posts/stephen-hawking-says-that-if-alien-life-found-us-it-would-likely-be-a-more-advan/2245706032175790/?locale=zh_CN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronautAbby/posts/stephen-hawking-says-that-if-alien-life-found-us-it-would-likely-be-a-more-advan/2245706032175790/?locale=zh_CN</a>  
+   Link:<a href="https://www.facebook.com/AstronautAbby/posts/stephen-hawking-says-that-if-alien-life-found-us-it-would-likely-be-a-more-advan/2245706032175790/?locale=zh_CN" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronautAbby/posts/stephen-hawking-says-that-if-alien-life-found-us-it-would-likely-be-a-more-advan/2245706032175790/?locale=zh_CN</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWMCJ7Roajg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWMCJ7Roajg/</a>  
+   Link:<a href="https://www.instagram.com/reel/DWMCJ7Roajg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWMCJ7Roajg/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100083779623188/posts/-celebrities-convinced-we-are-not-alone-out-there-famous-stars-who-truly-believe/874827338653246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083779623188/posts/-celebrities-convinced-we-are-not-alone-out-there-famous-stars-who-truly-believe/874827338653246/</a>  
+   Link:<a href="https://www.facebook.com/100083779623188/posts/-celebrities-convinced-we-are-not-alone-out-there-famous-stars-who-truly-believe/874827338653246/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100083779623188/posts/-celebrities-convinced-we-are-not-alone-out-there-famous-stars-who-truly-believe/874827338653246/</a>  

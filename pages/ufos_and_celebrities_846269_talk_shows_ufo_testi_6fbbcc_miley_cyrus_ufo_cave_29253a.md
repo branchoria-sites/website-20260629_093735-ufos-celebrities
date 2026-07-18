@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_mi
 
 ## Introduction
 
-Miley Cyrus's UFO story is a useful example of how celebrity testimony changes as it moves through entertainment media. Her original account was not a simple claim that she had unquestionably seen an extraterrestrial craft. Instead, she paired a vivid description of the experience with an explicit acknowledgement that her perception might have been affected by cannabis concentrate she had recently purchased. As the [story spread]({{ 'story-spread/' | relative_url }}) through [headlines]({{ 'headlines/' | relative_url }}), social media posts and late-night retellings, that uncertainty often became secondary to the more memorable details: a glowing object, a chase through San Bernardino and eye contact with a mysterious being. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
+Miley Cyrus's UFO story is a useful example of how celebrity testimony changes as it moves through entertainment media. Her original account was not a simple claim that she had unquestionably seen an extraterrestrial craft. Instead, she paired a vivid description of the experience with an explicit acknowledgement that her perception might have been affected by cannabis concentrate she had recently purchased. As the [story spread]({{ 'story-spread/' | relative_url }}) through [headlines]({{ 'headlines/' | relative_url }}), social media posts and late-night retellings, that uncertainty often became secondary to the more memorable details: a glowing object, a chase through San Bernardino and eye contact with a mysterious being.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-1-dark.svg" | relative_url }}" alt="Cyrus Caveat illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,16 +291,16 @@ Within the broader pattern of celebrity UFO stories, Cyrus's account illustrates
 
 ## The glowing object and chase claim
 
-Cyrus described the incident during a conversation with fashion designer Rick Owens for *Interview* magazine in October 2020. She said she had been driving through San Bernardino with a friend when "some sort of UFO" appeared to pursue them. She compared its shape to "a flying snowplow", saying it had a large plough-like front section and emitted a yellow glow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
+Cyrus described the incident during a conversation with fashion designer Rick Owens for *Interview* magazine in October 2020. She said she had been driving through San Bernardino with a friend when "some sort of UFO" appeared to pursue them. She compared its shape to "a flying snowplow", saying it had a large plough-like front section and emitted a yellow glow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
 
-She also added details that made the story emotionally compelling rather than merely visual. According to Cyrus, she believed she saw a being seated inside the object and felt that they made eye contact. She said this moment, more than the object itself, left her shaken for several days and changed the way she looked at the night sky afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
+She also added details that made the story emotionally compelling rather than merely visual. According to Cyrus, she believed she saw a being seated inside the object and felt that they made eye contact. She said this moment, more than the object itself, left her shaken for several days and changed the way she looked at the night sky afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
 
 Several features of the account are frequently highlighted in media coverage because they are easy to retell:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* the alleged chase while driving; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[marieclaire.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
+* the alleged chase while driving;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[marieclaire.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
 * the unusual "flying snowplow" description;
 * the glowing yellow appearance;
 * the claimed eye contact with a being inside the craft;
@@ -315,7 +315,7 @@ These are the elements that naturally fit short interviews, headlines and social
 
 ## The cannabis caveat inside the original account
 
-The most important qualification in the original interview appears immediately after Cyrus introduces the story. Before describing the object in detail, she says she was "pretty sure" about what she saw but also volunteers that she had bought weed wax from a man in a van outside a taco shop, adding that "it could have been the weed wax." <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
+The most important qualification in the original interview appears immediately after Cyrus introduces the story. Before describing the object in detail, she says she was "pretty sure" about what she saw but also volunteers that she had bought weed wax from a man in a van outside a taco shop, adding that "it could have been the weed wax."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
 
 That sentence matters because it shows Cyrus introducing uncertainty herself rather than presenting the sighting as established fact. She did not frame the experience as proof of extraterrestrial visitors. Instead, she acknowledged a possible alternative explanation before continuing with the narrative.
 
@@ -326,7 +326,7 @@ She nevertheless explained why she remained convinced something unusual had happ
 
 * her friend also saw the object;
 * she believed other motorists had stopped to look;
-* despite the caveat, she remained "pretty sure" she had witnessed something real. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.papermag.com/miley-cyrus-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papermag.com">[PAPER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papermag.com</span><span class="citation-popover-title">miley cyrus ufo</span><span class="citation-popover-snippet">That said, while Cyrus admitted that &quot;it could have been the weed wax&quot; she bought &quot;from a...Read more...</span></span></span>
+* despite the caveat, she remained "pretty sure" she had witnessed something real.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.papermag.com/miley-cyrus-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papermag.com">[PAPER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papermag.com</span><span class="citation-popover-title">miley cyrus ufo</span><span class="citation-popover-snippet">That said, while Cyrus admitted that &quot;it could have been the weed wax&quot; she bought &quot;from a...Read more...</span></span></span>
 
 </div>
 
@@ -336,7 +336,7 @@ Those statements create an internal tension that is often lost in abbreviated co
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-2-dark.svg" | relative_url }}" alt="Cyrus Caveat illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why viral retellings favour the strangest details
 
-Once the interview entered the celebrity news cycle, many headlines focused almost entirely on the sensational aspects of the story. Typical summaries emphasised that Miley Cyrus had been "chased by a UFO" or had "made eye contact with an alien", while the qualifying sentence about possible impairment often appeared only much later in the article or disappeared entirely in secondary retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2020/10/21/miley-cyrus-claims-she-was-chased-down-by-some-sort-of-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">miley cyrus claims she was chased down by some sort of ufo</span><span class="citation-popover-snippet">“I was driving through San Bernardino with my friend, and I got chased down by some...Read more...</span></span></span>
+Once the interview entered the celebrity news cycle, many headlines focused almost entirely on the sensational aspects of the story. Typical summaries emphasised that Miley Cyrus had been "chased by a UFO" or had "made eye contact with an alien", while the qualifying sentence about possible impairment often appeared only much later in the article or disappeared entirely in secondary retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pagesix.com/2020/10/21/miley-cyrus-claims-she-was-chased-down-by-some-sort-of-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pagesix.com">[Page Six]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pagesix.com</span><span class="citation-popover-title">miley cyrus claims she was chased down by some sort of ufo</span><span class="citation-popover-snippet">“I was driving through San Bernardino with my friend, and I got chased down by some...Read more...</span></span></span>
 
 This reflects a broader feature of entertainment [reporting]({{ 'reporting/' | relative_url }}). Headlines compete for attention, and unusual images—such as a glowing craft pursuing a pop star—are inherently more memorable than discussions of uncertainty or possible perceptual error. The caveat slows the story down, while the chase speeds it up.
 
@@ -353,7 +353,7 @@ Original interviewViral retelling"I'm pretty sure... but it could have been the 
 
 Cyrus's story is not notable because it proves or disproves anything about unidentified aerial phenomena. Rather, it demonstrates how celebrity testimony changes as it circulates.
 
-The original interview contains three elements at once: a striking personal experience, explicit acknowledgement of uncertainty and an emotional description of how the event affected her. Viral retellings tend to preserve the emotional and visual components while reducing the prominence of the uncertainty that accompanied them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire+2PAPER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
+The original interview contains three elements at once: a striking personal experience, explicit acknowledgement of uncertainty and an emotional description of how the event affected her. Viral retellings tend to preserve the emotional and visual components while reducing the prominence of the uncertainty that accompanied them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marieclaire.com">[Marie Claire+2PAPER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marieclaire.com</span><span class="citation-popover-title">miley cyrus alien ufo</span><span class="citation-popover-snippet">Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</span><span class="citation-popover-meta">Published: October 21, 2020</span></span></span>
 
 For readers examining celebrity UFO claims, that distinction is important. The most widely shared version of a story is not always the most complete version. Cyrus's own words present a more cautious account than many of the headlines that followed, making her interview a clear illustration of how caveats can disappear as unusual experiences are reshaped into entertainment narratives.
 
@@ -361,194 +361,194 @@ For readers examining celebrity UFO claims, that distinction is important. The m
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-3-dark.svg" | relative_url }}" alt="Cyrus Caveat illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_miley_cyrus_ufo_cave_29253a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Caveat Disappears From a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Caveat Disappears From a UFO Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced treatment of reported sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced treatment of reported sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives spread through culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives spread through culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Useful for understanding uncertainty and perception in unusual experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding uncertainty and perception in unusual experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages careful evaluation of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages careful evaluation of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="cyrus-caveat-when-a-caveat-disappears-from-a-ufo-story-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ For readers examining celebrity UFO claims, that distinction is important. The m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ For readers examining celebrity UFO claims, that distinction is important. The m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ For readers examining celebrity UFO claims, that distinction is important. The m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ For readers examining celebrity UFO claims, that distinction is important. The m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ For readers examining celebrity UFO claims, that distinction is important. The m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,79 +754,79 @@ For readers examining celebrity UFO claims, that distinction is important. The m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: marieclaire.com  
    Title: miley cyrus alien ufo  
-   Link: <a href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</p></details>
+   Link:<a href="https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.marieclaire.com/celebrity/a34435631/miley-cyrus-alien-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marie ClaireMiley Cyrus Said She Was Chased by an Alien In a UFOOctober 21, 2020 — 21 Oct 2020 — Miley Cyrus revealed she was &quot;chased dow...</p></details>
    Published: October 21, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: papermag.com  
    Title: miley cyrus ufo  
-   Link: <a href="https://www.papermag.com/miley-cyrus-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.papermag.com/miley-cyrus-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That said, while Cyrus admitted that &quot;it could have been the weed wax&quot; she bought &quot;from a...Read more...</p></details>
+   Link:<a href="https://www.papermag.com/miley-cyrus-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.papermag.com/miley-cyrus-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That said, while Cyrus admitted that &quot;it could have been the weed wax&quot; she bought &quot;from a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pagesix.com  
    Title: miley cyrus claims she was chased down by some sort of ufo  
-   Link: <a href="https://pagesix.com/2020/10/21/miley-cyrus-claims-she-was-chased-down-by-some-sort-of-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2020/10/21/miley-cyrus-claims-she-was-chased-down-by-some-sort-of-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“I was driving through San Bernardino with my friend, and I got chased down by some...Read more...</p></details>
+   Link:<a href="https://pagesix.com/2020/10/21/miley-cyrus-claims-she-was-chased-down-by-some-sort-of-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://pagesix.com/2020/10/21/miley-cyrus-claims-she-was-chased-down-by-some-sort-of-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“I was driving through San Bernardino with my friend, and I got chased down by some...Read more...</p></details>
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: github.com  
-   Link: <a href="https://github.com/Mgosi/Big-Data-Analysis-using-MapReduce-in-Hadoop/blob/master/CCRetrieveArticleData.txt" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Mgosi/Big-Data-Analysis-using-MapReduce-in-Hadoop/blob/master/CCRetrieveArticleData.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CCRetrieveArticleData.txt... ufo alien mounika audio trailer launch stay [music](&amp;#123;&amp;#123; &#x27;music/&#x27; | relative_url &amp;#125;&amp;#125;) priyaacinemass tamil crime jersey movie felt emotional mom...</p></details>
+   Link:<a href="https://github.com/Mgosi/Big-Data-Analysis-using-MapReduce-in-Hadoop/blob/master/CCRetrieveArticleData.txt" target="_blank" rel="noopener noreferrer nofollow">https://github.com/Mgosi/Big-Data-Analysis-using-MapReduce-in-Hadoop/blob/master/CCRetrieveArticleData.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CCRetrieveArticleData.txt... ufo alien mounika audio trailer launch stay [music](&amp;#123;&amp;#123; &#x27;music/&#x27; | relative_url &amp;#125;&amp;#125;) priyaacinemass tamil crime jersey movie felt emotional mom...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DailyMailCeleb/posts/james-franco-fans-have-plunged-into-a-spiral-of-conspiracy-theories-about-space-/1035641122301388/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyMailCeleb/posts/james-franco-fans-have-plunged-into-a-spiral-of-conspiracy-theories-about-space-/1035641122301388/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>James Franco fans have plunged into a spiral...FINAL ALERT: Elon Musk Claims Aliens Are Planning a High-Tech... ** MILEY CYRUS — VAN CH...</p></details>
+   Link:<a href="https://www.facebook.com/DailyMailCeleb/posts/james-franco-fans-have-plunged-into-a-spiral-of-conspiracy-theories-about-space-/1035641122301388/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DailyMailCeleb/posts/james-franco-fans-have-plunged-into-a-spiral-of-conspiracy-theories-about-space-/1035641122301388/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Franco fans have plunged into a spiral...FINAL ALERT: Elon Musk Claims Aliens Are Planning a High-Tech... ** MILEY CYRUS — VAN CH...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: glamour.com  
-   Link: <a href="https://www.glamour.com/story/so-miley-cyrus-and-demi-lovato-talked-about-their-alien-encounters-this-week" target="_blank" rel="noopener noreferrer nofollow">https://www.glamour.com/story/so-miley-cyrus-and-demi-lovato-talked-about-their-alien-encounters-this-week</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Miley Cyrus shared a detailed story during an interview with Rick Owens about being chased by a UFO while driving through San Bernardino...</p></details>
+   Link:<a href="https://www.glamour.com/story/so-miley-cyrus-and-demi-lovato-talked-about-their-alien-encounters-this-week" target="_blank" rel="noopener noreferrer nofollow">https://www.glamour.com/story/so-miley-cyrus-and-demi-lovato-talked-about-their-alien-encounters-this-week</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miley Cyrus shared a detailed story during an interview with Rick Owens about being chased by a UFO while driving through San Bernardino...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: justjared.com  
    Title: miley cyrus has a crazy ufo story she described what the alien looked like  
-   Link: <a href="https://www.justjared.com/2020/10/20/miley-cyrus-has-a-crazy-ufo-story-she-described-what-the-alien-looked-like/" target="_blank" rel="noopener noreferrer nofollow">https://www.justjared.com/2020/10/20/miley-cyrus-has-a-crazy-ufo-story-she-described-what-the-alien-looked-like/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I was driving through San Bernardino with my friend, and I got chased down by some sort of UFO. I&#x27;m pretty sure...Read more...</p></details>
+   Link:<a href="https://www.justjared.com/2020/10/20/miley-cyrus-has-a-crazy-ufo-story-she-described-what-the-alien-looked-like/" target="_blank" rel="noopener noreferrer nofollow">https://www.justjared.com/2020/10/20/miley-cyrus-has-a-crazy-ufo-story-she-described-what-the-alien-looked-like/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was driving through San Bernardino with my friend, and I got chased down by some sort of UFO. I&#x27;m pretty sure...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/datasets/xdotli/npr/resolve/main/npr.csv?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/xdotli/npr/resolve/main/npr.csv?download=true</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, giant robots and ray guns. Tales From the Radiation Age is his latest book.&quot; 12,&quot;For years now, some of the best, wildest, most m...</p></details>
+   Link:<a href="https://huggingface.co/datasets/xdotli/npr/resolve/main/npr.csv?download=true" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/datasets/xdotli/npr/resolve/main/npr.csv?download=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens, giant robots and ray guns. Tales From the Radiation Age is his latest book.&quot; 12,&quot;For years now, some of the best, wildest, most m...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
    Title: #Movies #aliens #Disclosure Day Partner  
-   Link: <a href="https://www.instagram.com/wasted/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/wasted/?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WASTED (@wasted) • Instagram photos and videosWidely regarded as the “king of alien films,” Spielberg has defined the cinematic extraterr...</p></details>
+   Link:<a href="https://www.instagram.com/wasted/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/wasted/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WASTED (@wasted) • Instagram photos and videosWidely regarded as the “king of alien films,” Spielberg has defined the cinematic extraterr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: billboard.com  
    Title: miley cyrus ufo experience 9469542  
-   Link: <a href="https://www.billboard.com/music/pop/miley-cyrus-ufo-experience-9469542/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/miley-cyrus-ufo-experience-9469542/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miley Cyrus Is &#x27;Pretty Sure&#x27; She Had a Wild UFO Experience20 Oct 2020 — “I was driving through San Bernardino with my friend, and I got c...</p></details>
+   Link:<a href="https://www.billboard.com/music/pop/miley-cyrus-ufo-experience-9469542/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/miley-cyrus-ufo-experience-9469542/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Miley Cyrus Is &#x27;Pretty Sure&#x27; She Had a Wild UFO Experience20 Oct 2020 — “I was driving through San Bernardino with my friend, and I got c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PFl3qWT4-7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PFl3qWT4-7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH video! [https://www.youtube.com/watch?v=tExO1qQbBj0](https://www.youtube.com/watch?v=tExO1qQbBj0) - Watch The Full...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PFl3qWT4-7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PFl3qWT4-7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH video! [https://www.youtube.com/watch?v=tExO1qQbBj0](https://www.youtube.com/watch?v=tExO1qQbBj0) - Watch The Full...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: public.ukp.informatik.tu-darmstadt.de  
    Title: wikipedia doc frequencies.txt  
-   Link: <a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_doc_frequencies.txt... fact 176408 replaced 176208 report 176002 better 175868 court 175689... ufo 2562 contra...</p></details>
+   Link:<a href="https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt" target="_blank" rel="noopener noreferrer nofollow">https://public.ukp.informatik.tu-darmstadt.de/reimers/embeddings/wikipedia_doc_frequencies.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tu-darmstadt.dewikipedia_doc_frequencies.txt... fact 176408 replaced 176208 report 176002 better 175868 court 175689... ufo 2562 contra...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20170523-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20170523-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits Times, 23 May 201723 May 2017 —... alien parasite to become Venom. The movie, slated for release in... Lock icon Miley Cyru...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20170523-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20170523-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits Times, 23 May 201723 May 2017 —... alien parasite to become Venom. The movie, slated for release in... Lock icon Miley Cyru...</p></details>
    Published: May 2017  

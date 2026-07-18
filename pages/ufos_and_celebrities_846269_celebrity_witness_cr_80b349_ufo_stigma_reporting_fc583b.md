@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_uf
 
 ## Introduction
 
-Who reports a UFO sighting is often shaped as much by social risk as by what was seen. In the long-running debate over celebrities and UFOs, fame can transform an unusual claim into a headline, while ordinary witnesses may decide that remaining silent is safer than risking embarrassment, damage to their careers or being dismissed as unreliable. That difference matters because investigators can only analyse reports that are actually submitted. Modern government and scientific reviews increasingly argue that stigma is not merely a cultural issue but a practical obstacle to collecting reliable data. Rather than assuming every report is correct, they emphasise that reducing fear of [ridicule]({{ 'ridicule/' | relative_url }}) can improve [reporting]({{ 'reporting/' | relative_url }}) rates, allowing both conventional explanations and genuinely unexplained cases to be evaluated more systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+Who reports a UFO sighting is often shaped as much by social risk as by what was seen. In the long-running debate over celebrities and UFOs, fame can transform an unusual claim into a headline, while ordinary witnesses may decide that remaining silent is safer than risking embarrassment, damage to their careers or being dismissed as unreliable. That difference matters because investigators can only analyse reports that are actually submitted. Modern government and scientific reviews increasingly argue that stigma is not merely a cultural issue but a practical obstacle to collecting reliable data. Rather than assuming every report is correct, they emphasise that reducing fear of [ridicule]({{ 'ridicule/' | relative_url }}) can improve [reporting]({{ 'reporting/' | relative_url }}) rates, allowing both conventional explanations and genuinely unexplained cases to be evaluated more systematically.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_ufo_stigma_reporting_fc583b-Illustration-1-dark.svg" | relative_url }}" alt="Stigma illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_ufo_stigma_reporting_fc583b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_ufo_stigma_reporting_fc583b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,9 +295,9 @@ Several factors repeatedly appear in official reviews and discussions with aviat
 
 </div>
 
-NASA's Independent UAP Study Team identified reporting stigma as a significant cause of "[data attrition]({{ 'data-attrition/' | relative_url }})"—the loss of potentially useful observations before investigators ever have the opportunity to examine them. The report argues that NASA's reputation as a scientific institution could encourage more people to report observations through evidence-focused rather than sensational channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+NASA's Independent UAP Study Team identified reporting stigma as a significant cause of "[data attrition]({{ 'data-attrition/' | relative_url }})"—the loss of potentially useful observations before investigators ever have the opportunity to examine them. The report argues that NASA's reputation as a scientific institution could encourage more people to report observations through evidence-focused rather than sensational channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-The issue is especially important because most sightings ultimately prove to have conventional explanations such as aircraft, balloons, atmospheric effects or sensor artefacts. If witnesses avoid reporting these events, researchers lose opportunities both to resolve ordinary cases and to identify the comparatively small number that remain unexplained after investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+The issue is especially important because most sightings ultimately prove to have conventional explanations such as aircraft, balloons, atmospheric effects or sensor artefacts. If witnesses avoid reporting these events, researchers lose opportunities both to resolve ordinary cases and to identify the comparatively small number that remain unexplained after investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
@@ -320,9 +320,9 @@ The result is a reporting landscape that can distort public perception. High-pro
 
 Reporting confidence varies considerably across different communities.
 
-Professional [pilots]({{ 'pilots/' | relative_url }}) illustrate this tension well. Commercial aviators have long described concerns that unusual reports might be interpreted as evidence of poor judgement or impaired perception. During NASA's public UAP discussions, panel members specifically noted that commercial pilots have historically been reluctant to report unusual observations because of the stigma attached to "flying saucer" reports. Reducing that hesitation was presented as both a scientific and an aviation safety objective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report 2023 05 31</span><span class="citation-popover-snippet">NASA UFO panel in first public meeting says better data...1 Jun 2023 — Members of an independent NASA panel studying UFOs, or wha...</span></span></span>
+Professional [pilots]({{ 'pilots/' | relative_url }}) illustrate this tension well. Commercial aviators have long described concerns that unusual reports might be interpreted as evidence of poor judgement or impaired perception. During NASA's public UAP discussions, panel members specifically noted that commercial pilots have historically been reluctant to report unusual observations because of the stigma attached to "flying saucer" reports. Reducing that hesitation was presented as both a scientific and an aviation safety objective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">nasa panel hold first public meeting ufo study ahead report</span><span class="citation-popover-snippet">NASA UFO panel in first public meeting says better data...1 Jun 2023 — Members of an independent NASA panel studying UFOs, or wha...</span></span></span>
 
-[Military]({{ 'military/' | relative_url }}) personnel have seen reporting become more formalised in recent years. The United States' All-domain Anomaly Resolution Office (AARO) provides reporting pathways for military personnel through established chains of command, while civilian pilots are encouraged to report unusual aerial observations through air traffic control and standard aviation reporting systems. Framing reports as safety information rather than extraordinary claims may reduce the social cost of reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Repo...</span></span></span>
+[Military]({{ 'military/' | relative_url }}) personnel have seen reporting become more formalised in recent years. The United States' All-domain Anomaly Resolution Office (AARO) provides reporting pathways for military personnel through established chains of command, while civilian pilots are encouraged to report unusual aerial observations through air traffic control and standard aviation reporting systems. Framing reports as safety information rather than extraordinary claims may reduce the social cost of reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Repo...</span></span></span>
 
 Private citizens occupy a more uncertain position. Unlike aviation professionals, they often lack standard reporting mechanisms and may be unsure whether police, aviation authorities, scientific organisations or civilian databases are the appropriate destination. This uncertainty itself discourages participation.
 
@@ -340,7 +340,7 @@ Several practical changes could improve the usefulness of reports:
 * **Greater emphasis on sensor data.** Photographs, radar information, flight records and [metadata]({{ 'metadata/' | relative_url }}) are generally more valuable than publicity surrounding a witness.
 * **Clear separation between observation and interpretation.** Investigators benefit most when witnesses describe exactly what they observed before suggesting explanations.
 
-NASA's study recommends expanding high-quality data collection, improving sensor calibration and reducing the cultural barriers that discourage reporting. Importantly, these recommendations are presented as ways to improve scientific investigation rather than to validate extraordinary interpretations of UFO reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+NASA's study recommends expanding high-quality data collection, improving sensor calibration and reducing the cultural barriers that discourage reporting. Importantly, these recommendations are presented as ways to improve scientific investigation rather than to validate extraordinary interpretations of UFO reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_ufo_stigma_reporting_fc583b-Illustration-3-dark.svg" | relative_url }}" alt="Stigma illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_ufo_stigma_reporting_fc583b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_witness_cr_80b349_ufo_stigma_reporting_fc583b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -352,201 +352,201 @@ A celebrity who reports a sighting may gain extensive media attention despite fa
 
 This creates an important limitation for anyone trying to understand UFO reporting patterns. The public record is unlikely to represent all sightings equally. Instead, it reflects a mixture of observational events and social incentives: who believes they can speak safely, who expects to be heard and who decides that remaining silent is the better option.
 
-Recognising that distinction does not establish whether any individual UFO report is accurate or extraordinary. It does, however, explain why many scientists, aviation specialists and government reviewers now regard stigma as a practical obstacle to obtaining the comprehensive, high-quality evidence needed to evaluate unidentified aerial reports objectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+Recognising that distinction does not establish whether any individual UFO report is accurate or extraordinary. It does, however, explain why many scientists, aviation specialists and government reviewers now regard stigma as a practical obstacle to obtaining the comprehensive, high-quality evidence needed to evaluate unidentified aerial reports objectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKnXUlwdG6w" title="UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer">UFOs: What Mysteries Could NASA’s New UAP Report Help Solve? | WSJ</a></p><p class="youtube-embed-meta">Channel: The Wall Street Journal &middot; Views: 400.9K &middot; Uploaded: September 2023 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKnXUlwdG6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKnXUlwdG6w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Gets Heard After a UFO Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Gets Heard After a UFO Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Places witness testimony into investigative context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places witness testimony into investigative context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Includes serious witnesses discussing reporting barriers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes serious witnesses discussing reporting barriers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores culture, belief and reporting of anomalous experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores culture, belief and reporting of anomalous experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses social and scientific responses to extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses social and scientific responses to extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW"><img src="{{ '/assets/images/marketplace-covers/005f999955a86aeec93f.jpg' | relative_url }}" alt="Listing image for CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">CHROME ALIEN HEAD ENAMEL PIN BADGE - NEW</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item"><img src="{{ '/assets/images/marketplace-covers/90958b2316dfc40bcfe5.jpg' | relative_url }}" alt="Listing image for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item"><img src="{{ '/assets/images/marketplace-covers/90958b2316dfc40bcfe5.jpg' | relative_url }}" alt="Listing image for Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Fox Alien vs Predator Enamel Pin Badge Collectable Promotional Film Item</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/b729946542c23df6f590.jpg' | relative_url }}" alt="Listing image for Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Head High Quality Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien enamel pin" data-ebay-reference="stigma-219fb8-who-gets-heard-after-a-ufo-sighting-ufos-and-celebrities-alien-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ Recognising that distinction does not establish whether any individual UFO repor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ Recognising that distinction does not establish whether any individual UFO repor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ Recognising that distinction does not establish whether any individual UFO repor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ Recognising that distinction does not establish whether any individual UFO repor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ Recognising that distinction does not establish whether any individual UFO repor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,87 +752,87 @@ Recognising that distinction does not establish whether any individual UFO repor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO panel in first public meeting says better data...1 Jun 2023 — Members of an independent NASA panel studying UFOs, or wha...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO panel in first public meeting says better data...1 Jun 2023 — Members of an independent NASA panel studying UFOs, or wha...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Repo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeCivilian pilots are encouraged to promptly report UAP sightings to air traffic control. AARO receives UAP-related Pilot Repo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aiaa.org  
-   Link: <a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:As with current standards, we recommend voluntary UAP reporting in most circumstances. Instead of reporting to UFO...</p></details>
+   Link:<a href="https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aiaa.org/wp-content/uploads/2025/08/AIAA-UAPIOC-Opinion-Paper-UAP-Occupational-Safety-Reporting_ForPublication_kb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADDRESSING THE UNKNOWN:As with current standards, we recommend voluntary UAP reporting in most circumstances. Instead of reporting to UFO...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — NASA can reduce the stigma associated with pilots reporting anomalies and fundamenta...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — NASA can reduce the stigma associated with pilots reporting anomalies and fundamenta...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stigma. On 14 September 2023, NASA released the ﬁnal report of its independent UAP study team[reference:22].Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404824728_The_COMETA_Report_the_Pilots_and_the_Silence_How_the_Scientific_Community_Must_Acknowledge_That_UAPs_Are_a_Tangible_Reality_An_Appeal_to_the_International_Scientific_Community_Introduction_A_Secret_Th</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stigma. On 14 September 2023, NASA released the ﬁnal report of its independent UAP study team[reference:22].Read more...</p></details>
    Published: September 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...28 May 2026 — Beyond the tech, they want to erase the stigma around reporting sightings by tappi...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UNIDENTIFIED ANOMALOUS PHENOMENA...28 May 2026 — Beyond the tech, they want to erase the stigma around reporting sightings by tappi...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — The authors note the importance of reducing the stigma that can cause both military and commercial pilots to feel that the...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — The authors note the importance of reducing the stigma that can cause both military and commercial pilots to feel that the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: euronews.com  
    Title: nasa team calls for end to ufo stigma as search for proof continues  
-   Link: <a href="https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA team calls for end to UFO stigma as search for proof...14 Sept 2023 — A new report commissioned by NASA has outlined how the US&#x27;s s...</p></details>
+   Link:<a href="https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA team calls for end to UFO stigma as search for proof...14 Sept 2023 — A new report commissioned by NASA has outlined how the US&#x27;s s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n surrounding UFOs poses an obstacle to collecting data...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n surrounding UFOs poses an obstacle to collecting data...</p></details>

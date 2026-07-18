@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_fa
 
 ## Introduction
 
-One of the most distinctive parts of Goldie Hawn's UFO narrative is not the initial sighting she described, but a memory she says returned years later. According to Hawn, a conversation with an astrophysicist researching reports of alien encounters triggered a forgotten recollection: the [beings]({{ 'beings/' | relative_url }}) had touched her face. She has consistently described that sensation not as frightening but as profoundly loving, comparing it to "the finger of God" and saying it was "filled with light". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">I think I made contact with outer space.&#x27;Read more</span><span class="citation-popover-snippet">Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
+One of the most distinctive parts of Goldie Hawn's UFO narrative is not the initial sighting she described, but a memory she says returned years later. According to Hawn, a conversation with an astrophysicist researching reports of alien encounters triggered a forgotten recollection: the [beings]({{ 'beings/' | relative_url }}) had touched her face. She has consistently described that sensation not as frightening but as profoundly loving, comparing it to "the finger of God" and saying it was "filled with light".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">I think I made contact with outer space.&#x27;Read more</span><span class="citation-popover-snippet">Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_face_touch_sacred_me_4cb4cf-Illustration-1-dark.svg" | relative_url }}" alt="Face Touch illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_face_touch_sacred_me_4cb4cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_face_touch_sacred_me_4cb4cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ This later recollection shifts the story away from the question of whether an ex
 
 Hawn has explained that the face-touch was not part of the story she initially remembered after the alleged encounter. She says the memory resurfaced only years later while speaking with an astrophysicist who had spent decades collecting reports of alleged alien experiences. As he asked increasingly specific questions about what she remembered, she says another part of the experience suddenly became vivid.
 
-In her own account, the conversation acted almost like a cue for retrieval rather than the creation of a new belief. Hawn compared the process to regression therapy, although she did not claim to have undergone formal hypnotic regression. Instead, she described entering an unusually reflective mental state in which forgotten details seemed to return spontaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">I think I made contact with outer space.&#x27;Read more</span><span class="citation-popover-snippet">Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
+In her own account, the conversation acted almost like a cue for retrieval rather than the creation of a new belief. Hawn compared the process to regression therapy, although she did not claim to have undergone formal hypnotic regression. Instead, she described entering an unusually reflective mental state in which forgotten details seemed to return spontaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">I think I made contact with outer space.&#x27;Read more</span><span class="citation-popover-snippet">Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
 
 That sequence is important because it separates the remembered touch from the original experience in time. The emotional centre of the story was not present immediately after the alleged encounter; it emerged later through recollection.
 
@@ -303,7 +303,7 @@ The recovered memory is remarkably consistent across Hawn's public retellings. S
 
 > "It felt like the finger of God."
 
-She immediately follows this comparison with emotional language rather than claims about technology or scientific evidence. She describes the touch as "benevolent", "loving", "powerful" and "filled with light". During a later television interview, recalling the moment visibly moved her to tears, reinforcing that the emotional significance now outweighs the factual details in her own telling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">government, describing a deeply emotional moment when she realized the aliens had touched her face, a sensation she likened to &quot;the finge...</span></span></span>
+She immediately follows this comparison with emotional language rather than claims about technology or scientific evidence. She describes the touch as "benevolent", "loving", "powerful" and "filled with light". During a later television interview, recalling the moment visibly moved her to tears, reinforcing that the emotional significance now outweighs the factual details in her own telling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">government, describing a deeply emotional moment when she realized the aliens had touched her face, a sensation she likened to &quot;the finge...</span></span></span>
 
 Unlike many popular alien-abduction narratives, the remembered touch is not presented as invasive, painful or threatening. It functions almost as a blessing. That difference helps explain why Hawn frequently discusses the episode in spiritual rather than conspiratorial language.
 
@@ -325,7 +325,7 @@ Instead of concentrating on physical descriptions or evidence, she repeatedly re
 
 </div>
 
-These themes echo language commonly found in mystical experiences across many religious traditions, where encounters with the transcendent are described through feelings of peace, love and overwhelming presence rather than empirical proof. That does not establish that Hawn's experience was mystical in an objective sense. It does, however, explain why many listeners interpret her account less as a UFO report than as a personal spiritual narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">I think I made contact with outer space.&#x27;Read more</span><span class="citation-popover-snippet">Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
+These themes echo language commonly found in mystical experiences across many religious traditions, where encounters with the transcendent are described through feelings of peace, love and overwhelming presence rather than empirical proof. That does not establish that Hawn's experience was mystical in an objective sense. It does, however, explain why many listeners interpret her account less as a UFO report than as a personal spiritual narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">I think I made contact with outer space.&#x27;Read more</span><span class="citation-popover-snippet">Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
 
 Notably, Hawn herself has avoided presenting the touch as evidence that could convince sceptics. Instead, she emphasises how it felt and what it meant to her.
 
@@ -352,201 +352,201 @@ Without it, the account is primarily a story about unusual perceptions during a 
 
 That shift explains why Hawn often becomes more emotional when discussing the recovered memory than when describing the silver beings themselves. The figures become almost secondary; the lasting significance lies in the remembered sensation of acceptance and love.
 
-Within the broader culture of celebrity UFO stories, this makes Hawn's account unusual. Rather than building toward secret knowledge, government cover-ups or technological speculation, it culminates in a deeply personal interpretation of an experience that she herself acknowledges cannot be conclusively explained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">government, describing a deeply emotional moment when she realized the aliens had touched her face, a sensation she likened to &quot;the finge...</span></span></span>
+Within the broader culture of celebrity UFO stories, this makes Hawn's account unusual. Rather than building toward secret knowledge, government cover-ups or technological speculation, it culminates in a deeply personal interpretation of an experience that she herself acknowledges cannot be conclusively explained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">government, describing a deeply emotional moment when she realized the aliens had touched her face, a sensation she likened to &quot;the finge...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/suzqvlOt7y4" title="Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer">Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters</a></p><p class="youtube-embed-meta">Channel: Jimmy Kimmel Live</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=suzqvlOt7y4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a UFO Memory Becomes Sacred. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a UFO Memory Becomes Sacred. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores spiritual meaning attached to UFO experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores spiritual meaning attached to UFO experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Focuses on transformative experiencer accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on transformative experiencer accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages separating personal meaning from empirical proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages separating personal meaning from empirical proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Believer on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Believer">Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Believer on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Believer">Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Internal medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Internal medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/864aeffe7855cd72885c.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/864aeffe7855cd72885c.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/4b51086b6e0f30a899b6.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/4b51086b6e0f30a899b6.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/f49295ff78f072290989.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/f49295ff78f072290989.jpg' | relative_url }}" alt="Listing image for Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Poster Japanese Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xemomorph Space Alien Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/cd2b55190da8b55d82f9.jpg' | relative_url }}" alt="Listing image for Xemomorph Space Alien Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Xemomorph Space Alien Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xemomorph Space Alien Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/cd2b55190da8b55d82f9.jpg' | relative_url }}" alt="Listing image for Xemomorph Space Alien Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Xemomorph Space Alien Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="face-touch-when-a-ufo-memory-becomes-sacred-ufos-and-celebrities-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ Within the broader culture of celebrity UFO stories, this makes Hawn's account u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ Within the broader culture of celebrity UFO stories, this makes Hawn's account u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ Within the broader culture of celebrity UFO stories, this makes Hawn's account u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ Within the broader culture of celebrity UFO stories, this makes Hawn's account u
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ Within the broader culture of celebrity UFO stories, this makes Hawn's account u
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,71 +752,71 @@ Within the broader culture of celebrity UFO stories, this makes Hawn's account u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: latimes.com  
    Title: I think I made contact with outer space.'Read more  
-   Link: <a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesGoldie Hawn recounts her paralyzing alien encounterOctober 28, 2023 — 27 Oct 2023 — Goldie Hawn recounted an alien encou...</p></details>
    Published: October 28, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: people.com  
-   Link: <a href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow">https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government, describing a deeply emotional moment when she realized the aliens had touched her face, a sensation she likened to &quot;the finge...</p></details>
+   Link:<a href="https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111" target="_blank" rel="noopener noreferrer nofollow">https://people.com/goldie-hawn-recounts-meeting-2-aliens-with-triangular-shaped-heads-11968111</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government, describing a deeply emotional moment when she realized the aliens had touched her face, a sensation she likened to &quot;the finge...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: uppermichiganssource.com  
    Title: goldie hawn shares alien encounter she experienced more than 50 years ago  
-   Link: <a href="https://www.uppermichiganssource.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.uppermichiganssource.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn shares alien encounter she experienced...30 Oct 2023 — Actress Goldie Hawn recently revealed in a podcast interview she expe...</p></details>
+   Link:<a href="https://www.uppermichiganssource.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.uppermichiganssource.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn shares alien encounter she experienced...30 Oct 2023 — Actress Goldie Hawn recently revealed in a podcast interview she expe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ElJLwRPvrHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ElJLwRPvrHw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ElJLwRPvrHw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ElJLwRPvrHw</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Recalls Alien Encounter: &quot;They Touched My...30 Oct 2023 — Ms Hawn said she vividly recalled all the details of the encounter...</p></details>
+   Link:<a href="https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Recalls Alien Encounter: &quot;They Touched My...30 Oct 2023 — Ms Hawn said she vividly recalled all the details of the encounter...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX7Austin/posts/academy-award-winning-actress-recalls-encountering-extraterrestrial-beings-and-d/746121380887453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/academy-award-winning-actress-recalls-encountering-extraterrestrial-beings-and-d/746121380887453/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On a new episode of the Apple Fitness+ audio experience Time to Walk, the Oscar and Golden...</p></details>
+   Link:<a href="https://www.facebook.com/FOX7Austin/posts/academy-award-winning-actress-recalls-encountering-extraterrestrial-beings-and-d/746121380887453/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX7Austin/posts/academy-award-winning-actress-recalls-encountering-extraterrestrial-beings-and-d/746121380887453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On a new episode of the Apple Fitness+ audio experience Time to Walk, the Oscar and Golden...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ew.com  
    Title: wyatt russell defends mom goldie hawn alien story 8402613  
-   Link: <a href="https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613?srsltid=AfmBOooRCC5uK6oXv3dJXGAStMuvKcVCYezc1VaKbjq9Kyym2sHxibFL" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613?srsltid=AfmBOooRCC5uK6oXv3dJXGAStMuvKcVCYezc1VaKbjq9Kyym2sHxibFL</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyatt Russell says mom Goldie Hawn&#x27;s alien story is true15 Nov 2023 — Later in life, Hawn went to regression therapy with an astrophysici...</p></details>
+   Link:<a href="https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613?srsltid=AfmBOooRCC5uK6oXv3dJXGAStMuvKcVCYezc1VaKbjq9Kyym2sHxibFL" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/wyatt-russell-defends-mom-goldie-hawn-alien-story-8402613?srsltid=AfmBOooRCC5uK6oXv3dJXGAStMuvKcVCYezc1VaKbjq9Kyym2sHxibFL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wyatt Russell says mom Goldie Hawn&#x27;s alien story is true15 Nov 2023 — Later in life, Hawn went to regression therapy with an astrophysici...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Goldie Hawn Reveals ALIEN ENCOUNTER Says Touch Felt Like 'Finger Of God'  
-   Link: <a href="https://www.youtube.com/watch?v=WcMUZa4x58c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WcMUZa4x58c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn apple podcasts alien finger of god Goldie Hawn Reveals ALIEN ENCOUNTER Says Touch Felt Like &#x27;Finger Of God&#x27; FULL STORY 30th O...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WcMUZa4x58c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WcMUZa4x58c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn apple podcasts alien finger of god Goldie Hawn Reveals ALIEN ENCOUNTER Says Touch Felt Like &#x27;Finger Of God&#x27; FULL STORY 30th O...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: businessinsider.com  
    Title: goldie hawn says she had powerful encounter with aliens 2023 10  
-   Link: <a href="https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens-2023-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens-2023-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They touched my face. They touched my face, and it felt like the finger of God,&quot; Hawn said. &quot;It was the most...Read more...</p></details>
+   Link:<a href="https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They touched my face. They touched my face, and it felt like the finger of God,&quot; Hawn said. &quot;It was the most...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vanityfair.com  
    Title: goldie hawn knows that aliens have touched her face  
-   Link: <a href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOopALJrpM5uKlzMID1x-vVQMSOOADsetaUr96KhL6F_m8NXbbgrQ" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOopALJrpM5uKlzMID1x-vVQMSOOADsetaUr96KhL6F_m8NXbbgrQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Oct 2023 — On the audio experience Time to Walk, the Oscar winner recounts her experiences with extraterrestrials, from seeing aliens...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOopALJrpM5uKlzMID1x-vVQMSOOADsetaUr96KhL6F_m8NXbbgrQ" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOopALJrpM5uKlzMID1x-vVQMSOOADsetaUr96KhL6F_m8NXbbgrQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Oct 2023 — On the audio experience Time to Walk, the Oscar winner recounts her experiences with extraterrestrials, from seeing aliens...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: yahoo.com  
    Title: Goldie Hawn recounts alien encounter: 'Oh, my God  
-   Link: <a href="https://www.yahoo.com/entertainment/goldie-hawn-recounts-alien-encounter-042234466.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/goldie-hawn-recounts-alien-encounter-042234466.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I think...27 Oct 2023 —... astrophysicist, her memory was vivid. “They touched my face, and it felt like the finger of God. It was the...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/goldie-hawn-recounts-alien-encounter-042234466.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/goldie-hawn-recounts-alien-encounter-042234466.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think...27 Oct 2023 —... astrophysicist, her memory was vivid. “They touched my face, and it felt like the finger of God. It was the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>her eyes. She knows she does, that&#x27;s why she is wearing a large...</p></details>
+   Link:<a href="https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>her eyes. She knows she does, that&#x27;s why she is wearing a large...</p></details>

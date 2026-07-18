@@ -286,11 +286,11 @@ Celebrity UFO stories often survive not because new evidence appears, but becaus
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_spread_346571_fandom_ufo_repetitio_434b26-Illustration-1-dark.svg" | relative_url }}" alt="Fandom Loops illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_spread_346571_fandom_ufo_repetitio_434b26-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_spread_346571_fandom_ufo_repetitio_434b26-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How fan archives preserve strange biographical details
 
-Modern fandom functions as an informal archival system. Long before social media, fans produced newsletters, scrapbooks and fanzines; today they maintain forums, wikis, Reddit communities and digital archives. Fan studies has consistently described these communities as active participants in preserving and interpreting cultural history rather than passive consumers. content.ub.hu-berlin.de+2journal.transformativeworks.org <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.ub.hu-berlin.de/monographs/toc/ethnologie/BV044961716.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.ub.hu-berlin.de">[content.ub.hu-berlin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.ub.hu-berlin.de</span><span class="citation-popover-snippet">A Companion to Media Fandom and Fan StudiesAugust 13, 2021 — by P Booth · Cited by 187 — 7 Representations of Fans and Fandom in the Brit...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
+Modern fandom functions as an informal archival system. Long before social media, fans produced newsletters, scrapbooks and fanzines; today they maintain forums, wikis, Reddit communities and digital archives. Fan studies has consistently described these communities as active participants in preserving and interpreting cultural history rather than passive consumers. content.ub.hu-berlin.de+2journal.transformativeworks.org<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.ub.hu-berlin.de/monographs/toc/ethnologie/BV044961716.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.ub.hu-berlin.de">[content.ub.hu-berlin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.ub.hu-berlin.de</span><span class="citation-popover-snippet">A Companion to Media Fandom and Fan StudiesAugust 13, 2021 — by P Booth · Cited by 187 — 7 Representations of Fans and Fandom in the Brit...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
 
 That archival instinct makes unusual anecdotes surprisingly durable. A UFO sighting may occupy only a few sentences in a decades-old interview, yet once fans catalogue every interview and [timeline]({{ 'timeline/' | relative_url }}), those few sentences become permanently searchable. When anniversaries arrive, or when discussion turns to an album or film, the anecdote resurfaces naturally.
 
-The enduring discussion of John Lennon's claimed 1974 UFO sighting illustrates this process. The story is continually revived because it is tied to a specific date, his New York period and the *Walls and Bridges* era, with fans repeatedly sharing reproductions of his handwritten note and discussing later references in interviews and lyrics. Rather than disappearing as a fleeting newspaper report, it becomes another documented episode in Lennon's extensively archived life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesstory.com">[The Beatles Story Museum, Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesstory.com</span><span class="citation-popover-title">The Beatles Story Museum, Liverpool John Lennon&#x27;s UFO Sighting</span><span class="citation-popover-snippet">“There&#x27;s UFOs over New York” - was John Lennon visited by a traveller from &#x27;Across The Universe&#x27;? Home · Stories.Read more...</span></span></span>
+The enduring discussion of John Lennon's claimed 1974 UFO sighting illustrates this process. The story is continually revived because it is tied to a specific date, his New York period and the *Walls and Bridges* era, with fans repeatedly sharing reproductions of his handwritten note and discussing later references in interviews and lyrics. Rather than disappearing as a fleeting newspaper report, it becomes another documented episode in Lennon's extensively archived life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesstory.com">[The Beatles Story Museum, Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesstory.com</span><span class="citation-popover-title">The Beatles Story Museum, Liverpool John Lennon&#x27;s UFO Sighting</span><span class="citation-popover-snippet">“There&#x27;s UFOs over New York” - was John Lennon visited by a traveller from &#x27;Across The Universe&#x27;? Home · Stories.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d9TAr20K7A0" title="These Celebrities Say They’ve Seen UFOs — And Some of the Stories Are Wild" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d9TAr20K7A0" target="_blank" rel="noopener noreferrer">These Celebrities Say They’ve Seen UFOs — And Some of the Stories Are Wild</a></p><p class="youtube-embed-meta">Channel: JoBlo Celebrity Access</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d9TAr20K7A0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d9TAr20K7A0">Open on YouTube</a></p></div></div></div>
@@ -329,7 +329,7 @@ This repetition usually follows a recognisable cycle:
 
 Importantly, the repetition preserves visibility rather than increasing evidential strength. The account becomes culturally familiar even though the underlying evidence remains exactly what it was when first reported.
 
-Fan scholars have long argued that participatory communities continually reinterpret and reproduce cultural material instead of merely consuming it. Digital archives reinforce this process by making older material permanently searchable and easily recirculated whenever a relevant conversation arises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.transformativeworks.org/index.php/twc/article/view/2105/2991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.transformativeworks.org">[journal.transformativeworks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.transformativeworks.org</span><span class="citation-popover-title">The fan archives that fan</span><span class="citation-popover-snippet">Digital archives, fandom histories, and the reproduction of...by TN Woodhouse · 2022 · Cited by 10 — These histories help fans imagine t...</span></span></span>
+Fan scholars have long argued that participatory communities continually reinterpret and reproduce cultural material instead of merely consuming it. Digital archives reinforce this process by making older material permanently searchable and easily recirculated whenever a relevant conversation arises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.transformativeworks.org/index.php/twc/article/view/2105/2991" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.transformativeworks.org">[journal.transformativeworks.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.transformativeworks.org</span><span class="citation-popover-title">The fan archives that fan</span><span class="citation-popover-snippet">Digital archives, fandom histories, and the reproduction of...by TN Woodhouse · 2022 · Cited by 10 — These histories help fans imagine t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bD64fckuAw4" title="May Pang Exclusive Interview! (10/20/14) The Truth about &#x27;The Lost Weekend&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bD64fckuAw4" target="_blank" rel="noopener noreferrer">May Pang Exclusive Interview! (10/20/14) The Truth about &#x27;The Lost Weekend&#x27;</a></p><p class="youtube-embed-meta">Channel: Eddie Winters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bD64fckuAw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bD64fckuAw4">Open on YouTube</a></p></div></div></div>
@@ -362,175 +362,175 @@ Understanding this distinction explains why celebrity UFO stories remain cultura
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why fans keep retelling UFO stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why fans keep retelling UFO stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances folklore with documented reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances folklore with documented reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Textual Poachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y20hBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Textual Poachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Textual Poachers">Textual Poachers</a>
-        </h4>
-        <p class="fr-book-author">By Henry Jenkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Textual Poachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y20hBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Textual Poachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Textual Poachers">Textual Poachers</a>
+</h4>
+<p class="fr-book-author">By Henry Jenkins</p>
         
-        <p class="fr-book-desc">Explains how fan communities preserve and reshape stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how fan communities preserve and reshape stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Convergence+Culture+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Convergence Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/612154-M.jpg" alt="Cover for Convergence Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Convergence+Culture+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convergence Culture">Convergence Culture</a>
-        </h4>
-        <p class="fr-book-author">By Henry Jenkins</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Convergence+Culture+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Convergence Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/612154-M.jpg" alt="Cover for Convergence Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Convergence+Culture+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Convergence Culture">Convergence Culture</a>
+</h4>
+<p class="fr-book-author">By Henry Jenkins</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Mass media and culture, Popular culture, Convergence, Popular culture, united states, United States.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Convergence+Culture+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Mass media and culture, Popular culture, Convergence, Popular culture, united states, United States.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Convergence+Culture+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Textual+Poachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Textual Poachers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Textual+Poachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Textual Poachers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: content.ub.hu-berlin.de  
-   Link: <a href="https://content.ub.hu-berlin.de/monographs/toc/ethnologie/BV044961716.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.ub.hu-berlin.de/monographs/toc/ethnologie/BV044961716.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Companion to Media Fandom and Fan StudiesAugust 13, 2021 — by P Booth · Cited by 187 — 7 Representations of Fans and Fandom in the Brit...</p></details>
+   Link:<a href="https://content.ub.hu-berlin.de/monographs/toc/ethnologie/BV044961716.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.ub.hu-berlin.de/monographs/toc/ethnologie/BV044961716.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Companion to Media Fandom and Fan StudiesAugust 13, 2021 — by P Booth · Cited by 187 — 7 Representations of Fans and Fandom in the Brit...</p></details>
    Published: August 13, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journal.transformativeworks.org  
    Title: The fan archives that fan  
-   Link: <a href="https://journal.transformativeworks.org/index.php/twc/article/view/2105/2991" target="_blank" rel="noopener noreferrer nofollow">https://journal.transformativeworks.org/index.php/twc/article/view/2105/2991</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital archives, fandom histories, and the reproduction of...by TN Woodhouse · 2022 · Cited by 10 — These histories help fans imagine t...</p></details>
+   Link:<a href="https://journal.transformativeworks.org/index.php/twc/article/view/2105/2991" target="_blank" rel="noopener noreferrer nofollow">https://journal.transformativeworks.org/index.php/twc/article/view/2105/2991</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital archives, fandom histories, and the reproduction of...by TN Woodhouse · 2022 · Cited by 10 — These histories help fans imagine t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: tgif.fandom.com  
    Title: The Beatles  
-   Link: <a href="https://tgif.fandom.com/wiki/The_Beatles" target="_blank" rel="noopener noreferrer nofollow">https://tgif.fandom.com/wiki/The_Beatles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beatles | TGIF Wiki - FandomThe Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCar...</p></details>
+   Link:<a href="https://tgif.fandom.com/wiki/The_Beatles" target="_blank" rel="noopener noreferrer nofollow">https://tgif.fandom.com/wiki/The_Beatles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beatles | TGIF Wiki - FandomThe Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCar...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: today in 1974 john saw a ufo solved  
-   Link: <a href="https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today in 1974 John saw a UFO. SOLVED.: r/beatlesWhat we expect to learn about UFOs in 2024 · Mouth In Motion Guy is Carp Lowry · John Le...</p></details>
+   Link:<a href="https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today in 1974 John saw a UFO. SOLVED.: r/beatlesWhat we expect to learn about UFOs in 2024 · Mouth In Motion Guy is Carp Lowry · John Le...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: beatlesstory.com  
    Title: The Beatles Story Museum, Liverpool John Lennon's UFO Sighting  
-   Link: <a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“There&#x27;s UFOs over New York” - was John Lennon visited by a traveller from &#x27;Across The Universe&#x27;? Home · Stories.Read more...</p></details>
+   Link:<a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“There&#x27;s UFOs over New York” - was John Lennon visited by a traveller from &#x27;Across The Universe&#x27;? Home · Stories.Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rocksbackpages.com  
-   Link: <a href="https://www.rocksbackpages.com/Library/Publication/mojo?orderBy=Artist" target="_blank" rel="noopener noreferrer nofollow">https://www.rocksbackpages.com/Library/Publication/mojo?orderBy=Artist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MOJO articles, interviews and reviews from...MOJO articles, interviews and reviews from Rock&#x27;s Backpages: The archive of music journalis...</p></details>
+   Link:<a href="https://www.rocksbackpages.com/Library/Publication/mojo?orderBy=Artist" target="_blank" rel="noopener noreferrer nofollow">https://www.rocksbackpages.com/Library/Publication/mojo?orderBy=Artist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOJO articles, interviews and reviews from...MOJO articles, interviews and reviews from Rock&#x27;s Backpages: The archive of music journalis...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uni-koeln.de  
-   Link: <a href="https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/network.html" target="_blank" rel="noopener noreferrer nofollow">https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/network.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CologneHistory of Fandom: NetworkFandom Studies is now well established – at least internationally – but historical fan cul...</p></details>
+   Link:<a href="https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/network.html" target="_blank" rel="noopener noreferrer nofollow">https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/network.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of CologneHistory of Fandom: NetworkFandom Studies is now well established – at least internationally – but historical fan cul...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: api.pageplace.de  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9781623565855_A29973278/preview-9781623565855_A29973278.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781623565855_A29973278/preview-9781623565855_A29973278.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FandomThe era led to a spate of monster, mad scientist and alien creature films that acquired dedicated followings and have become signif...</p></details>
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9781623565855_A29973278/preview-9781623565855_A29973278.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781623565855_A29973278/preview-9781623565855_A29973278.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FandomThe era led to a spate of monster, mad scientist and alien creature films that acquired dedicated followings and have become signif...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ndl.ethernet.edu.et  
-   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/50217/1/124.Christian%20Karner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/50217/1/124.Christian%20Karner.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AND FAN CULTURESby H LINDEN · Cited by 172 — The fans of Roswell—a teen show about aliens living undercover in a small American town—orga...</p></details>
+   Link:<a href="https://ndl.ethernet.edu.et/bitstream/123456789/50217/1/124.Christian%20Karner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/50217/1/124.Christian%20Karner.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AND FAN CULTURESby H LINDEN · Cited by 172 — The fans of Roswell—a teen show about aliens living undercover in a small American town—orga...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: also on september 26 on this day in 1974 walls and bridges was released in the u  
-   Link: <a href="https://www.facebook.com/fabfourfaq2/posts/also-on-september-26-on-this-day-in-1974-walls-and-bridges-was-released-in-the-u/1366572082140604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-september-26-on-this-day-in-1974-walls-and-bridges-was-released-in-the-u/1366572082140604/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s Walls and Bridges album released in 1974This album, recorded during Lennon&#x27;s infamous &quot;Lost Weekend&quot; period of separation f...</p></details>
+   Link:<a href="https://www.facebook.com/fabfourfaq2/posts/also-on-september-26-on-this-day-in-1974-walls-and-bridges-was-released-in-the-u/1366572082140604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-september-26-on-this-day-in-1974-walls-and-bridges-was-released-in-the-u/1366572082140604/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s Walls and Bridges album released in 1974This album, recorded during Lennon&#x27;s infamous &quot;Lost Weekend&quot; period of separation f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: this is the location where john lennon was staying at the time he signed the pap  
-   Link: <a href="https://www.facebook.com/FreyzelProductions/posts/this-is-the-location-where-john-lennon-was-staying-at-the-time-he-signed-the-pap/996890615755124/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FreyzelProductions/posts/this-is-the-location-where-john-lennon-was-staying-at-the-time-he-signed-the-pap/996890615755124/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the location where John Lennon was staying...In 1974, while staying at the Polynesian Village Resort, it is believed that John L...</p></details>
+   Link:<a href="https://www.facebook.com/FreyzelProductions/posts/this-is-the-location-where-john-lennon-was-staying-at-the-time-he-signed-the-pap/996890615755124/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FreyzelProductions/posts/this-is-the-location-where-john-lennon-was-staying-at-the-time-he-signed-the-pap/996890615755124/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is the location where John Lennon was staying...In 1974, while staying at the Polynesian Village Resort, it is believed that John L...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: alanehunter.com  
-   Link: <a href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Beatles John Lennon and UFO&#x27;s.24 Apr 2018 — However, John Lennon was not a newcomer to the “UFO Phenomenon”...</p></details>
+   Link:<a href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Beatles John Lennon and UFO&#x27;s.24 Apr 2018 — However, John Lennon was not a newcomer to the “UFO Phenomenon”...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: today 1974 john lennon reports seeing a ufo in nyc  
-   Link: <a href="https://www.facebook.com/robertsworldofthe60s/posts/today-1974-john-lennon-reports-seeing-a-ufo-in-nyc/1394002099393027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/robertsworldofthe60s/posts/today-1974-john-lennon-reports-seeing-a-ufo-in-nyc/1394002099393027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, 1974, John Lennon reports seeing a UFO in NYCIn 1974, John Lennon claimed to have seen a UFO hovering over New York and that, in a...</p></details>
+   Link:<a href="https://www.facebook.com/robertsworldofthe60s/posts/today-1974-john-lennon-reports-seeing-a-ufo-in-nyc/1394002099393027/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/robertsworldofthe60s/posts/today-1974-john-lennon-reports-seeing-a-ufo-in-nyc/1394002099393027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today, 1974, John Lennon reports seeing a UFO in NYCIn 1974, John Lennon claimed to have seen a UFO hovering over New York and that, in a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dangerousminds.net  
    Title: john lennon sees a ufo in new york city 1974  
-   Link: <a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon sees a UFO in New York City, 197413 Apr 2015 — John Lennon himself–the most UFO-obsessed member of the band–claimed to have h...</p></details>
+   Link:<a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon sees a UFO in New York City, 197413 Apr 2015 — John Lennon himself–the most UFO-obsessed member of the band–claimed to have h...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/2014/04/john-lennons -ufo-inspired-art-fetches-big-bucks/.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/2014/04/john-lennons -ufo-inspired-art-fetches-big-bucks/.Read more...</p></details>

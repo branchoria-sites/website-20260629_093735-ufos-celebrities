@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizond
 
 ## Introduction
 
-Tom DeLonge's influence on mainstream UAP discussion depended on more than celebrity attention. The crucial shift came when his public campaign became associated with two former national security figures: Luis Elizondo, who said he had directed the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), and Christopher Mellon, a former Deputy Assistant Secretary of Defense for Intelligence. Their presence changed how journalists, politicians and the public interpreted DeLonge's project. Instead of appearing solely as a musician promoting an unconventional interest, DeLonge could present UAP as a question of aviation safety, intelligence collection and government transparency. That change in framing expanded public interest, even though it did not establish that extraordinary claims about UAP were true. Official investigations have continued to stress that [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) are not evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
+Tom DeLonge's influence on mainstream UAP discussion depended on more than celebrity attention. The crucial shift came when his public campaign became associated with two former national security figures: Luis Elizondo, who said he had directed the Pentagon's Advanced Aerospace Threat Identification Program (AATIP), and Christopher Mellon, a former Deputy Assistant Secretary of Defense for Intelligence. Their presence changed how journalists, politicians and the public interpreted DeLonge's project. Instead of appearing solely as a musician promoting an unconventional interest, DeLonge could present UAP as a question of aviation safety, intelligence collection and government transparency. That change in framing expanded public interest, even though it did not establish that extraordinary claims about UAP were true. Official investigations have continued to stress that [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) are not evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-1-dark.svg" | relative_url }}" alt="Credibility Bridges illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ Tom DeLonge's influence on mainstream UAP discussion depended on more than celeb
 
 Before the launch of [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) (TTSA) in 2017, celebrity involvement in UFO culture usually centred on personal belief or entertainment. Elizondo and Mellon introduced a different kind of authority.
 
-Elizondo presented himself not primarily as a UFO enthusiast but as a former counter-intelligence official concerned that unusual [military]({{ 'military/' | relative_url }}) encounters were not receiving adequate attention inside government. His resignation from the Department of Defense and subsequent move to TTSA became part of the public narrative that serious officials believed the issue deserved greater scrutiny. TTSA itself promoted his appointment as evidence that experienced defence personnel were joining the organisation rather than merely endorsing it from a distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqHyxHfI_x_xmnKSSw7G83LFsd1tRqJC70RFoaFX8yo8haV4_G6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA in NYT Front Page Exposé on Pentagon Hidden UFO</span><span class="citation-popover-snippet">December 18, 2017 — &quot;I am first and foremost a soldier,” says Elizondo, who now serves as Director of Global Security &amp; Special Programs...</span><span class="citation-popover-meta">Published: December 18, 2017</span></span></span>
+Elizondo presented himself not primarily as a UFO enthusiast but as a former counter-intelligence official concerned that unusual [military]({{ 'military/' | relative_url }}) encounters were not receiving adequate attention inside government. His resignation from the Department of Defense and subsequent move to TTSA became part of the public narrative that serious officials believed the issue deserved greater scrutiny. TTSA itself promoted his appointment as evidence that experienced defence personnel were joining the organisation rather than merely endorsing it from a distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqHyxHfI_x_xmnKSSw7G83LFsd1tRqJC70RFoaFX8yo8haV4_G6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA in NYT Front Page Exposé on Pentagon Hidden UFO</span><span class="citation-popover-snippet">December 18, 2017 — &quot;I am first and foremost a soldier,” says Elizondo, who now serves as Director of Global Security &amp; Special Programs...</span><span class="citation-popover-meta">Published: December 18, 2017</span></span></span>
 
-Mellon brought a different form of credibility. Unlike Elizondo, whose reputation rested on his claimed operational role in AATIP, Mellon had long held publicly documented senior positions in defence and intelligence policy. He argued consistently that unidentified military encounters should be treated as an intelligence and flight-safety problem, regardless of whether any extraordinary explanation ultimately proved correct. His institutional background made it easier for editors, lawmakers and policy journalists to discuss UAP without assuming the subject belonged exclusively to fringe UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/chris-mellon-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Are UFOs a Threat to National Security?</span><span class="citation-popover-snippet">This Ex-US Official...May 21, 2019 — 21 May 2019 — Chris Mellon believes the government should more aggressively gather intel on militar...</span><span class="citation-popover-meta">Published: May 21, 2019</span></span></span>
+Mellon brought a different form of credibility. Unlike Elizondo, whose reputation rested on his claimed operational role in AATIP, Mellon had long held publicly documented senior positions in defence and intelligence policy. He argued consistently that unidentified military encounters should be treated as an intelligence and flight-safety problem, regardless of whether any extraordinary explanation ultimately proved correct. His institutional background made it easier for editors, lawmakers and policy journalists to discuss UAP without assuming the subject belonged exclusively to fringe UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/chris-mellon-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Are UFOs a Threat to National Security?</span><span class="citation-popover-snippet">This Ex-US Official...May 21, 2019 — 21 May 2019 — Chris Mellon believes the government should more aggressively gather intel on militar...</span><span class="citation-popover-meta">Published: May 21, 2019</span></span></span>
 
 Together, they gave DeLonge's celebrity platform access to audiences that might otherwise have dismissed it. The resulting coalition combined popular culture, former officials, military witnesses and investigative reporters into a single media narrative.
 
@@ -295,13 +295,13 @@ Together, they gave DeLonge's celebrity platform access to audiences that might 
 
 The pair contributed several distinct elements that celebrity [advocacy]({{ 'advocacy/' | relative_url }}) alone could not provide.
 
-**A national security vocabulary.** Rather than leading with questions about alien visitors, they emphasised unidentified aircraft, restricted military airspace, sensor data and pilot [reporting]({{ 'reporting/' | relative_url }}). This language aligned the discussion with defence oversight rather than science fiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/chris-mellon-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Are UFOs a Threat to National Security?</span><span class="citation-popover-snippet">This Ex-US Official...May 21, 2019 — 21 May 2019 — Chris Mellon believes the government should more aggressively gather intel on militar...</span><span class="citation-popover-meta">Published: May 21, 2019</span></span></span>
+**A national security vocabulary.** Rather than leading with questions about alien visitors, they emphasised unidentified aircraft, restricted military airspace, sensor data and pilot [reporting]({{ 'reporting/' | relative_url }}). This language aligned the discussion with defence oversight rather than science fiction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/articles/chris-mellon-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Are UFOs a Threat to National Security?</span><span class="citation-popover-snippet">This Ex-US Official...May 21, 2019 — 21 May 2019 — Chris Mellon believes the government should more aggressively gather intel on militar...</span><span class="citation-popover-meta">Published: May 21, 2019</span></span></span>
 
-**Institutional continuity.** Both men portrayed UAP as an issue that already existed within government processes instead of a newly invented controversy. The emphasis shifted from "Do UFOs exist?" to "How should governments investigate unexplained military encounters?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
+**Institutional continuity.** Both men portrayed UAP as an issue that already existed within government processes instead of a newly invented controversy. The emphasis shifted from "Do UFOs exist?" to "How should governments investigate unexplained military encounters?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
 
-**Named rather than anonymous sources.** Earlier UFO reporting often depended on unidentified insiders or eyewitness testimony. Elizondo and Mellon appeared publicly under their own names, accepted media interviews and testified or briefed officials, allowing journalists to identify the people making claims rather than relying solely on anonymous leaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
+**Named rather than anonymous sources.** Earlier UFO reporting often depended on unidentified insiders or eyewitness testimony. Elizondo and Mellon appeared publicly under their own names, accepted media interviews and testified or briefed officials, allowing journalists to identify the people making claims rather than relying solely on anonymous leaks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
 
-A concrete example was the publication of the Navy cockpit videos that became known as "FLIR", "[GIMBAL]({{ 'gimbal/' | relative_url }})" and "GOFAST". Mellon helped provide the videos to reporters, while Elizondo became the principal public face explaining why they deserved attention. Their involvement helped transform the 2017 reporting into a sustained policy discussion rather than a short-lived entertainment story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+A concrete example was the publication of the Navy cockpit videos that became known as "FLIR", "[GIMBAL]({{ 'gimbal/' | relative_url }})" and "GOFAST". Mellon helped provide the videos to reporters, while Elizondo became the principal public face explaining why they deserved attention. Their involvement helped transform the 2017 reporting into a sustained policy discussion rather than a short-lived entertainment story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-2-dark.svg" | relative_url }}" alt="Credibility Bridges illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,7 +323,7 @@ This change affected media coverage in several ways:
 
 </div>
 
-For DeLonge, this mattered enormously. His celebrity attracted attention, but Elizondo and Mellon supplied a vocabulary that mainstream institutions could use without embracing claims about aliens. The resulting narrative became one of transparency, reporting standards and intelligence analysis rather than simple belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
+For DeLonge, this mattered enormously. His celebrity attracted attention, but Elizondo and Mellon supplied a vocabulary that mainstream institutions could use without embracing claims about aliens. The resulting narrative became one of transparency, reporting standards and intelligence analysis rather than simple belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker+2HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">government systems—not blurry amateur photos...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MIcgQ6HrUsM" title="Ex-Pentagon Official Luis Elizondo On UAP Disclosure And Government Secrecy | Unveiled Ep. 12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MIcgQ6HrUsM" target="_blank" rel="noopener noreferrer">Ex-Pentagon Official Luis Elizondo On UAP Disclosure And Government Secrecy | Unveiled Ep. 12</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 105.5K &middot; Uploaded: April 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MIcgQ6HrUsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MIcgQ6HrUsM">Open on YouTube</a></p></div></div></div>
@@ -334,9 +334,9 @@ The credibility provided by former officials had important limits.
 
 Neither Elizondo's government service nor Mellon's senior defence experience constituted proof that extraordinary interpretations of UAP were correct. Credentials can strengthen confidence that a subject deserves investigation, but they cannot substitute for independently verifiable evidence.
 
-This distinction became increasingly important as official investigations expanded. NASA's independent UAP study concluded that there was no evidence that currently available observations required an extraterrestrial explanation. Likewise, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it had found no verified evidence of recovered alien technology or confirmed extraterrestrial craft after reviewing historical investigations, although many individual reports remained unresolved because of insufficient data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien</span><span class="citation-popover-snippet">evidence of &#x27;non-human intelligence&#x27;. — NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings. — Alien mummies...</span></span></span>
+This distinction became increasingly important as official investigations expanded. NASA's independent UAP study concluded that there was no evidence that currently available observations required an extraterrestrial explanation. Likewise, the Pentagon's All-domain Anomaly Resolution Office (AARO) reported that it had found no verified evidence of recovered alien technology or confirmed extraterrestrial craft after reviewing historical investigations, although many individual reports remained unresolved because of insufficient data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien</span><span class="citation-popover-snippet">evidence of &#x27;non-human intelligence&#x27;. — NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings. — Alien mummies...</span></span></span>
 
-Elizondo has continued to make broader claims about government knowledge of non-human technology, while the Department of Defense has disputed aspects of those assertions and maintains that official reviews have not substantiated them. This disagreement illustrates the distinction between a credible messenger and a verified conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Elizondo, who resigned from the Department of Defense in 2017, alleges that the US has been recovering vehicles not from Earth or any kno...</span></span></span>
+Elizondo has continued to make broader claims about government knowledge of non-human technology, while the Department of Defense has disputed aspects of those assertions and maintains that official reviews have not substantiated them. This disagreement illustrates the distinction between a credible messenger and a verified conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Elizondo, who resigned from the Department of Defense in 2017, alleges that the US has been recovering vehicles not from Earth or any kno...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-3-dark.svg" | relative_url }}" alt="Credibility Bridges illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_tom_delonge_uap_b21964_elizondo_mellon_cred_84797e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,194 +351,194 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why former officials changed De Longe&#x27;s UAP story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why former officials changed De Longe&#x27;s UAP story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how extraordinary reports become part of culture, fitting celebrity UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how extraordinary reports become part of culture, fitting celebrity UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced context for evaluating UFO claims, including high-profile witnesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced context for evaluating UFO claims, including high-profile witnesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers think critically about testimony, belief, and extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers think critically about testimony, belief, and extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="credibility-bridges-why-former-officials-changed-de-longe-s-uap-story-ufos-and-celebrities-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,142 +744,142 @@ Their influence did not rest on proving an extraterrestrial hypothesis. Instead,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: Are UFOs a Threat to National Security?  
-   Link: <a href="https://www.history.com/articles/chris-mellon-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/chris-mellon-ufo-investigations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Ex-US Official...May 21, 2019 — 21 May 2019 — Chris Mellon believes the government should more aggressively gather intel on militar...</p></details>
+   Link:<a href="https://www.history.com/articles/chris-mellon-ufo-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/chris-mellon-ufo-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Ex-US Official...May 21, 2019 — 21 May 2019 — Chris Mellon believes the government should more aggressively gather intel on militar...</p></details>
    Published: May 21, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: [Pentagon UFO videos](&#123;&#123; 'navy-videos/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: space.com  
    Title: Pentagon UFO office finds 'no empirical evidence' for alien  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence of &#x27;non-human intelligence&#x27;. — NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings. — Alien mummies...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evidence of &#x27;non-human intelligence&#x27;. — NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings. — Alien mummies...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Disclosure movement  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure movementThe same Times story included the first of a series of videos of UFOs... That year, Art Levine wrote that &quot;UFO Mes...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disclosure movementThe same Times story included the first of a series of videos of UFOs... That year, Art Levine wrote that &quot;UFO Mes...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoAt AATIP, Elizondo was reputedly tasked with investigating &quot;the national-security implications of military U.A.P.... Eli...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoAt AATIP, Elizondo was reputedly tasked with investigating &quot;the national-security implications of military U.A.P.... Eli...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get exclus...</p></details>
+   Link:<a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get exclus...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: UF O answers coming soon?  
-   Link: <a href="https://www.space.com/ufo-report-military-dod-to-congress-next-month" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-report-military-dod-to-congress-next-month</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US government to report on...19 May 2021 — In 2017, after he had left his position with the U.S. government, Mellon gave three recently...</p></details>
+   Link:<a href="https://www.space.com/ufo-report-military-dod-to-congress-next-month" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-report-military-dod-to-congress-next-month</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US government to report on...19 May 2021 — In 2017, after he had left his position with the U.S. government, Mellon gave three recently...</p></details>
    Published: May 2021  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government systems—not blurry amateur photos...Read more...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government systems—not blurry amateur photos...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tothestars.media  
    Title: To The Stars*TTSA in NYT Front Page Exposé on Pentagon Hidden UFO  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqHyxHfI_x_xmnKSSw7G83LFsd1tRqJC70RFoaFX8yo8haV4_G6" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqHyxHfI_x_xmnKSSw7G83LFsd1tRqJC70RFoaFX8yo8haV4_G6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 18, 2017 — &quot;I am first and foremost a soldier,” says Elizondo, who now serves as Director of Global Security &amp; Special Programs...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqHyxHfI_x_xmnKSSw7G83LFsd1tRqJC70RFoaFX8yo8haV4_G6" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqHyxHfI_x_xmnKSSw7G83LFsd1tRqJC70RFoaFX8yo8haV4_G6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 18, 2017 — &quot;I am first and foremost a soldier,” says Elizondo, who now serves as Director of Global Security &amp; Special Programs...</p></details>
    Published: December 18, 2017  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo, who resigned from the Department of Defense in 2017, alleges that the US has been recovering vehicles not from Earth or any kno...</p></details>
+   Link:<a href="https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/08/23/us-news/ex-pentagon-official-luis-elizondo-alleges-us-recovered-nonhuman-specimens-uaps-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo, who resigned from the Department of Defense in 2017, alleges that the US has been recovering vehicles not from Earth or any kno...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/research?srsltid=AfmBOooSLguNu06VOrq9QEn3zYtx89teACIJM72vaVw0qUprIuBrvlB1" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOooSLguNu06VOrq9QEn3zYtx89teACIJM72vaVw0qUprIuBrvlB1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>researchDirector of Special Programs Luis Elizondo speaks with TTS* former National Security Advisor Chris Mellon and we learn a little b...</p></details>
+   Link:<a href="https://tothestars.media/pages/research?srsltid=AfmBOooSLguNu06VOrq9QEn3zYtx89teACIJM72vaVw0qUprIuBrvlB1" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOooSLguNu06VOrq9QEn3zYtx89teACIJM72vaVw0qUprIuBrvlB1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>researchDirector of Special Programs Luis Elizondo speaks with TTS* former National Security Advisor Chris Mellon and we learn a little b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: go3.ee  
    Title: Unidentified: Inside America's UFO Investigation  
-   Link: <a href="https://go3.ee/en/live_tv/history2%2Clive-6352337/unidentified-inside-americas-ufo-investigation%2Cprogramme-11228362" target="_blank" rel="noopener noreferrer nofollow">https://go3.ee/en/live_tv/history2%2Clive-6352337/unidentified-inside-americas-ufo-investigation%2Cprogramme-11228362</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History2 - Go3In December of 2017, The New York Times published a stunning front-page exposé about the Pentagon&#x27;s mysterious UFO program...</p></details>
+   Link:<a href="https://go3.ee/en/live_tv/history2%2Clive-6352337/unidentified-inside-americas-ufo-investigation%2Cprogramme-11228362" target="_blank" rel="noopener noreferrer nofollow">https://go3.ee/en/live_tv/history2%2Clive-6352337/unidentified-inside-americas-ufo-investigation%2Cprogramme-11228362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History2 - Go3In December of 2017, The New York Times published a stunning front-page exposé about the Pentagon&#x27;s mysterious UFO program...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aegm.com  
-   Link: <a href="https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A+E Global Media12 Mar 2019 — Elizondo resigned after expressing to the government that these UAPs could pose a major threat to our natio...</p></details>
+   Link:<a href="https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A+E Global Media12 Mar 2019 — Elizondo resigned after expressing to the government that these UAPs could pose a major threat to our natio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.co.uk  
    Title: Unidentified S2: Episodes Episode Five: The UFO Cover-Up  
-   Link: <a href="https://www.history.co.uk/shows/unidentified/articles/unidentified-s2-episodes" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/articles/unidentified-s2-episodes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified S2: EpisodesEpisode Five: The UFO Cover-Up - Tuesday 29 September at 9pm. In 2017, Tom DeLonge and Luis Elizondo helped engi...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/unidentified/articles/unidentified-s2-episodes" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/articles/unidentified-s2-episodes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified S2: EpisodesEpisode Five: The UFO Cover-Up - Tuesday 29 September at 9pm. In 2017, Tom DeLonge and Luis Elizondo helped engi...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA... no evidence of extraterrestrial activity. NASA has also stated they do not have evidence of extraterr...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UNIDENTIFIED ANOMALOUS PHENOMENA... no evidence of extraterrestrial activity. NASA has also stated they do not have evidence of extraterr...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5. The new architecture: tracing the...The named source, Luis Elizondo, had resigned from the Pentagon in early October 2017, but within...</p></details>
+   Link:<a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5. The new architecture: tracing the...The named source, Luis Elizondo, had resigned from the Pentagon in early October 2017, but within...</p></details>
    Published: October 2017  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CxMLzoNMY11/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxMLzoNMY11/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TV) #nasa #uap #ufo #billnelson #extraterrestrial #...#UFO #Aliens #UAP #Disclosure #Mystery Conspiracy Space Extraterrestrial Para...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CxMLzoNMY11/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CxMLzoNMY11/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TV) #nasa #uap #ufo #billnelson #extraterrestrial #...#UFO #Aliens #UAP #Disclosure #Mystery Conspiracy Space Extraterrestrial Para...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted interviews with of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheHill/posts/unidentified-anomalous-phenomena-uap-disclosure-advocate-christopher-mellon-says/1380982480556836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHill/posts/unidentified-anomalous-phenomena-uap-disclosure-advocate-christopher-mellon-says/1380982480556836/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) disclosure...Full article by Christopher Mellon: bit.ly/3lXqt1t Follow @disclosure_team #ufo #ufo...</p></details>
+   Link:<a href="https://www.facebook.com/TheHill/posts/unidentified-anomalous-phenomena-uap-disclosure-advocate-christopher-mellon-says/1380982480556836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheHill/posts/unidentified-anomalous-phenomena-uap-disclosure-advocate-christopher-mellon-says/1380982480556836/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) disclosure...Full article by Christopher Mellon: bit.ly/3lXqt1t Follow @disclosure_team #ufo #ufo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1ffe5z1/serious_tldr_on_lou_elizondo_whats_the_general/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ffe5z1/serious_tldr_on_lou_elizondo_whats_the_general/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1ffe5z1/serious_tldr_on_lou_elizondo_whats_the_general/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1ffe5z1/serious_tldr_on_lou_elizondo_whats_the_general/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP programThe pentagon via the defense intelligence agency created a ufo program called the a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP programThe pentagon via the defense intelligence agency created a ufo program called the a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>no verified evidence of alien [beings](&amp;#123;&amp;#123; &#x27;beings/&#x27; | relative_url &amp;#125;&amp;#125;), alien technology, or extraterrestrial activity.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no verified evidence of alien [beings](&amp;#123;&amp;#123; &#x27;beings/&#x27; | relative_url &amp;#125;&amp;#125;), alien technology, or extraterrestrial activity.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: washingtonpost.com  
    Title: The Washington Post The military keeps encountering UFOs  
-   Link: <a href="https://www.washingtonpost.com/outlook/the-military-keeps-encountering-ufos-why-doesnt-the-pentagon-care/2018/03/09/242c125c-22ee-11e8-94da-ebf9d112159c_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/outlook/the-military-keeps-encountering-ufos-why-doesnt-the-pentagon-care/2018/03/09/242c125c-22ee-11e8-94da-ebf9d112159c_story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why doesn&#x27;t...9 Mar 2018 — A colleague of mine at To the Stars Academy, Luis Elizondo, used to run a Pentagon intelligence program that...</p></details>
+   Link:<a href="https://www.washingtonpost.com/outlook/the-military-keeps-encountering-ufos-why-doesnt-the-pentagon-care/2018/03/09/242c125c-22ee-11e8-94da-ebf9d112159c_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/outlook/the-military-keeps-encountering-ufos-why-doesnt-the-pentagon-care/2018/03/09/242c125c-22ee-11e8-94da-ebf9d112159c_story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why doesn&#x27;t...9 Mar 2018 — A colleague of mine at To the Stars Academy, Luis Elizondo, used to run a Pentagon intelligence program that...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheAVAMovement/posts/a-photograph-of-tomdelonge-lueelizondo-and-paolo-guizzardi-during-ttsas-visit-to/929986165836401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAVAMovement/posts/a-photograph-of-tomdelonge-lueelizondo-and-paolo-guizzardi-during-ttsas-visit-to/929986165836401/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ctor of Special Programs for To the Stars Academy of Arts and...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/TheAVAMovement/posts/a-photograph-of-tomdelonge-lueelizondo-and-paolo-guizzardi-during-ttsas-visit-to/929986165836401/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAVAMovement/posts/a-photograph-of-tomdelonge-lueelizondo-and-paolo-guizzardi-during-ttsas-visit-to/929986165836401/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ctor of Special Programs for To the Stars Academy of Arts and...Read more...</p></details>

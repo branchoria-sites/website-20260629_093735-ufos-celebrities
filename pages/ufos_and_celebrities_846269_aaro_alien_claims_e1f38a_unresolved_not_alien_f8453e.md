@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unres
 
 ## Introduction
 
-The All-domain Anomaly Resolution Office (AARO) makes a deliberate distinction between an *unresolved* unidentified anomalous phenomenon (UAP) and evidence of extraterrestrial technology. In its public reports, unresolved simply means that investigators do not yet have enough reliable information to identify an object or event with confidence. It does **not** mean that the remaining explanation is alien spacecraft or non-human intelligence. AARO's approach reflects a standard principle of scientific and intelligence analysis: when evidence is incomplete, the correct conclusion is uncertainty, not speculation. That distinction is especially important because public discussion—particularly when amplified by celebrities, [documentaries]({{ 'documentaries/' | relative_url }}), or viral social media—often treats official uncertainty as indirect confirmation of extraordinary claims, whereas AARO applies a much narrower evidentiary standard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
+The All-domain Anomaly Resolution Office (AARO) makes a deliberate distinction between an *unresolved* unidentified anomalous phenomenon (UAP) and evidence of extraterrestrial technology. In its public reports, unresolved simply means that investigators do not yet have enough reliable information to identify an object or event with confidence. It does **not** mean that the remaining explanation is alien spacecraft or non-human intelligence. AARO's approach reflects a standard principle of scientific and intelligence analysis: when evidence is incomplete, the correct conclusion is uncertainty, not speculation. That distinction is especially important because public discussion—particularly when amplified by celebrities, [documentaries]({{ 'documentaries/' | relative_url }}), or viral social media—often treats official uncertainty as indirect confirmation of extraordinary claims, whereas AARO applies a much narrower evidentiary standard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unresolved_not_alien_f8453e-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unresolved_not_alien_f8453e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unresolved_not_alien_f8453e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ That may happen because:
 
 </div>
 
-Importantly, unresolved is an administrative and analytical category rather than a claim about what the object actually was. AARO's 2024 annual report explicitly states that many cases remain unresolved because investigators lack the timely, actionable sensor data needed for analysis. The office also notes that unresolved reports remain open and may be revisited if new information becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
+Importantly, unresolved is an administrative and analytical category rather than a claim about what the object actually was. AARO's 2024 annual report explicitly states that many cases remain unresolved because investigators lack the timely, actionable sensor data needed for analysis. The office also notes that unresolved reports remain open and may be revisited if new information becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
 
 This approach differs from popular UFO narratives, which sometimes assume that if a conventional explanation cannot immediately be found, an extraordinary explanation becomes more likely. AARO does not make that logical leap.
 
@@ -317,7 +317,7 @@ Many UAP reports do not provide that level of evidence. Instead, they may consis
 
 Without this supporting context, investigators often cannot determine basic quantities such as distance, size, speed or acceleration. Apparent extraordinary movement may instead result from camera motion, perspective, atmospheric effects or incomplete tracking data.
 
-NASA's independent UAP study reached a closely related conclusion. Rather than arguing for or against extraterrestrial explanations, it emphasised that poor-quality and inconsistent data prevent definitive scientific conclusions. According to the study, better calibrated sensors, standardised [reporting]({{ 'reporting/' | relative_url }}) and richer datasets are more valuable than speculation about unknown origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA's independent UAP study reached a closely related conclusion. Rather than arguing for or against extraterrestrial explanations, it emphasised that poor-quality and inconsistent data prevent definitive scientific conclusions. According to the study, better calibrated sensors, standardised [reporting]({{ 'reporting/' | relative_url }}) and richer datasets are more valuable than speculation about unknown origins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unresolved_not_alien_f8453e-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unresolved_not_alien_f8453e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_unresolved_not_alien_f8453e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -339,7 +339,7 @@ This reflects a basic principle of evidence-based reasoning. If investigators ca
 
 None of these possibilities automatically increases the probability that the object originated from extraterrestrial intelligence.
 
-AARO's historical review makes this point explicitly. Although numerous UAP cases remain unsolved, the office reported that it found no evidence that any government investigation or official review had confirmed a UAP as extraterrestrial technology. It likewise found no empirical evidence supporting claims that the US government or contractors possess recovered alien craft or operate secret [reverse-engineering]({{ 'secret-programs/' | relative_url }}) programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of e...</span></span></span>
+AARO's historical review makes this point explicitly. Although numerous UAP cases remain unsolved, the office reported that it found no evidence that any government investigation or official review had confirmed a UAP as extraterrestrial technology. It likewise found no empirical evidence supporting claims that the US government or contractors possess recovered alien craft or operate secret [reverse-engineering]({{ 'secret-programs/' | relative_url }}) programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of e...</span></span></span>
 
 The office therefore separates two different questions:
 
@@ -355,7 +355,7 @@ An unresolved answer to the first question does not answer the second.
 
 Another reason AARO avoids treating unresolved reports as extraordinary is that unidentified cases often become identifiable when additional evidence appears.
 
-Its annual reporting shows that cases initially lacking sufficient information can later be attributed to familiar causes once more complete data become available. During the Fiscal Year 2024 reporting period, AARO resolved numerous reports as balloons, birds, unmanned aerial systems, satellites or conventional aircraft after further analysis. The office also reported additional cases queued for closure following similar identifications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
+Its annual reporting shows that cases initially lacking sufficient information can later be attributed to familiar causes once more complete data become available. During the Fiscal Year 2024 reporting period, AARO resolved numerous reports as balloons, birds, unmanned aerial systems, satellites or conventional aircraft after further analysis. The office also reported additional cases queued for closure following similar identifications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
 
 This illustrates why investigators are reluctant to assign extraordinary explanations prematurely. History shows that the proportion of resolved cases can increase as evidence improves.
 
@@ -382,181 +382,181 @@ AARO's evidentiary standard is intentionally conservative because its mission ex
 
 Using "alien" as a default explanation for unresolved reports would reduce the reliability of that process. Instead, AARO maintains that conclusions should only become more specific when the evidence justifies them.
 
-Its published position therefore remains consistent across both historical and annual reports: some UAP reports cannot presently be explained, but unresolved status reflects limitations in the available evidence rather than proof of extraterrestrial craft, [beings]({{ 'beings/' | relative_url }}) or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
+Its published position therefore remains consistent across both historical and annual reports: some UAP reports cannot presently be explained, but unresolved status reflects limitations in the available evidence rather than proof of extraterrestrial craft, [beings]({{ 'beings/' | relative_url }}) or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508</span><span class="citation-popover-snippet">Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Unresolved Does Not Mean Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Unresolved Does Not Mean Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on systematic investigation of reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on systematic investigation of reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines evidence while distinguishing stronger and weaker cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines evidence while distinguishing stronger and weaker cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how beliefs develop around UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how beliefs develop around UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why uncertainty should not become extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why uncertainty should not become extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="unresolved-cases-why-unresolved-does-not-mean-alien-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ Its published position therefore remains consistent across both historical and a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ Its published position therefore remains consistent across both historical and a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ Its published position therefore remains consistent across both historical and a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ Its published position therefore remains consistent across both historical and a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ Its published position therefore remains consistent across both historical and a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,110 +762,110 @@ Its published position therefore remains consistent across both historical and a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarFiscal Year 2024 Consolidated Annual Report on...14 Nov 2024 — AARO Possesses No Data to Indicate the Capture or Exploi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of evidence of the extraterr...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO_Historical_Record_Repor...6 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of evidence of the extraterr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of e...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack of e...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDepartment of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — It is also important to underscore that to da...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — It is also important to underscore that to da...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The NASA seal. An unidentified object report with enhanced imagery from a PANTEX radar tower.Read more...</p></details>
+   Link:<a href="https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/?releaseDate=Release&amp;type=.vid</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NASA seal. An unidentified object report with enhanced imagery from a PANTEX radar tower.Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nlh7ev/aaro_releases_document_on_the_uap/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: read-me.org  
    Title: fiscal year 2024 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
+   Link:<a href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — This report covers unidentified anomalous phenomena (UAP) reports from Ma...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of extraterrestrial beings, activity or technology” — or confirmations that any UAP activities are attributable to foreign...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of extraterrestrial beings, activity or technology” — or confirmations that any UAP activities are attributable to foreign...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: discovermagazine.com  
    Title: what the uap disclosure act of 2024 means for ufo sightings 46465  
-   Link: <a href="https://www.discovermagazine.com/what-the-uap-disclosure-act-of-2024-means-for-ufo-sightings-46465" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/what-the-uap-disclosure-act-of-2024-means-for-ufo-sightings-46465</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO released a report stating they saw no evidence of UAPs. The report is meant to be the first of two public investigations. The report...</p></details>
+   Link:<a href="https://www.discovermagazine.com/what-the-uap-disclosure-act-of-2024-means-for-ufo-sightings-46465" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/what-the-uap-disclosure-act-of-2024-means-for-ufo-sightings-46465</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO released a report stating they saw no evidence of UAPs. The report is meant to be the first of two public investigations. The report...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</p></details>
    Published: March 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has discovered no verifiable evidence of extraterrestrial beings, a...</p></details>
+   Link:<a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has discovered no verifiable evidence of extraterrestrial beings, a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>estrial beings, technology, or advanced foreign capabilities.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>estrial beings, technology, or advanced foreign capabilities.Read more...</p></details>

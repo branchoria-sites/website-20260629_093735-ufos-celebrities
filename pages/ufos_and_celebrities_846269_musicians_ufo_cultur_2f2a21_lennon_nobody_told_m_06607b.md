@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_le
 
 ## Introduction
 
-John Lennon’s **“Nobody Told Me”** is one of the clearest examples of a reported UFO sighting being transformed into enduring pop culture rather than remaining an isolated witness account. The song’s famous line, *“There’s UFOs over New York and I ain’t too surprised,”* is widely understood as a reference to Lennon’s own claimed sighting over New York City in August 1974. Rather than presenting the event as dramatic proof of extraterrestrial visitors, the lyric folds it into a catalogue of everyday absurdities, making the extraordinary seem oddly ordinary. That choice has helped preserve Lennon's UFO story for decades, not because the song offers evidence of the sighting, but because it gives the episode a memorable place in popular [music]({{ 'music/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nobody Told Me</span><span class="citation-popover-snippet">Nobody Told Me</span></span></span>
+John Lennon’s **“Nobody Told Me”** is one of the clearest examples of a reported UFO sighting being transformed into enduring pop culture rather than remaining an isolated witness account. The song’s famous line, *“There’s UFOs over New York and I ain’t too surprised,”* is widely understood as a reference to Lennon’s own claimed sighting over New York City in August 1974. Rather than presenting the event as dramatic proof of extraterrestrial visitors, the lyric folds it into a catalogue of everyday absurdities, making the extraordinary seem oddly ordinary. That choice has helped preserve Lennon's UFO story for decades, not because the song offers evidence of the sighting, but because it gives the episode a memorable place in popular [music]({{ 'music/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nobody Told Me</span><span class="citation-popover-snippet">Nobody Told Me</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_lennon_nobody_told_m_06607b-Illustration-1-dark.svg" | relative_url }}" alt="Nobody Told Me illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_lennon_nobody_told_m_06607b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_lennon_nobody_told_m_06607b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ The lyric appears near the end of the song:
 
 > “There’s UFOs over New York and I ain’t too surprised.”
 
-Within the structure of *“Nobody Told Me,”* the line is one of several observations describing a world that feels contradictory and surreal. Lennon places UFOs alongside paradoxes such as people flying without leaving the ground and everybody talking while nobody says anything. The effect is not to isolate UFOs as a singular mystery, but to present them as another symptom of an upside-down modern world. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nobody Told Me</span><span class="citation-popover-snippet">Nobody Told Me</span></span></span>
+Within the structure of *“Nobody Told Me,”* the line is one of several observations describing a world that feels contradictory and surreal. Lennon places UFOs alongside paradoxes such as people flying without leaving the ground and everybody talking while nobody says anything. The effect is not to isolate UFOs as a singular mystery, but to present them as another symptom of an upside-down modern world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nobody Told Me</span><span class="citation-popover-snippet">Nobody Told Me</span></span></span>
 
 This understated treatment is significant. Many songs that reference extraterrestrials lean into science fiction or fantasy. Lennon instead uses the image almost conversationally. The phrase “I ain’t too surprised” removes any sense of shock and instead suggests that, in a city as strange and unpredictable as New York, even an apparent UFO barely stands out.
 
@@ -307,9 +307,9 @@ Lennon gave the story unusual permanence by including a handwritten note in the 
 
 > “On the 23rd Aug. 1974 at 9 o'clock I saw a U.F.O.”
 
-That statement transformed what might otherwise have remained an interview anecdote into part of the album itself. Fans encountering the record repeatedly encountered the claim alongside the music. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walls and Bridges</span><span class="citation-popover-snippet">Walls and Bridges</span></span></span>
+That statement transformed what might otherwise have remained an interview anecdote into part of the album itself. Fans encountering the record repeatedly encountered the claim alongside the music.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walls and Bridges</span><span class="citation-popover-snippet">Walls and Bridges</span></span></span>
 
-May Pang later described witnessing the same object, recalling a silent, saucer-shaped form with flashing white lights moving across the sky. According to later accounts, Lennon even contacted photographer Bob Gruen after the experience, although he reportedly laughed off the idea of turning it into a newspaper story. Other reports from the evening suggested additional local witnesses had also reported seeing something unusual, though no evidence established what the object actually was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">May Pang</span><span class="citation-popover-snippet">May Pang</span></span></span>
+May Pang later described witnessing the same object, recalling a silent, saucer-shaped form with flashing white lights moving across the sky. According to later accounts, Lennon even contacted photographer Bob Gruen after the experience, although he reportedly laughed off the idea of turning it into a newspaper story. Other reports from the evening suggested additional local witnesses had also reported seeing something unusual, though no evidence established what the object actually was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">May Pang</span><span class="citation-popover-snippet">May Pang</span></span></span>
 
 By the time *“Nobody Told Me”* appeared posthumously in 1984, listeners familiar with the earlier story immediately recognised the lyric as a callback rather than a random reference.
 
@@ -349,7 +349,7 @@ The historical record establishes several points with reasonable confidence:
 
 * Lennon publicly stated that he believed he had seen a UFO.
 * May Pang independently said she observed the same object.
-* Lennon incorporated the experience into the presentation of *Walls and Bridges* and later echoed it in *“Nobody Told Me.”* <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">May Pang</span><span class="citation-popover-snippet">May Pang</span></span></span>
+* Lennon incorporated the experience into the presentation of *Walls and Bridges* and later echoed it in *“Nobody Told Me.”*<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">May Pang</span><span class="citation-popover-snippet">May Pang</span></span></span>
 
 </div>
 
@@ -361,159 +361,159 @@ That distinction explains why the lyric remains important. Its significance lies
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_lennon_nobody_told_m_06607b-Illustration-3-dark.svg" | relative_url }}" alt="Nobody Told Me illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_lennon_nobody_told_m_06607b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_lennon_nobody_told_m_06607b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A lasting piece of Lennon's public image
 
-Although *“Nobody Told Me”* is remembered primarily as a sharp, witty observation on modern life, its UFO line has become inseparable from Lennon's public image. It links one reported evening in New York with a song that continued reaching audiences after his death, ensuring that the story survived not simply through biographies or UFO literature but through mainstream popular music itself. The result is a rare example of an alleged [celebrity sighting]({{ 'sighting-test/' | relative_url }}) being distilled into a single lyric that remains instantly recognisable while stopping well short of claiming certainty about what was actually seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nobody Told Me</span><span class="citation-popover-snippet">Nobody Told Me</span></span></span>
+Although *“Nobody Told Me”* is remembered primarily as a sharp, witty observation on modern life, its UFO line has become inseparable from Lennon's public image. It links one reported evening in New York with a song that continued reaching audiences after his death, ensuring that the story survived not simply through biographies or UFO literature but through mainstream popular music itself. The result is a rare example of an alleged [celebrity sighting]({{ 'sighting-test/' | relative_url }}) being distilled into a single lyric that remains instantly recognisable while stopping well short of claiming certainty about what was actually seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nobody Told Me</span><span class="citation-popover-snippet">Nobody Told Me</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_f5EM4KJCv4" title="&#x27;The Lost Weekend&#x27; tells love story between John Lennon, May Pang" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_f5EM4KJCv4" target="_blank" rel="noopener noreferrer">&#x27;The Lost Weekend&#x27; tells love story between John Lennon, May Pang</a></p><p class="youtube-embed-meta">Channel: Eyewitness News ABC7NY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_f5EM4KJCv4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_f5EM4KJCv4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Lennon Made UFOs Sound Casual. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Lennon Made UFOs Sound Casual. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for interpreting celebrity sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for interpreting celebrity sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Background reading on UFO claims beyond pop culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Background reading on UFO claims beyond pop culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beatles anthology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/600335-M.jpg" alt="Cover for The Beatles anthology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beatles anthology">The Beatles anthology</a>
-        </h4>
-        <p class="fr-book-author">By Beatles., John Lennon et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beatles anthology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/600335-M.jpg" alt="Cover for The Beatles anthology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beatles anthology">The Beatles anthology</a>
+</h4>
+<p class="fr-book-author">By Beatles., John Lennon et al.</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Beatles, Rock musicians, Biography, Interviews, Rock musicians, great britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Beatles, Rock musicians, Biography, Interviews, Rock musicians, great britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Lennon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13814389-M.jpg" alt="Cover for John Lennon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
-        </h4>
-        <p class="fr-book-author">By Philip Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Lennon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13814389-M.jpg" alt="Cover for John Lennon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
+</h4>
+<p class="fr-book-author">By Philip Norman</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Lennon, john, 1940-1980, Rock musicians, great britain, Rock musicians, biography, Singers, great britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Lennon, john, 1940-1980, Rock musicians, great britain, Rock musicians, biography, Singers, great britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beatles+anthology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beatles anthology</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beatles+anthology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beatles anthology</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Nobody Told Me  
-   Link: <a href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobody_Told_Me</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobody_Told_Me</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: May Pang  
-   Link: <a href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May_Pang</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May_Pang</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Walls and Bridges  
-   Link: <a href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walls_and_Bridges</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walls_and_Bridges</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: songteksten.net  
    Title: John Lennon  
-   Link: <a href="https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html" target="_blank" rel="noopener noreferrer nofollow">https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html</a>  
+   Link:<a href="https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html" target="_blank" rel="noopener noreferrer nofollow">https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sasslantis.ee  
    Title: John Lennon  
-   Link: <a href="https://sasslantis.ee/lyrics-john_lennon-nobody_told_me" target="_blank" rel="noopener noreferrer nofollow">https://sasslantis.ee/lyrics-john_lennon-nobody_told_me</a>  
+   Link:<a href="https://sasslantis.ee/lyrics-john_lennon-nobody_told_me" target="_blank" rel="noopener noreferrer nofollow">https://sasslantis.ee/lyrics-john_lennon-nobody_told_me</a>  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
    Title: january 6th 1984 nobody told me john single released the lyrics reference the ye  
-   Link: <a href="https://www.facebook.com/cavern.photos/posts/january-6th-1984-nobody-told-me-john-single-released-the-lyrics-reference-the-ye/1041450358020764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cavern.photos/posts/january-6th-1984-nobody-told-me-john-single-released-the-lyrics-reference-the-ye/1041450358020764/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;January 6th 1984 - Nobody Told Me (John single) released...January 6th 1984 - Nobody Told Me (John single) released. [https://www.youtube...&quot;](https://www.youtube...&quot;)...</p></details>
+   Link:<a href="https://www.facebook.com/cavern.photos/posts/january-6th-1984-nobody-told-me-john-single-released-the-lyrics-reference-the-ye/1041450358020764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cavern.photos/posts/january-6th-1984-nobody-told-me-john-single-released-the-lyrics-reference-the-ye/1041450358020764/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;January 6th 1984 - Nobody Told Me (John single) released...January 6th 1984 - Nobody Told Me (John single) released. [https://www.youtube...&quot;](https://www.youtube...&quot;)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=hfU_b5nsvrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfU_b5nsvrU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The Lost Weekend&#x27; tells love story between John Lennon, May Pang...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hfU_b5nsvrU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfU_b5nsvrU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The Lost Weekend&#x27; tells love story between John Lennon, May Pang...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=R1bV8gOvJAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R1bV8gOvJAo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon interview with Dennis Elsas, 28 Sept 1974 Part 1 of 4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=R1bV8gOvJAo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R1bV8gOvJAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon interview with Dennis Elsas, 28 Sept 1974 Part 1 of 4...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The night John Lennon saw a UFO in NYC...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The night John Lennon saw a UFO in NYC...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: 'The Lost Weekend' tells love story between John Lennon, May Pang  
-   Link: <a href="https://www.youtube.com/watch?v=_f5EM4KJCv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_f5EM4KJCv4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_f5EM4KJCv4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_f5EM4KJCv4</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The night John Lennon saw a UFO in NYC  
-   Link: <a href="https://www.youtube.com/watch?v=UvfeEKJ_oHM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvfeEKJ_oHM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Told Me (Remastered 2010)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UvfeEKJ_oHM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvfeEKJ_oHM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nobody Told Me (Remastered 2010)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: whitegum.com  
-   Link: <a href="https://whitegum.com/~acsa/songfile/NOBODYTO.HTM" target="_blank" rel="noopener noreferrer nofollow">https://whitegum.com/~acsa/songfile/NOBODYTO.HTM</a>  
+   Link:<a href="https://whitegum.com/~acsa/songfile/NOBODYTO.HTM" target="_blank" rel="noopener noreferrer nofollow">https://whitegum.com/~acsa/songfile/NOBODYTO.HTM</a>  

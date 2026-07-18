@@ -278,7 +278,7 @@ A UFO report becomes significantly more valuable as evidence when it contains mo
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-1-dark.svg" | relative_url }}" alt="Witness vs Data illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is especially important when discussing [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}). A famous person's testimony may attract attention, but it does not carry greater scientific weight than any other eyewitness account. Investigators instead ask whether the sighting can be compared with objective records that either support, contradict or clarify the witness's description. NASA's 2023 independent UAP report concluded that the main obstacle is not a lack of stories but a lack of high-quality, standardised and well-documented data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+This distinction is especially important when discussing [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}). A famous person's testimony may attract attention, but it does not carry greater scientific weight than any other eyewitness account. Investigators instead ask whether the sighting can be compared with objective records that either support, contradict or clarify the witness's description. NASA's 2023 independent UAP report concluded that the main obstacle is not a lack of stories but a lack of high-quality, standardised and well-documented data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 ## What Eyewitness Accounts Can Establish
 
@@ -297,7 +297,7 @@ Eyewitness testimony remains an essential starting point for almost every report
 
 These details help investigators reconstruct an event and determine what additional records may exist. Multiple [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}) [reporting]({{ 'reporting/' | relative_url }}) similar observations from different locations can strengthen confidence that something unusual was genuinely seen rather than imagined.
 
-However, eyewitness evidence has well-known limitations. Human perception is influenced by viewing angle, darkness, distance, stress and expectation. Memory also changes over time as people repeatedly recall an event or encounter new information. Research in aviation psychology and cognitive science has long shown that even trained observers can honestly misidentify unfamiliar aerial phenomena under difficult viewing conditions. This does not imply deception; it reflects the limits of human perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoo-wVFjrCYaBeRkFxnDfwrj9y6PUe0lFNSeFCvts-aXOi7YjuLh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">as that phenomenon described by reports of visual or instrumental observations of lights or objects in the sky (or near, or...Read more...</span></span></span>
+However, eyewitness evidence has well-known limitations. Human perception is influenced by viewing angle, darkness, distance, stress and expectation. Memory also changes over time as people repeatedly recall an event or encounter new information. Research in aviation psychology and cognitive science has long shown that even trained observers can honestly misidentify unfamiliar aerial phenomena under difficult viewing conditions. This does not imply deception; it reflects the limits of human perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoo-wVFjrCYaBeRkFxnDfwrj9y6PUe0lFNSeFCvts-aXOi7YjuLh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldscientific.com">[World Scientific]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldscientific.com</span><span class="citation-popover-snippet">as that phenomenon described by reports of visual or instrumental observations of lights or objects in the sky (or near, or...Read more...</span></span></span>
 
 For celebrity UFO stories, this distinction is particularly important. Public interest may increase because of the witness's fame, but investigators still evaluate the report using the same questions applied to any other sighting: Can the location be verified? Were there additional witnesses? Do photographs, radar logs or aviation records exist? Can the timing be matched with known aircraft, satellites or astronomical events?
 
@@ -320,7 +320,7 @@ Useful sources include:
 
 Each dataset provides independent constraints. For example, if a witness reports an object moving rapidly across the sky, radar may confirm whether an object occupied the reported airspace. Flight records may reveal whether commercial or military aircraft were nearby. Weather data may show conditions favourable for atmospheric optical effects.
 
-Importantly, investigators place greater confidence in cases where different kinds of evidence converge independently. A visual sighting that coincides with radar returns and documented pilot communications generally provides a richer evidential record than testimony alone, even if the object's identity ultimately remains unresolved. NASA's UAP study specifically recommends collecting synchronised, calibrated, multi-sensor observations because isolated reports rarely contain enough information for definitive analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+Importantly, investigators place greater confidence in cases where different kinds of evidence converge independently. A visual sighting that coincides with radar returns and documented pilot communications generally provides a richer evidential record than testimony alone, even if the object's identity ultimately remains unresolved. NASA's UAP study specifically recommends collecting synchronised, calibrated, multi-sensor observations because isolated reports rarely contain enough information for definitive analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-2-dark.svg" | relative_url }}" alt="Witness vs Data illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -341,7 +341,7 @@ Several factors can still limit interpretation:
 
 </div>
 
-NASA's independent study emphasised that many publicly discussed UAP cases lack complete sensor metadata, making it difficult for outside researchers to reconstruct exactly what an instrument recorded. Without calibration information, viewing geometry or environmental context, even sophisticated sensor imagery can remain ambiguous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
+NASA's independent study emphasised that many publicly discussed UAP cases lack complete sensor metadata, making it difficult for outside researchers to reconstruct exactly what an instrument recorded. Without calibration information, viewing geometry or environmental context, even sophisticated sensor imagery can remain ambiguous.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
 
 This explains why a case may progress from "interesting story" to "well-documented event" without progressing all the way to "identified object."
 
@@ -356,11 +356,11 @@ The key point is not that instruments replace witnesses. Instead, witnesses iden
 
 ## Lessons from Historical Investigations
 
-Long-running government investigations illustrate this distinction. The U.S. Air Force's Project Blue Book collected over 12,000 reports between 1947 and 1969. Most were eventually attributed to conventional aircraft, astronomical objects, balloons, atmospheric phenomena or other ordinary causes after comparing witness accounts with available records. A smaller number remained officially unidentified, often because available information was incomplete rather than because investigators established an extraordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — established Project BLUE BOOK to study UFO phenomena...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+Long-running government investigations illustrate this distinction. The U.S. Air Force's Project Blue Book collected over 12,000 reports between 1947 and 1969. Most were eventually attributed to conventional aircraft, astronomical objects, balloons, atmospheric phenomena or other ordinary causes after comparing witness accounts with available records. A smaller number remained officially unidentified, often because available information was incomplete rather than because investigators established an extraordinary explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — established Project BLUE BOOK to study UFO phenomena...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 Some historically notable cases combined visual observations with radar or other technical data, making them more valuable for later analysis than simple anecdotal reports. Yet even these examples continue to generate debate because the available records are incomplete, conflicting or open to multiple interpretations. The presence of radar data alone has never been sufficient to demonstrate an extraterrestrial origin.
 
-Modern researchers increasingly argue that future progress depends not on revisiting old anecdotes but on designing observation systems specifically intended to collect calibrated, synchronised, multi-sensor measurements. Proposed scientific approaches combine optical cameras, infrared imaging, radio receivers, environmental sensors and triangulation to distinguish genuine anomalies from sensor artefacts or ordinary aerial traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Modern researchers increasingly argue that future progress depends not on revisiting old anecdotes but on designing observation systems specifically intended to collect calibrated, synchronised, multi-sensor measurements. Proposed scientific approaches combine optical cameras, infrared imaging, radio receivers, environmental sensors and triangulation to distinguish genuine anomalies from sensor artefacts or ordinary aerial traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-3-dark.svg" | relative_url }}" alt="Witness vs Data illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_evidence_types_701d5c_witness_vs_instrumen_4627ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -368,7 +368,7 @@ Modern researchers increasingly argue that future progress depends not on revisi
 
 The strongest UFO cases are not necessarily those with the most dramatic stories but those with the most complete documentation. Nevertheless, uncertainty can remain even when multiple instruments record an event.
 
-An object may still be classified as unidentified because: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</span></span></span>
+An object may still be classified as unidentified because:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
@@ -389,194 +389,194 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Does A UFO Story Become Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Does A UFO Story Become Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focused on how eyewitness accounts, close encounters, and evidence categories should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on how eyewitness accounts, close encounters, and evidence categories should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly supports comparison between testimony, pilot reports, instruments, and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports comparison between testimony, pilot reports, instruments, and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Clarifies why testimony matters but does not substitute for testable evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies why testimony matters but does not substitute for testable evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Steven Novella</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CuVKDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Dr. Steven Novella</p>
         
-        <p class="fr-book-desc">Useful for understanding perception, memory, bias, and why objective records matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding perception, memory, bias, and why objective records matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="witness-vs-data-when-does-a-ufo-story-become-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,91 +782,91 @@ For readers assessing celebrity UFO accounts, this provides a practical rule of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
    Published: June 16, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — established Project BLUE BOOK to study UFO phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — established Project BLUE BOOK to study UFO phenomena...</p></details>
    Published: March 9, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>as that phenomenon described by reports of visual or instrumental observations of lights or objects in the...Read more...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as that phenomenon described by reports of visual or instrumental observations of lights or objects in the...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: worldscientific.com  
-   Link: <a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoo-wVFjrCYaBeRkFxnDfwrj9y6PUe0lFNSeFCvts-aXOi7YjuLh" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoo-wVFjrCYaBeRkFxnDfwrj9y6PUe0lFNSeFCvts-aXOi7YjuLh</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>as that phenomenon described by reports of visual or instrumental observations of lights or objects in the sky (or near, or...Read more...</p></details>
+   Link:<a href="https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoo-wVFjrCYaBeRkFxnDfwrj9y6PUe0lFNSeFCvts-aXOi7YjuLh" target="_blank" rel="noopener noreferrer nofollow">https://www.worldscientific.com/doi/10.1142/S2251171723400068?srsltid=AfmBOoo-wVFjrCYaBeRkFxnDfwrj9y6PUe0lFNSeFCvts-aXOi7YjuLh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as that phenomenon described by reports of visual or instrumental observations of lights or objects in the sky (or near, or...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsPro-UFO researchers claim that an extraterrestrial spacecraft and its ali...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings&quot;UAP&quot; is sometimes used to avoid cultural associations with UFO conspiracy theories. Shapes reported as...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightings&quot;UAP&quot; is sometimes used to avoid cultural associations with UFO conspiracy theories. Shapes reported as...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ex-Pentagon Official WARNS: "We Are Not Alone!"  
-   Link: <a href="https://www.youtube.com/watch?v=emI4VNP7MDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=emI4VNP7MDE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO: The Incredible USS Nimitz Encounter...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=emI4VNP7MDE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=emI4VNP7MDE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tic Tac UFO: The Incredible USS Nimitz Encounter...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: More Weird UFO Files Just Released: Forensic Expert Analysis  
-   Link: <a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official WARNS: &quot;We Are Not Alone!&quot; - Top-Secret UFO Program Finally Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F9Vmsk6CcmI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F9Vmsk6CcmI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official WARNS: &quot;We Are Not Alone!&quot; - Top-Secret UFO Program Finally Revealed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: narcap.org  
    Title: IR 4 DWeinstein NEW 3 21 12  
-   Link: <a href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sturrock, P. A., “Physical Evidence Related to UFO Reports:...Read mo...</p></details>
+   Link:<a href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sturrock, P. A., “Physical Evidence Related to UFO Reports:...Read mo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Tic Tac UFO: The Incredible USS Nimitz Encounter  
-   Link: <a href="https://www.youtube.com/watch?v=u0f_kCNi0us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u0f_kCNi0us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u0f_kCNi0us" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u0f_kCNi0us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)  
-   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  

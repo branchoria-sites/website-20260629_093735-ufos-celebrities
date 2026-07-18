@@ -284,7 +284,7 @@ The most credible UFO transparency campaigns do not begin by assuming that alien
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_credible_ufo_advocac_798c98-Illustration-1-dark.svg" | relative_url }}" alt="Careful Advocacy illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_credible_ufo_advocac_798c98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_credible_ufo_advocac_798c98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because calls for openness can be justified even if many reported incidents are eventually explained as aircraft, balloons, drones, atmospheric effects or sensor errors. Conversely, demanding transparency does not require accepting extraordinary claims before the evidence exists. Modern campaigns that maintain this distinction have generally been more successful at attracting institutional support from scientists, aviation experts and lawmakers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+That distinction matters because calls for openness can be justified even if many reported incidents are eventually explained as aircraft, balloons, drones, atmospheric effects or sensor errors. Conversely, demanding transparency does not require accepting extraordinary claims before the evidence exists. Modern campaigns that maintain this distinction have generally been more successful at attracting institutional support from scientists, aviation experts and lawmakers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 ## Transparency goals that do not pre-decide the answer
 
@@ -298,7 +298,7 @@ Several practical goals fit this model:
 * improving sensor quality and data [standards]({{ 'standards/' | relative_url }});
 * ensuring independent oversight of government investigations.
 
-These objectives remain valuable regardless of whether particular incidents are eventually explained conventionally or remain unresolved. NASA's independent UAP study explicitly argued that poor-quality data and social stigma are major obstacles to understanding unidentified aerial events, while also stating that there is no evidence that existing reports require an extraterrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+These objectives remain valuable regardless of whether particular incidents are eventually explained conventionally or remain unresolved. NASA's independent UAP study explicitly argued that poor-quality data and social stigma are major obstacles to understanding unidentified aerial events, while also stating that there is no evidence that existing reports require an extraterrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 This governance-focused approach also broadens participation. Scientists who reject unsupported alien claims may still support better data collection, while transparency advocates can work alongside aviation authorities, archivists and legislators without requiring agreement about the ultimate explanation for every case.
 
@@ -321,7 +321,7 @@ Responsible campaigns recognise that some material may legitimately remain prote
 
 **How should new reports be investigated?**
 
-Clear standards matter. Reports should include sensor [metadata]({{ 'metadata/' | relative_url }}) where available, multiple independent observations where possible, documented chains of custody and opportunities for later review. These are ordinary investigative principles rather than UFO-specific rules. NASA repeatedly emphasised that better calibrated data, multiple measurements and improved metadata are essential before firm conclusions can be drawn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+Clear standards matter. Reports should include sensor [metadata]({{ 'metadata/' | relative_url }}) where available, multiple independent observations where possible, documented chains of custody and opportunities for later review. These are ordinary investigative principles rather than UFO-specific rules. NASA repeatedly emphasised that better calibrated data, multiple measurements and improved metadata are essential before firm conclusions can be drawn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 **What counts as success?**
 
@@ -333,11 +333,11 @@ A campaign should regard clarified explanations as positive outcomes. If improve
 
 Recent developments illustrate how transparency efforts can remain separate from claims of alien certainty.
 
-Former US Navy pilot Ryan Graves has consistently framed the issue around aviation safety. In congressional testimony he argued that reporting stigma discourages pilots from documenting unusual encounters and that better reporting systems are needed. His central claim is not that unidentified objects are necessarily extraterrestrial, but that unexplained events in controlled airspace deserve systematic reporting because they may involve safety or national-security risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security...</span></span></span>
+Former US Navy pilot Ryan Graves has consistently framed the issue around aviation safety. In congressional testimony he argued that reporting stigma discourages pilots from documenting unusual encounters and that better reporting systems are needed. His central claim is not that unidentified objects are necessarily extraterrestrial, but that unexplained events in controlled airspace deserve systematic reporting because they may involve safety or national-security risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan HOC Testimony</span><span class="citation-popover-snippet">House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security...</span></span></span>
 
-Similarly, NASA's independent UAP study focused almost entirely on improving scientific processes. The report recommended better data collection, cross-agency cooperation, use of existing Earth-observing systems where appropriate, and reducing stigma around reporting. At the same time, it concluded that available evidence does not support an extraterrestrial interpretation. This combination of openness and evidential restraint is one of the clearest examples of transparency without alien certainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+Similarly, NASA's independent UAP study focused almost entirely on improving scientific processes. The report recommended better data collection, cross-agency cooperation, use of existing Earth-observing systems where appropriate, and reducing stigma around reporting. At the same time, it concluded that available evidence does not support an extraterrestrial interpretation. This combination of openness and evidential restraint is one of the clearest examples of transparency without alien certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
-Congressional efforts to establish a central UAP records collection also reflect this distinction. Requirements for agencies to identify, organise and transfer relevant records to the National Archives concern record management and public accountability. They create mechanisms for disclosure without predetermining what those records will prove. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
+Congressional efforts to establish a central UAP records collection also reflect this distinction. Requirements for agencies to identify, organise and transfer relevant records to the National Archives concern record management and public accountability. They create mechanisms for disclosure without predetermining what those records will prove.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">uap guidance</span><span class="citation-popover-snippet">National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</span><span class="citation-popover-meta">Published: October 20, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ Second, if every delayed document or unexplained sighting is portrayed as confir
 
 Third, campaigns that present disclosure as inevitable regardless of evidence reduce incentives to distinguish between strong documentation and weak anecdotal accounts. Good oversight depends on making those distinctions, not eliminating them.
 
-Official reviews by both NASA and the US government's All-domain Anomaly Resolution Office (AARO) have repeatedly stressed that most investigated cases either have conventional explanations or lack sufficient information for definitive conclusions, while stating that they have not verified extraterrestrial technology or activity. Their position illustrates the difference between acknowledging unresolved incidents and treating unresolved incidents as evidence of aliens. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Home The official website for the All-domain Anomaly Resolution Office (AARO</span><span class="citation-popover-snippet">AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
+Official reviews by both NASA and the US government's All-domain Anomaly Resolution Office (AARO) have repeatedly stressed that most investigated cases either have conventional explanations or lack sufficient information for definitive conclusions, while stating that they have not verified extraterrestrial technology or activity. Their position illustrates the difference between acknowledging unresolved incidents and treating unresolved incidents as evidence of aliens.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Home The official website for the All-domain Anomaly Resolution Office (AARO</span><span class="citation-popover-snippet">AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
@@ -369,200 +369,200 @@ If improved investigations explain previously mysterious incidents, the campaign
 
 If some cases remain genuinely unresolved after rigorous examination, the campaign has still strengthened the quality of evidence available for future study.
 
-This framework also fits the broader distinction between UFO [advocacy]({{ 'advocacy/' | relative_url }}) and UFO evidence. Advocacy can successfully encourage openness, better reporting and stronger institutional oversight. Whether those improvements eventually reveal mundane explanations, classified technologies or genuinely unexplained phenomena remains an evidential question that must be answered by the quality of the data rather than by the expectations of the campaign itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
+This framework also fits the broader distinction between UFO [advocacy]({{ 'advocacy/' | relative_url }}) and UFO evidence. Advocacy can successfully encourage openness, better reporting and stronger institutional oversight. Whether those improvements eventually reveal mundane explanations, classified technologies or genuinely unexplained phenomena remains an evidential question that must be answered by the quality of the data rather than by the expectations of the campaign itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_credible_ufo_advocac_798c98-Illustration-3-dark.svg" | relative_url }}" alt="Careful Advocacy illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_credible_ufo_advocac_798c98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_credible_ufo_advocac_798c98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO advocacy can stay credible. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO advocacy can stay credible. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Emphasizes systematic investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes systematic investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Advocates careful investigation rather than sensationalism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Advocates careful investigation rather than sensationalism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines advocacy, institutions and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines advocacy, institutions and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-led public discussion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-led public discussion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L"><img src="{{ '/assets/images/marketplace-covers/a7247ae98e9ebed04955.jpg' | relative_url }}" alt="Listing image for Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">Vintage 90s Looney Tunes UFO Alien All Over Print Double Sided T Shirt Mens L</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="careful-advocacy-how-ufo-advocacy-can-stay-credible-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ This framework also fits the broader distinction between UFO [advocacy]({{ 'advo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ This framework also fits the broader distinction between UFO [advocacy]({{ 'advo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ This framework also fits the broader distinction between UFO [advocacy]({{ 'advo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ This framework also fits the broader distinction between UFO [advocacy]({{ 'advo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ This framework also fits the broader distinction between UFO [advocacy]({{ 'advo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,122 +768,122 @@ This framework also fits the broader distinction between UFO [advocacy]({{ 'advo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt this point there is no reason to conclude that existing UAP reports have an extraterrestrial...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Home The official website for the All-domain Anomaly Resolution Office (AARO)  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and...NARA has records related to unidentified flying objects (UF...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: Ryan HOC Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Ryan-HOC-Testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeRyan HOC Testimony25 Jul 2023 — The stigma attached to UAP is real and powerful and challenges national security...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</p></details>
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesGuidance to Federal Agencies on Unidentified Anomalous...8 May 2024 — The law requires that by October 20, 2024, each f...</p></details>
    Published: October 20, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NARA will make publicly releasable copies of these records available...Read more...</p></details>
+   Link:<a href="https://www.archives.gov/research/topics/uaps/faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NARA will make publicly releasable copies of these records available...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: disclosure.org  
-   Link: <a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 18, 2026. The National...Read more...</p></details>
+   Link:<a href="https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/news/nsa-top-secret-umbra-uap-foia-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 18, 2026. The National...Read more...</p></details>
    Published: May 18, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nextgov.com  
    Title: national archives tees new rules ufo records  
-   Link: <a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of records dealing w...</p></details>
+   Link:<a href="https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2024/02/national-archives-tees-new-rules-ufo-records/393982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives tees up new rules for UFO records6 Feb 2024 — New legislation mandates a governmentwide repository of records dealing w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reported UAP in the southern United States. U.S. Indo-Pacific Command reported UAP that resembles a football-shaped body near J...</p></details>
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force reported UAP in the southern United States. U.S. Indo-Pacific Command reported UAP that resembles a football-shaped body near J...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are more unusual. Early...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(UAP) and further open scientific research. The legislation introduced as an amendment to the National Defense Authorization Act (NDAA) t...</p></details>
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(UAP) and further open scientific research. The legislation introduced as an amendment to the National Defense Authorization Act (NDAA) t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: young.senate.gov  
-   Link: <a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNational Defense Authoriza...</p></details>
+   Link:<a href="https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/" target="_blank" rel="noopener noreferrer nofollow">https://www.young.senate.gov/news/press-releases/young-colleagues-introduce-new-legislation-to-declassify-government-records-related-to-ufos-and-unidentified-anomalous-phenomena_modeled-after-jfk-assassination-records-collection-act-as-an-amendment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After JFK Assassination Records Collection Act...Y.), and Mike Rounds (R-S.D.) are leading an amendment to theNational Defense Authoriza...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...It&#x27;s sad but also kind of funny that the reaction among UFO enthusiasts has been anger th...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...It&#x27;s sad but also kind of funny that the reaction among UFO enthusiasts has been anger th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...But officials said NASA&#x27;s involvement should help reduce the stigma around wh...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...But officials said NASA&#x27;s involvement should help reduce the stigma around wh...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUS government &#x27;hiding crucial information&#x27; about UFOs...26 Jul 2023 — Ryan Graves said the number of unidentified flying objects...</p></details>
+   Link:<a href="https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/us-government-hiding-crucial-information-about-ufos-says-ex-navy-pilot-who-claims-he-saw-them-12927800</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUS government &#x27;hiding crucial information&#x27; about UFOs...26 Jul 2023 — Ryan Graves said the number of unidentified flying objects...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: spaceref.com  
    Title: lawmakers witnesses accuse pentagon of cover up call transparency at uap hearing  
-   Link: <a href="https://spaceref.com/science-and-exploration/lawmakers-witnesses-accuse-pentagon-of-cover-up-call-transparency-at-uap-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/science-and-exploration/lawmakers-witnesses-accuse-pentagon-of-cover-up-call-transparency-at-uap-hearing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers, Witnesses Accuse Pentagon of Cover-up, Call...26 Jul 2023 — Ryan Graves, David Grusch and David Fravor testify before a House...</p></details>
+   Link:<a href="https://spaceref.com/science-and-exploration/lawmakers-witnesses-accuse-pentagon-of-cover-up-call-transparency-at-uap-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://spaceref.com/science-and-exploration/lawmakers-witnesses-accuse-pentagon-of-cover-up-call-transparency-at-uap-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers, Witnesses Accuse Pentagon of Cover-up, Call...26 Jul 2023 — Ryan Graves, David Grusch and David Fravor testify before a House...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: apnews.com  
    Title: nasa ufos inidentified flying objects 8b477a5ed6a42f99bb13a4518368ce9a  
-   Link: <a href="https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA says more science and less stigma are needed to...14 Sept 2023 — But officials said NASA&#x27;s involvement should help reduce the stigm...</p></details>
+   Link:<a href="https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA says more science and less stigma are needed to...14 Sept 2023 — But officials said NASA&#x27;s involvement should help reduce the stigm...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: twz.com  
    Title: the newly released government ufo archives will leave you shrugging  
-   Link: <a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...2 hours ago — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>
+   Link:<a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...2 hours ago — The records span in date from the 1940s to the 2020s, come from multiple...</p></details>

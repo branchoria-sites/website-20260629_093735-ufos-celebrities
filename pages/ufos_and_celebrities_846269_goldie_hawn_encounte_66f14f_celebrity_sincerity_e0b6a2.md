@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_ce
 
 ## Introduction
 
-Goldie Hawn's account of an apparent alien encounter is often discussed because she is a globally recognised actor, but her celebrity status does not strengthen the underlying evidence. The central question is not whether Hawn appears sincere—many listeners conclude that she does—but whether sincerity is the same as proof. In her case, the available record consists almost entirely of her own recollections, shared decades after the alleged event, with no [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}), contemporaneous documentation, or physical evidence to corroborate the experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+Goldie Hawn's account of an apparent alien encounter is often discussed because she is a globally recognised actor, but her celebrity status does not strengthen the underlying evidence. The central question is not whether Hawn appears sincere—many listeners conclude that she does—but whether sincerity is the same as proof. In her case, the available record consists almost entirely of her own recollections, shared decades after the alleged event, with no [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}), contemporaneous documentation, or physical evidence to corroborate the experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_celebrity_sincerity_e0b6a2-Illustration-1-dark.svg" | relative_url }}" alt="Sincerity illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_celebrity_sincerity_e0b6a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_celebrity_sincerity_e0b6a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ This distinction is important within the broader topic of celebrity UFO stories.
 
 ## Celebrity reach and public belief
 
-A famous person can dramatically increase the visibility of an unusual claim. When Hawn described her experience through Apple Fitness+'s *Time to Walk*, entertainment media around the world rapidly repeated the story, introducing it to audiences who might never otherwise have encountered it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+A famous person can dramatically increase the visibility of an unusual claim. When Hawn described her experience through Apple Fitness+'s *Time to Walk*, entertainment media around the world rapidly repeated the story, introducing it to audiences who might never otherwise have encountered it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 That visibility, however, should not be confused with corroboration. The main evidence remains:
 
@@ -307,9 +307,9 @@ This distinction becomes especially relevant because celebrity testimony often a
 
 ## Sincerity, persona and spiritual openness
 
-One reason Hawn's story resonates is that it fits the public image she has cultivated over many years. She has frequently spoken about spirituality, meditation, curiosity, emotional wellbeing and maintaining a sense of wonder. Her reflections on the alien encounter are presented less as a scientific claim than as part of a broader worldview in which mystery has personal value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens-2023-10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Business InsiderGoldie Hawn Says She Had a &#x27;Powerful&#x27; Encounter With...October 28, 2023 — 28 Oct 2023 — Goldie Hawn said she had a &quot;powe...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
+One reason Hawn's story resonates is that it fits the public image she has cultivated over many years. She has frequently spoken about spirituality, meditation, curiosity, emotional wellbeing and maintaining a sense of wonder. Her reflections on the alien encounter are presented less as a scientific claim than as part of a broader worldview in which mystery has personal value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Business InsiderGoldie Hawn Says She Had a &#x27;Powerful&#x27; Encounter With...October 28, 2023 — 28 Oct 2023 — Goldie Hawn said she had a &quot;powe...</span><span class="citation-popover-meta">Published: October 28, 2023</span></span></span>
 
-Importantly, Hawn has also expressed uncertainty. In recounting the original experience, she acknowledged wondering whether it had been "real or not real" and has said she does not claim to know everything about what happened. Rather than presenting herself as someone who possesses definitive proof, she describes an experience that felt profoundly real to her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+Importantly, Hawn has also expressed uncertainty. In recounting the original experience, she acknowledged wondering whether it had been "real or not real" and has said she does not claim to know everything about what happened. Rather than presenting herself as someone who possesses definitive proof, she describes an experience that felt profoundly real to her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 That nuance matters. There is a meaningful difference between saying:
 
@@ -328,7 +328,7 @@ In Hawn's case, the available evidence contains several characteristics that enc
 
 * The event was recalled publicly many years after it allegedly occurred.
 * The account centres on subjective perceptions during or immediately after sleep in a parked car.
-* Some memories, including the sensation of beings touching her face, were described as becoming vivid only after later conversations about the experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+* Some memories, including the sensation of beings touching her face, were described as becoming vivid only after later conversations about the experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 None of these observations prove the experience was imagined. Equally, none provide independent support for an extraterrestrial explanation. The evidence remains almost entirely experiential.
 
@@ -350,200 +350,200 @@ A more balanced reading avoids both extremes.
 
 It is possible to accept that Hawn appears sincere without concluding that aliens visited her. Likewise, recognising the limits of the evidence does not require accusing her of fabrication. Human beings can have intensely vivid experiences that feel unquestionably real while remaining uncertain in origin.
 
-Viewed this way, Hawn's story contributes most to discussions about memory, belief and personal meaning rather than providing compelling evidence for extraterrestrial contact. Her fame explains why millions heard the story; it does not alter the evidential [standards]({{ 'standards/' | relative_url }}) by which the claim itself is assessed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+Viewed this way, Hawn's story contributes most to discussions about memory, belief and personal meaning rather than providing compelling evidence for extraterrestrial contact. Her fame explains why millions heard the story; it does not alter the evidential [standards]({{ 'standards/' | relative_url }}) by which the claim itself is assessed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_celebrity_sincerity_e0b6a2-Illustration-3-dark.svg" | relative_url }}" alt="Sincerity illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_celebrity_sincerity_e0b6a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_goldie_hawn_encounte_66f14f_celebrity_sincerity_e0b6a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Fame Does Not Make Stronger Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Fame Does Not Make Stronger Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why sincere belief differs from objective evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why sincere belief differs from objective evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines modern UFO belief and cultural meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines modern UFO belief and cultural meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts anecdotal testimony with documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts anecdotal testimony with documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Provides tools for evaluating conviction and self-justification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for evaluating conviction and self-justification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sincerity-why-fame-does-not-make-stronger-evidence-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ Viewed this way, Hawn's story contributes most to discussions about memory, beli
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ Viewed this way, Hawn's story contributes most to discussions about memory, beli
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ Viewed this way, Hawn's story contributes most to discussions about memory, beli
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ Viewed this way, Hawn's story contributes most to discussions about memory, beli
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ Viewed this way, Hawn's story contributes most to discussions about memory, beli
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,78 +749,78 @@ Viewed this way, Hawn's story contributes most to discussions about memory, beli
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: latimes.com  
    Title: Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter  
-   Link: <a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vanityfair.com  
    Title: goldie hawn knows that aliens have touched her face  
-   Link: <a href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOoov1eJ4xZW0WmqF1tdaDWEI1Q90N8_19FacScOz_snkpf1d8A4w" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOoov1eJ4xZW0WmqF1tdaDWEI1Q90N8_19FacScOz_snkpf1d8A4w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Oct 2023 — The Oscar winner recounts her experiences with extraterrestrials, from seeing aliens through a car window in California to...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOoov1eJ4xZW0WmqF1tdaDWEI1Q90N8_19FacScOz_snkpf1d8A4w" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOoov1eJ4xZW0WmqF1tdaDWEI1Q90N8_19FacScOz_snkpf1d8A4w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Oct 2023 — The Oscar winner recounts her experiences with extraterrestrials, from seeing aliens through a car window in California to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens-2023-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens-2023-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderGoldie Hawn Says She Had a &#x27;Powerful&#x27; Encounter With...October 28, 2023 — 28 Oct 2023 — Goldie Hawn said she had a &quot;powe...</p></details>
+   Link:<a href="https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/goldie-hawn-says-she-had-powerful-encounter-with-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderGoldie Hawn Says She Had a &#x27;Powerful&#x27; Encounter With...October 28, 2023 — 28 Oct 2023 — Goldie Hawn said she had a &quot;powe...</p></details>
    Published: October 28, 2023  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrity/goldie-hawn-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/goldie-hawn-alien-encounter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Describing the beings as having triangular, silver heads, the event occurred while she dozed in a friend’s car in West Covina, California...</p></details>
+   Link:<a href="https://ew.com/celebrity/goldie-hawn-alien-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrity/goldie-hawn-alien-encounter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Describing the beings as having triangular, silver heads, the event occurred while she dozed in a friend’s car in West Covina, California...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Recalls Alien Encounter: &quot;They Touched My...30 Oct 2023 — Goldie Hawn described the aliens as &quot;silver in colour&quot;...</p></details>
+   Link:<a href="https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/goldie-hawn-recalls-alien-encounter-they-touched-my-face-4528353</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Recalls Alien Encounter: &quot;They Touched My...30 Oct 2023 — Goldie Hawn described the aliens as &quot;silver in colour&quot;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: kgns.tv  
    Title: goldie hawn shares alien encounter she experienced more than 50 years ago  
-   Link: <a href="https://www.kgns.tv/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.kgns.tv/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn shares alien encounter she experienced...30 Oct 2023 —... Time to Walk” podcast she was around 20 years old when she saw th...</p></details>
+   Link:<a href="https://www.kgns.tv/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.kgns.tv/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn shares alien encounter she experienced...30 Oct 2023 —... Time to Walk” podcast she was around 20 years old when she saw th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>She mentions sleeping in her car when suddenly she hears a “high-pitche...</p></details>
+   Link:<a href="https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She mentions sleeping in her car when suddenly she hears a “high-pitche...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: yahoo.com  
    Title: goldie hawn recalls alleged alien 214949628  
-   Link: <a href="https://www.yahoo.com/entertainment/goldie-hawn-recalls-alleged-alien-214949628.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/goldie-hawn-recalls-alleged-alien-214949628.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn recalls alien encounter over 50 years ago28 Oct 2023 — Goldie Hawn says she is a believer in aliens — because she&#x27;s... extra...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/goldie-hawn-recalls-alleged-alien-214949628.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/goldie-hawn-recalls-alleged-alien-214949628.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn recalls alien encounter over 50 years ago28 Oct 2023 — Goldie Hawn says she is a believer in aliens — because she&#x27;s... extra...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fox5dc.com  
    Title: goldie hawn made contact with aliens  
-   Link: <a href="https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn says she &#x27;made contact&#x27; with aliens30 Oct 2023 — Goldie Hawn recalled making contact with &quot;two or three&quot; extraterrestrial bei...</p></details>
+   Link:<a href="https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn says she &#x27;made contact&#x27; with aliens30 Oct 2023 — Goldie Hawn recalled making contact with &quot;two or three&quot; extraterrestrial bei...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Says ALIENS Touched Her Face Once | E! News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn Says ALIENS Touched Her Face Once | E! News...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: What "Alien Abductions" Say About Our Brains  
-   Link: <a href="https://www.youtube.com/watch?v=0itEOM8oxkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0itEOM8oxkE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson Debunks UFO Sightings &amp; Alien Abductions Science vs Myth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0itEOM8oxkE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0itEOM8oxkE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neil deGrasse Tyson Debunks UFO Sightings &amp; Alien Abductions Science vs Myth...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Neil de Grasse Tyson Debunks UFO Sightings & Alien Abductions Science vs Myth  
-   Link: <a href="https://www.youtube.com/watch?v=HFf83Kyq3cI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFf83Kyq3cI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Sleep Paralysis](&amp;#123;&amp;#123; &#x27;sleep-paralysis/&#x27; | relative_url &amp;#125;&amp;#125;) | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HFf83Kyq3cI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFf83Kyq3cI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Sleep Paralysis](&amp;#123;&amp;#123; &#x27;sleep-paralysis/&#x27; | relative_url &amp;#125;&amp;#125;) | National Geographic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Did Goldie Hawn Really Meet Aliens?  
-   Link: <a href="https://www.youtube.com/watch?v=Xfc56RyPZ4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xfc56RyPZ4A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What &quot;Alien Abductions&quot; Say About Our Brains...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Xfc56RyPZ4A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xfc56RyPZ4A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What &quot;Alien Abductions&quot; Say About Our Brains...</p></details>

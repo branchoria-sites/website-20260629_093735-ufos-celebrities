@@ -286,11 +286,11 @@ Demi Lovato's public interest in UFOs is notable not because it provides evidenc
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_demi_lovato_contact_7180ad-Illustration-1-dark.svg" | relative_url }}" alt="Demi Contact illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_demi_lovato_contact_7180ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_demi_lovato_contact_7180ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The television project and contact belief
 
-In 2021, Lovato fronted the four-part Peacock series *Unidentified with Demi Lovato*. The programme followed Lovato, their sister Dallas Lovato, and friend Matthew Scott Montgomery as they travelled to locations associated with UFO reports, interviewed researchers and experiencers, and participated in attempts to establish communication with non-human intelligences. The series was explicitly structured as a search rather than a scientific investigation capable of demonstrating extraterrestrial life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
+In 2021, Lovato fronted the four-part Peacock series *Unidentified with Demi Lovato*. The programme followed Lovato, their sister Dallas Lovato, and friend Matthew Scott Montgomery as they travelled to locations associated with UFO reports, interviewed researchers and experiencers, and participated in attempts to establish communication with non-human intelligences. The series was explicitly structured as a search rather than a scientific investigation capable of demonstrating extraterrestrial life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
 
 A distinctive feature of the programme is its emphasis on what participants called "conscious contact". Rather than relying primarily on cameras, instruments or physical traces, several episodes explored meditation, intention and altered states of awareness as ways of communicating with purported extraterrestrial [beings]({{ 'beings/' | relative_url }}). This approach reflects traditions already present within parts of contemporary UFO culture, where consciousness is treated as an important component of contact experiences.
 
-Lovato has also described personal experiences that they interpreted as meaningful contact. In interviews promoting the series, they spoke about meditation sessions during a birthday trip to Joshua Tree, characterising the experience as profound and transformative rather than describing a conventional close encounter with physical beings. They suggested that meditation allowed a form of communication that was primarily experiential rather than visual or material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree-2021-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Demi Lovato believes aliens are &#x27;actually living among us</span><span class="citation-popover-snippet">Business InsiderDemi Lovato believes aliens are &#x27;actually living among us&#x27;...September 28, 2021 — 28 Sept 2021 — Demi Lovato said they m...</span><span class="citation-popover-meta">Published: September 28, 2021</span></span></span>
+Lovato has also described personal experiences that they interpreted as meaningful contact. In interviews promoting the series, they spoke about meditation sessions during a birthday trip to Joshua Tree, characterising the experience as profound and transformative rather than describing a conventional close encounter with physical beings. They suggested that meditation allowed a form of communication that was primarily experiential rather than visual or material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider Demi Lovato believes aliens are &#x27;actually living among us</span><span class="citation-popover-snippet">Business InsiderDemi Lovato believes aliens are &#x27;actually living among us&#x27;...September 28, 2021 — 28 Sept 2021 — Demi Lovato said they m...</span><span class="citation-popover-meta">Published: September 28, 2021</span></span></span>
 
 This framing matters because it shifts the discussion away from observable evidence. The emphasis is not on proving that extraterrestrials appeared, but on the personal significance of experiences that participants interpret as genuine contact.
 
@@ -315,9 +315,9 @@ Several elements reinforce this pattern:
 
 This reflects a broader cultural shift sometimes described by researchers as "experiential spirituality", where personal experience becomes the primary source of authority.
 
-The programme also constructs a community around these experiences. Lovato interviews believers, researchers, alleged experiencers and paranormal investigators, creating a network in which extraordinary claims are explored collectively. Even the presence of a sceptical travelling companion serves more as conversational balance than as formal fact-checking, encouraging viewers to witness differing reactions without turning the series into a conventional debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair All The Questions I Had While Watching Unidentified with Demi Lovato</span><span class="citation-popover-snippet">Accompanied by their friend and sister, Demi travels California meeting UFO enthusiasts and therapists specializing in extraterrestrial e...</span></span></span>
+The programme also constructs a community around these experiences. Lovato interviews believers, researchers, alleged experiencers and paranormal investigators, creating a network in which extraordinary claims are explored collectively. Even the presence of a sceptical travelling companion serves more as conversational balance than as formal fact-checking, encouraging viewers to witness differing reactions without turning the series into a conventional debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair All The Questions I Had While Watching Unidentified with Demi Lovato</span><span class="citation-popover-snippet">Accompanied by their friend and sister, Demi travels California meeting UFO enthusiasts and therapists specializing in extraterrestrial e...</span></span></span>
 
-Performance is another important dimension. As a celebrity, Lovato does not merely recount beliefs; they perform curiosity and openness before a large audience. Emotional moments—including meditating for contact or singing during paranormal investigations—become part of televised storytelling. These scenes work simultaneously as entertainment, expressions of personal spirituality, and invitations for viewers to consider similar experiences. Lovato later acknowledged with humour that one widely discussed scene involving singing to a ghost had become unintentionally funny in retrospect, illustrating the tension between sincere belief and reality television performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/demi-lovato-was-so-stoned-sang-to-traumatized-ghost-11809242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">The show, which aired on Peacock, chronicles Lovato&#x27;s explorations into UFOs and the paranormal alongside friends Mathew Scott Montgomery...</span></span></span>
+Performance is another important dimension. As a celebrity, Lovato does not merely recount beliefs; they perform curiosity and openness before a large audience. Emotional moments—including meditating for contact or singing during paranormal investigations—become part of televised storytelling. These scenes work simultaneously as entertainment, expressions of personal spirituality, and invitations for viewers to consider similar experiences. Lovato later acknowledged with humour that one widely discussed scene involving singing to a ghost had become unintentionally funny in retrospect, illustrating the tension between sincere belief and reality television performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/demi-lovato-was-so-stoned-sang-to-traumatized-ghost-11809242" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">The show, which aired on Peacock, chronicles Lovato&#x27;s explorations into UFOs and the paranormal alongside friends Mathew Scott Montgomery...</span></span></span>
 
 The project therefore functions on several levels at once: as a celebrity documentary, a paranormal travel programme, a personal spiritual journey and a shared media event.
 
@@ -345,7 +345,7 @@ That difference explains why critics and supporters frequently talk past one ano
 
 Lovato's UFO work also reflects broader changes in contemporary spirituality. Rather than belonging to a traditional religious framework, the contact narratives combine elements from meditation, wellness culture, paranormal investigation, consciousness studies and popular entertainment.
 
-This blend has attracted both interest and criticism. Some commentators welcomed the openness to discussing unusual experiences, while others expressed concern when Lovato later partnered with Gaia, a streaming platform criticised for promoting pseudoscientific and conspiratorial material alongside wellness content. Critics argued that such partnerships risk blurring distinctions between speculative spirituality and evidence-based knowledge, while supporters viewed them as part of a wider exploration of consciousness and alternative beliefs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.them.us/story/demi-lovato-joined-conspiracy-site-gaia-ambassador" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: them.us">[Them]</a><span class="citation-popover" role="note"><span class="citation-popover-source">them.us</span><span class="citation-popover-title">Demi Lovato Joins Conspiracy Site Gaia as an &quot;Ambassador</span><span class="citation-popover-snippet">Gaia, initially popular for yoga and meditation, now disseminates various pseudoscientific and conspiratorial content under the guise of...</span></span></span>
+This blend has attracted both interest and criticism. Some commentators welcomed the openness to discussing unusual experiences, while others expressed concern when Lovato later partnered with Gaia, a streaming platform criticised for promoting pseudoscientific and conspiratorial material alongside wellness content. Critics argued that such partnerships risk blurring distinctions between speculative spirituality and evidence-based knowledge, while supporters viewed them as part of a wider exploration of consciousness and alternative beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.them.us/story/demi-lovato-joined-conspiracy-site-gaia-ambassador" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: them.us">[Them]</a><span class="citation-popover" role="note"><span class="citation-popover-source">them.us</span><span class="citation-popover-title">Demi Lovato Joins Conspiracy Site Gaia as an &quot;Ambassador</span><span class="citation-popover-snippet">Gaia, initially popular for yoga and meditation, now disseminates various pseudoscientific and conspiratorial content under the guise of...</span></span></span>
 
 Within the broader history of celebrity UFO narratives, Lovato's case therefore occupies a distinctive place. Earlier celebrity encounter stories often centred on dramatic abductions or sightings. Lovato instead presents contact as an ongoing spiritual practice—something pursued through meditation, emotional openness and community rather than a single extraordinary event. That approach demonstrates how modern UFO culture increasingly operates not only as a set of claims about extraterrestrials, but also as a framework through which people explore identity, healing and meaning.
 
@@ -353,194 +353,194 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_demi_lovato_contact_7180ad-Illustration-3-dark.svg" | relative_url }}" alt="Demi Contact illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_demi_lovato_contact_7180ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_demi_lovato_contact_7180ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When alien contact becomes spiritual media. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When alien contact becomes spiritual media. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208300-M.jpg" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
-        </h4>
-        <p class="fr-book-author">By John E. Mack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208300-M.jpg" alt="Cover for Abduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
+</h4>
+<p class="fr-book-author">By John E. Mack</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Alien abduction, Unidentified flying objects, Sightings and encounters, Objetos voladores no identificado...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Alien abduction, Unidentified flying objects, Sightings and encounters, Objetos voladores no identificado...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores UFO belief as a spiritual and cultural phenomenon.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores UFO belief as a spiritual and cultural phenomenon.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places modern contact narratives into historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places modern contact narratives into historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Balances personal meaning with evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances personal meaning with evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="demi-contact-when-alien-contact-becomes-spiritual-media-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,108 +746,108 @@ Within the broader history of celebrity UFO narratives, Lovato's case therefore 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: peacocktv.com  
-   Link: <a href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow">https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</p></details>
+   Link:<a href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow">https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: people.com  
-   Link: <a href="https://people.com/demi-lovato-was-so-stoned-sang-to-traumatized-ghost-11809242" target="_blank" rel="noopener noreferrer nofollow">https://people.com/demi-lovato-was-so-stoned-sang-to-traumatized-ghost-11809242</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The show, which aired on Peacock, chronicles Lovato&#x27;s explorations into UFOs and the paranormal alongside friends Mathew Scott Montgomery...</p></details>
+   Link:<a href="https://people.com/demi-lovato-was-so-stoned-sang-to-traumatized-ghost-11809242" target="_blank" rel="noopener noreferrer nofollow">https://people.com/demi-lovato-was-so-stoned-sang-to-traumatized-ghost-11809242</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The show, which aired on Peacock, chronicles Lovato&#x27;s explorations into UFOs and the paranormal alongside friends Mathew Scott Montgomery...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: them.us  
    Title: Demi Lovato Joins Conspiracy Site Gaia as an "Ambassador"  
-   Link: <a href="https://www.them.us/story/demi-lovato-joined-conspiracy-site-gaia-ambassador" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/demi-lovato-joined-conspiracy-site-gaia-ambassador</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gaia, initially popular for yoga and meditation, now disseminates various pseudoscientific and conspiratorial content under the guise of...</p></details>
+   Link:<a href="https://www.them.us/story/demi-lovato-joined-conspiracy-site-gaia-ambassador" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/demi-lovato-joined-conspiracy-site-gaia-ambassador</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gaia, initially popular for yoga and meditation, now disseminates various pseudoscientific and conspiratorial content under the guise of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: peacocktv.com  
-   Link: <a href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1/episodes/countdown-to-contact-episode-4/0a1ab925-c67d-31c8-acc8-ed95670bb285" target="_blank" rel="noopener noreferrer nofollow">https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1/episodes/countdown-to-contact-episode-4/0a1ab925-c67d-31c8-acc8-ed95670bb285</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ontact with ETs. TV14 Audio Described Closed Captioned HD...</p></details>
+   Link:<a href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1/episodes/countdown-to-contact-episode-4/0a1ab925-c67d-31c8-acc8-ed95670bb285" target="_blank" rel="noopener noreferrer nofollow">https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1/episodes/countdown-to-contact-episode-4/0a1ab925-c67d-31c8-acc8-ed95670bb285</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ontact with ETs. TV14 Audio Described Closed Captioned HD...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Unidentified with Demi Lovato | Official Trailer  
-   Link: <a href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUb0U_U3vOE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Sings Skyscraper to an Extraterrestrial Entity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUb0U_U3vOE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Sings Skyscraper to an Extraterrestrial Entity...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: businessinsider.com  
    Title: Business Insider Demi Lovato believes aliens are 'actually living among us'  
-   Link: <a href="https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree-2021-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree-2021-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderDemi Lovato believes aliens are &#x27;actually living among us&#x27;...September 28, 2021 — 28 Sept 2021 — Demi Lovato said they m...</p></details>
+   Link:<a href="https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderDemi Lovato believes aliens are &#x27;actually living among us&#x27;...September 28, 2021 — 28 Sept 2021 — Demi Lovato said they m...</p></details>
    Published: September 28, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vanityfair.com  
    Title: Vanity Fair All The Questions I Had While Watching Unidentified with Demi Lovato  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accompanied by their friend and sister, Demi travels California meeting UFO enthusiasts and therapists specializing in extraterrestrial e...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accompanied by their friend and sister, Demi travels California meeting UFO enthusiasts and therapists specializing in extraterrestrial e...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: commonsensemedia.org  
    Title: unidentified with demi lovato  
-   Link: <a href="https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TV Review10 Dec 2025 — Parents need to know that Unidentified With Demi Lovato is a reality series featuring Demi Lovato researching the...</p></details>
+   Link:<a href="https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TV Review10 Dec 2025 — Parents need to know that Unidentified With Demi Lovato is a reality series featuring Demi Lovato researching the...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nerdsandbeyond.com  
    Title: demi lovato serenades the extraterrestrial in unidentified with demi lovato  
-   Link: <a href="https://www.nerdsandbeyond.com/2021/10/01/demi-lovato-serenades-the-extraterrestrial-in-unidentified-with-demi-lovato/" target="_blank" rel="noopener noreferrer nofollow">https://www.nerdsandbeyond.com/2021/10/01/demi-lovato-serenades-the-extraterrestrial-in-unidentified-with-demi-lovato/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Serenades the Extraterrestrial in &#x27;...1 Oct 2021 — With a butterfly tattoo sprawled against their neck, Demi Lovato serenade...</p></details>
+   Link:<a href="https://www.nerdsandbeyond.com/2021/10/01/demi-lovato-serenades-the-extraterrestrial-in-unidentified-with-demi-lovato/" target="_blank" rel="noopener noreferrer nofollow">https://www.nerdsandbeyond.com/2021/10/01/demi-lovato-serenades-the-extraterrestrial-in-unidentified-with-demi-lovato/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Serenades the Extraterrestrial in &#x27;...1 Oct 2021 — With a butterfly tattoo sprawled against their neck, Demi Lovato serenade...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: victorstiff.com  
    Title: unidentified with demi lovato ufo movie club video review  
-   Link: <a href="https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/" target="_blank" rel="noopener noreferrer nofollow">https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato: UFO Movie Club Video Review2 Feb 2022 — The four-part streaming series sees world-renowned pop star Demi L...</p></details>
+   Link:<a href="https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/" target="_blank" rel="noopener noreferrer nofollow">https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato: UFO Movie Club Video Review2 Feb 2022 — The four-part streaming series sees world-renowned pop star Demi L...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: deadline.com  
    Title: unidentified with demi lovato ufos peacock 1234753870  
-   Link: <a href="https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Searches For UFOs In Four-Part Docuseries...11 May 2021 — Peacock has ordered four-part series Unidentified with Demi Lovato...</p></details>
+   Link:<a href="https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Searches For UFOs In Four-Part Docuseries...11 May 2021 — Peacock has ordered four-part series Unidentified with Demi Lovato...</p></details>
    Published: May 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EntertainmentTonight/posts/from-demi-lovatos-alien-encounter-to-the-great-shower-debate-of-2021-heres-all-t/10160141125651180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EntertainmentTonight/posts/from-demi-lovatos-alien-encounter-to-the-great-shower-debate-of-2021-heres-all-t/10160141125651180/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The singer and actor has a docuseries on Peacock titled &quot;Unidentified...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/EntertainmentTonight/posts/from-demi-lovatos-alien-encounter-to-the-great-shower-debate-of-2021-heres-all-t/10160141125651180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EntertainmentTonight/posts/from-demi-lovatos-alien-encounter-to-the-great-shower-debate-of-2021-heres-all-t/10160141125651180/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The singer and actor has a docuseries on Peacock titled &quot;Unidentified...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: yahoo.com  
    Title: demi lovato shares ufo sightings 114100771  
-   Link: <a href="https://www.yahoo.com/lifestyle/demi-lovato-shares-ufo-sightings-114100771.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/lifestyle/demi-lovato-shares-ufo-sightings-114100771.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Shares UFO Sightings on Instagram and Says...19 Oct 2020 — Demi took to Instagram and shared several photos of what appear t...</p></details>
+   Link:<a href="https://www.yahoo.com/lifestyle/demi-lovato-shares-ufo-sightings-114100771.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/lifestyle/demi-lovato-shares-ufo-sightings-114100771.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Shares UFO Sightings on Instagram and Says...19 Oct 2020 — Demi took to Instagram and shared several photos of what appear t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EntertainmentTonight/posts/demi-lovato-thinks-aliens-are-out-there-and-looking-out-for-their-best-interests/10159954763771180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EntertainmentTonight/posts/demi-lovato-thinks-aliens-are-out-there-and-looking-out-for-their-best-interests/10159954763771180/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s &#x27;derogatory&#x27; to extraterrestrials. After listening to Lovato...</p></details>
+   Link:<a href="https://www.facebook.com/EntertainmentTonight/posts/demi-lovato-thinks-aliens-are-out-there-and-looking-out-for-their-best-interests/10159954763771180/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EntertainmentTonight/posts/demi-lovato-thinks-aliens-are-out-there-and-looking-out-for-their-best-interests/10159954763771180/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s &#x27;derogatory&#x27; to extraterrestrials. After listening to Lovato...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UsWeekly/posts/steven-spielberg-demi-lovato-and-more-celebrities-who-believe-in-aliens/1357776399553642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UsWeekly/posts/steven-spielberg-demi-lovato-and-more-celebrities-who-believe-in-aliens/1357776399553642/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>even filmed a docuseries about searching for UFOs. Nick Jonas —...</p></details>
+   Link:<a href="https://www.facebook.com/UsWeekly/posts/steven-spielberg-demi-lovato-and-more-celebrities-who-believe-in-aliens/1357776399553642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UsWeekly/posts/steven-spielberg-demi-lovato-and-more-celebrities-who-believe-in-aliens/1357776399553642/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>even filmed a docuseries about searching for UFOs. Nick Jonas —...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pedestrian.tv  
    Title: demi lovato interview unidentified  
-   Link: <a href="https://www.pedestrian.tv/entertainment/demi-lovato-interview-unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.pedestrian.tv/entertainment/demi-lovato-interview-unidentified/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato On How To Talk To ETs &amp; Why We Shouldn&#x27;t...5 Oct 2021 — We chatted to Demi Lovato about their new series Unidentified and wh...</p></details>
+   Link:<a href="https://www.pedestrian.tv/entertainment/demi-lovato-interview-unidentified/" target="_blank" rel="noopener noreferrer nofollow">https://www.pedestrian.tv/entertainment/demi-lovato-interview-unidentified/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato On How To Talk To ETs &amp; Why We Shouldn&#x27;t...5 Oct 2021 — We chatted to Demi Lovato about their new series Unidentified and wh...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Demi Lovato Has Seen UFOs and Believes in Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=W6O-mpkt7Cs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6O-mpkt7Cs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato trailer clips Unidentified with Demi Lovato | Official Trailer | Peacock Original Peacock...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W6O-mpkt7Cs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W6O-mpkt7Cs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato trailer clips Unidentified with Demi Lovato | Official Trailer | Peacock Original Peacock...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rollingstone.com  
    Title: demi lovato becky g aliens 1256457  
-   Link: <a href="https://www.rollingstone.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/[music</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s not been in like, the &#x27;E.T. phone home,&#x27; type of sense, but I made contact by meditating and looking...</p></details>
+   Link:<a href="https://www.rollingstone.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/[music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“It&#x27;s not been in like, the &#x27;E.T. phone home,&#x27; type of sense, but I made contact by meditating and looking...</p></details>

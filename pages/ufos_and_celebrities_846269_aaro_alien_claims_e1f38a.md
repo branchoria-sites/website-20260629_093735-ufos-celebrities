@@ -442,31 +442,31 @@ image: /assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-overv
 
 ## Introduction
 
-AARO’s public findings draw a hard line between “unexplained” and “alien”. The All-domain Anomaly Resolution Office, the Pentagon body created to collect and analyse unidentified anomalous phenomena, says some cases remain unresolved, but it has not found verifiable evidence of extraterrestrial beings, activity, technology, recovered craft, or secret [reverse-engineering]({{ 'secret-programs/' | relative_url }}) programmes. That distinction matters in the wider world of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}): a famous sighting, a compelling interview, or a dramatic whistleblower claim may bring attention, but official review still asks for traceable data, sensor context, materials analysis, and competing explanations before moving from mystery to proof. In AARO’s language, unresolved cases are usually unresolved because the evidence is too thin, not because the alien explanation has risen to the top. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+AARO’s public findings draw a hard line between “unexplained” and “alien”. The All-domain Anomaly Resolution Office, the Pentagon body created to collect and analyse unidentified anomalous phenomena, says some cases remain unresolved, but it has not found verifiable evidence of extraterrestrial beings, activity, technology, recovered craft, or secret [reverse-engineering]({{ 'secret-programs/' | relative_url }}) programmes. That distinction matters in the wider world of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}): a famous sighting, a compelling interview, or a dramatic whistleblower claim may bring attention, but official review still asks for traceable data, sensor context, materials analysis, and competing explanations before moving from mystery to proof. In AARO’s language, unresolved cases are usually unresolved because the evidence is too thin, not because the alien explanation has risen to the top.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-overview.webp" | relative_url }}" alt="Overview image for AARO Limits" loading="eager" decoding="sync" fetchpriority="high">
 ## No Verified Extraterrestrial Evidence
 
-AARO’s most important public conclusion is not that every UFO report is false. It is that no reviewed report has been confirmed as extraterrestrial technology. In its 2024 historical record report, AARO said it found no evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed a UAP sighting as extraterrestrial. The same report said AARO found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+AARO’s most important public conclusion is not that every UFO report is false. It is that no reviewed report has been confirmed as extraterrestrial technology. In its 2024 historical record report, AARO said it found no evidence that any US government investigation, academic-sponsored research, or official review panel had confirmed a UAP sighting as extraterrestrial. The same report said AARO found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-That finding directly addresses one of the most persistent UFO narratives: that government officials know far more than they admit, and that the public record is only the surface of a hidden recovery programme. AARO says it investigated claims involving named people, locations, documents, tests, companies, and alleged programmes, and found those specific reverse-engineering claims inaccurate on the information available to it. It also reported that executives, scientists, and chief technology officers from named companies denied on the record that they had recovered, possessed, or reverse-engineered extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+That finding directly addresses one of the most persistent UFO narratives: that government officials know far more than they admit, and that the public record is only the surface of a hidden recovery programme. AARO says it investigated claims involving named people, locations, documents, tests, companies, and alleged programmes, and found those specific reverse-engineering claims inaccurate on the information available to it. It also reported that executives, scientists, and chief technology officers from named companies denied on the record that they had recovered, possessed, or reverse-engineered extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-The same conclusion appears in AARO’s more recent annual [reporting]({{ 'reporting/' | relative_url }}). The Fiscal Year 2024 consolidated annual report covered 757 UAP reports from 1 May 2023 to 1 June 2024, including older reports not included in previous annual reporting. AARO resolved 118 cases during the reporting period, all as [prosaic objects]({{ 'prosaic-objects/' | relative_url }}) such as balloons, birds, and unmanned aerial systems; another 174 cases queued for closure were later finalised as prosaic objects including balloons, birds, UAS, satellites, and aircraft. The report states that, to date, AARO has discovered no evidence of extraterrestrial beings, activity, or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+The same conclusion appears in AARO’s more recent annual [reporting]({{ 'reporting/' | relative_url }}). The Fiscal Year 2024 consolidated annual report covered 757 UAP reports from 1 May 2023 to 1 June 2024, including older reports not included in previous annual reporting. AARO resolved 118 cases during the reporting period, all as [prosaic objects]({{ 'prosaic-objects/' | relative_url }}) such as balloons, birds, and unmanned aerial systems; another 174 cases queued for closure were later finalised as prosaic objects including balloons, birds, UAS, satellites, and aircraft. The report states that, to date, AARO has discovered no evidence of extraterrestrial beings, activity, or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
-NASA’s independent UAP study reached a compatible but differently framed conclusion. NASA did not present UAP as an alien question first; it treated them as a data-quality and scientific-method problem. Its 2023 report stated that there was no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, while stressing that the available data are often too poor to explain anomalous observations confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
+NASA’s independent UAP study reached a compatible but differently framed conclusion. NASA did not present UAP as an alien question first; it treated them as a data-quality and scientific-method problem. Its 2023 report stated that there was no conclusive evidence in peer-reviewed scientific literature suggesting an extraterrestrial origin for UAP, while stressing that the available data are often too poor to explain anomalous observations confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-1-dark.svg" | relative_url }}" alt="AARO Limits illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Unresolved Cases Remain Unresolved
 
-The most common misreading of AARO’s work is to treat “unresolved” as a quiet synonym for “possibly alien”. AARO’s reports point in the opposite direction. Many [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) remain in that category because the office lacks timely, actionable sensor data, not because it has found physics-defying performance or non-human technology. In the 2024 annual report, AARO said its ability to resolve cases remained constrained by insufficient sensor data and that many unresolved holdings could not be researched or analysed without more actionable information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+The most common misreading of AARO’s work is to treat “unresolved” as a quiet synonym for “possibly alien”. AARO’s reports point in the opposite direction. Many [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) remain in that category because the office lacks timely, actionable sensor data, not because it has found physics-defying performance or non-human technology. In the 2024 annual report, AARO said its ability to resolve cases remained constrained by insufficient sensor data and that many unresolved holdings could not be researched or analysed without more actionable information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
-A useful example is AARO’s public imagery page. Several cases are labelled unresolved even when AARO assesses that the footage probably depicts a physical object. In some entries, the office says the object’s morphology, performance, and behaviour are unremarkable, but the case remains unresolved because there is not enough information for a more conclusive attribution. That is a far weaker claim than “unknown advanced craft”; it means the office cannot confidently name the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery...</span></span></span>
+A useful example is AARO’s public imagery page. Several cases are labelled unresolved even when AARO assesses that the footage probably depicts a physical object. In some entries, the office says the object’s morphology, performance, and behaviour are unremarkable, but the case remains unresolved because there is not enough information for a more conclusive attribution. That is a far weaker claim than “unknown advanced craft”; it means the office cannot confidently name the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery...</span></span></span>
 
-Other cases show how ordinary objects can look strange under [military]({{ 'military/' | relative_url }}) or aviation sensors. AARO has resolved multiple infrared or video cases as balloons, sometimes with high-confidence language based on shape, drift behaviour, and consistency with lighter-than-air objects. It has also assessed some footage as birds, noting that sensor compression, pixelation, glare, and full-motion-video artefacts can turn familiar objects into blobs, orbs, or flickering shapes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery...</span></span></span>
+Other cases show how ordinary objects can look strange under [military]({{ 'military/' | relative_url }}) or aviation sensors. AARO has resolved multiple infrared or video cases as balloons, sometimes with high-confidence language based on shape, drift behaviour, and consistency with lighter-than-air objects. It has also assessed some footage as birds, noting that sensor compression, pixelation, glare, and full-motion-video artefacts can turn familiar objects into blobs, orbs, or flickering shapes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP Imagery...</span></span></span>
 
-The Eglin case shows the same logic in a compact form. A military pilot reported four possible UAP in January 2023 while operating near the Eglin Air Force Base training range. AARO’s public case resolution listed multiple sensor sources, including electro-optical, infrared, visual identification, and radar, but concluded there was no confirmed anomalous behaviour and that the object was very likely a lighter-than-air object, such as a large commercial lighting balloon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution...</span></span></span>
+The Eglin case shows the same logic in a compact form. A military pilot reported four possible UAP in January 2023 while operating near the Eglin Air Force Base training range. AARO’s public case resolution listed multiple sensor sources, including electro-optical, infrared, visual identification, and radar, but concluded there was no confirmed anomalous behaviour and that the object was very likely a lighter-than-air object, such as a large commercial lighting balloon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Eglin UAP Case Resolution</span><span class="citation-popover-snippet">Eglin UAP Case Resolution...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NrAQbco7dQ" title="The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer">The UFO &#x27;cookbook&#x27;: How the American government investigates the unexplainable</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 17.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NrAQbco7dQ">Open on YouTube</a></p></div></div></div>
@@ -475,7 +475,7 @@ The Eglin case shows the same logic in a compact form. A military pilot reported
 
 Official [UAP language]({{ 'uap-language/' | relative_url }}) is careful because it has to serve several audiences at once: Congress, military aviators, intelligence analysts, scientists, and the public. That careful wording is often flattened in popular culture. “A physical object” becomes “a craft”. “Unresolved” becomes “unexplainable”. “No evidence yet” becomes “they are hiding it”. In celebrity UFO culture, where a recognisable witness can make a story feel more vivid and credible, those shifts can happen quickly.
 
-AARO’s own phrasing is narrower. A case can involve a real object without proving extraordinary origin. A report can be a flight-safety concern without implying extraterrestrial control. A witness can be sincere and still have seen a balloon, bird, drone, satellite flare, aircraft, sensor artefact, or object whose identity cannot be recovered from the available record. The 2024 annual report’s near-miss case, involving a commercial aircrew reporting a cylindrical object over the Atlantic near New York, is a good example: AARO treated it as a serious safety matter under analysis, not as an alien incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+AARO’s own phrasing is narrower. A case can involve a real object without proving extraordinary origin. A report can be a flight-safety concern without implying extraterrestrial control. A witness can be sincere and still have seen a balloon, bird, drone, satellite flare, aircraft, sensor artefact, or object whose identity cannot be recovered from the available record. The 2024 annual report’s near-miss case, involving a commercial aircrew reporting a cylindrical object over the Atlantic near New York, is a good example: AARO treated it as a serious safety matter under analysis, not as an alien incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 This distinction is especially important when public figures discuss UFOs. A celebrity or former official may be accurately reporting what they saw, heard, or believe, but AARO’s standard is not personal vividness. It is whether the claim can be checked against records, sensor data, material evidence, and known aerospace or natural explanations. That is why AARO can take reporting seriously while still rejecting extraterrestrial conclusions.
 
@@ -483,11 +483,11 @@ This distinction is especially important when public figures discuss UFOs. A cel
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-2-dark.svg" | relative_url }}" alt="AARO Limits illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Governance Point: UAP Are a Reporting Problem Before They Are an Alien Question
 
-AARO’s mission is often treated as if it exists to answer one popular question: are aliens here? Its official role is broader and more bureaucratic. The office describes itself as leading US government efforts to address UAP using a rigorous scientific framework and a data-driven approach. Its reporting obligations include identifying possible threats, consulting across agencies, reviewing incidents near restricted airspace and nuclear infrastructure, and assessing whether any pattern indicates a foreign adversary or breakthrough aerospace capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
+AARO’s mission is often treated as if it exists to answer one popular question: are aliens here? Its official role is broader and more bureaucratic. The office describes itself as leading US government efforts to address UAP using a rigorous scientific framework and a data-driven approach. Its reporting obligations include identifying possible threats, consulting across agencies, reviewing incidents near restricted airspace and nuclear infrastructure, and assessing whether any pattern indicates a foreign adversary or breakthrough aerospace capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Home...</span></span></span>
 
-That governance frame explains why AARO’s reports spend so much time on process: reporting channels, sensor requirements, partner agencies, FAA logs, military operational channels, and future data collection. In 2024, AARO said all UAP reports it received during the reporting period came through technical means reported via US military operational channels or civil and commercial aviation logs from the Federal Aviation Administration, and that it did not receive UAP reports collected through national GEOINT, SIGINT, or MASINT platforms during that period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+That governance frame explains why AARO’s reports spend so much time on process: reporting channels, sensor requirements, partner agencies, FAA logs, military operational channels, and future data collection. In 2024, AARO said all UAP reports it received during the reporting period came through technical means reported via US military operational channels or civil and commercial aviation logs from the Federal Aviation Administration, and that it did not receive UAP reports collected through national GEOINT, SIGINT, or MASINT platforms during that period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
-The office is also trying to improve collection rather than merely debate old stories. Its 2024 annual report describes work with partners such as Oak Ridge National Laboratory, Georgia Tech Research Institute, MIT Lincoln Laboratory, NASA, and others. It also describes GREMLIN, a prototype sensor system intended to detect, track, and characterise UAP, with a planned pattern-of-life collection at a national-security site after a March 2024 test event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
+The office is also trying to improve collection rather than merely debate old stories. Its 2024 annual report describes work with partners such as Oak Ridge National Laboratory, Georgia Tech Research Institute, MIT Lincoln Laboratory, NASA, and others. It also describes GREMLIN, a prototype sensor system intended to detect, track, and characterise UAP, with a planned pattern-of-life collection at a national-security site after a March 2024 test event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF)
 
 That matters because many UFO arguments collapse under the same problem: the evidence was not gathered for scientific identification in the first place. A pilot may see something briefly; an infrared sensor may capture a heat signature without reliable size or distance; a video may lack metadata; a sighting may be reported long after the event. Better governance does not prove aliens, but it can reduce the number of cases that remain unresolved simply because the original evidence was incomplete.
 
@@ -499,7 +499,7 @@ That matters because many UFO arguments collapse under the same problem: the evi
 
 ## What AARO Does and Does Not Settle
 
-AARO does not settle whether life exists elsewhere in the universe. It does not settle whether future evidence could change the assessment. It does not prove that every witness is mistaken or that every unexplained report has a mundane answer already in hand. Its public findings are narrower but still significant: after reviewing historical records, interviews, public claims, case files, and recent reporting, AARO says it has not verified extraterrestrial technology, beings, activity, recovered craft, or reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+AARO does not settle whether life exists elsewhere in the universe. It does not settle whether future evidence could change the assessment. It does not prove that every witness is mistaken or that every unexplained report has a mundane answer already in hand. Its public findings are narrower but still significant: after reviewing historical records, interviews, public claims, case files, and recent reporting, AARO says it has not verified extraterrestrial technology, beings, activity, recovered craft, or reverse-engineering programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 The strongest fair reading is therefore cautious rather than dismissive. UAP reporting can involve real flight-safety concerns, sensor anomalies, unusual observations, and unresolved cases. Some reports deserve continued investigation, especially where they occur near military operations, critical infrastructure, or restricted airspace. But the official record does not support the leap from “unidentified” to “alien”, even when the story is amplified by celebrities, documentary culture, congressional attention, or viral clips.
 
@@ -509,194 +509,194 @@ For readers following UFOs through famous witnesses and public personalities, AA
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-3-dark.svg" | relative_url }}" alt="AARO Limits illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Official Reviews Still Do Not Prove Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Official Reviews Still Do Not Prove Aliens. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on government, military, and pilot testimony while still separating unexplained cases from proof of aliens.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on government, military, and pilot testimony while still separating unexplained cases from proof of aliens.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers understand why unexplained sightings require careful classification rather than alien conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why unexplained sightings require careful classification rather than alien conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Directly supports the page’s official-review angle through a long-view history of government UFO handling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports the page’s official-review angle through a long-view history of government UFO handling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Gives readers tools for judging extraordinary claims, evidence standards, and misread official language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives readers tools for judging extraordinary claims, evidence standards, and misread official language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="aaro-limits-why-official-reviews-still-do-not-prove-aliens-ufos-and-celebrities-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -712,7 +712,7 @@ For readers following UFOs through famous witnesses and public personalities, AA
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -732,7 +732,7 @@ For readers following UFOs through famous witnesses and public personalities, AA
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -764,7 +764,7 @@ For readers following UFOs through famous witnesses and public personalities, AA
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -816,7 +816,7 @@ For readers following UFOs through famous witnesses and public personalities, AA
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -861,7 +861,7 @@ For readers following UFOs through famous witnesses and public personalities, AA
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -902,184 +902,184 @@ For readers following UFOs through famous witnesses and public personalities, AA
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Imagery...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: Eglin UAP Case Resolution  
-   Link: <a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution...</p></details>
+   Link:<a href="https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case Resolution...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Home...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
+   Link:<a href="https://www.aaro.mil/FAQ/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/FAQ/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/About/Mission-Vision/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/About/Mission-Vision/</a>  
+   Link:<a href="https://www.aaro.mil/About/Mission-Vision/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/About/Mission-Vision/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
    Title: 2025 UAP Workshop Paper  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_[GoFast" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_[GoFast</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_[GoFast" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_[GoFast</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarFiscal Year 2024 Consolidated Annual Report on Unidentified Anomalous Phenomena...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: capradio.org  
-   Link: <a href="https://www.capradio.org/news/npr/story?storyid=1237100622" target="_blank" rel="noopener noreferrer nofollow">https://www.capradio.org/news/npr/story?storyid=1237100622</a>  
+   Link:<a href="https://www.capradio.org/news/npr/story?storyid=1237100622" target="_blank" rel="noopener noreferrer nofollow">https://www.capradio.org/news/npr/story?storyid=1237100622</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/house-oversight-plans-ufo-hearing-after-unconfirmed-claims/story?id=99899883" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/house-oversight-plans-ufo-hearing-after-unconfirmed-claims/story?id=99899883</a>  
+   Link:<a href="https://abcnews.com/Politics/house-oversight-plans-ufo-hearing-after-unconfirmed-claims/story?id=99899883" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/house-oversight-plans-ufo-hearing-after-unconfirmed-claims/story?id=99899883</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1gzxwmr/aaro_no_evidence_of_extraterrestrial_beings/</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick  
-   Link: <a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VyK46wdMJkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VyK46wdMJkQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The UFO 'cookbook': How the American government investigates the unexplainable  
-   Link: <a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6NrAQbco7dQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6NrAQbco7dQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6NrAQbco7dQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Scientist Found Out About UFOs with Dr. Sean Kirkpatrick...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Pentagon releases 6 new UFO videos...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch: Pentagon releases 6 new UFO videos...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Watch: Pentagon releases 6 new UFO videos  
-   Link: <a href="https://www.youtube.com/watch?v=bamR9ncc65Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bamR9ncc65Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US military stumped by UFO sightings over bases: Ex-defense official | Elizabeth Vargas Reports...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bamR9ncc65Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bamR9ncc65Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US military stumped by UFO sightings over bases: Ex-defense official | Elizabeth Vargas Reports...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/a-new-ufo-report-says-there-is-no-evidence-for-claims-that-the-us-government-and/832122358958785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/a-new-ufo-report-says-there-is-no-evidence-for-claims-that-the-us-government-and/832122358958785/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/a-new-ufo-report-says-there-is-no-evidence-for-claims-that-the-us-government-and/832122358958785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/a-new-ufo-report-says-there-is-no-evidence-for-claims-that-the-us-government-and/832122358958785/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: coloradonewsline.com  
-   Link: <a href="https://coloradonewsline.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://coloradonewsline.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/</a>  
+   Link:<a href="https://coloradonewsline.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/" target="_blank" rel="noopener noreferrer nofollow">https://coloradonewsline.com/2023/07/26/is-there-evidence-of-extraterrestrial-life-congress-tries-to-figure-it-out/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AARP/posts/the-pentagon-has-launched-a-new-website-featuring-declassified-ufo-related-files/1439947198179323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AARP/posts/the-pentagon-has-launched-a-new-website-featuring-declassified-ufo-related-files/1439947198179323/</a>  
+   Link:<a href="https://www.facebook.com/AARP/posts/the-pentagon-has-launched-a-new-website-featuring-declassified-ufo-related-files/1439947198179323/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AARP/posts/the-pentagon-has-launched-a-new-website-featuring-declassified-ufo-related-files/1439947198179323/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  

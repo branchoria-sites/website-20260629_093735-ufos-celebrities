@@ -280,15 +280,15 @@ image: /assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_h
 
 ## Introduction
 
-Dan [Aykroyd]({{ 'aykroyd/' | relative_url }})'s long association with the Mutual UFO Network (MUFON) has helped distinguish him from many other celebrity UFO enthusiasts. Rather than simply expressing personal belief in extraterrestrial visitation, Aykroyd has for decades identified himself as a lifetime MUFON member and the organisation's Hollywood consultant. That affiliation gave his public interest an institutional connection within civilian UFO culture, signalling that he was engaged with an established network of investigators rather than relying solely on celebrity status. At the same time, the title should not be mistaken for scientific validation of UFO claims. It enhanced Aykroyd's standing inside UFO fandom, but it did not transform personal belief into independently verified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dan Aykroyd</span><span class="citation-popover-snippet">Dan Aykroyd</span></span></span>
+Dan [Aykroyd]({{ 'aykroyd/' | relative_url }})'s long association with the Mutual UFO Network (MUFON) has helped distinguish him from many other celebrity UFO enthusiasts. Rather than simply expressing personal belief in extraterrestrial visitation, Aykroyd has for decades identified himself as a lifetime MUFON member and the organisation's Hollywood consultant. That affiliation gave his public interest an institutional connection within civilian UFO culture, signalling that he was engaged with an established network of investigators rather than relying solely on celebrity status. At the same time, the title should not be mistaken for scientific validation of UFO claims. It enhanced Aykroyd's standing inside UFO fandom, but it did not transform personal belief into independently verified evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dan Aykroyd</span><span class="citation-popover-snippet">Dan Aykroyd</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_hollywood_link_fa32d0-Illustration-1-dark.svg" | relative_url }}" alt="MUFON Link illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_hollywood_link_fa32d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_hollywood_link_fa32d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the MUFON title mattered
 
-MUFON, founded in 1969, is one of the best-known civilian organisations dedicated to collecting and investigating reports of unidentified aerial phenomena. It maintains volunteer investigators, publishes a long-running journal and annual symposium proceedings, and has become a familiar institution within UFO culture. Because of that reputation, an official association with MUFON carries more symbolic weight among enthusiasts than a celebrity simply saying they believe in UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/mufon-benefactors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon Benefactorsdoris alvarez; gregory andersen; walter andrus; deborah atherton; maynard augst; dan aykroyd... Board of directors...</span></span></span>
+MUFON, founded in 1969, is one of the best-known civilian organisations dedicated to collecting and investigating reports of unidentified aerial phenomena. It maintains volunteer investigators, publishes a long-running journal and annual symposium proceedings, and has become a familiar institution within UFO culture. Because of that reputation, an official association with MUFON carries more symbolic weight among enthusiasts than a celebrity simply saying they believe in UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/mufon-benefactors/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">Mufon Benefactorsdoris alvarez; gregory andersen; walter andrus; deborah atherton; maynard augst; dan aykroyd... Board of directors...</span></span></span>
 
-Aykroyd has repeatedly been described as both a lifetime member and MUFON's official Hollywood consultant. Although the organisation has never portrayed this as a scientific or executive research position, the title indicated that he served as a public-facing ambassador who could raise awareness of MUFON within the entertainment industry and popular culture. Contemporary interviews describe him promoting the organisation, encouraging people interested in UFO reports to consult MUFON resources and emphasising its investigative mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2International Business Times Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
+Aykroyd has repeatedly been described as both a lifetime member and MUFON's official Hollywood consultant. Although the organisation has never portrayed this as a scientific or executive research position, the title indicated that he served as a public-facing ambassador who could raise awareness of MUFON within the entertainment industry and popular culture. Contemporary interviews describe him promoting the organisation, encouraging people interested in UFO reports to consult MUFON resources and emphasising its investigative mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2International Business Times Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
 
 The distinction mattered because Aykroyd's public identity already blended entertainment with paranormal interests. Unlike [actors]({{ 'actors/' | relative_url }}) who briefly discussed UFOs during promotional interviews, he repeatedly connected his media work, convention appearances and interviews with MUFON's existence, reinforcing the impression that his interest extended beyond publicity.
 
@@ -309,7 +309,7 @@ Within UFO fandom, institutional affiliation often functions as a credibility si
 
 </div>
 
-This helped explain why many UFO enthusiasts regarded Aykroyd as one of their own rather than simply another celebrity believer. His role was embedded within a wider pattern that included hosting paranormal television programmes, producing *Dan Aykroyd: [Unplugged]({{ 'unplugged/' | relative_url }}) on UFOs* and consistently discussing UFO subjects over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)David Serada, a UFO enthusiast, interviews the comedian Dan Aykroyd who claims he has had experie...</span></span></span>
+This helped explain why many UFO enthusiasts regarded Aykroyd as one of their own rather than simply another celebrity believer. His role was embedded within a wider pattern that included hosting paranormal television programmes, producing *Dan Aykroyd: [Unplugged]({{ 'unplugged/' | relative_url }}) on UFOs* and consistently discussing UFO subjects over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)David Serada, a UFO enthusiast, interviews the comedian Dan Aykroyd who claims he has had experie...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_hollywood_link_fa32d0-Illustration-2-dark.svg" | relative_url }}" alt="MUFON Link illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_hollywood_link_fa32d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_mufon_hollywood_link_fa32d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -321,7 +321,7 @@ In Aykroyd's case, MUFON benefited from having a globally recognised actor assoc
 
 This relationship illustrates a broader feature of UFO culture: credibility is often evaluated through social networks and institutional participation as much as through formal scientific credentials. For supporters, belonging to a longstanding investigative organisation suggests commitment and familiarity with accumulated case material. For critics, however, such affiliations remain part of an [advocacy]({{ 'advocacy/' | relative_url }}) community rather than independent scientific validation.
 
-The result is a layered form of credibility. Within UFO fandom, Aykroyd's MUFON association increased trust and authenticity. Outside that community, it generally demonstrated dedication rather than establishing the truth of the underlying claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
+The result is a layered form of credibility. Within UFO fandom, Aykroyd's MUFON association increased trust and authenticity. Outside that community, it generally demonstrated dedication rather than establishing the truth of the underlying claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0cadTZOBAaI" title="Dan Aykroyd Unplugged on UFOs (2005) - Official Trailer | VMI Worldwide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0cadTZOBAaI" target="_blank" rel="noopener noreferrer">Dan Aykroyd Unplugged on UFOs (2005) - Official Trailer | VMI Worldwide</a></p><p class="youtube-embed-meta">Channel: VMI Worldwide</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0cadTZOBAaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0cadTZOBAaI">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ The result is a layered form of credibility. Within UFO fandom, Aykroyd's MUFON 
 
 The importance of Aykroyd's MUFON role should not be overstated. Being a Hollywood consultant or lifetime member does not confer scientific authority, nor does it verify any reported UFO encounter.
 
-MUFON itself occupies an unusual position. It is one of the most prominent civilian UFO organisations and has accumulated a large archive of witness reports, yet its investigations and conclusions are not generally accepted as establishing evidence of extraterrestrial visitation within mainstream science. The organisation's work primarily documents reports, assesses witness testimony and attempts to eliminate conventional explanations where possible, but those activities differ from producing independently reproducible scientific proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
+MUFON itself occupies an unusual position. It is one of the most prominent civilian UFO organisations and has accumulated a large archive of witness reports, yet its investigations and conclusions are not generally accepted as establishing evidence of extraterrestrial visitation within mainstream science. The organisation's work primarily documents reports, assesses witness testimony and attempts to eliminate conventional explanations where possible, but those activities differ from producing independently reproducible scientific proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
 
 Consequently, Aykroyd's affiliation strengthens perceptions of [sincerity]({{ 'sincerity/' | relative_url }}) rather than evidential certainty. His willingness to attach his reputation to MUFON indicates that his interest is longstanding and genuine, but it does not resolve the central empirical questions surrounding UFOs.
 
@@ -343,197 +343,197 @@ Many celebrities have described unusual sightings or expressed curiosity about e
 
 His MUFON association became part of a broader public identity that included [documentaries]({{ 'documentaries/' | relative_url }}), television hosting and repeated advocacy for taking witness reports seriously. That continuity has made him one of the most recognisable celebrity figures in modern UFO fandom.
 
-The practical effect of the MUFON link is therefore cultural rather than evidential. It helped transform Aykroyd from a famous actor with unconventional interests into a recognised participant in UFO culture's own institutional landscape, enhancing his standing among enthusiasts while leaving the underlying question of UFO reality dependent on evidence rather than celebrity endorsement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
+The practical effect of the MUFON link is therefore cultural rather than evidential. It helped transform Aykroyd from a famous actor with unconventional interests into a recognised participant in UFO culture's own institutional landscape, enhancing his standing among enthusiasts while leaving the underlying question of UFO reality dependent on evidence rather than celebrity endorsement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianSoul survivor &#124; MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why MUFON Made Aykroyd Seem Different. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why MUFON Made Aykroyd Seem Different. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Represents organised investigation beyond celebrity culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents organised investigation beyond celebrity culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to civilian UFO organisations and methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to civilian UFO organisations and methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Historical perspective on structured UFO investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Historical perspective on structured UFO investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines institutions and belief around UFOs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines institutions and belief around UFOs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="mufon-link-why-mufon-made-aykroyd-seem-different-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ The practical effect of the MUFON link is therefore cultural rather than evident
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ The practical effect of the MUFON link is therefore cultural rather than evident
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ The practical effect of the MUFON link is therefore cultural rather than evident
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ The practical effect of the MUFON link is therefore cultural rather than evident
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ The practical effect of the MUFON link is therefore cultural rather than evident
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,122 +739,122 @@ The practical effect of the MUFON link is therefore cultural rather than evident
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Dan Aykroyd  
-   Link: <a href="https://en.wikipedia.org/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dan_Aykroyd</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dan_Aykroyd</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mufon.com  
-   Link: <a href="https://mufon.com/mufon-benefactors/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/mufon-benefactors/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon Benefactorsdoris alvarez; gregory andersen; walter andrus; deborah atherton; maynard augst; dan aykroyd... Board of directors...</p></details>
+   Link:<a href="https://mufon.com/mufon-benefactors/" target="_blank" rel="noopener noreferrer nofollow">https://mufon.com/mufon-benefactors/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon Benefactorsdoris alvarez; gregory andersen; walter andrus; deborah atherton; maynard augst; dan aykroyd... Board of directors...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0470994/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005)David Serada, a UFO enthusiast, interviews the comedian Dan Aykroyd who claims he has had experie...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0470994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005)David Serada, a UFO enthusiast, interviews the comedian Dan Aykroyd who claims he has had experie...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesDespite claims of cover-ups, conspiracy theories about alien spaceships largely lack verifiable proof, relying...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesDespite claims of cover-ups, conspiracy theories about alien spaceships largely lack verifiable proof, relying...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ultimatepopculture.fandom.com  
    Title: Dan Aykroyd  
-   Link: <a href="https://ultimatepopculture.fandom.com/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://ultimatepopculture.fandom.com/wiki/Dan_Aykroyd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Along these lines, he served, from 1996 to 2000, as host of...Read more...</p></details>
+   Link:<a href="https://ultimatepopculture.fandom.com/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://ultimatepopculture.fandom.com/wiki/Dan_Aykroyd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Along these lines, he served, from 1996 to 2000, as host of...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: antz.fandom.com  
    Title: Dan Aykroyd  
-   Link: <a href="https://antz.fandom.com/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://antz.fandom.com/wiki/Dan_Aykroyd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aykroyd | Antz.tonex WikiHe is a lifetime member of and official Hollywood consultant for the Mutual UFO Network (MUFON). Along these lin...</p></details>
+   Link:<a href="https://antz.fandom.com/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://antz.fandom.com/wiki/Dan_Aykroyd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aykroyd | Antz.tonex WikiHe is a lifetime member of and official Hollywood consultant for the Mutual UFO Network (MUFON). Along these lin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: list.fandom.com  
    Title: Dan Aykroyd  
-   Link: <a href="https://list.fandom.com/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://list.fandom.com/wiki/Dan_Aykroyd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AykroydHe is a lifetime member of and official Hollywood consultant for the Mutual UFO Network (MUFON). Along these lines, he served, fro...</p></details>
+   Link:<a href="https://list.fandom.com/wiki/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://list.fandom.com/wiki/Dan_Aykroyd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AykroydHe is a lifetime member of and official Hollywood consultant for the Mutual UFO Network (MUFON). Along these lines, he served, fro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: Dan Aykroyd  
-   Link: <a href="https://www.facebook.com/ella.lebain/posts/vintage-dan-akroyd-whos-a-lifelong-ufologist-speaking-on-advanced-technologies-i/10231869952796639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ella.lebain/posts/vintage-dan-akroyd-whos-a-lifelong-ufologist-speaking-on-advanced-technologies-i/10231869952796639/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vintage Dan Akroyd, who&#x27;s a lifelong Ufologist speaking on...Dec 4, 2025 — Just after the 9 minute mark, Dan Akroyd discusses his UFO si...</p></details>
+   Link:<a href="https://www.facebook.com/ella.lebain/posts/vintage-dan-akroyd-whos-a-lifelong-ufologist-speaking-on-advanced-technologies-i/10231869952796639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ella.lebain/posts/vintage-dan-akroyd-whos-a-lifelong-ufologist-speaking-on-advanced-technologies-i/10231869952796639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Vintage Dan Akroyd, who&#x27;s a lifelong Ufologist speaking on...Dec 4, 2025 — Just after the 9 minute mark, Dan Akroyd discusses his UFO si...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/list/ls541710350/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls541710350/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens/UFOsIn 2002, the Sci-Fi Channel (later renamed to Syfy) green-lit the Hollywood actor and UFO enthusiast Dan Aykroyd&#x27;s talk show a...</p></details>
+   Link:<a href="https://www.imdb.com/list/ls541710350/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls541710350/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens/UFOsIn 2002, the Sci-Fi Channel (later renamed to Syfy) green-lit the Hollywood actor and UFO enthusiast Dan Aykroyd&#x27;s talk show a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2007/sep/19/1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSoul survivor | MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2007/sep/19/1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2007/sep/19/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianSoul survivor | MoviesSep 19, 2007 — Aykroyd is the &quot;Hollywood consultant&quot; for Mufon (it stands for Mutual UFO Network), whic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ibtimes.com.au  
    Title: "I refer  
-   Link: <a href="https://www.ibtimes.com.au/ufo-sightings-ghostbusters-actor-dan-aykroyd-recounts-personal-ufo-sighting-recommends-mufon-crystal" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com.au/ufo-sightings-ghostbusters-actor-dan-aykroyd-recounts-personal-ufo-sighting-recommends-mufon-crystal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times AustraliaUFO Sightings: &#x27;Ghostbusters&#x27; Actor Dan Aykroyd Recounts...May 26, 2014 — The 61-year-old actor ha...</p></details>
+   Link:<a href="https://www.ibtimes.com.au/ufo-sightings-ghostbusters-actor-dan-aykroyd-recounts-personal-ufo-sighting-recommends-mufon-crystal" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.com.au/ufo-sightings-ghostbusters-actor-dan-aykroyd-recounts-personal-ufo-sighting-recommends-mufon-crystal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times AustraliaUFO Sightings: &#x27;Ghostbusters&#x27; Actor Dan Aykroyd Recounts...May 26, 2014 — The 61-year-old actor ha...</p></details>
    Published: May 26, 2014  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kids.kiddle.co  
    Title: Dan Aykroyd  
-   Link: <a href="https://kids.kiddle.co/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Dan_Aykroyd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aykroyd Facts for KidsNov 1, 2025 — From 1996 to 2000, he hosted a TV show called Psi Factor... In 2005, he produced a DVD called Dan Ay...</p></details>
+   Link:<a href="https://kids.kiddle.co/Dan_Aykroyd" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Dan_Aykroyd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aykroyd Facts for KidsNov 1, 2025 — From 1996 to 2000, he hosted a TV show called Psi Factor... In 2005, he produced a DVD called Dan Ay...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: consultantjournal.com  
-   Link: <a href="https://consultantjournal.com/blog/dan-akroyd-is-a-ufo-consultant" target="_blank" rel="noopener noreferrer nofollow">https://consultantjournal.com/blog/dan-akroyd-is-a-ufo-consultant</a>  
+   Link:<a href="https://consultantjournal.com/blog/dan-akroyd-is-a-ufo-consultant" target="_blank" rel="noopener noreferrer nofollow">https://consultantjournal.com/blog/dan-akroyd-is-a-ufo-consultant</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HoustonPress/posts/dan-aykroyd-is-still-checking-out-those-ufo-reports/1229470495879867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HoustonPress/posts/dan-aykroyd-is-still-checking-out-those-ufo-reports/1229470495879867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd is still checking out those UFO reports.Aykroyd said in a interview for OpenMinds.tv that one of three separate encounters wa...</p></details>
+   Link:<a href="https://www.facebook.com/HoustonPress/posts/dan-aykroyd-is-still-checking-out-those-ufo-reports/1229470495879867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HoustonPress/posts/dan-aykroyd-is-still-checking-out-those-ufo-reports/1229470495879867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd is still checking out those UFO reports.Aykroyd said in a interview for OpenMinds.tv that one of three separate encounters wa...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/52qh4l/til_dan_aykroyd_has_a_documentary_that_is_him/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/52qh4l/til_dan_aykroyd_has_a_documentary_that_is_him/</a>  
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/52qh4l/til_dan_aykroyd_has_a_documentary_that_is_him/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/52qh4l/til_dan_aykroyd_has_a_documentary_that_is_him/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: fate of ufo investigators in the 1960s under the lens officers probing ufos died  
-   Link: <a href="https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fate of UFO investigators in the 1960s under the lens...Forget about the films: just check out the laundry list of celebrities who pract...</p></details>
+   Link:<a href="https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/fate-of-ufo-investigators-in-the-1960s-under-the-lens-officers-probing-ufos-died/1332551805650657/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fate of UFO investigators in the 1960s under the lens...Forget about the films: just check out the laundry list of celebrities who pract...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kzpxHrQcwFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kzpxHrQcwFk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Has Seen UFOs In PersonDan Aykroyd talks about believing in aliens and UFOs, and how he&#x27;s... Kurt Russell Shares UFO &quot;Phoeni...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kzpxHrQcwFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kzpxHrQcwFk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Has Seen UFOs In PersonDan Aykroyd talks about believing in aliens and UFOs, and how he&#x27;s... Kurt Russell Shares UFO &quot;Phoeni...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nypost.com  
    Title: dan aykroyd on ufos and how john belushi showed him the power of stardom  
-   Link: <a href="https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd on UFOs, and how John Belushi showed him...Nov 12, 2024 — He himself has had about three UFO sightings “that convinced me th...</p></details>
+   Link:<a href="https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd on UFOs, and how John Belushi showed him...Nov 12, 2024 — He himself has had about three UFO sightings “that convinced me th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: 🔎 In Season 2 of The [Un Believable](&#123;&#123; 'un-believable/' | relative_url &#125;&#125;), Dan Aykroyd takes us  
-   Link: <a href="https://www.facebook.com/HISTORYasia/posts/-in-season-2-of-the-unbelievable-dan-aykroyd-takes-us-deeper-into-the-world-of-t/1284112023754739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORYasia/posts/-in-season-2-of-the-unbelievable-dan-aykroyd-takes-us-deeper-into-the-world-of-t/1284112023754739/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005) and his subsequent endorsement of MUFON. Meanwhile Dan Aykroyd remains fascinated by UFOs and other...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORYasia/posts/-in-season-2-of-the-unbelievable-dan-aykroyd-takes-us-deeper-into-the-world-of-t/1284112023754739/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORYasia/posts/-in-season-2-of-the-unbelievable-dan-aykroyd-takes-us-deeper-into-the-world-of-t/1284112023754739/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005) and his subsequent endorsement of MUFON. Meanwhile Dan Aykroyd remains fascinated by UFOs and other...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: houstonpress.com  
-   Link: <a href="https://www.houstonpress.com/arts/dan-aykroyd-on-ufos-and-the-wonder-of-whats-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonpress.com/arts/dan-aykroyd-on-ufos-and-the-wonder-of-whats-out-there/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd on UFOs and the Wonder of What&#x27;s Out ThereOct 23, 2025 — Dan Aykroyd on UFOs and the Wonder of What&#x27;s Out There...</p></details>
+   Link:<a href="https://www.houstonpress.com/arts/dan-aykroyd-on-ufos-and-the-wonder-of-whats-out-there/" target="_blank" rel="noopener noreferrer nofollow">https://www.houstonpress.com/arts/dan-aykroyd-on-ufos-and-the-wonder-of-whats-out-there/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd on UFOs and the Wonder of What&#x27;s Out ThereOct 23, 2025 — Dan Aykroyd on UFOs and the Wonder of What&#x27;s Out There...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/CzrrhMoSJsY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CzrrhMoSJsY/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Tells the Stories Behind his 4 UFO Sightings...Could Hollywood, whistleblowers, and UFO disclosure timing all be connected?...</p></details>
+   Link:<a href="https://www.instagram.com/reel/CzrrhMoSJsY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CzrrhMoSJsY/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Tells the Stories Behind his 4 UFO Sightings...Could Hollywood, whistleblowers, and UFO disclosure timing all be connected?...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Local4/posts/hollywoods-narrative-on-ufos-and-ets-reaches-back-many-decades/1390352596470639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Local4/posts/hollywoods-narrative-on-ufos-and-ets-reaches-back-many-decades/1390352596470639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientology, or talk to Dan Aykroyd, who signed on as the &quot;...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Local4/posts/hollywoods-narrative-on-ufos-and-ets-reaches-back-many-decades/1390352596470639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Local4/posts/hollywoods-narrative-on-ufos-and-ets-reaches-back-many-decades/1390352596470639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientology, or talk to Dan Aykroyd, who signed on as the &quot;...Read more...</p></details>

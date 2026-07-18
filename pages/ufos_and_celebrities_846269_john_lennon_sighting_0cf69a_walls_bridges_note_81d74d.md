@@ -274,23 +274,23 @@ image: /assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_wa
 
 ## Introduction
 
-John Lennon's handwritten-style note in the packaging of *Walls and Bridges* is the strongest surviving piece of evidence that he publicly claimed to have seen a UFO in August 1974. It is valuable because it is contemporary, dated, and attached to an album released only weeks after the alleged event. At the same time, its evidential strength has clear limits. The note documents that Lennon asserted the sighting shortly after it supposedly happened; it does not independently verify what he observed. For historians, it is an unusually good piece of cultural documentation. For scientists investigating unidentified aerial phenomena, it remains a record of testimony rather than proof of an extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
+John Lennon's handwritten-style note in the packaging of *Walls and Bridges* is the strongest surviving piece of evidence that he publicly claimed to have seen a UFO in August 1974. It is valuable because it is contemporary, dated, and attached to an album released only weeks after the alleged event. At the same time, its evidential strength has clear limits. The note documents that Lennon asserted the sighting shortly after it supposedly happened; it does not independently verify what he observed. For historians, it is an unusually good piece of cultural documentation. For scientists investigating unidentified aerial phenomena, it remains a record of testimony rather than proof of an extraordinary object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_walls_bridges_note_81d74d-Illustration-1-dark.svg" | relative_url }}" alt="Album Note illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_walls_bridges_note_81d74d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_walls_bridges_note_81d74d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the 1974 note actually proves
 
-The key text appears in the *Walls and Bridges* album material: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walls and Bridges</span><span class="citation-popover-snippet">Walls and BridgesReleased, 26 September 1974 (1974-09-26); Recorded, June–August 1974; Studio, Record Plant East, New York City; Ge...</span><span class="citation-popover-meta">Published: September 1974</span></span></span>
+The key text appears in the *Walls and Bridges* album material:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walls and Bridges</span><span class="citation-popover-snippet">Walls and BridgesReleased, 26 September 1974 (1974-09-26); Recorded, June–August 1974; Studio, Record Plant East, New York City; Ge...</span><span class="citation-popover-meta">Published: September 1974</span></span></span>
 
 > “On the 23rd Aug. 1974 at 9 o'clock I saw a U.F.O. – J.L.”
 
-The official John Lennon album page reproduces this note alongside information about the album's first release on 26 September 1974. That timing matters. It shows Lennon committed the claim to a public artefact within roughly a month of the alleged sighting, rather than introducing it decades later through interviews or memoirs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
+The official John Lennon album page reproduces this note alongside information about the album's first release on 26 September 1974. That timing matters. It shows Lennon committed the claim to a public artefact within roughly a month of the alleged sighting, rather than introducing it decades later through interviews or memoirs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
 
 From an evidential perspective, the note establishes several points with reasonable confidence:
 
 * **The claim existed in 1974.** It is not a story created retrospectively by fans or later biographers.
 * **Lennon fixed a specific date and approximate time.** That makes the account more concrete than many celebrity UFO anecdotes, which often remain vague.
-* **He was willing to publish the statement under his own name.** Including it in official album packaging exposed him to public scrutiny and suggests he intended readers to take notice, whether literally or playfully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
+* **He was willing to publish the statement under his own name.** Including it in official album packaging exposed him to public scrutiny and suggests he intended readers to take notice, whether literally or playfully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
 
 Because the note was distributed with a commercial release, surviving copies provide an enduring primary source. Researchers do not have to rely solely on memories of interviews or second-hand quotations; the statement itself survives.
 
@@ -315,7 +315,7 @@ The note contains no description of:
 
 </div>
 
-Those details appear only in later interviews, memoirs or secondary accounts, where they cannot be separated as easily from memory and retelling. The album note therefore provides chronology, not technical data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...Aug 23, 1974 — The famous UFO incident, as mentioned in the liner notes of Walls And Bridges: do you believe...</span></span></span>
+Those details appear only in later interviews, memoirs or secondary accounts, where they cannot be separated as easily from memory and retelling. The album note therefore provides chronology, not technical data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...Aug 23, 1974 — The famous UFO incident, as mentioned in the liner notes of Walls And Bridges: do you believe...</span></span></span>
 
 Equally important, the wording uses the term "U.F.O." in its literal sense—an unidentified flying object. It records that Lennon did not recognise what he saw. It does not claim the object was extraterrestrial, nor does it offer an explanation.
 
@@ -327,7 +327,7 @@ Celebrity UFO stories are often criticised because they emerge years after the a
 
 A statement made within weeks of an experience generally carries greater historical weight than one first recalled decades later. It reduces, though does not eliminate, concerns about changing memories, embellishment or retrospective myth-making.
 
-That distinction explains why researchers frequently identify the *Walls and Bridges* note as the strongest documentary element of the case. Even writers who remain sceptical about the sighting itself generally acknowledge that the printed inscription demonstrates Lennon genuinely wanted the event recorded at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...Aug 23, 1974 — The famous UFO incident, as mentioned in the liner notes of Walls And Bridges: do you believe...</span></span></span>
+That distinction explains why researchers frequently identify the *Walls and Bridges* note as the strongest documentary element of the case. Even writers who remain sceptical about the sighting itself generally acknowledge that the printed inscription demonstrates Lennon genuinely wanted the event recorded at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">The Beatles Bible John Lennon: &#x27;On the 23rd Aug</span><span class="citation-popover-snippet">1974 at 9 o&#x27;clock I saw a...Aug 23, 1974 — The famous UFO incident, as mentioned in the liner notes of Walls And Bridges: do you believe...</span></span></span>
 
 The note also became an anchor against which later interviews could be compared. Subsequent accounts by Lennon and [May Pang]({{ 'may-pang/' | relative_url }}) are often judged partly by whether they remain consistent with this early published statement.
 
@@ -344,7 +344,7 @@ Historical questionWhat the album note providesDid Lennon publicly say he saw a 
 
 Scientific investigation would ideally require independent measurements such as radar returns, authenticated photographs, astronomical data, multiple independently documented witnesses, or preserved contemporaneous investigative records. The album inscription supplies none of these.
 
-As a result, the note functions as a primary historical document rather than physical evidence of an unexplained aerial phenomenon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
+As a result, the note functions as a primary historical document rather than physical evidence of an unexplained aerial phenomenon.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_walls_bridges_note_81d74d-Illustration-3-dark.svg" | relative_url }}" alt="Album Note illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_walls_bridges_note_81d74d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_walls_bridges_note_81d74d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -352,214 +352,214 @@ As a result, the note functions as a primary historical document rather than phy
 
 The enduring importance of the *Walls and Bridges* inscription lies in its rarity. Few celebrity UFO claims are anchored by a dated, contemporaneous, publicly distributed document created so close to the alleged event.
 
-That makes the note highly valuable for reconstructing the history of Lennon's claim. It also sets a clear limit on what can reasonably be concluded. The inscription demonstrates that John Lennon reported seeing something he identified only as a UFO on 23 August 1974. It does not identify the object, validate later interpretations, or transform personal testimony into scientific evidence. The distinction between documenting a claim and proving the underlying event is precisely why the album note remains both the strongest artefact in the story and an inherently limited form of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
+That makes the note highly valuable for reconstructing the history of Lennon's claim. It also sets a clear limit on what can reasonably be concluded. The inscription demonstrates that John Lennon reported seeing something he identified only as a UFO on 23 August 1974. It does not identify the object, validate later interpretations, or transform personal testimony into scientific evidence. The distinction between documenting a claim and proving the underlying event is precisely why the album note remains both the strongest artefact in the story and an inherently limited form of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UvfeEKJ_oHM" title="The night John Lennon saw a UFO in NYC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UvfeEKJ_oHM" target="_blank" rel="noopener noreferrer">The night John Lennon saw a UFO in NYC</a></p><p class="youtube-embed-meta">Channel: Far Out Magazine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UvfeEKJ_oHM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UvfeEKJ_oHM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Strong Is Lennon&#x27;s Album Note?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Strong Is Lennon&#x27;s Album Note?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Clarifies how contemporaneous testimony differs from independently verified evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Clarifies how contemporaneous testimony differs from independently verified evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Supports discussion of why a contemporaneous note documents a claim rather than proving it.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports discussion of why a contemporaneous note documents a claim rather than proving it.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving John on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8443879-M.jpg" alt="Cover for Loving John" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
-        </h4>
-        <p class="fr-book-author">By May Pang, Henry Edwards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving John on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8443879-M.jpg" alt="Cover for Loving John" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
+</h4>
+<p class="fr-book-author">By May Pang, Henry Edwards</p>
         
-        <p class="fr-book-desc">First published 1983. Subjects: Rock musicians, Biography, Lennon, john, 1940-1980.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1983. Subjects: Rock musicians, Biography, Lennon, john, 1940-1980.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Lennon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13814389-M.jpg" alt="Cover for John Lennon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
-        </h4>
-        <p class="fr-book-author">By Philip Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Lennon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13814389-M.jpg" alt="Cover for John Lennon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
+</h4>
+<p class="fr-book-author">By Philip Norman</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Lennon, john, 1940-1980, Rock musicians, great britain, Rock musicians, biography, Singers, great britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Lennon, john, 1940-1980, Rock musicians, great britain, Rock musicians, biography, Singers, great britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Loving+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loving John</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Loving+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loving John</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: johnlennon.com  
    Title: John Lennon Walls And Bridges  
-   Link: <a href="https://www.johnlennon.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/[music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</p></details>
+   Link:<a href="https://www.johnlennon.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/[music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9o&#x27;clock I saw a U.F.O. J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track...</p></details>
    Published: September 1974  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: beatlesbible.com  
    Title: The Beatles Bible John Lennon: 'On the 23rd Aug  
-   Link: <a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a...Aug 23, 1974 — The famous UFO incident, as mentioned in the liner notes of Walls And Bridges: do you believe...</p></details>
+   Link:<a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a...Aug 23, 1974 — The famous UFO incident, as mentioned in the liner notes of Walls And Bridges: do you believe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Walls and Bridges  
-   Link: <a href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walls_and_Bridges</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walls and BridgesReleased, 26 September 1974 (1974-09-26); Recorded, June–August 1974; Studio, Record Plant East, New York City; Ge...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Walls_and_Bridges" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Walls_and_Bridges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walls and BridgesReleased, 26 September 1974 (1974-09-26); Recorded, June–August 1974; Studio, Record Plant East, New York City; Ge...</p></details>
    Published: September 1974  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.co.uk  
    Title: john lennon sees a ufo  
-   Link: <a href="https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 23, 1974 — He even said a UFO visited him when he wrote the alien themed song &quot;Arizona&quot; claiming, &quot;I had just finished writing a song...</p></details>
+   Link:<a href="https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aug 23, 1974 — He even said a UFO visited him when he wrote the alien themed song &quot;Arizona&quot; claiming, &quot;I had just finished writing a song...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: beatlesstory.com  
    Title: john lennon ufo sighting  
-   Link: <a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s UFO SightingJun 30, 2023 —... Bridges,&#x27; and he added a note to the inner sleeve that read “On 23rd Aug. 1974 at 9 o&#x27;clock...</p></details>
+   Link:<a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s UFO SightingJun 30, 2023 —... Bridges,&#x27; and he added a note to the inner sleeve that read “On 23rd Aug. 1974 at 9 o&#x27;clock...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dangerousminds.net  
    Title: john lennon sees a ufo in new york city 1974  
-   Link: <a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walls and Bridges–in the liner notes was a curious note that read as follows: “On the 23rd August 1974 at 9 o&#x27;clock I saw a U.F.O. – J.L...</p></details>
+   Link:<a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walls and Bridges–in the liner notes was a curious note that read as follows: “On the 23rd August 1974 at 9 o&#x27;clock I saw a U.F.O. – J.L...</p></details>
    Published: August 1974  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The night John Lennon saw a UFO in NYC  
-   Link: <a href="https://www.youtube.com/watch?v=UvfeEKJ_oHM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvfeEKJ_oHM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Lennon interview with Dennis Elsas, 28 Sept 1974 Part 1 of 4[https://www.youtube.com/watch?v=E_PAnzFk_lQ...&quot;](https://www.youtube.com/watch?v=E_PAnzFk_lQ...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UvfeEKJ_oHM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UvfeEKJ_oHM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Lennon interview with Dennis Elsas, 28 Sept 1974 Part 1 of 4[https://www.youtube.com/watch?v=E_PAnzFk_lQ...&quot;](https://www.youtube.com/watch?v=E_PAnzFk_lQ...&quot;)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Lennon: Walls &amp; Bridges. A deep dive into this classic album by Revolver Beatles Channel.[https://www.youtube.com/watch?v=jWo8E2vIFaI...&quot;](https://www.youtube.com/watch?v=jWo8E2vIFaI...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Lennon: Walls &amp; Bridges. A deep dive into this classic album by Revolver Beatles Channel.[https://www.youtube.com/watch?v=jWo8E2vIFaI...&quot;](https://www.youtube.com/watch?v=jWo8E2vIFaI...&quot;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jWo8E2vIFaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jWo8E2vIFaI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Magazine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jWo8E2vIFaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jWo8E2vIFaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Magazine...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
    Title: in the liner notes for his walls and bridges album john lennon wrote that he saw  
-   Link: <a href="https://www.facebook.com/Q1043NY/posts/in-the-liner-notes-for-his-walls-and-bridges-album-john-lennon-wrote-that-he-saw/10157195569946933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Q1043NY/posts/in-the-liner-notes-for-his-walls-and-bridges-album-john-lennon-wrote-that-he-saw/10157195569946933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the liner notes for his &#x27;Walls and Bridges&#x27; album, John...Oct 9, 2020 — In the liner notes for his &#x27;Walls and Bridges&#x27; album, John Le...</p></details>
+   Link:<a href="https://www.facebook.com/Q1043NY/posts/in-the-liner-notes-for-his-walls-and-bridges-album-john-lennon-wrote-that-he-saw/10157195569946933/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Q1043NY/posts/in-the-liner-notes-for-his-walls-and-bridges-album-john-lennon-wrote-that-he-saw/10157195569946933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the liner notes for his &#x27;Walls and Bridges&#x27; album, John...Oct 9, 2020 — In the liner notes for his &#x27;Walls and Bridges&#x27; album, John Le...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: on august 23rd in 1974 john lennon saw an ufo he  
-   Link: <a href="https://www.reddit.com/r/TheBeatles/comments/p9tdnv/on_august_23rd_in_1974_john_lennon_saw_an_ufo_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheBeatles/comments/p9tdnv/on_august_23rd_in_1974_john_lennon_saw_an_ufo_he/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 23rd in 1974 John Lennon saw an U.F.O., he...On August 23rd in 1974 John Lennon saw an U.F.O., he wrote it in the liner notes...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheBeatles/comments/p9tdnv/on_august_23rd_in_1974_john_lennon_saw_an_ufo_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheBeatles/comments/p9tdnv/on_august_23rd_in_1974_john_lennon_saw_an_ufo_he/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On August 23rd in 1974 John Lennon saw an U.F.O., he...On August 23rd in 1974 John Lennon saw an U.F.O., he wrote it in the liner notes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: faroutmagazine.co.uk  
    Title: 1974 night john lennon saw a ufo in new york  
-   Link: <a href="https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>notes of his 1974 album Walls and Bridges, “On the 23rd Aug. 1974 at 9 o&#x27;clock I saw a U.F.O.” – notice the time? At this low point in Le...</p></details>
+   Link:<a href="https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/" target="_blank" rel="noopener noreferrer nofollow">https://faroutmagazine.co.uk/1974-night-john-lennon-saw-a-ufo-in-new-york/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>notes of his 1974 album Walls and Bridges, “On the 23rd Aug. 1974 at 9 o&#x27;clock I saw a U.F.O.” – notice the time? At this low point in Le...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: lead singer of the beatles john lennon talks  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13vnih9/lead_singer_of_the_beatles_john_lennon_talks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13vnih9/lead_singer_of_the_beatles_john_lennon_talks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lead singer of The Beatles, John lennon talks about...On the 23rd Aug. 1974 at 9 o&#x27;clock John Lennon was lying naked in... Walls and Br...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13vnih9/lead_singer_of_the_beatles_john_lennon_talks/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13vnih9/lead_singer_of_the_beatles_john_lennon_talks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lead singer of The Beatles, John lennon talks about...On the 23rd Aug. 1974 at 9 o&#x27;clock John Lennon was lying naked in... Walls and Br...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jpgr.co.uk  
    Title: Walls And Bridges"Possession is nine-tenths of the problem"  
-   Link: <a href="https://www.jpgr.co.uk/pctc253.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jpgr.co.uk/pctc253.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Winston O&#x27;Boogie. On the 23rd August 1974 at 9 o&#x27;clock I saw a U.F.O. - J.L.. Side 1...Read more...</p></details>
+   Link:<a href="https://www.jpgr.co.uk/pctc253.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jpgr.co.uk/pctc253.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Winston O&#x27;Boogie. On the 23rd August 1974 at 9 o&#x27;clock I saw a U.F.O. - J.L.. Side 1...Read more...</p></details>
    Published: August 1974  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: classicrockreview.com  
    Title: 1974 john lennon walls bridges  
-   Link: <a href="https://www.classicrockreview.com/2014/07/1974-john-lennon-walls-bridges/" target="_blank" rel="noopener noreferrer nofollow">https://www.classicrockreview.com/2014/07/1974-john-lennon-walls-bridges/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walls and Bridges by John LennonJul 9, 2014 — Released: September 26, 1974 (Apple); Produced by: John Lennon; Recorded: Record Plant Ea...</p></details>
+   Link:<a href="https://www.classicrockreview.com/2014/07/1974-john-lennon-walls-bridges/" target="_blank" rel="noopener noreferrer nofollow">https://www.classicrockreview.com/2014/07/1974-john-lennon-walls-bridges/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walls and Bridges by John LennonJul 9, 2014 — Released: September 26, 1974 (Apple); Produced by: John Lennon; Recorded: Record Plant Ea...</p></details>
    Published: September 26, 1974  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thebeatlesplus50.com  
-   Link: <a href="https://thebeatlesplus50.com/2024/08/23/august-23-1974/" target="_blank" rel="noopener noreferrer nofollow">https://thebeatlesplus50.com/2024/08/23/august-23-1974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 23, 1974 - The Beatles Plus 50Aug 23, 2024 — ” So if John and May Pang saw something in the sky and didn&#x27;t know what it was, they...</p></details>
+   Link:<a href="https://thebeatlesplus50.com/2024/08/23/august-23-1974/" target="_blank" rel="noopener noreferrer nofollow">https://thebeatlesplus50.com/2024/08/23/august-23-1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 23, 1974 - The Beatles Plus 50Aug 23, 2024 — ” So if John and May Pang saw something in the sky and didn&#x27;t know what it was, they...</p></details>
    Published: August 23, 1974  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thenewdaily.com.au  
    Title: on this day john lennon ufo  
-   Link: <a href="https://www.thenewdaily.com.au/entertainment/music/2021/08/23/on-this-day-john-lennon-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewdaily.com.au/entertainment/music/2021/08/23/on-this-day-john-lennon-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a U.F.O.”. Want to see more stories from The New Daily in your Google search...Read more...</p></details>
+   Link:<a href="https://www.thenewdaily.com.au/entertainment/music/2021/08/23/on-this-day-john-lennon-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewdaily.com.au/entertainment/music/2021/08/23/on-this-day-john-lennon-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a U.F.O.”. Want to see more stories from The New Daily in your Google search...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXc6ygcj453/?hl=am-et&amp;img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXc6ygcj453/?hl=am-et&amp;img_index=7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1: On August 23, 1974, John Lennon witnessed a silent...1: On August 23, 1974, John Lennon witnessed a silent, glowing UFO from his New...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXc6ygcj453/?hl=am-et&amp;img_index=7" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXc6ygcj453/?hl=am-et&amp;img_index=7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1: On August 23, 1974, John Lennon witnessed a silent...1: On August 23, 1974, John Lennon witnessed a silent, glowing UFO from his New...</p></details>
    Published: August 23, 1974  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: alanehunter.com  
-   Link: <a href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Beatles John Lennon and UFO&#x27;s.Apr 24, 2018 — John also voiced his opinion and suspicion of a high level conspiracy...</p></details>
+   Link:<a href="https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://alanehunter.com/2018/04/24/close-encounters-the-beatles-john-lennon-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters: The Beatles John Lennon and UFO&#x27;s.Apr 24, 2018 — John also voiced his opinion and suspicion of a high level conspiracy...</p></details>

@@ -288,13 +288,13 @@ Within the broader history of [public figures]({{ 'public-figures/' | relative_u
 
 ## The 2007 debate exchange
 
-The incident occurred during the Democratic presidential debate held at Drexel University in Philadelphia on 30 October 2007. Moderator Tim Russert referred to actress Shirley MacLaine's recently published memoir, which described Kucinich allegedly witnessing a large, silent triangular object while visiting her home in Washington state years earlier. Russert asked directly whether the account was true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://p2008.org/primdeb08/drexel103007.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: p2008.org">[p2008.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">p2008.org</span><span class="citation-popover-snippet">The Democratic Presidential Candidates Debate at Drexel-Oct...30 Oct 2007 — The debate seemed to veer a bit off track towards the close...</span></span></span>
+The incident occurred during the Democratic presidential debate held at Drexel University in Philadelphia on 30 October 2007. Moderator Tim Russert referred to actress Shirley MacLaine's recently published memoir, which described Kucinich allegedly witnessing a large, silent triangular object while visiting her home in Washington state years earlier. Russert asked directly whether the account was true.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://p2008.org/primdeb08/drexel103007.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: p2008.org">[p2008.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">p2008.org</span><span class="citation-popover-snippet">The Democratic Presidential Candidates Debate at Drexel-Oct...30 Oct 2007 — The debate seemed to veer a bit off track towards the close...</span></span></span>
 
 Rather than dismissing the story or claiming he had been misquoted, Kucinich answered plainly:
 
 > "I did.... It was an unidentified flying object, okay? It's unidentified. I saw something."
 
-He then immediately tried to frame the experience in narrower terms. He did not claim extraterrestrial origin, instead emphasising only that he had seen an object he could not identify. He also attempted to diffuse the moment with humour, noting that former President Jimmy [Carter]({{ 'carter/' | relative_url }}) had also reported seeing a UFO and joking that more Americans had reported UFOs than approved of President George W. Bush. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times+2p2008.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-title">Chicago Sun-Times Sweet Oct</span><span class="citation-popover-snippet">30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</span></span></span>
+He then immediately tried to frame the experience in narrower terms. He did not claim extraterrestrial origin, instead emphasising only that he had seen an object he could not identify. He also attempted to diffuse the moment with humour, noting that former President Jimmy [Carter]({{ 'carter/' | relative_url }}) had also reported seeing a UFO and joking that more Americans had reported UFOs than approved of President George W. Bush.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times+2p2008.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-title">Chicago Sun-Times Sweet Oct</span><span class="citation-popover-snippet">30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</span></span></span>
 
 That distinction is important. Kucinich's wording reflected the literal meaning of "unidentified flying object": an aerial observation that remained unexplained to the witness. However, the exchange was widely remembered as an admission that he had "seen a UFO" in the popular sense associated with alien spacecraft.
 
@@ -317,9 +317,9 @@ Kucinich had several strategic options:
 
 </div>
 
-He chose the third option. That approach attempted to balance honesty with restraint. By insisting only that the object was unidentified, he tried to preserve credibility without expanding the claim beyond his own experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-title">Chicago Sun-Times Sweet Oct</span><span class="citation-popover-snippet">30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</span></span></span>
+He chose the third option. That approach attempted to balance honesty with restraint. By insisting only that the object was unidentified, he tried to preserve credibility without expanding the claim beyond his own experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-title">Chicago Sun-Times Sweet Oct</span><span class="citation-popover-snippet">30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</span></span></span>
 
-Yet modern campaign politics often rewards concise narratives over nuanced distinctions. News coverage, late-night comedy and political commentary largely reduced the exchange to a memorable headline: a presidential candidate admitted seeing a UFO. Time magazine later listed the moment among notable campaign "screwups", illustrating how quickly the exchange became shorthand for political eccentricity rather than careful testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/2007/article/0%2C28804%2C1643290_1643292_1695790%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Kucinich&#x27;s Alien Encounter</span><span class="citation-popover-snippet">Kucinich&#x27;s Alien Encounter - The Screwups of Campaign &#x27;08Kucinich, at a presidential debate, confirming an account in Shirley MacLain...</span></span></span>
+Yet modern campaign politics often rewards concise narratives over nuanced distinctions. News coverage, late-night comedy and political commentary largely reduced the exchange to a memorable headline: a presidential candidate admitted seeing a UFO. Time magazine later listed the moment among notable campaign "screwups", illustrating how quickly the exchange became shorthand for political eccentricity rather than careful testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://content.time.com/time/specials/2007/article/0%2C28804%2C1643290_1643292_1695790%2C00.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.time.com</span><span class="citation-popover-title">Kucinich&#x27;s Alien Encounter</span><span class="citation-popover-snippet">Kucinich&#x27;s Alien Encounter - The Screwups of Campaign &#x27;08Kucinich, at a presidential debate, confirming an account in Shirley MacLain...</span></span></span>
 
 The episode also demonstrates an asymmetry common in political communication. A candidate may intend to communicate honesty by admitting uncertainty—"I saw something I cannot explain"—while audiences interpret the admission as evidence of poor judgement. Once the story became symbolic, the finer distinction between "unidentified" and "alien" largely disappeared from public discussion.
 
@@ -329,7 +329,7 @@ The episode also demonstrates an asymmetry common in political communication. A 
 
 The Kucinich episode became a case study in how media framing influences perceptions of electability.
 
-Kucinich was already viewed as occupying the progressive edge of the Democratic field because of his positions on the Iraq War, healthcare and other issues. The UFO exchange therefore reinforced an existing media narrative that portrayed him as unconventional rather than fundamentally changing perceptions on its own. Commentators frequently treated the incident as another example of his outsider image rather than evaluating it independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2007/11/12/going-after-hillary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Going After Hillary</span><span class="citation-popover-snippet">The New YorkerGoing After HillaryNovember 5, 2007 — Nov 5, 2007 — Congressman Dennis Kucinich—for it was he—is indeed the candidate... D...</span><span class="citation-popover-meta">Published: November 5, 2007</span></span></span>
+Kucinich was already viewed as occupying the progressive edge of the Democratic field because of his positions on the Iraq War, healthcare and other issues. The UFO exchange therefore reinforced an existing media narrative that portrayed him as unconventional rather than fundamentally changing perceptions on its own. Commentators frequently treated the incident as another example of his outsider image rather than evaluating it independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2007/11/12/going-after-hillary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Going After Hillary</span><span class="citation-popover-snippet">The New YorkerGoing After HillaryNovember 5, 2007 — Nov 5, 2007 — Congressman Dennis Kucinich—for it was he—is indeed the candidate... D...</span><span class="citation-popover-meta">Published: November 5, 2007</span></span></span>
 
 Coverage after the debate often focused less on whether his account could be verified than on whether a serious presidential contender should admit such an experience publicly. In other words, the political question became one of judgement rather than evidence.
 
@@ -353,7 +353,7 @@ Even supporters who appreciated Kucinich's candour recognised that the exchange 
 
 Perhaps the most enduring lesson from the debate is how difficult it is for public figures to maintain the distinction between an unexplained observation and an extraordinary conclusion.
 
-Kucinich consistently framed his account as a report of something he could not identify. He did not present physical evidence, argue for extraterrestrial visitation or claim special knowledge about UFOs. Nevertheless, much subsequent commentary treated the admission as equivalent to endorsing alien visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-title">Chicago Sun-Times Sweet Oct</span><span class="citation-popover-snippet">30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</span></span></span>
+Kucinich consistently framed his account as a report of something he could not identify. He did not present physical evidence, argue for extraterrestrial visitation or claim special knowledge about UFOs. Nevertheless, much subsequent commentary treated the admission as equivalent to endorsing alien visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicago.suntimes.com">[Chicago Sun-Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicago.suntimes.com</span><span class="citation-popover-title">Chicago Sun-Times Sweet Oct</span><span class="citation-popover-snippet">30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</span></span></span>
 
 That collapse of categories illustrates an enduring communication problem in UFO discussions:
 
@@ -376,194 +376,194 @@ His debate answer therefore occupies an unusual place in the history of celebrit
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a UFO Story Hurt a Candidate?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a UFO Story Hurt a Candidate?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides balanced discussion of witness credibility and public testimony, closely matching the page&#x27;s focus on evaluating extraordinary c...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides balanced discussion of witness credibility and public testimony, closely matching the page&#x27;s focus on evaluating extraordinary c...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how influential public figures, belief, and reputation intersect with UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how influential public figures, belief, and reputation intersect with UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Helps readers understand how people assess unusual claims, credibility, and evidence in public life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how people assess unusual claims, credibility, and evidence in public life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Examines critical thinking and public evaluation of extraordinary claims, directly relevant to the article&#x27;s themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines critical thinking and public evaluation of extraordinary claims, directly relevant to the article&#x27;s themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="kucinich-can-a-ufo-story-hurt-a-candidate-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ His debate answer therefore occupies an unusual place in the history of celebrit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ His debate answer therefore occupies an unusual place in the history of celebrit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ His debate answer therefore occupies an unusual place in the history of celebrit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ His debate answer therefore occupies an unusual place in the history of celebrit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ His debate answer therefore occupies an unusual place in the history of celebrit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,88 +769,88 @@ His debate answer therefore occupies an unusual place in the history of celebrit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: p2008.org  
-   Link: <a href="https://p2008.org/primdeb08/drexel103007.html" target="_blank" rel="noopener noreferrer nofollow">https://p2008.org/primdeb08/drexel103007.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Democratic Presidential Candidates Debate at Drexel-Oct...30 Oct 2007 — The debate seemed to veer a bit off track towards the close...</p></details>
+   Link:<a href="https://p2008.org/primdeb08/drexel103007.html" target="_blank" rel="noopener noreferrer nofollow">https://p2008.org/primdeb08/drexel103007.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Democratic Presidential Candidates Debate at Drexel-Oct...30 Oct 2007 — The debate seemed to veer a bit off track towards the close...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: content.time.com  
    Title: Kucinich's Alien Encounter  
-   Link: <a href="https://content.time.com/time/specials/2007/article/0%2C28804%2C1643290_1643292_1695790%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/2007/article/0%2C28804%2C1643290_1643292_1695790%2C00.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kucinich&#x27;s Alien Encounter - The Screwups of Campaign &#x27;08Kucinich, at a presidential debate, confirming an account in Shirley MacLain...</p></details>
+   Link:<a href="https://content.time.com/time/specials/2007/article/0%2C28804%2C1643290_1643292_1695790%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://content.time.com/time/specials/2007/article/0%2C28804%2C1643290_1643292_1695790%2C00.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kucinich&#x27;s Alien Encounter - The Screwups of Campaign &#x27;08Kucinich, at a presidential debate, confirming an account in Shirley MacLain...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: chicago.suntimes.com  
    Title: Chicago Sun-Times Sweet Oct  
-   Link: <a href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow">https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</p></details>
+   Link:<a href="https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s" target="_blank" rel="noopener noreferrer nofollow">https://chicago.suntimes.com/politics/2013/11/19/18583058/sweet-oct-30-dem-debate-extra-6-kucinich-confirms-he-has-seen-ufo-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 Dem debate extra 6. Kucinich confirms he...19 Nov 2013 — Dennis Kucinich (D-Ohio) has seen a UFO. Russert asked Kucinich “The godmoth...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: newyorker.com  
    Title: The New Yorker Going After Hillary  
-   Link: <a href="https://www.newyorker.com/magazine/2007/11/12/going-after-hillary" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2007/11/12/going-after-hillary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerGoing After HillaryNovember 5, 2007 — Nov 5, 2007 — Congressman Dennis Kucinich—for it was he—is indeed the candidate... D...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2007/11/12/going-after-hillary" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2007/11/12/going-after-hillary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerGoing After HillaryNovember 5, 2007 — Nov 5, 2007 — Congressman Dennis Kucinich—for it was he—is indeed the candidate... D...</p></details>
    Published: November 5, 2007  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newrepublic.com  
    Title: list dennis kucinich highlights olive impeach ufo assad  
-   Link: <a href="https://newrepublic.com/article/101389/list-dennis-kucinich-highlights-olive-impeach-ufo-assad" target="_blank" rel="noopener noreferrer nofollow">https://newrepublic.com/article/101389/list-dennis-kucinich-highlights-olive-impeach-ufo-assad</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Preemptive Eulogy for the Ludicrous Dennis KucinichMar 5, 2012 — Impeachment of President Obama (March 2011) · UFO sighting (October 20...</p></details>
+   Link:<a href="https://newrepublic.com/article/101389/list-dennis-kucinich-highlights-olive-impeach-ufo-assad" target="_blank" rel="noopener noreferrer nofollow">https://newrepublic.com/article/101389/list-dennis-kucinich-highlights-olive-impeach-ufo-assad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Preemptive Eulogy for the Ludicrous Dennis KucinichMar 5, 2012 — Impeachment of President Obama (March 2011) · UFO sighting (October 20...</p></details>
    Published: March 2011  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: foxnews.com  
    Title: rep dennis kucinich saw ufo shirley maclaine writes  
-   Link: <a href="https://www.foxnews.com/story/rep-dennis-kucinich-saw-ufo-shirley-maclaine-writes" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/story/rep-dennis-kucinich-saw-ufo-shirley-maclaine-writes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Dennis Kucinich Saw UFO, Shirley MacLaine WritesOct 24, 2007 — Rep. Dennis Kucinich&#x27;s aspirations might stretch beyond the Oval Offi...</p></details>
+   Link:<a href="https://www.foxnews.com/story/rep-dennis-kucinich-saw-ufo-shirley-maclaine-writes" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/story/rep-dennis-kucinich-saw-ufo-shirley-maclaine-writes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rep. Dennis Kucinich Saw UFO, Shirley MacLaine WritesOct 24, 2007 — Rep. Dennis Kucinich&#x27;s aspirations might stretch beyond the Oval Offi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sunjournal.com  
    Title: kucinich reported ufo sighting maclaine writes  
-   Link: <a href="https://www.sunjournal.com/2007/10/25/kucinich-reported-ufo-sighting-maclaine-writes/" target="_blank" rel="noopener noreferrer nofollow">https://www.sunjournal.com/2007/10/25/kucinich-reported-ufo-sighting-maclaine-writes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kucinich reported UFO sighting, MacLaine writes25 Oct 2007 — CLEVELAND – Democratic presidential candidate Dennis Kucinich has claimed he...</p></details>
+   Link:<a href="https://www.sunjournal.com/2007/10/25/kucinich-reported-ufo-sighting-maclaine-writes/" target="_blank" rel="noopener noreferrer nofollow">https://www.sunjournal.com/2007/10/25/kucinich-reported-ufo-sighting-maclaine-writes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kucinich reported UFO sighting, MacLaine writes25 Oct 2007 — CLEVELAND – Democratic presidential candidate Dennis Kucinich has claimed he...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: foxnews.com  
    Title: rep dennis kucinich acknowledges ufo sighting  
-   Link: <a href="https://www.foxnews.com/story/rep-dennis-kucinich-acknowledges-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/story/rep-dennis-kucinich-acknowledges-ufo-sighting</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dennis Kucinich Acknowledges UFO Sighting31 Oct 2007 — &quot;You have to keep in mind that more — that Jimmy Carter saw a UFO and also that mo...</p></details>
+   Link:<a href="https://www.foxnews.com/story/rep-dennis-kucinich-acknowledges-ufo-sighting" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/story/rep-dennis-kucinich-acknowledges-ufo-sighting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dennis Kucinich Acknowledges UFO Sighting31 Oct 2007 — &quot;You have to keep in mind that more — that Jimmy Carter saw a UFO and also that mo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: so crazy it just might work 07 11 2007  
-   Link: <a href="https://www.cbsnews.com/news/so-crazy-it-just-might-work-07-11-2007/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/so-crazy-it-just-might-work-07-11-2007/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So Crazy It Just Might Work7 Nov 2007 — As far as the UFO issue is concerned, before Republicans laugh too loudly, they should remember t...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/so-crazy-it-just-might-work-07-11-2007/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/so-crazy-it-just-might-work-07-11-2007/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Crazy It Just Might Work7 Nov 2007 — As far as the UFO issue is concerned, before Republicans laugh too loudly, they should remember t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cbsnews.com  
    Title: kucinich im a democrats democrat  
-   Link: <a href="https://www.cbsnews.com/news/kucinich-im-a-democrats-democrat/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/kucinich-im-a-democrats-democrat/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kucinich: &#x27;I&#x27;m A Democrat&#x27;s Democrat&#x27;Nov 2, 2007 — Democratic presidential contender Dennis Kucinich&#x27;s... UFO on a national Democratic d...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/kucinich-im-a-democrats-democrat/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/kucinich-im-a-democrats-democrat/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kucinich: &#x27;I&#x27;m A Democrat&#x27;s Democrat&#x27;Nov 2, 2007 — Democratic presidential contender Dennis Kucinich&#x27;s... UFO on a national Democratic d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: variety.com  
    Title: shirley maclain 44707  
-   Link: <a href="https://variety.com/2007/biz/opinion/shirley-maclain-44707/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2007/biz/opinion/shirley-maclain-44707/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shirley MacLaine: “Terrific” That Kucinich Admits Seeing UFO7 Nov 2007 — On &quot;Today&quot; this morning, Shirley MacLaine told Matt Lauer that s...</p></details>
+   Link:<a href="https://variety.com/2007/biz/opinion/shirley-maclain-44707/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2007/biz/opinion/shirley-maclain-44707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shirley MacLaine: “Terrific” That Kucinich Admits Seeing UFO7 Nov 2007 — On &quot;Today&quot; this morning, Shirley MacLaine told Matt Lauer that s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/articles/SB119923872081461417" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/SB119923872081461417</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Kucinich Saw: Witnesses Describe His Close...2 Jan 2008 — Candidate&#x27;s Pals Recall Three Throbbing UFOs; Outed by Shirley MacLaine...</p></details>
+   Link:<a href="https://www.wsj.com/articles/SB119923872081461417" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/SB119923872081461417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Kucinich Saw: Witnesses Describe His Close...2 Jan 2008 — Candidate&#x27;s Pals Recall Three Throbbing UFOs; Outed by Shirley MacLaine...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hollywoodreporter.com  
    Title: ufos attacks fireworks at dem 154035  
-   Link: <a href="https://www.hollywoodreporter.com/business/business-news/ufos-attacks-fireworks-at-dem-154035/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/business/business-news/ufos-attacks-fireworks-at-dem-154035/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One Hollywood type played a part in Tuesday night&#x27;s presidential debate. And it wasn&#x27;t Fred Thompson.Read more...</p></details>
+   Link:<a href="https://www.hollywoodreporter.com/business/business-news/ufos-attacks-fireworks-at-dem-154035/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/business/business-news/ufos-attacks-fireworks-at-dem-154035/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One Hollywood type played a part in Tuesday night&#x27;s presidential debate. And it wasn&#x27;t Fred Thompson.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/CREC-2004-05-17/pdf/CREC-2004-05-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CREC-2004-05-17/pdf/CREC-2004-05-17.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional Record17 May 2004 — The Chair recognizes the gentleman from California (Mr. ROHRABACHER) for. 5 minutes. f. VOTE FOR H.R. 3...</p></details>
+   Link:<a href="https://www.govinfo.gov/content/pkg/CREC-2004-05-17/pdf/CREC-2004-05-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CREC-2004-05-17/pdf/CREC-2004-05-17.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional Record17 May 2004 — The Chair recognizes the gentleman from California (Mr. ROHRABACHER) for. 5 minutes. f. VOTE FOR H.R. 3...</p></details>
    Published: May 2004  

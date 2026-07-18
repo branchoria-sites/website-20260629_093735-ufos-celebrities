@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_ce
 
 ## Introduction
 
-Celebrity UFO stories can change how people talk about unidentified aerial phenomena (UAP), but they do not change how strongly a sighting is supported by evidence. That distinction is central to understanding the celebrity permission effect. When a famous actor, musician or television personality says they saw something unusual, the social cost of discussing similar experiences often falls. More people feel comfortable admitting uncertainty or [reporting]({{ 'reporting/' | relative_url }}) strange observations. However, a celebrity's status does not improve the quality of photographs, radar data, sensor records or independent corroboration. Modern scientific and official reviews make the same point in different ways: reducing stigma is valuable because it encourages reporting, but every report—whether from an unknown witness or a celebrity—must still be assessed on its own evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
+Celebrity UFO stories can change how people talk about unidentified aerial phenomena (UAP), but they do not change how strongly a sighting is supported by evidence. That distinction is central to understanding the celebrity permission effect. When a famous actor, musician or television personality says they saw something unusual, the social cost of discussing similar experiences often falls. More people feel comfortable admitting uncertainty or [reporting]({{ 'reporting/' | relative_url }}) strange observations. However, a celebrity's status does not improve the quality of photographs, radar data, sensor records or independent corroboration. Modern scientific and official reviews make the same point in different ways: reducing stigma is valuable because it encourages reporting, but every report—whether from an unknown witness or a celebrity—must still be assessed on its own evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_celebrity_permission_ec0460-Illustration-1-dark.svg" | relative_url }}" alt="Permission illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_celebrity_permission_ec0460-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_celebrity_permission_ec0460-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,7 +303,7 @@ Evidence works differently. Investigators ask questions that are largely indepen
 
 </div>
 
-None of those questions becomes easier simply because the witness is famous. A sincere celebrity may honestly report an unexplained experience, yet still have witnessed an aircraft, astronomical object, atmospheric phenomenon or visual illusion. Likewise, an unknown witness could provide unusually strong evidence if multiple independent sources support the observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
+None of those questions becomes easier simply because the witness is famous. A sincere celebrity may honestly report an unexplained experience, yet still have witnessed an aircraft, astronomical object, atmospheric phenomenon or visual illusion. Likewise, an unknown witness could provide unusually strong evidence if multiple independent sources support the observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
 
 This distinction explains why celebrity accounts often generate disproportionate media attention. The [story spreads]({{ 'story-spread/' | relative_url }}) because of the person telling it, not because new evidence has emerged.
 
@@ -314,7 +314,7 @@ This distinction explains why celebrity accounts often generate disproportionate
 
 The permission effect operates through social norms rather than proof.
 
-Researchers and official review panels have increasingly argued that [ridicule]({{ 'ridicule/' | relative_url }}) discourages useful reporting. NASA's 2023 Independent Study Team concluded that stigma contributes to "attrition" in reporting, reducing the amount of information available for scientific investigation. Commercial [pilots]({{ 'pilots/' | relative_url }}) and other observers may remain reluctant to report unusual events because they fear reputational consequences rather than because they believe they saw extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
+Researchers and official review panels have increasingly argued that [ridicule]({{ 'ridicule/' | relative_url }}) discourages useful reporting. NASA's 2023 Independent Study Team concluded that stigma contributes to "attrition" in reporting, reducing the amount of information available for scientific investigation. Commercial [pilots]({{ 'pilots/' | relative_url }}) and other observers may remain reluctant to report unusual events because they fear reputational consequences rather than because they believe they saw extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
 
 Within that environment, celebrities can influence behaviour in three ways:
 
@@ -322,7 +322,7 @@ Within that environment, celebrities can influence behaviour in three ways:
 * **Separating curiosity from belief.** [Public figures]({{ 'public-figures/' | relative_url }}) sometimes frame their experience as uncertainty—"I don't know what I saw"—rather than claiming certainty about aliens. That distinction encourages discussion without requiring extraordinary conclusions.
 * **Broadening the audience.** Celebrity interviews reach people who would never read government reports or specialist aviation research, expanding awareness that unexplained observations exist even if most ultimately receive ordinary explanations.
 
-This social function is different from validating extraordinary claims. A reduction in stigma can improve reporting while leaving the evidential standard unchanged. That is precisely the balance NASA has argued for: encourage better data collection without treating unidentified observations as evidence of extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
+This social function is different from validating extraordinary claims. A reduction in stigma can improve reporting while leaving the evidential standard unchanged. That is precisely the balance NASA has argued for: encourage better data collection without treating unidentified observations as evidence of extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_celebrity_permission_ec0460-Illustration-2-dark.svg" | relative_url }}" alt="Permission illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_celebrity_permission_ec0460-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_stigma_face86_celebrity_permission_ec0460-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,7 +338,7 @@ QuestionWhat it evaluatesDid the person genuinely believe they saw something unu
 
 Only the third question addresses whether a case supports broader claims about UFOs or extraterrestrial technology.
 
-This framework also helps explain why official investigations often classify events as "unidentified" rather than "extraordinary". "Unidentified" frequently means that available information is insufficient for a confident identification—not that an exotic explanation has been established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
+This framework also helps explain why official investigations often classify events as "unidentified" rather than "extraordinary". "Unidentified" frequently means that available information is insufficient for a confident identification—not that an exotic explanation has been established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A767x36EvY8" title="UFO expert: Removing stigma around UFOs will lead to more answers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A767x36EvY8" target="_blank" rel="noopener noreferrer">UFO expert: Removing stigma around UFOs will lead to more answers</a></p><p class="youtube-embed-meta">Channel: CNN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A767x36EvY8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A767x36EvY8">Open on YouTube</a></p></div></div></div>
@@ -372,201 +372,201 @@ The permission effect has genuine value even if it proves nothing about UFOs.
 
 If reduced stigma encourages earlier reporting, more complete witness statements and greater willingness among pilots or other observers to document unusual events, investigators gain access to better information. Better information increases the chances of distinguishing ordinary aircraft, atmospheric effects and sensor artefacts from genuinely unexplained cases.
 
-The paradox is that the celebrity contribution is strongest before any conclusion is reached. Fame may help people speak up, but it cannot substitute for photographs, instrument measurements, multiple independent observations or careful analysis. In that sense, celebrity testimony functions as a social mechanism rather than an evidential one: it changes who feels comfortable entering the conversation, not what ultimately counts as proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2euronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
+The paradox is that the celebrity contribution is strongest before any conclusion is reached. Fame may help people speak up, but it cannot substitute for photographs, instrument measurements, multiple independent observations or careful analysis. In that sense, celebrity testimony functions as a social mechanism rather than an evidential one: it changes who feels comfortable entering the conversation, not what ultimately counts as proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2euronews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xNpFEiiZ1Q4" title="NASA UFO briefing: More science, less stigma needed to understand UAPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xNpFEiiZ1Q4" target="_blank" rel="noopener noreferrer">NASA UFO briefing: More science, less stigma needed to understand UAPs</a></p><p class="youtube-embed-meta">Channel: ABC 7 Chicago &middot; Views: 707 &middot; Uploaded: September 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xNpFEiiZ1Q4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xNpFEiiZ1Q4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Famous UFO Stories Are Not Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Famous UFO Stories Are Not Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how evidence is evaluated independently of fame.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence is evaluated independently of fame.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Distinguishes testimony from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes testimony from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why famous testimony influences belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why famous testimony influences belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores celebrity and cultural legitimacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores celebrity and cultural legitimacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee"><img src="{{ '/assets/images/marketplace-covers/c0a6267ae6e22890f212.jpg' | relative_url }}" alt="Listing image for Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Alien Surfing Moon T-Shirt Funny Space UFO Cosmic Graphic Unisex Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="{{ '/assets/images/marketplace-covers/5eb844375d885ea9eb20.jpg' | relative_url }}" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="permission-why-famous-ufo-stories-are-not-proof-ufos-and-celebrities-ufo-t-shirt-gerry-anderson-series-television-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ The paradox is that the celebrity contribution is strongest before any conclusio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ The paradox is that the celebrity contribution is strongest before any conclusio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ The paradox is that the celebrity contribution is strongest before any conclusio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ The paradox is that the celebrity contribution is strongest before any conclusio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ The paradox is that the celebrity contribution is strongest before any conclusio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,73 +772,73 @@ The paradox is that the celebrity contribution is strongest before any conclusio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center4. This results in inhomogeneously collected, processed...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: euronews.com  
    Title: nasa team calls for end to ufo stigma as search for proof continues  
-   Link: <a href="https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA team calls for end to UFO stigma as search for proof...14 Sept 2023 — The question of how to break through UFO-related stigma and e...</p></details>
+   Link:<a href="https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2023/09/14/nasa-team-calls-for-end-to-ufo-stigma-as-search-for-proof-continues</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA team calls for end to UFO stigma as search for proof...14 Sept 2023 — The question of how to break through UFO-related stigma and e...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thetimes.com  
    Title: nasa says stigma around ufo sightings is hampering research 3zsxr05pd  
-   Link: <a href="https://www.thetimes.com/uk/science/article/nasa-says-stigma-around-ufo-sightings-is-hampering-research-3zsxr05pd" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/nasa-says-stigma-around-ufo-sightings-is-hampering-research-3zsxr05pd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa says stigma around UFO sightings is hampering...1 Jun 2023 — Almost 98 per cent of reported UFO sightings can be explained away, bu...</p></details>
+   Link:<a href="https://www.thetimes.com/uk/science/article/nasa-says-stigma-around-ufo-sightings-is-hampering-research-3zsxr05pd" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/science/article/nasa-says-stigma-around-ufo-sightings-is-hampering-research-3zsxr05pd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa says stigma around UFO sightings is hampering...1 Jun 2023 — Almost 98 per cent of reported UFO sightings can be explained away, bu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens-may-be-out-there-but-ufo-sightings-arent-persuasive-150498&quot;&gt;skeptical of the claim&lt;/a&gt; that UFOs represent visits by aliens to Earth...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens-may-be-out-there-but-ufo-sightings-arent-persuasive-150498&quot;&gt;skeptical of the claim&lt;/a&gt; that UFOs represent visits by aliens to Earth...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: courthousenews.com  
-   Link: <a href="https://www.courthousenews.com/nasa-releases-ufo-report-and-says-more-science-and-less-stigma-are-needed-to-understand-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/nasa-releases-ufo-report-and-says-more-science-and-less-stigma-are-needed-to-understand-them/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens or otherworldly spaceships, Nelson said: “Show me the...Read more...</p></details>
+   Link:<a href="https://www.courthousenews.com/nasa-releases-ufo-report-and-says-more-science-and-less-stigma-are-needed-to-understand-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.courthousenews.com/nasa-releases-ufo-report-and-says-more-science-and-less-stigma-are-needed-to-understand-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens or otherworldly spaceships, Nelson said: “Show me the...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MUQgQlWw5b4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journalist Jeremy Corbell Says UFO Stigma Is Gone, Allowing People To Speak Out | TMZ Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MUQgQlWw5b4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journalist Jeremy Corbell Says UFO Stigma Is Gone, Allowing People To Speak Out | TMZ Live...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oTAozOT9NcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oTAozOT9NcU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert: Removing stigma around UFOs will lead to more answers...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oTAozOT9NcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oTAozOT9NcU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO expert: Removing stigma around UFOs will lead to more answers...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Kacey Musgraves vs. Mick West: Country star mocks UFO skeptic | Unreported  
-   Link: <a href="https://www.youtube.com/watch?v=MYyrXyLAGeQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MYyrXyLAGeQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside NASA&#x27;s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MYyrXyLAGeQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MYyrXyLAGeQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside NASA&#x27;s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>space agency for a subject the government...Read more...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>space agency for a subject the government...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: UFO expert: Removing stigma around UFOs will lead to more answers  
-   Link: <a href="https://www.youtube.com/watch?v=A767x36EvY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A767x36EvY8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO briefing: More science, less stigma needed to understand UAPs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A767x36EvY8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A767x36EvY8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO briefing: More science, less stigma needed to understand UAPs...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scrippsnews.com  
    Title: nasa calls for more science and less stigma in study of ufos  
-   Link: <a href="https://www.scrippsnews.com/science-and-tech/space/nasa-calls-for-more-science-and-less-stigma-in-study-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.scrippsnews.com/science-and-tech/space/nasa-calls-for-more-science-and-less-stigma-in-study-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Existing unclassified records...Read more...</p></details>
+   Link:<a href="https://www.scrippsnews.com/science-and-tech/space/nasa-calls-for-more-science-and-less-stigma-in-study-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.scrippsnews.com/science-and-tech/space/nasa-calls-for-more-science-and-less-stigma-in-study-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Existing unclassified records...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookThousands of UFO reports were collected, analyzed, and filed. As a result of the Condon Report, which concluded that...</p></details>

@@ -287,9 +287,9 @@ This distinction is important within discussions of [UFOs and celebrities]({{ 'u
 
 Berry's most widely cited remarks came during a July 2014 appearance on *Late Show with David Letterman*, where she was promoting the science-fiction television series *Extant*. During the interview, Letterman asked whether she believed in aliens.
 
-Berry replied that she did not think humanity was the only life in the universe. Her reasoning was straightforward: the universe is so vast that it seemed unlikely Earth would be unique. She framed the idea as a matter of probability rather than personal experience or secret knowledge. The exchange was light-hearted and tied naturally to the promotional discussion of a television drama about an astronaut. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">halle berry tells david letterman 717089</span><span class="citation-popover-snippet">The... Late Show with David Letterman · Seth Meyers · Tonight Show...Read more...</span></span></span>
+Berry replied that she did not think humanity was the only life in the universe. Her reasoning was straightforward: the universe is so vast that it seemed unlikely Earth would be unique. She framed the idea as a matter of probability rather than personal experience or secret knowledge. The exchange was light-hearted and tied naturally to the promotional discussion of a television drama about an astronaut.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">halle berry tells david letterman 717089</span><span class="citation-popover-snippet">The... Late Show with David Letterman · Seth Meyers · Tonight Show...Read more...</span></span></span>
 
-Around the same period, she expressed essentially the same view in other interviews, saying she was "not so egotistical" as to think humans were the only living [beings]({{ 'beings/' | relative_url }}) in such a vast universe. Again, the comment concerned the likelihood of extraterrestrial life somewhere in space rather than reports of UFOs on Earth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
+Around the same period, she expressed essentially the same view in other interviews, saying she was "not so egotistical" as to think humans were the only living [beings]({{ 'beings/' | relative_url }}) in such a vast universe. Again, the comment concerned the likelihood of extraterrestrial life somewhere in space rather than reports of UFOs on Earth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d9TAr20K7A0" title="These Celebrities Say They’ve Seen UFOs — And Some of the Stories Are Wild" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d9TAr20K7A0" target="_blank" rel="noopener noreferrer">These Celebrities Say They’ve Seen UFOs — And Some of the Stories Are Wild</a></p><p class="youtube-embed-meta">Channel: JoBlo Celebrity Access</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d9TAr20K7A0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d9TAr20K7A0">Open on YouTube</a></p></div></div></div>
@@ -309,7 +309,7 @@ That differs from a UFO or UAP (unidentified anomalous phenomena) sighting in se
 
 </div>
 
-Berry has publicly made only the first type of claim. She has not described seeing unexplained aerial objects, reported an encounter with aliens, or argued that UFOs represent extraterrestrial spacecraft. The available public record reflects speculation about life elsewhere, not testimony about events she personally experienced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">halle berry tells david letterman 717089</span><span class="citation-popover-snippet">The... Late Show with David Letterman · Seth Meyers · Tonight Show...Read more...</span></span></span>
+Berry has publicly made only the first type of claim. She has not described seeing unexplained aerial objects, reported an encounter with aliens, or argued that UFOs represent extraterrestrial spacecraft. The available public record reflects speculation about life elsewhere, not testimony about events she personally experienced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">halle berry tells david letterman 717089</span><span class="citation-popover-snippet">The... Late Show with David Letterman · Seth Meyers · Tonight Show...Read more...</span></span></span>
 
 This distinction matters because someone can reasonably believe extraterrestrial life exists somewhere in the cosmos while remaining agnostic about whether any UFO reports involve alien visitors. The two questions are related in popular culture but are evidentially separate.
 
@@ -323,7 +323,7 @@ Several mechanisms contribute to this inflation:
 
 * **Headline shorthand.** "Believes in aliens" is shorter and more dramatic than "thinks life probably exists elsewhere in the universe."
 * **Association with science fiction.** Because Berry was promoting *Extant*, a series centred on an astronaut and mysterious extraterrestrial themes, audiences could blur the distinction between her fictional role and her personal views.
-* **Celebrity roundup articles.** Lists grouping together celebrities who merely speculate about extraterrestrial life alongside people who claim UFO sightings or alien encounters can make very different categories of evidence appear equivalent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider13 celebrities who say they believe in aliens or UFOs</span><span class="citation-popover-snippet">February 15, 2023 — 15 Feb 2023 — From Gigi Hadid and Miley Cyrus to Demi Lovato and Nick Jonas, these celebrities have said they believe...</span><span class="citation-popover-meta">Published: February 15, 2023</span></span></span>
+* **Celebrity roundup articles.** Lists grouping together celebrities who merely speculate about extraterrestrial life alongside people who claim UFO sightings or alien encounters can make very different categories of evidence appear equivalent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.businessinsider.com/stars-who-believe-in-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">Business Insider13 celebrities who say they believe in aliens or UFOs</span><span class="citation-popover-snippet">February 15, 2023 — 15 Feb 2023 — From Gigi Hadid and Miley Cyrus to Demi Lovato and Nick Jonas, these celebrities have said they believe...</span><span class="citation-popover-meta">Published: February 15, 2023</span></span></span>
 
 The result is that Berry is sometimes presented as part of a broader UFO narrative despite having made no corresponding UFO claim.
 
@@ -350,194 +350,194 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a_berry_belief_not_sig_3e6459-Illustration-3-dark.svg" | relative_url }}" alt="Berry Belief illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a_berry_belief_not_sig_3e6459-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_belief_vs_sighting_ce480a_berry_belief_not_sig_3e6459-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Alien Belief Is Not a UFO Claim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Alien Belief Is Not a UFO Claim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides evidence-focused context absent from celebrity opinions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence-focused context absent from celebrity opinions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Explores belief versus evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief versus evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Places public belief in cultural context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places public belief in cultural context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/5e95573d191059f3ec12.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN CLASSIC PRINT LARGE WALL ART SIZE -A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens Face Hugger Wall Decor Wall Art"><img src="{{ '/assets/images/marketplace-covers/0d071484aa4a6169a2f7.jpg' | relative_url }}" alt="Listing image for Aliens Face Hugger Wall Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Aliens Face Hugger Wall Decor Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph Evolution Wall/ Door Art."><img src="{{ '/assets/images/marketplace-covers/0bfbdf105bd4bb82b89b.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph Evolution Wall/ Door Art." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph Evolution Wall/ Door Art.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift"><img src="{{ '/assets/images/marketplace-covers/90e97a366804ca2a47a7.jpg' | relative_url }}" alt="Listing image for Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">Alien Xenomorph 3D Printed Gold Wall Plaque Relief Art Sci-Fi Movie Decor Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien wall art" data-ebay-reference="berry-belief-when-alien-belief-is-not-a-ufo-claim-ufos-and-celebrities-alien-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,84 +743,84 @@ Her comments therefore belong on the "belief in extraterrestrial life" side of t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hollywoodreporter.com  
    Title: halle berry tells david letterman 717089  
-   Link: <a href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The... Late Show with David Letterman · Seth Meyers · Tonight Show...Read more...</p></details>
+   Link:<a href="https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/tv/tv-news/halle-berry-tells-david-letterman-717089/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The... Late Show with David Letterman · Seth Meyers · Tonight Show...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;), long fascinated by the paranormal...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;), long fascinated by the paranormal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: businessinsider.com  
    Title: Business Insider13 celebrities who say they believe in aliens or UFOs  
-   Link: <a href="https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 15, 2023 — 15 Feb 2023 — From Gigi Hadid and Miley Cyrus to Demi Lovato and Nick Jonas, these celebrities have said they believe...</p></details>
+   Link:<a href="https://www.businessinsider.com/stars-who-believe-in-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stars-who-believe-in-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 15, 2023 — 15 Feb 2023 — From Gigi Hadid and Miley Cyrus to Demi Lovato and Nick Jonas, these celebrities have said they believe...</p></details>
    Published: February 15, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Tom Cruise, Miley Cyrus & More Stars Who Believe in Aliens | E! News  
-   Link: <a href="https://www.youtube.com/watch?v=nKSbEfSpXiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nKSbEfSpXiM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Insider...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nKSbEfSpXiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nKSbEfSpXiM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Insider...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TrumpResistanceMovement/posts/eric-ben%C3%A9t-just-said-what-a-lot-of-people-are-thinking-the-ufo-disclosure-show-f/1342194847946168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TrumpResistanceMovement/posts/eric-ben%C3%A9t-just-said-what-a-lot-of-people-are-thinking-the-ufo-disclosure-show-f/1342194847946168/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Benét just said what a lot of people are thinkingAfter former President Obama discussed aliens on a podcast, President Trump promise...</p></details>
+   Link:<a href="https://www.facebook.com/TrumpResistanceMovement/posts/eric-ben%C3%A9t-just-said-what-a-lot-of-people-are-thinking-the-ufo-disclosure-show-f/1342194847946168/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TrumpResistanceMovement/posts/eric-ben%C3%A9t-just-said-what-a-lot-of-people-are-thinking-the-ufo-disclosure-show-f/1342194847946168/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Benét just said what a lot of people are thinkingAfter former President Obama discussed aliens on a podcast, President Trump promise...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXF517SgDCg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXF517SgDCg/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Great Conversations with thee Amazing @allieturnn +...Arcturian Aliens are the healing race of the alien species. #SpiritualAwakening #C...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXF517SgDCg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXF517SgDCg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great Conversations with thee Amazing @allieturnn +...Arcturian Aliens are the healing race of the alien species. #SpiritualAwakening #C...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: instagram.com  
    Title: #The View's Sunny Hostin confirms she's "always believed  
-   Link: <a href="https://www.instagram.com/reel/DZaoTTnDG8v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZaoTTnDG8v/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial life. Spielberg notes the inequity of a few knowing... alien #aliens #thetruthisoutthere #ufo #aliensexist #ufosighting...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZaoTTnDG8v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZaoTTnDG8v/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>extraterrestrial life. Spielberg notes the inequity of a few knowing... alien #aliens #thetruthisoutthere #ufo #aliensexist #ufosighting...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
    Title: ICYM I: These five comedic [actors](&#123;&#123; 'actors/' | relative_url &#125;&#125;) apparently didn't have  
-   Link: <a href="https://www.facebook.com/tvline/posts/icymi-these-five-comedic-actors-apparently-didnt-have-what-it-took-to-land-a-spo/1297481545572705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvline/posts/icymi-these-five-comedic-actors-apparently-didnt-have-what-it-took-to-land-a-spo/1297481545572705/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien abduction became one of the show&#x27;s most immediate viral hits. Impressions ranging from Ellen DeGeneres to Shakira to a frighteningl...</p></details>
+   Link:<a href="https://www.facebook.com/tvline/posts/icymi-these-five-comedic-actors-apparently-didnt-have-what-it-took-to-land-a-spo/1297481545572705/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/tvline/posts/icymi-these-five-comedic-actors-apparently-didnt-have-what-it-took-to-land-a-spo/1297481545572705/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alien abduction became one of the show&#x27;s most immediate viral hits. Impressions ranging from Ellen DeGeneres to Shakira to a frighteningl...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: upi.com  
    Title: 'Extant' star Halle Berry says she believes in aliens  
-   Link: <a href="https://www.upi.com/Entertainment_News/Movies/2014/07/08/Extant-star-Halle-Berry-says-she-believes-in-aliens/7111404840453/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Entertainment_News/Movies/2014/07/08/Extant-star-Halle-Berry-says-she-believes-in-aliens/7111404840453/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Jul 2014 — Halle Berry says she believes in aliens. The 47-year-old actress discussed the possibility of extraterrestrial life Monda...</p></details>
+   Link:<a href="https://www.upi.com/Entertainment_News/Movies/2014/07/08/Extant-star-Halle-Berry-says-she-believes-in-aliens/7111404840453/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Entertainment_News/Movies/2014/07/08/Extant-star-Halle-Berry-says-she-believes-in-aliens/7111404840453/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Jul 2014 — Halle Berry says she believes in aliens. The 47-year-old actress discussed the possibility of extraterrestrial life Monda...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: huggingface.co  
-   Link: <a href="https://huggingface.co/api/resolve-cache/datasets/gustawdaniel/ngram-google-2012/47d0ae89a4a4d50439c65804101bb17868c4a393/out%2Fen.tsv?download=true&amp;etag=%2246f384f8fed736e3353d5c2e4825c68230c76807%22" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/api/resolve-cache/datasets/gustawdaniel/ngram-google-2012/47d0ae89a4a4d50439c65804101bb17868c4a393/out%2Fen.tsv?download=true&amp;etag=%2246f384f8fed736e3353d5c2e4825c68230c76807%22</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens 3683408 alphabetical 1860112 alrighty 944 amputated 668524 amytal... berry 1230255 beth 131599 biased 3955518 biomolecular 65354...</p></details>
+   Link:<a href="https://huggingface.co/api/resolve-cache/datasets/gustawdaniel/ngram-google-2012/47d0ae89a4a4d50439c65804101bb17868c4a393/out%2Fen.tsv?download=true&amp;etag=%2246f384f8fed736e3353d5c2e4825c68230c76807%22" target="_blank" rel="noopener noreferrer nofollow">https://huggingface.co/api/resolve-cache/datasets/gustawdaniel/ngram-google-2012/47d0ae89a4a4d50439c65804101bb17868c4a393/out%2Fen.tsv?download=true&amp;etag=%2246f384f8fed736e3353d5c2e4825c68230c76807%22</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens 3683408 alphabetical 1860112 alrighty 944 amputated 668524 amytal... berry 1230255 beth 131599 biased 3955518 biomolecular 65354...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: irishmirror.ie  
    Title: Halle Berry has ideas about life on other planets  
-   Link: <a href="https://www.irishmirror.ie/showbiz/celebrity-news/extant-star-halle-berry-believes-3834426" target="_blank" rel="noopener noreferrer nofollow">https://www.irishmirror.ie/showbiz/celebrity-news/extant-star-halle-berry-believes-3834426</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extant star Halle Berry believes in aliens: Actress tells...9 Jul 2014 — Extant star Halle Berry believes in aliens: Actress tells David...</p></details>
+   Link:<a href="https://www.irishmirror.ie/showbiz/celebrity-news/extant-star-halle-berry-believes-3834426" target="_blank" rel="noopener noreferrer nofollow">https://www.irishmirror.ie/showbiz/celebrity-news/extant-star-halle-berry-believes-3834426</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extant star Halle Berry believes in aliens: Actress tells...9 Jul 2014 — Extant star Halle Berry believes in aliens: Actress tells David...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: I'm sorry WHO would think that's good evidence?  
-   Link: <a href="https://www.instagram.com/reel/DT9M4eXgKds/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT9M4eXgKds/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All you&#x27;ve...Have UFOs shaped the narratives of Hollywood, or has Hollywood influenced our perception of UFOs? Do you know what an ARV i...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DT9M4eXgKds/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT9M4eXgKds/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All you&#x27;ve...Have UFOs shaped the narratives of Hollywood, or has Hollywood influenced our perception of UFOs? Do you know what an ARV i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rtainment Weekly. Britt Hayes, Brianna Zigler. Jun 8, 2026. 0.Read more...</p></details>
+   Link:<a href="https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rtainment Weekly. Britt Hayes, Brianna Zigler. Jun 8, 2026. 0.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZdU7zkDKtN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZdU7zkDKtN/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>part of its June 10, 2026 broadcast to discussing UFOs...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZdU7zkDKtN/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZdU7zkDKtN/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>part of its June 10, 2026 broadcast to discussing UFOs...Read more...</p></details>
    Published: June 10, 2026  

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-musicians/
 description: Focused pages that expand on Music.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21
 parent_title: Music
@@ -16,7 +16,7 @@ parent_permalink: /music/
 
 # Explore Topics in Music
 
-The following pages expand on the main **[Music]({{ '/music/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Music]({{ '/music/' | relative_url }})** page and cover its key branches in.
 
 - [Aliens Exist]({{ '/aliens-exist/' | relative_url }})
 - [Nobody Told Me]({{ '/nobody-told-me/' | relative_url }})

@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_ba
 
 ## Introduction
 
-Former NBA All-Star **Baron Davis** became part of UFO celebrity folklore not because of photographs, physical evidence or multiple witnesses, but because of a memorable story he told on a comedy podcast in 2013. He described an apparent abduction while driving from Las Vegas to Los Angeles in the early hours of the morning, saying he later found himself near Montebello with only fragmented memories of what had happened. The account spread rapidly through sports and entertainment media, yet almost every later version traces back to that single interview rather than to new [reporting]({{ 'reporting/' | relative_url }}) or independent investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
+Former NBA All-Star **Baron Davis** became part of UFO celebrity folklore not because of photographs, physical evidence or multiple witnesses, but because of a memorable story he told on a comedy podcast in 2013. He described an apparent abduction while driving from Las Vegas to Los Angeles in the early hours of the morning, saying he later found himself near Montebello with only fragmented memories of what had happened. The account spread rapidly through sports and entertainment media, yet almost every later version traces back to that single interview rather than to new [reporting]({{ 'reporting/' | relative_url }}) or independent investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_baron_davis_road_abd_2d6d4b-Illustration-1-dark.svg" | relative_url }}" alt="Baron Davis illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_baron_davis_road_abd_2d6d4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_baron_davis_road_abd_2d6d4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ For readers interested in celebrity encounter claims, the case is useful less as
 
 ## The Las Vegas to Los Angeles account
 
-Davis first related the story during an appearance on *The Champs* podcast. According to his account, he was driving from Las Vegas towards Los Angeles very early in the morning when he noticed what he initially thought was a large truck's lights. He said the next thing he remembered was encountering what he described as a metallic environment and strange humanoid figures examining him. He recalled being touched around the face and eyes and having his hands restrained before suddenly finding himself back on the road near Montebello, driving rapidly towards Los Angeles at around 4 a.m. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
+Davis first related the story during an appearance on *The Champs* podcast. According to his account, he was driving from Las Vegas towards Los Angeles very early in the morning when he noticed what he initially thought was a large truck's lights. He said the next thing he remembered was encountering what he described as a metallic environment and strange humanoid figures examining him. He recalled being touched around the face and eyes and having his hands restrained before suddenly finding himself back on the road near Montebello, driving rapidly towards Los Angeles at around 4 a.m.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
 
 Several features of the story resemble well-known elements from classic alien-abduction narratives:
 
@@ -292,7 +292,7 @@ Several features of the story resemble well-known elements from classic alien-ab
 * unusual humanoid [beings]({{ 'beings/' | relative_url }});
 * an abrupt return to ordinary surroundings.
 
-These similarities explain why the story was quickly absorbed into collections of celebrity UFO experiences, even though Davis did not accompany the account with physical evidence, medical findings or identified witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
+These similarities explain why the story was quickly absorbed into collections of celebrity UFO experiences, even though Davis did not accompany the account with physical evidence, medical findings or identified witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
 
 An important limitation is that there is no publicly documented [timeline]({{ 'timeline/' | relative_url }}) reconstructing his route, phone records, vehicle data or other contemporaneous material that could independently establish an unexplained interruption during the journey.
 
@@ -303,7 +303,7 @@ An important limitation is that there is no publicly documented [timeline]({{ 't
 
 The way the [story spread]({{ 'story-spread/' | relative_url }}) illustrates an important distinction between reporting an interview and investigating a claim.
 
-Most newspaper, sports and entertainment coverage simply reproduced the podcast account. Articles in outlets such as CBS Sports, Yahoo Sports, UPI and later Bleacher Report summarised Davis's own words, often with humorous commentary, but did not present new interviews with witnesses, independent fact-checking or documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[Bleacher Report+3CBS Sports+3Yahoo Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
+Most newspaper, sports and entertainment coverage simply reproduced the podcast account. Articles in outlets such as CBS Sports, Yahoo Sports, UPI and later Bleacher Report summarised Davis's own words, often with humorous commentary, but did not present new interviews with witnesses, independent fact-checking or documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[Bleacher Report+3CBS Sports+3Yahoo Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
 
 This pattern matters because repetition can create an impression that multiple sources independently support a story when, in reality, many articles derive from the same original interview.
 
@@ -375,201 +375,201 @@ Importantly, no single item would necessarily prove an extraterrestrial encounte
 
 Baron Davis's road story continues to appear in discussions of celebrity UFO encounters because it is vivid, concise and comes from a well-known public figure rather than an anonymous witness. It has become part of popular culture despite the absence of substantial investigative follow-up.
 
-That makes it a valuable example within the broader landscape of celebrity encounter stories. The episode demonstrates how memorable personal testimony can achieve lasting visibility through repeated media circulation while the underlying evidential picture remains essentially unchanged. The story's cultural influence has therefore grown much faster than its factual documentation, leaving it notable as a widely retold anecdote rather than a verified case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports+2Bleacher Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
+That makes it a valuable example within the broader landscape of celebrity encounter stories. The episode demonstrates how memorable personal testimony can achieve lasting visibility through repeated media circulation while the underlying evidential picture remains essentially unchanged. The story's cultural influence has therefore grown much faster than its factual documentation, leaving it notable as a widely retold anecdote rather than a verified case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbssports.com">[CBS Sports+2Bleacher Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbssports.com</span><span class="citation-popover-title">CBS Sports Baron Davis says he was abducted by aliens about two</span><span class="citation-popover-snippet">When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q5DuVQKjpas" title="Former NBA Guard Baron Davis said he was Abducted by Aliens, Suggests Illuminati involved.." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q5DuVQKjpas" target="_blank" rel="noopener noreferrer">Former NBA Guard Baron Davis said he was Abducted by Aliens, Suggests Illuminati involved..</a></p><p class="youtube-embed-meta">Channel: Basketball Trending News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q5DuVQKjpas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q5DuVQKjpas">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What can Baron Davis&#x27;s road story prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What can Baron Davis&#x27;s road story prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Classic account that shaped public expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Classic account that shaped public expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places encounter stories within broader traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places encounter stories within broader traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how extraordinary anecdotes should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how extraordinary anecdotes should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers documented cases for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers documented cases for comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New"><img src="{{ '/assets/images/marketplace-covers/4b80cf3261ffc0ba6263.jpg' | relative_url }}" alt="Listing image for Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Xenomorph Alien Figure Statue - Premium Quality Collectible -🇬🇧 UK Seller New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible"><img src="{{ '/assets/images/marketplace-covers/40ca4957ad81cb0f1d0f.jpg' | relative_url }}" alt="Listing image for Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Grey Alien Bust Sculpture –Sci-Fi Extraterrestrial Figure 3D Printed Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller"><img src="{{ '/assets/images/marketplace-covers/9ec51b7dc2512da3aa6d.jpg' | relative_url }}" alt="Listing image for Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Green Alien Figurine 24cm Tall + Ornate Skull Stand– Sci-Fi Collectible UkSeller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible -book -books" data-ebay-reference="baron-davis-what-can-baron-davis-s-road-story-prove-ufos-and-celebrities-alien-collectible-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ That makes it a valuable example within the broader landscape of celebrity encou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ That makes it a valuable example within the broader landscape of celebrity encou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ That makes it a valuable example within the broader landscape of celebrity encou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ That makes it a valuable example within the broader landscape of celebrity encou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ That makes it a valuable example within the broader landscape of celebrity encou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,84 +775,84 @@ That makes it a valuable example within the broader landscape of celebrity encou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sports.yahoo.com  
-   Link: <a href="https://sports.yahoo.com/blogs/nba-ball-dont-lie/baron-davis-actually-abducted-aliens-two-weeks-ago-191838110.html" target="_blank" rel="noopener noreferrer nofollow">https://sports.yahoo.com/blogs/nba-ball-dont-lie/baron-davis-actually-abducted-aliens-two-weeks-ago-191838110.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo SportsBaron Davis: &#x27;I was actually abducted by aliens, like, two...12 Jul 2013 — So, in summation: A late-night drive made while t...</p></details>
+   Link:<a href="https://sports.yahoo.com/blogs/nba-ball-dont-lie/baron-davis-actually-abducted-aliens-two-weeks-ago-191838110.html" target="_blank" rel="noopener noreferrer nofollow">https://sports.yahoo.com/blogs/nba-ball-dont-lie/baron-davis-actually-abducted-aliens-two-weeks-ago-191838110.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo SportsBaron Davis: &#x27;I was actually abducted by aliens, like, two...12 Jul 2013 — So, in summation: A late-night drive made while t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: upi.com  
-   Link: <a href="https://www.upi.com/blog/2013/07/12/Former-NBA-star-Baron-Davis-says-he-was-abducted-by-aliens-AUDIO/1821373660388/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/blog/2013/07/12/Former-NBA-star-Baron-Davis-says-he-was-abducted-by-aliens-AUDIO/1821373660388/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former NBA star Baron Davis says he was abducted by aliens...12 Jul 2013 — During the show, Davis spoke briefly about a time he was d...</p></details>
+   Link:<a href="https://www.upi.com/blog/2013/07/12/Former-NBA-star-Baron-Davis-says-he-was-abducted-by-aliens-AUDIO/1821373660388/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/blog/2013/07/12/Former-NBA-star-Baron-Davis-says-he-was-abducted-by-aliens-AUDIO/1821373660388/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former NBA star Baron Davis says he was abducted by aliens...12 Jul 2013 — During the show, Davis spoke briefly about a time he was d...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cbssports.com  
    Title: CBS Sports Baron Davis says he was abducted by aliens about two  
-   Link: <a href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</p></details>
+   Link:<a href="https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbssports.com/nba/news/baron-davis-says-he-was-abducted-by-aliens-about-two-weeks-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When probed for details, he explained he was driving from Las Vegas to Los Angeles in the early...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: bleacherreport.com  
-   Link: <a href="https://bleacherreport.com/articles/1702478-baron-davis-recalls-time-he-was-abducted-aliens-now-armed-with-killer-crossover" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/1702478-baron-davis-recalls-time-he-was-abducted-aliens-now-armed-with-killer-crossover</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At least, that is what the former NBA star had to say in an interview with Neal Brennan and Moshe Kasher.Read more...</p></details>
+   Link:<a href="https://bleacherreport.com/articles/1702478-baron-davis-recalls-time-he-was-abducted-aliens-now-armed-with-killer-crossover" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/1702478-baron-davis-recalls-time-he-was-abducted-aliens-now-armed-with-killer-crossover</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At least, that is what the former NBA star had to say in an interview with Neal Brennan and Moshe Kasher.Read more...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: raiders.com  
    Title: baron davis nba raider nation origin stories former all star los angeles native  
-   Link: <a href="https://www.raiders.com/news/baron-davis-nba-raider-nation-origin-stories-former-all-star-los-angeles-native" target="_blank" rel="noopener noreferrer nofollow">https://www.raiders.com/news/baron-davis-nba-raider-nation-origin-stories-former-all-star-los-angeles-native</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Raider Nation Origin Stories: Meet Baron Davis, former...6 May 2025 — The former UCLA Bruins point guard took a tour the Raiders practic...</p></details>
+   Link:<a href="https://www.raiders.com/news/baron-davis-nba-raider-nation-origin-stories-former-all-star-los-angeles-native" target="_blank" rel="noopener noreferrer nofollow">https://www.raiders.com/news/baron-davis-nba-raider-nation-origin-stories-former-all-star-los-angeles-native</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raider Nation Origin Stories: Meet Baron Davis, former...6 May 2025 — The former UCLA Bruins point guard took a tour the Raiders practic...</p></details>
    Published: May 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RXf7KqWG-jM&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RXf7KqWG-jM&amp;vl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Baron Davis and The Disallowed Shot | Magic vs. HornetsBaron Davis is in studio! The NBA legend is with us to pull back the curtain on on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RXf7KqWG-jM&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RXf7KqWG-jM&amp;vl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baron Davis and The Disallowed Shot | Magic vs. HornetsBaron Davis is in studio! The NBA legend is with us to pull back the curtain on on...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reviewjournal.com  
    Title: former nba player to host new interview series for raiders 3399030  
-   Link: <a href="https://www.reviewjournal.com/sports/raiders/former-nba-player-to-host-new-interview-series-for-raiders-3399030/" target="_blank" rel="noopener noreferrer nofollow">https://www.reviewjournal.com/sports/raiders/former-nba-player-to-host-new-interview-series-for-raiders-3399030/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former NBA player to host new interview series for Raiders21 Jul 2025 — Former NBA player Baron Davis will host “Raiders: Talk of the Nat...</p></details>
+   Link:<a href="https://www.reviewjournal.com/sports/raiders/former-nba-player-to-host-new-interview-series-for-raiders-3399030/" target="_blank" rel="noopener noreferrer nofollow">https://www.reviewjournal.com/sports/raiders/former-nba-player-to-host-new-interview-series-for-raiders-3399030/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former NBA player to host new interview series for Raiders21 Jul 2025 — Former NBA player Baron Davis will host “Raiders: Talk of the Nat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: latimes.com  
    Title: la xpm 2007 aug 05 sp streeter5 story  
-   Link: <a href="https://www.latimes.com/archives/la-xpm-2007-aug-05-sp-streeter5-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2007-aug-05-sp-streeter5-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oakland is no place for Baron Davis5 Aug 2007 — “I&#x27;m the king of L.A.,” Baron Davis likes to say, with a smile on his bearded face. But h...</p></details>
+   Link:<a href="https://www.latimes.com/archives/la-xpm-2007-aug-05-sp-streeter5-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-2007-aug-05-sp-streeter5-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oakland is no place for Baron Davis5 Aug 2007 — “I&#x27;m the king of L.A.,” Baron Davis likes to say, with a smile on his bearded face. But h...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q5DuVQKjpas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q5DuVQKjpas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Celebrities Who Claimed Alien Encounters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q5DuVQKjpas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q5DuVQKjpas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Celebrities Who Claimed Alien Encounters...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ex Knicks star I was abducted by aliens  
-   Link: <a href="https://www.youtube.com/watch?v=i8103UEm3LM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8103UEm3LM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former NBA Guard Baron Davis said he was Abducted by Aliens, Suggests Illuminati involved...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=i8103UEm3LM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i8103UEm3LM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former NBA Guard Baron Davis said he was Abducted by Aliens, Suggests Illuminati involved...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Top 10 Celebrities Who Claimed Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=JZ-FJNGCprI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JZ-FJNGCprI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baron Davis alien abduction Baron Davis&#x27; Alleged Alien Abduction VIBE Magazine...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JZ-FJNGCprI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JZ-FJNGCprI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baron Davis alien abduction Baron Davis&#x27; Alleged Alien Abduction VIBE Magazine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
    Title: DXE0l7m Mw Yd  
-   Link: <a href="https://www.instagram.com/reel/DXE0l7mMwYd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXE0l7mMwYd/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Throwback to 2004: Baron Davis taking a trip back to his LA...Throwback to 2004: Baron Davis taking a trip back to his LA neighborhood w...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXE0l7mMwYd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXE0l7mMwYd/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Throwback to 2004: Baron Davis taking a trip back to his LA...Throwback to 2004: Baron Davis taking a trip back to his LA neighborhood w...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Baron Davis' Alleged Alien Abduction  
-   Link: <a href="https://www.youtube.com/watch?v=J7s_TnjrgBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J7s_TnjrgBk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of Baron Davis - From NBA stardom, to being abducted by aliens?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J7s_TnjrgBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J7s_TnjrgBk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of Baron Davis - From NBA stardom, to being abducted by aliens?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Story of Baron Davis  
-   Link: <a href="https://www.youtube.com/watch?v=Hcxbrm7-JQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hcxbrm7-JQk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex Knicks star I was abducted by aliens...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Hcxbrm7-JQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hcxbrm7-JQk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex Knicks star I was abducted by aliens...</p></details>

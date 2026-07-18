@@ -280,13 +280,13 @@ image: /assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_fl
 
 ## Introduction
 
-Many dramatic night-time UFO reports are not reports of clearly seen objects, but of bright lights viewed without reliable clues about distance, size or altitude. In [military]({{ 'military/' | relative_url }}) training areas, parachute illumination flares are one of the most important conventional explanations for this type of sighting. When observed from many kilometres away, especially after dark, flares can appear to hover silently, remain in formation, and even seem to outline the edge of an enormous craft. This does not explain every famous UFO report, nor does it account for every witness description. However, it is a well-understood optical mechanism that has featured prominently in investigations of several widely publicised incidents, most notably the later phase of the 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says</span><span class="citation-popover-snippet">Deseret NewsFlares, not UFOs, caused light show, military saysJuly 26, 1997 — 26 Jul 1997 — Military flares - rather than UFOs - might be...</span><span class="citation-popover-meta">Published: July 26, 1997</span></span></span>
+Many dramatic night-time UFO reports are not reports of clearly seen objects, but of bright lights viewed without reliable clues about distance, size or altitude. In [military]({{ 'military/' | relative_url }}) training areas, parachute illumination flares are one of the most important conventional explanations for this type of sighting. When observed from many kilometres away, especially after dark, flares can appear to hover silently, remain in formation, and even seem to outline the edge of an enormous craft. This does not explain every famous UFO report, nor does it account for every witness description. However, it is a well-understood optical mechanism that has featured prominently in investigations of several widely publicised incidents, most notably the later phase of the 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says</span><span class="citation-popover-snippet">Deseret NewsFlares, not UFOs, caused light show, military saysJuly 26, 1997 — 26 Jul 1997 — Military flares - rather than UFOs - might be...</span><span class="citation-popover-meta">Published: July 26, 1997</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_flares_giant_craft_cfafcc-Illustration-1-dark.svg" | relative_url }}" alt="Flares illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_flares_giant_craft_cfafcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_flares_giant_craft_cfafcc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How parachute flares behave at night
 
-Military illumination flares are designed to light large areas of ground during training or combat. Unlike defensive aircraft countermeasure flares, illumination flares are suspended beneath small parachutes, allowing them to descend slowly while producing an extremely bright, steady light for several minutes. Their purpose is to remain visible rather than disappear quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Military illumination flares are designed to light large areas of ground during training or combat. Unlike defensive aircraft countermeasure flares, illumination flares are suspended beneath small parachutes, allowing them to descend slowly while producing an extremely bright, steady light for several minutes. Their purpose is to remain visible rather than disappear quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Several characteristics make these flares surprisingly easy to mistake for something extraordinary when viewed from a distance:
 
@@ -296,7 +296,7 @@ Several characteristics make these flares surprisingly easy to mistake for somet
 * **Slow descent:** At long range, the gradual fall is difficult to detect, making the light appear stationary.
 * **Exceptional brightness:** The flare itself is often far brighter than surrounding stars, reducing nearby visual detail and making it difficult to judge depth.
 * **Little or no audible sound:** Sound from the aircraft may never reach distant observers, especially if the aircraft have already departed.
-* **Long burn time:** A flare can remain visible long enough for observers to believe they are watching a hovering object rather than a descending pyrotechnic device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+* **Long burn time:** A flare can remain visible long enough for observers to believe they are watching a hovering object rather than a descending pyrotechnic device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 </div>
 
@@ -313,7 +313,7 @@ When several bright lights appear in roughly the same direction, observers natur
 
 Perspective strengthens the illusion. Lights spread across several kilometres can appear much closer together when viewed from dozens of kilometres away. Camera lenses, especially consumer video cameras used at night, compress depth even further, making separated flares appear to occupy one rigid formation.
 
-The result is a convincing impression that a single enormous craft is present, even though each light may actually be an independent flare descending beneath its own parachute. Investigators have repeatedly noted that once observers decide they are looking at one object, later memories often preserve that interpretation even if the individual lights behaved independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The result is a convincing impression that a single enormous craft is present, even though each light may actually be an independent flare descending beneath its own parachute. Investigators have repeatedly noted that once observers decide they are looking at one object, later memories often preserve that interpretation even if the individual lights behaved independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EUTJrZj_IGw" title="Largest UFO Sighting in History - What Actually Happened?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EUTJrZj_IGw" target="_blank" rel="noopener noreferrer">Largest UFO Sighting in History - What Actually Happened?</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EUTJrZj_IGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EUTJrZj_IGw">Open on YouTube</a></p></div></div></div>
@@ -322,7 +322,7 @@ The result is a convincing impression that a single enormous craft is present, e
 
 The flare explanation is most closely associated with the later phase of the Phoenix Lights incident on 13 March 1997.
 
-Military records and later statements from participants indicate that A-10 aircraft operating on training exercises over the Barry M. Goldwater Range released LUU-2 series illumination flares. These flares would have been visible from the Phoenix metropolitan area despite being many kilometres away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says</span><span class="citation-popover-snippet">Deseret NewsFlares, not UFOs, caused light show, military saysJuly 26, 1997 — 26 Jul 1997 — Military flares - rather than UFOs - might be...</span><span class="citation-popover-meta">Published: July 26, 1997</span></span></span>
+Military records and later statements from participants indicate that A-10 aircraft operating on training exercises over the Barry M. Goldwater Range released LUU-2 series illumination flares. These flares would have been visible from the Phoenix metropolitan area despite being many kilometres away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deseret.com">[Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deseret.com</span><span class="citation-popover-title">News Flares, not UFOs, caused light show, military says</span><span class="citation-popover-snippet">Deseret NewsFlares, not UFOs, caused light show, military saysJuly 26, 1997 — 26 Jul 1997 — Military flares - rather than UFOs - might be...</span><span class="citation-popover-meta">Published: July 26, 1997</span></span></span>
 
 Investigators pointed to several observations that closely match known flare behaviour:
 
@@ -332,7 +332,7 @@ Investigators pointed to several observations that closely match known flare beh
 * the lights remained nearly stationary for extended periods;
 * individual lights disappeared one after another rather than simultaneously;
 * the sequence matched flares descending behind the Sierra Estrella mountains from the viewpoint of Phoenix;
-* later recordings of military flare exercises produced remarkably similar visual patterns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+* later recordings of military flare exercises produced remarkably similar visual patterns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 </div>
 
@@ -348,7 +348,7 @@ For parachute flares, there are two ordinary mechanisms.
 
 The first is that the flare simply burns out after completing its designed illumination period.
 
-The second, and often more convincing, is that the flare passes behind distant terrain while still burning. If a mountain ridge lies between the observer and the flare range, each descending flare disappears at a slightly different moment depending on its position. To someone unaware of the intervening landscape, the lights appear to switch off one by one in mid-air. Investigators analysing the Phoenix recordings found this sequence consistent with the Sierra Estrella mountains blocking progressively lower flares from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The second, and often more convincing, is that the flare passes behind distant terrain while still burning. If a mountain ridge lies between the observer and the flare range, each descending flare disappears at a slightly different moment depending on its position. To someone unaware of the intervening landscape, the lights appear to switch off one by one in mid-air. Investigators analysing the Phoenix recordings found this sequence consistent with the Sierra Estrella mountains blocking progressively lower flares from view.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3xIpRzr0XGM" title="The US Department of War released this footage of an alleged UFO but it’s actually a parachute flare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3xIpRzr0XGM" target="_blank" rel="noopener noreferrer">The US Department of War released this footage of an alleged UFO but it’s actually a parachute flare</a></p><p class="youtube-embed-meta">Channel: Carl Crusher</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3xIpRzr0XGM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3xIpRzr0XGM">Open on YouTube</a></p></div></div></div>
@@ -370,7 +370,7 @@ A flare explanation becomes less convincing when reliable evidence demonstrates 
 
 </div>
 
-The Phoenix Lights themselves illustrate this limitation. Many researchers distinguish between the later stationary lights, which are widely attributed to military flares, and earlier reports from the same evening describing a large moving V-shaped formation travelling across Arizona. Whether those earlier reports represent aircraft flying in formation, misperception, another conventional explanation or something genuinely unidentified remains debated. The flare explanation was never intended to account for every observation made that night. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The Phoenix Lights themselves illustrate this limitation. Many researchers distinguish between the later stationary lights, which are widely attributed to military flares, and earlier reports from the same evening describing a large moving V-shaped formation travelling across Arizona. Whether those earlier reports represent aircraft flying in formation, misperception, another conventional explanation or something genuinely unidentified remains debated. The flare explanation was never intended to account for every observation made that night.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_flares_giant_craft_cfafcc-Illustration-3-dark.svg" | relative_url }}" alt="Flares illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_flares_giant_craft_cfafcc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_flares_giant_craft_cfafcc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -380,197 +380,197 @@ Military flare cases continue to occupy an important place in UFO investigations
 
 The lesson is not that witnesses are dishonest or irrational. Rather, it is that human perception relies heavily on context, and night-time skies remove many of the cues that normally allow people to judge distance, size and motion accurately. A handful of extremely bright, slowly descending lights can therefore be experienced as a silent craft of immense size.
 
-For investigators, flare explanations provide a reminder that identifying an object requires more than matching its appearance. The surrounding terrain, military activity, viewing angle, atmospheric conditions and timing all matter. When those factors align, illumination flares can create one of the most persuasive—and most misunderstood—illusions in the history of famous UFO sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+For investigators, flare explanations provide a reminder that identifying an object requires more than matching its appearance. The surrounding terrain, military activity, viewing angle, atmospheric conditions and timing all matter. When those factors align, illumination flares can create one of the most persuasive—and most misunderstood—illusions in the history of famous UFO sightings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Deseret News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Flares Can Look Like Huge UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Flares Can Look Like Huge UFOs. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains observation and classification of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains observation and classification of sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts unresolved reports with conventional explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts unresolved reports with conventional explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuAJAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D. Kitei</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuAJAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D. Kitei</p>
         
-        <p class="fr-book-desc">Discusses the Phoenix Lights and flare explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses the Phoenix Lights and flare explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why People Believe Weird Things on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RSqGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why People Believe Weird Things" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why People Believe Weird Things">Why People Believe Weird Things</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Covers perception and misinterpretation of unusual events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers perception and misinterpretation of unusual events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+People+Believe+Weird+Things+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="flares-why-flares-can-look-like-huge-ufos-ufos-and-celebrities-ufo-wall-art-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For investigators, flare explanations provide a reminder that identifying an obj
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For investigators, flare explanations provide a reminder that identifying an obj
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For investigators, flare explanations provide a reminder that identifying an obj
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For investigators, flare explanations provide a reminder that identifying an obj
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For investigators, flare explanations provide a reminder that identifying an obj
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,72 +776,72 @@ For investigators, flare explanations provide a reminder that identifying an obj
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: deseret.com  
    Title: News Flares, not UFOs, caused light show, military says  
-   Link: <a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFlares, not UFOs, caused light show, military saysJuly 26, 1997 — 26 Jul 1997 — Military flares - rather than UFOs - might be...</p></details>
+   Link:<a href="https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deseret NewsFlares, not UFOs, caused light show, military saysJuly 26, 1997 — 26 Jul 1997 — Military flares - rather than UFOs - might be...</p></details>
    Published: July 26, 1997  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flare</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flare</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2022 — The most popular and intriguing explanation to emerge is that the lights were emitted by extraterrestrial spacecraft.Read...</p></details>
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2022 — The most popular and intriguing explanation to emerge is that the lights were emitted by extraterrestrial spacecraft.Read...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix UFO Mystery Solved: What Were Those Lights?On the night of Oct. 28, four bright lights were seen and videotaped during a high sch...</p></details>
+   Link:<a href="https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/phoenix-ufo-mystery-solved-lights-high-school-football/story?id=14884994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix UFO Mystery Solved: What Were Those Lights?On the night of Oct. 28, four bright lights were seen and videotaped during a high sch...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/welcometoaz/posts/on-march-13-1997-thousands-of-people-across-arizona-reported-seeing-a-series-of-/1506930288109465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/welcometoaz/posts/on-march-13-1997-thousands-of-people-across-arizona-reported-seeing-a-series-of-/1506930288109465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>On March 13, 1997, thousands of people across Arizona...Military Flares: The U.S. Air Force suggested that the stationary lights seen ov...</p></details>
+   Link:<a href="https://www.facebook.com/welcometoaz/posts/on-march-13-1997-thousands-of-people-across-arizona-reported-seeing-a-series-of-/1506930288109465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/welcometoaz/posts/on-march-13-1997-thousands-of-people-across-arizona-reported-seeing-a-series-of-/1506930288109465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On March 13, 1997, thousands of people across Arizona...Military Flares: The U.S. Air Force suggested that the stationary lights seen ov...</p></details>
    Published: March 13, 1997  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3xIpRzr0XGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3xIpRzr0XGM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights flares military illusion UFO The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History HIS...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3xIpRzr0XGM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3xIpRzr0XGM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights flares military illusion UFO The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History HIS...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discoveryuk.com  
    Title: the phoenix lights phenomenon an unsolved ufo mystery  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — Some theories suggest that the V-shaped formation responsible for the...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-phoenix-lights-phenomenon-an-unsolved-ufo-mystery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights Phenomenon: An Unsolved UFO Mystery14 May 2024 — Some theories suggest that the V-shaped formation responsible for the...</p></details>
    Published: May 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=M2j0GeHlm-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M2j0GeHlm-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Largest UFO Sighting in History - What Actually Happened?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M2j0GeHlm-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M2j0GeHlm-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Largest UFO Sighting in History - What Actually Happened?...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Largest UFO Sighting in History  
-   Link: <a href="https://www.youtube.com/watch?v=EUTJrZj_IGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EUTJrZj_IGw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Leaked UFO [FLiR](&amp;#123;&amp;#123; &#x27;flir/&#x27; | relative_url &amp;#125;&amp;#125;) Footage Afghanistan Explained Parachute Flares...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EUTJrZj_IGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EUTJrZj_IGw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Military Leaked UFO [FLiR](&amp;#123;&amp;#123; &#x27;flir/&#x27; | relative_url &amp;#125;&amp;#125;) Footage Afghanistan Explained Parachute Flares...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: The UFO Story you HAVEN'T heard  
-   Link: <a href="https://www.youtube.com/watch?v=vqAyjDK_06I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vqAyjDK_06I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Department of War released this footage of an alleged UFO but it’s actually a parachute flare...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vqAyjDK_06I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vqAyjDK_06I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US Department of War released this footage of an alleged UFO but it’s actually a parachute flare...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: US Military Leaked UFO FLi R Footage Afghanistan Explained Parachute Flares  
-   Link: <a href="https://www.youtube.com/watch?v=XnK61JyoXI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XnK61JyoXI4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Story you HAVEN&#x27;T heard...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XnK61JyoXI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XnK61JyoXI4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Story you HAVEN&#x27;T heard...</p></details>

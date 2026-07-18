@@ -317,15 +317,15 @@ This framing also changes the pace of coverage. UFO case files can remain dorman
 
 ### Kurt Russell and the Phoenix Lights
 
-One of the clearest examples is actor Kurt Russell and the 1997 Phoenix Lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+One of the clearest examples is actor Kurt Russell and the 1997 Phoenix Lights.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
-The sighting itself had long been one of the best-known American UFO incidents before Russell revealed during a television interview that he had unknowingly been the pilot who reported unusual lights to air traffic control while flying into Phoenix. The disclosure did not introduce a new UFO event; instead, it attached an established case to a widely recognised Hollywood figure. News coverage largely centred on the unexpected celebrity connection, which encouraged many people to revisit the original incident. At the same time, discussions of the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) continued to include conventional explanations advanced by investigators, including [military]({{ 'military/' | relative_url }}) aircraft and illumination flares for different portions of the evening's reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The sighting itself had long been one of the best-known American UFO incidents before Russell revealed during a television interview that he had unknowingly been the pilot who reported unusual lights to air traffic control while flying into Phoenix. The disclosure did not introduce a new UFO event; instead, it attached an established case to a widely recognised Hollywood figure. News coverage largely centred on the unexpected celebrity connection, which encouraged many people to revisit the original incident. At the same time, discussions of the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) continued to include conventional explanations advanced by investigators, including [military]({{ 'military/' | relative_url }}) aircraft and illumination flares for different portions of the evening's reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 ### John Lennon repeatedly enters the conversation
 
 John Lennon described seeing an unusual aerial object over New York in 1974, and he even referenced the experience in the artwork for *Walls and Bridges*. The story has resurfaced repeatedly through retrospective interviews, [documentaries]({{ 'documentaries/' | relative_url }}) and Beatles-related media.
 
-Each revival typically focuses less on investigating the original observation than on asking what Lennon believed he saw, how the experience fitted into his life at the time and why such a famous musician recorded the claim so publicly. Later books and interviews have preserved the account while acknowledging that it remains anecdotal rather than independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">3.9. John Lennon&#x27;s New York UFO in August 1974. John Lennon, the famous musician and member of the Beatles, had a life-long interest in U...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
+Each revival typically focuses less on investigating the original observation than on asking what Lennon believed he saw, how the experience fitted into his life at the time and why such a famous musician recorded the claim so publicly. Later books and interviews have preserved the account while acknowledging that it remains anecdotal rather than independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">3.9. John Lennon&#x27;s New York UFO in August 1974. John Lennon, the famous musician and member of the Beatles, had a life-long interest in U...</span><span class="citation-popover-meta">Published: August 1974</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_spread_346571_ufo_interview_reviva_700476-Illustration-2-dark.svg" | relative_url }}" alt="Interview Loops illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_spread_346571_ufo_interview_reviva_700476-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_spread_346571_ufo_interview_reviva_700476-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -333,7 +333,7 @@ Each revival typically focuses less on investigating the original observation th
 
 Tom DeLonge represents a different interview pattern. Rather than revisiting one historic sighting, his appearances repeatedly reconnect audiences with older military UFO cases through discussions of television projects, books and interviews promoting his research activities.
 
-Media interviews surrounding *Unidentified: Inside America's UFO Investigation* and later public appearances frequently directed viewers back toward incidents such as the USS Nimitz encounters and previously reported military cases. Here, the entertainment interview serves as a gateway that continually recirculates archival material to new audiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified: Inside America&#x27;s UFO Investigation</span><span class="citation-popover-snippet">Unidentified: Inside America&#x27;s UFO Investigation</span></span></span>
+Media interviews surrounding *Unidentified: Inside America's UFO Investigation* and later public appearances frequently directed viewers back toward incidents such as the USS Nimitz encounters and previously reported military cases. Here, the entertainment interview serves as a gateway that continually recirculates archival material to new audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified: Inside America&#x27;s UFO Investigation</span><span class="citation-popover-snippet">Unidentified: Inside America&#x27;s UFO Investigation</span></span></span>
 
 ## What gets lost when a case becomes a clip
 
@@ -387,194 +387,194 @@ Entertainment interviews rarely resolve historical UFO cases, but they can drama
 For readers, the key distinction is between **renewed attention** and **new evidence**. Interview-driven revivals keep older UFO stories alive in popular culture by attaching them to familiar personalities and modern media formats. They often make an archived case feel current again, even when the underlying facts, witness accounts and competing explanations remain exactly as they were years earlier.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How interviews make old cases new again. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How interviews make old cases new again. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
-        </h4>
-        <p class="fr-book-author">By Neil Postman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Amusing Ourselves to Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oup6iagfox8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Amusing Ourselves to Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
+</h4>
+<p class="fr-book-author">By Neil Postman</p>
         
-        <p class="fr-book-desc">Explains how entertainment reshapes public understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how entertainment reshapes public understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+by+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages separating renewed attention from new evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages separating renewed attention from new evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides stronger context than isolated interviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides stronger context than isolated interviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
-        <p class="fr-book-desc">Illustrates why repeated interviews do not strengthen evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates why repeated interviews do not strengthen evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Amusing Ourselves to Death</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="interview-loops-how-interviews-make-old-cases-new-again-ufos-and-celebrities-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ For readers, the key distinction is between **renewed attention** and **new evid
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ For readers, the key distinction is between **renewed attention** and **new evid
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ For readers, the key distinction is between **renewed attention** and **new evid
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ For readers, the key distinction is between **renewed attention** and **new evid
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ For readers, the key distinction is between **renewed attention** and **new evid
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,79 +780,79 @@ For readers, the key distinction is between **renewed attention** and **new evid
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3.9. John Lennon&#x27;s New York UFO in August 1974. John Lennon, the famous musician and member of the Beatles, had a life-long interest in U...</p></details>
+   Link:<a href="https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-unidentified-aerial-phenomena-observations-explanations-and-speculations-3031343972-9783031343971.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3.9. John Lennon&#x27;s New York UFO in August 1974. John Lennon, the famous musician and member of the Beatles, had a life-long interest in U...</p></details>
    Published: August 1974  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Unidentified: Inside America's UFO Investigation  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Tom De Longe  
-   Link: <a href="https://en.wikipedia.org/wiki/Tom_DeLonge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tom_DeLonge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Tom_DeLonge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tom_DeLonge</a>  
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo now serves as Director of Global Security &amp; Special Programs at the [To The Stars Academy](&amp;#123;&amp;#123; &#x27;to-the-stars/&#x27; | relative_url &amp;#125;&amp;#125;) of Arts &amp; Science, co-founded by DeLong...</p></details>
+   Link:<a href="https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/news/blink-182s-tom-delonge-has-a-new-history-channel-show-about-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo now serves as Director of Global Security &amp; Special Programs at the [To The Stars Academy](&amp;#123;&amp;#123; &#x27;to-the-stars/&#x27; | relative_url &amp;#125;&amp;#125;) of Arts &amp; Science, co-founded by DeLong...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: podnews.net  
-   Link: <a href="https://podnews.net/podcast/i7v2/episodes" target="_blank" rel="noopener noreferrer nofollow">https://podnews.net/podcast/i7v2/episodes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk Radio podcast episode listWhat if a microscopic alien lifeform was slowly eating our sun? Neil deGrasse Tyson and Chuck Nice sit...</p></details>
+   Link:<a href="https://podnews.net/podcast/i7v2/episodes" target="_blank" rel="noopener noreferrer nofollow">https://podnews.net/podcast/i7v2/episodes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarTalk Radio podcast episode listWhat if a microscopic alien lifeform was slowly eating our sun? Neil deGrasse Tyson and Chuck Nice sit...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: art19.com  
-   Link: <a href="https://art19.com/networks/audible" target="_blank" rel="noopener noreferrer nofollow">https://art19.com/networks/audible</a>  
+   Link:<a href="https://art19.com/networks/audible" target="_blank" rel="noopener noreferrer nofollow">https://art19.com/networks/audible</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61551043005769/posts/-musicians-who-publicly-claimed-to-have-seen-ufosfrom-rock-legends-to-pop-stars-/122268167156034766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551043005769/posts/-musicians-who-publicly-claimed-to-have-seen-ufosfrom-rock-legends-to-pop-stars-/122268167156034766/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Williams is openly fascinated with UFOs and alien hunting.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/61551043005769/posts/-musicians-who-publicly-claimed-to-have-seen-ufosfrom-rock-legends-to-pop-stars-/122268167156034766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61551043005769/posts/-musicians-who-publicly-claimed-to-have-seen-ufosfrom-rock-legends-to-pop-stars-/122268167156034766/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Williams is openly fascinated with UFOs and alien hunting.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;) Tells the Stories Behind his 4 UFO Sightings on Sway in the Morning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;) Tells the Stories Behind his 4 UFO Sightings on Sway in the Morning...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Kurt Russell Shares His Close Encounter With A UFO | The Jonathan Ross Show  
-   Link: <a href="https://www.youtube.com/watch?v=JmqYwEBd3OI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmqYwEBd3OI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JmqYwEBd3OI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmqYwEBd3OI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
    Title: UNIDENTIFIED AERIAL PHENOMENA  
-   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3.9 John Lennon&#x27;s New York UFO in August. 1974. John Lennon, the famous musician and member of the Beatles, had a life-long interest in U...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-031-34398-8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3.9 John Lennon&#x27;s New York UFO in August. 1974. John Lennon, the famous musician and member of the Beatles, had a life-long interest in U...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapnewscenter.com  
    Title: The UAP News Center  
-   Link: <a href="https://uapnewscenter.com/ufo-news-search/" target="_blank" rel="noopener noreferrer nofollow">https://uapnewscenter.com/ufo-news-search/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO News SearchThe Sun (U.K.), Experts reveal new way to try and spot alien life after surge in UFO sightings – The Sun (UK). Article, Th...</p></details>
+   Link:<a href="https://uapnewscenter.com/ufo-news-search/" target="_blank" rel="noopener noreferrer nofollow">https://uapnewscenter.com/ufo-news-search/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO News SearchThe Sun (U.K.), Experts reveal new way to try and spot alien life after surge in UFO sightings – The Sun (UK). Article, Th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Dan Aykroyd Tells the Stories Behind his 4 UFO Sightings on Sway in the Morning  
-   Link: <a href="https://www.youtube.com/watch?v=-rvxPNHf-z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-rvxPNHf-z4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan &amp; Post Malone Talk Aliens and UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-rvxPNHf-z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-rvxPNHf-z4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan &amp; Post Malone Talk Aliens and UFOs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Joe Rogan & Post Malone Talk Aliens and UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=hwpYQ-XEV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hwpYQ-XEV2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does William Shatner Believe in UFOs | William Shatner Interview | Larry King Now Ora TV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hwpYQ-XEV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hwpYQ-XEV2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does William Shatner Believe in UFOs | William Shatner Interview | Larry King Now Ora TV...</p></details>

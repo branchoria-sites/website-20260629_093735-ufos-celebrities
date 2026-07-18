@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-celebrity/
 description: Focused pages that expand on Stigma.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_celebrity_ufo_stigma_face86
 parent_title: Stigma
@@ -16,7 +16,7 @@ parent_permalink: /stigma/
 
 # Explore Topics in Stigma
 
-The following pages expand on the main **[Stigma]({{ '/stigma/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Stigma]({{ '/stigma/' | relative_url }})** page and cover its key branches in.
 
 - [Blue Book]({{ '/blue-book/' | relative_url }})
 - [Permission]({{ '/permission/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-ufo/
 description: Focused pages that expand on Documentaries.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8
 parent_title: Documentaries
@@ -16,7 +16,7 @@ parent_permalink: /documentaries/
 
 # Explore Topics in Documentaries
 
-The following pages expand on the main **[Documentaries]({{ '/documentaries/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Documentaries]({{ '/documentaries/' | relative_url }})** page and cover its key branches in.
 
 - [Disclosure Film]({{ '/disclosure-film/' | relative_url }})
 - [Demi Road Trip]({{ '/demi-road-trip/' | relative_url }})

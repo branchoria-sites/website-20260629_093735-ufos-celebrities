@@ -284,14 +284,14 @@ The Eglin UAP case is one of the clearest examples of how a report can be both o
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_eglin_balloon_case_bc16d7-Illustration-1-dark.svg" | relative_url }}" alt="Eglin Case illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_eglin_balloon_case_bc16d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_eglin_balloon_case_bc16d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When the Pentagon's All-domain Anomaly Resolution Office (AARO) completed its investigation in 2024, however, it concluded with **moderate confidence** that the observed object was very likely a lighter-than-air object, most plausibly a commercial lighting balloon or a similar balloon. The case illustrates an important distinction: a report can warrant serious investigation without becoming evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+When the Pentagon's All-domain Anomaly Resolution Office (AARO) completed its investigation in 2024, however, it concluded with **moderate confidence** that the observed object was very likely a lighter-than-air object, most plausibly a commercial lighting balloon or a similar balloon. The case illustrates an important distinction: a report can warrant serious investigation without becoming evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Dcigf4t3I3E" title="Preparing for war in space: inside a Space Force base | Reality Check with Ross Coulthart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Dcigf4t3I3E" target="_blank" rel="noopener noreferrer">Preparing for war in space: inside a Space Force base | Reality Check with Ross Coulthart</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Dcigf4t3I3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Dcigf4t3I3E">Open on YouTube</a></p></div></div></div>
 
 ## What the pilot reported near Eglin
 
-According to AARO's published case resolution, the incident began when the pilot's radar detected four airborne objects flying at approximately 16,000 to 18,000 feet in apparent formation. Only one of these objects was acquired visually, and only two still images were captured because the aircraft's video recording system was already inoperative before and during the flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+According to AARO's published case resolution, the incident began when the pilot's radar detected four airborne objects flying at approximately 16,000 to 18,000 feet in apparent formation. Only one of these objects was acquired visually, and only two still images were captured because the aircraft's video recording system was already inoperative before and during the flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 The pilot described the visible object as resembling an Apollo command module in shape. The reported features included:
 
@@ -301,13 +301,13 @@ The pilot described the visible object as resembling an Apollo command module in
 * a rounded lower section with an orange-reddish appearance;
 * a grey, segmented upper section resembling a cone;
 * an object apparently stationary or moving slowly relative to the aircraft;
-* radar contact on additional objects that were never visually confirmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+* radar contact on additional objects that were never visually confirmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 </div>
 
-One aspect that attracted particular attention was an apparent radar malfunction after the aircraft approached within roughly 4,000 feet of the object. The aircraft's radar remained unavailable for the rest of the mission, although post-flight maintenance found that a circuit breaker had tripped without identifying a definitive cause. AARO did not conclude that the object caused the malfunction, and the report treats the equipment failure as an associated event rather than evidence of unusual capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+One aspect that attracted particular attention was an apparent radar malfunction after the aircraft approached within roughly 4,000 feet of the object. The aircraft's radar remained unavailable for the rest of the mission, although post-flight maintenance found that a circuit breaker had tripped without identifying a definitive cause. AARO did not conclude that the object caused the malfunction, and the report treats the equipment failure as an associated event rather than evidence of unusual capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
-The combination of radar detections, pilot observations and EO/IR imagery made the report more substantial than many civilian UFO sightings. At the same time, each source of information had important limitations, particularly the lack of continuous video and the inability to visually confirm the additional radar contacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+The combination of radar detections, pilot observations and EO/IR imagery made the report more substantial than many civilian UFO sightings. At the same time, each source of information had important limitations, particularly the lack of continuous video and the inability to visually confirm the additional radar contacts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bvx26HLo1OA" title="Military Pilot Sees 4 UFOS At Eglin Air Force Base (Photos Shown)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bvx26HLo1OA" target="_blank" rel="noopener noreferrer">Military Pilot Sees 4 UFOS At Eglin Air Force Base (Photos Shown)</a></p><p class="youtube-embed-meta">Channel: VETTED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bvx26HLo1OA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bvx26HLo1OA">Open on YouTube</a></p></div></div></div>
@@ -318,11 +318,11 @@ AARO's investigation did not dismiss the pilot's observations. Instead, it compa
 
 The office found several features more consistent with a balloon than with an aircraft demonstrating extraordinary performance.
 
-First, the infrared imagery showed strong contrast between the upper and lower portions of the object. Rather than indicating exotic propulsion, AARO concluded this difference could be explained by variations in temperature, emissivity or reflectivity between two hemispheres of a balloon. The orange-red appearance described by the pilot could also be produced by sunlight reflecting from the lower portion of the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+First, the infrared imagery showed strong contrast between the upper and lower portions of the object. Rather than indicating exotic propulsion, AARO concluded this difference could be explained by variations in temperature, emissivity or reflectivity between two hemispheres of a balloon. The orange-red appearance described by the pilot could also be produced by sunlight reflecting from the lower portion of the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
-Second, investigators compared the imagery with commercially available lighting balloons used for construction sites, film production and outdoor events. These balloons commonly consist of a dark reflective upper hemisphere and a lighter lower hemisphere that directs illumination downward. According to AARO, testing with one such balloon reproduced several visual characteristics seen in the military imagery, although not every reported feature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+Second, investigators compared the imagery with commercially available lighting balloons used for construction sites, film production and outdoor events. These balloons commonly consist of a dark reflective upper hemisphere and a lighter lower hemisphere that directs illumination downward. According to AARO, testing with one such balloon reproduced several visual characteristics seen in the military imagery, although not every reported feature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
-The report also considered other lighter-than-air possibilities, including meteorological and commercial balloons. Rather than claiming certainty, AARO concluded that the observed object was **very likely** an ordinary lighter-than-air object and expressed only **moderate confidence**, acknowledging that the available evidence was incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+The report also considered other lighter-than-air possibilities, including meteorological and commercial balloons. Rather than claiming certainty, AARO concluded that the observed object was **very likely** an ordinary lighter-than-air object and expressed only **moderate confidence**, acknowledging that the available evidence was incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 That level of confidence is significant. AARO did not claim the case was solved beyond doubt; instead, it judged that the balance of available evidence favoured a conventional explanation while recognising that missing data prevented complete certainty.
 
@@ -337,11 +337,11 @@ Several characteristics understandably made the report appear compelling:
 * the witness was a military pilot;
 * multiple onboard sensors contributed information;
 * Congress later received briefings about the incident;
-* images were eventually released publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes</span><span class="citation-popover-snippet">Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “moderate confid...</span></span></span>
+* images were eventually released publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes</span><span class="citation-popover-snippet">Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “moderate confid...</span></span></span>
 
 However, none of those factors automatically establish that an object displayed extraordinary capabilities.
 
-AARO's analysis found no verified evidence that the object accelerated beyond known physics, performed impossible manoeuvres or demonstrated technology inconsistent with ordinary airborne objects. The office specifically stated that no anomalous flight characteristics or capabilities were confirmed from the available data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+AARO's analysis found no verified evidence that the object accelerated beyond known physics, performed impossible manoeuvres or demonstrated technology inconsistent with ordinary airborne objects. The office specifically stated that no anomalous flight characteristics or capabilities were confirmed from the available data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 This distinction is central to AARO's broader methodology. An event may deserve investigation because it affects aviation safety, military operations or national security, even if the most likely explanation ultimately proves to be mundane. Unknown at the time of observation does not necessarily remain unknown after technical analysis.
 
@@ -350,204 +350,204 @@ This distinction is central to AARO's broader methodology. An event may deserve 
 
 ## What the case contributes to the wider UAP debate
 
-The Eglin investigation has continued to generate debate because some commentators argue that the available evidence does not fully support AARO's conclusion. Critics point to the office's own statement of only moderate confidence, the absence of complete sensor recordings and unanswered questions surrounding the radar malfunction. Others argue that the released imagery is too limited to exclude alternative interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefAARO Has Only “Moderate Confidence” in Findings From...25 Apr 2024 — The Pentagon&#x27;s AARO has released a report on its finding...</span></span></span>
+The Eglin investigation has continued to generate debate because some commentators argue that the available evidence does not fully support AARO's conclusion. Critics point to the office's own statement of only moderate confidence, the absence of complete sensor recordings and unanswered questions surrounding the radar malfunction. Others argue that the released imagery is too limited to exclude alternative interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefAARO Has Only “Moderate Confidence” in Findings From...25 Apr 2024 — The Pentagon&#x27;s AARO has released a report on its finding...</span></span></span>
 
 Those criticisms do not, however, establish an extraterrestrial explanation. They instead highlight the practical reality of many military UAP investigations: analysts often work with incomplete data collected during operational missions rather than controlled scientific observations.
 
-For that reason, the Eglin case occupies an important middle ground. It shows that a military encounter can involve credible witnesses, multiple sensors and genuine uncertainty while still producing an evidence-based assessment that favours a conventional object over an extraordinary one. Rather than demonstrating that every UAP has been fully explained, it illustrates how investigators weigh probabilities, test competing hypotheses and distinguish unresolved observations from claims of alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
+For that reason, the Eglin case occupies an important middle ground. It shows that a military encounter can involve credible witnesses, multiple sensors and genuine uncertainty while still producing an evidence-based assessment that favours a conventional object over an extraordinary one. Rather than demonstrating that every UAP has been fully explained, it illustrates how investigators weigh probabilities, test competing hypotheses and distinguish unresolved observations from claims of alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_eglin_balloon_case_bc16d7-Illustration-3-dark.svg" | relative_url }}" alt="Eglin Case illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_eglin_balloon_case_bc16d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_aaro_alien_claims_e1f38a_eglin_balloon_case_bc16d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Eglin UAP Case Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Eglin UAP Case Really Shows. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains how sightings are evaluated and categorized.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how sightings are evaluated and categorized.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Reviews recent military UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reviews recent military UAP cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for military reporting of UFO incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military reporting of UFO incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based interpretation of unusual observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based interpretation of unusual observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="eglin-case-what-the-eglin-uap-case-really-shows-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,103 +753,103 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin UAP Case ResolutionThe orange-red color at the center of the bottom half of the object could be explained by the sun glint off...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: twz.com  
    Title: eglin afb pilot likely saw a lighting balloon not a ufo pentagon concludes  
-   Link: <a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “moderate confid...</p></details>
+   Link:<a href="https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/eglin-afb-pilot-likely-saw-a-lighting-balloon-not-a-ufo-pentagon-concludes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eglin AFB Pilot Likely Saw A Lighting Balloon, Not A UFO...24 Apr 2024 — As a result, the AARO report concluded with “moderate confid...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/air/air-force-[pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/air-force-[pilots</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“On 26 Jan 23, an [sic] USAF pilot...</p></details>
+   Link:<a href="https://www.twz.com/air/air-force-[pilots" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/air/air-force-[pilots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“On 26 Jan 23, an [sic] USAF pilot...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Cases. Official UAP Imagery · UAP Case Resoluti...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Cases. Official UAP Imagery · UAP Case Resoluti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO Has Only “Moderate Confidence” in Findings From...25 Apr 2024 — The Pentagon&#x27;s AARO has released a report on its finding...</p></details>
+   Link:<a href="https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaro-has-only-moderate-confidence-in-findings-from-its-latest-uap-investigation-its-easy-to-see-why/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO Has Only “Moderate Confidence” in Findings From...25 Apr 2024 — The Pentagon&#x27;s AARO has released a report on its finding...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedebrief.org  
    Title: This Well-Known UFO Debunker is Skeptical of the Do D's  
-   Link: <a href="https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-investigations-into-aerial-mysteries-heres-why/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-investigations-into-aerial-mysteries-heres-why/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Well-Known UFO Debunker is Skeptical of the DoD&#x27;s...May 7, 2024 — According to its report, AARO&#x27;s team labeled the case “Resolved”...</p></details>
+   Link:<a href="https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-investigations-into-aerial-mysteries-heres-why/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/this-well-known-ufo-debunker-is-skeptical-of-the-dods-recent-investigations-into-aerial-mysteries-heres-why/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Well-Known UFO Debunker is Skeptical of the DoD&#x27;s...May 7, 2024 — According to its report, AARO&#x27;s team labeled the case “Resolved”...</p></details>
    Published: May 7, 2024  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aui.edu  
-   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...The report details key findings from the workshop conducted at AUI headquarters in Augu...</p></details>
+   Link:<a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Report on Unidentified Anomalous...The report details key findings from the workshop conducted at AUI headquarters in Augu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
    Title: a fleet of objects was spotted over langley air force base in december of 2023 i  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A fleet of objects was spotted over Langley Air Force Base...From May 2023 to June 2024, the Pentagon&#x27;s All-Domain Anomaly Resolution Of...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-fleet-of-objects-was-spotted-over-langley-air-force-base-in-december-of-2023-i/561432642930424/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A fleet of objects was spotted over Langley Air Force Base...From May 2023 to June 2024, the Pentagon&#x27;s All-Domain Anomaly Resolution Of...</p></details>
    Published: May 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 14, 2567 BE — This report covers UAP from May 1, 2023, to June 1, 2024, and all UAP reports from any previous time periods that were...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 14, 2567 BE — This report covers UAP from May 1, 2023, to June 1, 2024, and all UAP reports from any previous time periods that were...</p></details>
    Published: May 1, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: brobible.com  
    Title: pentagon ufo office report air force encounter gulf mexico  
-   Link: <a href="https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Office Releases Report On Air Force...29 Apr 2024 — “On 26 January 2023, a military pilot reported four potential unident...</p></details>
+   Link:<a href="https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/sports/article/pentagon-ufo-office-report-air-force-encounter-gulf-mexico/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO Office Releases Report On Air Force...29 Apr 2024 — “On 26 January 2023, a military pilot reported four potential unident...</p></details>
    Published: January 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eurasiantimes.com  
    Title: jammed its radar moving with beyond human capabilities  
-   Link: <a href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</p></details>
+   Link:<a href="https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/jammed-its-radar-moving-with-beyond-human-capabilities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US Air Force: UFO That &quot;Jammed&quot; Fighter Jet&#x27;s Radar...25 Apr 2024 — The report concluded with “moderate confidence” that the pilot had i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theblackvault.com  
    Title: aaro releases final report on eglin uap incident  
-   Link: <a href="https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Final Report on “Eglin UAP” Incident24 Apr 2024 — AARO&#x27;s analysis concluded that the UAP was “very likely a lighter-than-ai...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/aaro-releases-final-report-on-eglin-uap-incident/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Final Report on “Eglin UAP” Incident24 Apr 2024 — AARO&#x27;s analysis concluded that the UAP was “very likely a lighter-than-ai...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n how the objects are powered, contributing to the mystery of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/209times/posts/the-war-department-releases-additional-classified-ufo-files-the-war-department-f/1422472709921650/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n how the objects are powered, contributing to the mystery of...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: aaro released its resolution for the case known  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as...24 Apr 2024 — Today, AARO released its resolution for the case known as the &quot;Eglin UAP.&quot; It presents AARO&#x27;s analysis of a January 2...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cc7fx2/aaro_released_its_resolution_for_the_case_known/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as...24 Apr 2024 — Today, AARO released its resolution for the case known as the &quot;Eglin UAP.&quot; It presents AARO&#x27;s analysis of a January 2...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: recap of the eglin ufo sighting controversy  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On 26 January 2023, a military pilot reported four potential unidentified anomalous phenomena (UAP) while operating in the Eglin Air Forc...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1crfpi2/recap_of_the_eglin_ufo_sighting_controversy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On 26 January 2023, a military pilot reported four potential unidentified anomalous phenomena (UAP) while operating in the Eglin Air Forc...</p></details>
    Published: January 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9PVIHqkpt6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9PVIHqkpt6A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preparing for war in space: inside a Space Force base | Reality Check with Ross Coulthart...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9PVIHqkpt6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9PVIHqkpt6A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preparing for war in space: inside a Space Force base | Reality Check with Ross Coulthart...</p></details>

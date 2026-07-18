@@ -454,38 +454,38 @@ To The Stars Academy of Arts & Science showed how celebrity branding can move UF
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-overview.webp" | relative_url }}" alt="Overview image for To The Stars" loading="eager" decoding="sync" fetchpriority="high">
 ## Why To The Stars Became a Celebrity-UFO Test Case
 
-To The Stars Academy was not simply a fan project by a famous musician. In its own SEC filing, the company described itself as a Delaware public benefit corporation formed in 2017 to combine aerospace, science and entertainment, with a mission built around “unresolved mysteries of the universe” and public access through media and education. Its early filing said the company was organised into three divisions: aerospace, science and entertainment. That structure is the key to understanding its cultural effect. UFO claims were not presented only as sightings; they were wrapped in a company, a brand, a [media pipeline]({{ 'media-pipeline/' | relative_url }}), a research posture and a public-benefit story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
+To The Stars Academy was not simply a fan project by a famous musician. In its own SEC filing, the company described itself as a Delaware public benefit corporation formed in 2017 to combine aerospace, science and entertainment, with a mission built around “unresolved mysteries of the universe” and public access through media and education. Its early filing said the company was organised into three divisions: aerospace, science and entertainment. That structure is the key to understanding its cultural effect. UFO claims were not presented only as sightings; they were wrapped in a company, a brand, a [media pipeline]({{ 'media-pipeline/' | relative_url }}), a research posture and a public-benefit story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
 
-The celebrity element was not incidental. The same SEC filing disclosed a licensing arrangement involving Tom DeLonge’s name, likeness, recordings, trademarks and related intellectual property, and said the company would produce and sell products such as novels, albums, apparel, accessories and merchandise using those rights. That made the governance issue unusually visible: a public-benefit UFO organisation was also structurally tied to a celebrity entertainment and merchandising business. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
+The celebrity element was not incidental. The same SEC filing disclosed a licensing arrangement involving Tom DeLonge’s name, likeness, recordings, trademarks and related intellectual property, and said the company would produce and sell products such as novels, albums, apparel, accessories and merchandise using those rights. That made the governance issue unusually visible: a public-benefit UFO organisation was also structurally tied to a celebrity entertainment and merchandising business.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
 
-That hybrid model explains why TTSA could reach audiences that older UFO groups struggled to reach. A conventional UFO organisation might publish witness reports or lobby officials; TTSA could also sell books, build a fan community, produce screen content and use DeLonge’s existing public identity to make the subject feel less marginal. Its own current positioning still leans into that fusion, describing To The Stars as a collaboration between academia, industry and pop culture, and presenting itself as the first team to bring official [military]({{ 'military/' | relative_url }}) UAP footage and the secret Pentagon programme to broad public attention with *The New York Times*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/pages/research?srsltid=AfmBOoo3E1U9EzGp0usuAcVxq9CA-23mLpJt2ALCYxweurwbRfOS8d6y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*research</span><span class="citation-popover-snippet">To The Stars*research</span></span></span>
+That hybrid model explains why TTSA could reach audiences that older UFO groups struggled to reach. A conventional UFO organisation might publish witness reports or lobby officials; TTSA could also sell books, build a fan community, produce screen content and use DeLonge’s existing public identity to make the subject feel less marginal. Its own current positioning still leans into that fusion, describing To The Stars as a collaboration between academia, industry and pop culture, and presenting itself as the first team to bring official [military]({{ 'military/' | relative_url }}) UAP footage and the secret Pentagon programme to broad public attention with *The New York Times*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/pages/research?srsltid=AfmBOoo3E1U9EzGp0usuAcVxq9CA-23mLpJt2ALCYxweurwbRfOS8d6y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*research</span><span class="citation-popover-snippet">To The Stars*research</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-Illustration-1-dark.svg" | relative_url }}" alt="To The Stars illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Company Claims and Public Positioning
 
-The strongest feature of TTSA’s public positioning was that it converted UFO belief into a “serious issues” frame. Instead of leading only with aliens, it emphasised aviation safety, military encounters, advanced aerospace possibilities, data collection and government transparency. In the company’s 2018 filing, its planned aerospace work included beamed energy propulsion, space-time metric engineering and radiation shielding materials, while its “Community of Interest” was described as a platform for storing, analysing and eventually collecting reports and data from the public, government and foreign governments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
+The strongest feature of TTSA’s public positioning was that it converted UFO belief into a “serious issues” frame. Instead of leading only with aliens, it emphasised aviation safety, military encounters, advanced aerospace possibilities, data collection and government transparency. In the company’s 2018 filing, its planned aerospace work included beamed energy propulsion, space-time metric engineering and radiation shielding materials, while its “Community of Interest” was described as a platform for storing, analysing and eventually collecting reports and data from the public, government and foreign governments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
 
 This framing had two effects. First, it made UFO discussion sound less like belief and more like institutional risk management. UAP became a matter of sensors, pilots, classified programmes and possible adversary technology. Secondly, it gave entertainment products a claim to public importance: [documentaries]({{ 'documentaries/' | relative_url }}), books and web releases were not merely content but part of a wider disclosure movement.
 
-The clearest example was the Navy video cycle. TTSA publicised fighter-jet footage that became central to the post-2017 UAP debate. In 2020, the Department of Defense formally authorised release of three unclassified Navy videos, stating that one was from November 2004 and two were from January 2015, that the videos had circulated publicly after unauthorised releases, and that the Navy had previously acknowledged them as Navy videos. The Pentagon added that the objects in the videos remained “unidentified”, a narrower claim than “extraterrestrial”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+The clearest example was the Navy video cycle. TTSA publicised fighter-jet footage that became central to the post-2017 UAP debate. In 2020, the Department of Defense formally authorised release of three unclassified Navy videos, stating that one was from November 2004 and two were from January 2015, that the videos had circulated publicly after unauthorised releases, and that the Navy had previously acknowledged them as Navy videos. The Pentagon added that the objects in the videos remained “unidentified”, a narrower claim than “extraterrestrial”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
 That distinction is crucial. TTSA could fairly point to a real public-relations win: military footage it had helped circulate was later acknowledged as genuine Navy footage. But the official release did not validate the most expansive UFO interpretations. It confirmed provenance and unresolved status; it did not confirm alien craft, impossible performance or hidden technology.
 
-The company also treated investor relations as part of the same public-facing machine. Its investor site says that, as a Regulation A company, TTSA filed annual and semi-annual reports with the SEC, and it listed filings through 2026. It also warned that SEC qualification of an offering statement did not mean the SEC had approved the merits, accuracy or completeness of the offering. That language matters because TTSA invited public participation not only as an audience but as investors in a story of disclosure, research and media growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ir.tothestarsinc.com/sec-filings-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ir.tothestarsinc.com">[To The Stars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ir.tothestarsinc.com</span><span class="citation-popover-title">To The Stars SEC Filings — To The Stars</span><span class="citation-popover-snippet">To The Stars SEC Filings — To The Stars</span></span></span>
+The company also treated investor relations as part of the same public-facing machine. Its investor site says that, as a Regulation A company, TTSA filed annual and semi-annual reports with the SEC, and it listed filings through 2026. It also warned that SEC qualification of an offering statement did not mean the SEC had approved the merits, accuracy or completeness of the offering. That language matters because TTSA invited public participation not only as an audience but as investors in a story of disclosure, research and media growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ir.tothestarsinc.com/sec-filings-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ir.tothestarsinc.com">[To The Stars]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ir.tothestarsinc.com</span><span class="citation-popover-title">To The Stars SEC Filings — To The Stars</span><span class="citation-popover-snippet">To The Stars SEC Filings — To The Stars</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3r6SmrCUM0" title="Luis Elizondo Presents the History of AATIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer">Luis Elizondo Presents the History of AATIP</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 107.2K &middot; Uploaded: August 2018 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3r6SmrCUM0">Open on YouTube</a></p></div></div></div>
 
 ## Former Officials and Credibility Signals
 
-TTSA’s unusual power came from the way celebrity attention was paired with former official credentials. The company’s 2018 filing named Steve Justice, formerly associated with advanced aerospace and defence work, and Luis Elizondo, presented as chief of security and special programmes, as significant employees hired in October 2017. It also listed co-founders and directors including DeLonge, former intelligence officer Jim Semivan and physicist Harold Puthoff. For a mainstream reader, this was a different credibility package from the usual celebrity UFO anecdote. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
+TTSA’s unusual power came from the way celebrity attention was paired with former official credentials. The company’s 2018 filing named Steve Justice, formerly associated with advanced aerospace and defence work, and Luis Elizondo, presented as chief of security and special programmes, as significant employees hired in October 2017. It also listed co-founders and directors including DeLonge, former intelligence officer Jim Semivan and physicist Harold Puthoff. For a mainstream reader, this was a different credibility package from the usual celebrity UFO anecdote.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
 
-This is where celebrity-led advocacy becomes a governance issue. DeLonge drew attention, but the former officials gave the attention a seriousness cue. Audiences were not only asked to trust a musician’s curiosity; they were shown a team that seemed to connect entertainment, defence networks and scientific ambition. The History Channel series *Unidentified: Inside America’s UFO Investigation* reinforced that signal, presenting Tom DeLonge alongside Luis Elizondo, Steve Justice and Chris Mellon, and describing Elizondo and Mellon as connected investigators pursuing military and civilian UAP cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Open source on history.com.</span></span></span>
+This is where celebrity-led advocacy becomes a governance issue. DeLonge drew attention, but the former officials gave the attention a seriousness cue. Audiences were not only asked to trust a musician’s curiosity; they were shown a team that seemed to connect entertainment, defence networks and scientific ambition. The History Channel series *Unidentified: Inside America’s UFO Investigation* reinforced that signal, presenting Tom DeLonge alongside Luis Elizondo, Steve Justice and Chris Mellon, and describing Elizondo and Mellon as connected investigators pursuing military and civilian UAP cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Open source on history.com.</span></span></span>
 
-The U.S. Army CRADA was another credibility signal. A Cooperative Research and Development Agreement between To The Stars Academy and the U.S. Army Combat Capabilities Development Command Ground Vehicle Systems Center carried the title “Novel & Emerging Technology Exploitation” and listed To The Stars Academy as the collaborator. The agreement identified Luis Elizondo as TTSA’s principal investigator and preferred contact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[Nextgov/FCW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-snippet">Open source on nextgov.com.</span></span></span>
+The U.S. Army CRADA was another credibility signal. A Cooperative Research and Development Agreement between To The Stars Academy and the U.S. Army Combat Capabilities Development Command Ground Vehicle Systems Center carried the title “Novel & Emerging Technology Exploitation” and listed To The Stars Academy as the collaborator. The agreement identified Luis Elizondo as TTSA’s principal investigator and preferred contact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[Nextgov/FCW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-snippet">Open source on nextgov.com.</span></span></span>
 
-TTSA’s own FAQ said the Army approached it for information about mechanical and electromagnetic [metamaterials]({{ 'metamaterials/' | relative_url }}), camouflage and concealment applications, and secure quantum communications. Reporting by defence-focused outlets noted that the agreement allowed the Army to evaluate potentially useful materials and technologies, but a CRADA is not the same as government endorsement of alien origin. It is a vehicle for collaboration, testing and information exchange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoqVXMuZtA3r7XrXQ_xj6DP98l7u61eV4tg98RuFy9LnHsJbyL8U" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">crada faq</span><span class="citation-popover-snippet">crada faq</span></span></span>
+TTSA’s own FAQ said the Army approached it for information about mechanical and electromagnetic [metamaterials]({{ 'metamaterials/' | relative_url }}), camouflage and concealment applications, and secure quantum communications. Reporting by defence-focused outlets noted that the agreement allowed the Army to evaluate potentially useful materials and technologies, but a CRADA is not the same as government endorsement of alien origin. It is a vehicle for collaboration, testing and information exchange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoqVXMuZtA3r7XrXQ_xj6DP98l7u61eV4tg98RuFy9LnHsJbyL8U" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">crada faq</span><span class="citation-popover-snippet">crada faq</span></span></span>
 
 That gap between “officials are involved” and “the larger claim is proven” is the recurring pattern. Former officials can make a claim worth examining, and official collaborations can justify attention. They do not, by themselves, settle what an object was, whether a material is extraordinary, or whether a secret recovery programme exists.
 
@@ -493,13 +493,13 @@ That gap between “officials are involved” and “the larger claim is proven�
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-Illustration-2-dark.svg" | relative_url }}" alt="To The Stars illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Advocacy Outran Public Evidence
 
-The most important criticism of TTSA is not that it made UFOs visible. It is that its visibility often ran ahead of what the public record could bear. Wired’s early analysis of the Pentagon-video story noted that To The Stars launched a video-centred site on the same day as the 2017 newspaper coverage and described the clips as official UAP footage, while questions remained about release procedures, paperwork and interpretation. The problem was not that the videos were fake; the Pentagon later confirmed they were genuine Navy videos. The problem was that authenticity of footage is weaker than proof of extraordinary origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">What Is Up With Those Pentagon UFO Videos?</span></span></span>
+The most important criticism of TTSA is not that it made UFOs visible. It is that its visibility often ran ahead of what the public record could bear. Wired’s early analysis of the Pentagon-video story noted that To The Stars launched a video-centred site on the same day as the 2017 newspaper coverage and described the clips as official UAP footage, while questions remained about release procedures, paperwork and interpretation. The problem was not that the videos were fake; the Pentagon later confirmed they were genuine Navy videos. The problem was that authenticity of footage is weaker than proof of extraordinary origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">What Is Up With Those Pentagon UFO Videos?</span></span></span>
 
-Financial disclosures also complicated the public story. TTSA’s filing showed that its entertainment division created and sold music, novels, films and merchandise, with most 2017 revenue coming from online operations. It also stated that the aerospace and science divisions had no raw materials or suppliers at that time, and that the company had incurred only about $6,000 in third-party research and development costs in 2017, alongside additional internal costs. That does not make the company illegitimate, but it shows that the public image of a frontier science organisation depended heavily on an entertainment-business foundation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
+Financial disclosures also complicated the public story. TTSA’s filing showed that its entertainment division created and sold music, novels, films and merchandise, with most 2017 revenue coming from online operations. It also stated that the aerospace and science divisions had no raw materials or suppliers at that time, and that the company had incurred only about $6,000 in third-party research and development costs in 2017, alongside additional internal costs. That does not make the company illegitimate, but it shows that the public image of a frontier science organisation depended heavily on an entertainment-business foundation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[Securities and Exchange Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">urities and Exchange Commission</span><span class="citation-popover-snippet">urities and Exchange Commission</span></span></span>
 
-The 2017 figures became a public controversy because the company recorded very large stock-based compensation expenses and an accumulated deficit. Ars Technica reported in 2018 that the project had raised just over $1 million in outside funding while recording a $37.4 million deficit, and other coverage noted DeLonge’s objection that this was a stockholders’ deficit tied largely to stock-based compensation rather than ordinary operating debt. The more cautious interpretation is that the headline “debt” framing could mislead, while the filings still showed a speculative, early-stage company whose UFO research ambitions were not matched by mature public research outputs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arstechnica.com/science/2018/10/all-the-dumb-things-blink-182-front-mans-ufo-project-37-million/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica+2altpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">all the dumb things blink 182 front mans ufo project 37 million</span><span class="citation-popover-snippet">all the dumb things blink 182 front mans ufo project 37 million</span></span></span>
+The 2017 figures became a public controversy because the company recorded very large stock-based compensation expenses and an accumulated deficit. Ars Technica reported in 2018 that the project had raised just over $1 million in outside funding while recording a $37.4 million deficit, and other coverage noted DeLonge’s objection that this was a stockholders’ deficit tied largely to stock-based compensation rather than ordinary operating debt. The more cautious interpretation is that the headline “debt” framing could mislead, while the filings still showed a speculative, early-stage company whose UFO research ambitions were not matched by mature public research outputs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arstechnica.com/science/2018/10/all-the-dumb-things-blink-182-front-mans-ufo-project-37-million/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica+2altpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">all the dumb things blink 182 front mans ufo project 37 million</span><span class="citation-popover-snippet">all the dumb things blink 182 front mans ufo project 37 million</span></span></span>
 
-The broader evidentiary problem became sharper after official reviews. AARO’s 2024 historical report said it found no evidence that any U.S. government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial, and no empirical evidence that the government or private companies had been reverse-engineering extraterrestrial technology. AARO also concluded that a sample alleged to come from an off-world craft and acquired from a private UAP organisation and the U.S. Army was a manufactured terrestrial alloy with no exceptional qualities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The broader evidentiary problem became sharper after official reviews. AARO’s 2024 historical report said it found no evidence that any U.S. government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial, and no empirical evidence that the government or private companies had been reverse-engineering extraterrestrial technology. AARO also concluded that a sample alleged to come from an off-world craft and acquired from a private UAP organisation and the U.S. Army was a manufactured terrestrial alloy with no exceptional qualities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 AARO’s conclusions are contested by some disclosure advocates, but they mark the difference between advocacy success and evidentiary success. TTSA and its network helped push government and media institutions to treat UAP as a topic worthy of attention. The public evidence available through official channels still falls short of the more dramatic claims often associated with UFO disclosure.
 
@@ -527,194 +527,194 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Celebrity Branding Change UFO Belief?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Celebrity Branding Change UFO Belief?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines contemporary UAP claims involving officials and institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines contemporary UAP claims involving officials and institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides mainstream context for government-linked UFO advocacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides mainstream context for government-linked UFO advocacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores how belief, technology and culture shape UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how belief, technology and culture shape UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
-        </h4>
-        <p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
+</h4>
+<p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
         
-        <p class="fr-book-desc">Written by the founder of To The Stars and reflects the surrounding ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Written by the founder of To The Stars and reflects the surrounding ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="to-the-stars-can-celebrity-branding-change-ufo-belief-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,224 +920,224 @@ The evidence record is more restrained. The Pentagon confirmed that the famous N
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sec.gov  
    Title: urities and Exchange Commission  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation</a>  
+   Link:<a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nextgov.com  
-   Link: <a href="https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf</a>  
+   Link:<a href="https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/media/gbc/docs/pdfs_edit/ng_ttsa_crada.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: What Is Up With Those [Pentagon UFO Videos](&#123;&#123; 'navy-videos/' | relative_url &#125;&#125;)?  
-   Link: <a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
+   Link:<a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: altpress.com  
    Title: tom delonge to the stars academy debt  
-   Link: <a href="https://www.altpress.com/tom-delonge-to-the-stars-academy-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpress.com/tom-delonge-to-the-stars-academy-debt/</a>  
+   Link:<a href="https://www.altpress.com/tom-delonge-to-the-stars-academy-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpress.com/tom-delonge-to-the-stars-academy-debt/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: Next UAP Report Documents  
-   Link: <a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
+   Link:<a href="https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sec.gov  
    Title: tv525071 253g2  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000149315222011769/partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000149315222011769/partii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000149315222011769/partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000149315222011769/partii.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nextgov.com  
    Title: army partners ufo researchers study active camouflage and other sci fi tech  
-   Link: <a href="https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/</a>  
+   Link:<a href="https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: animated-character-database.fandom.com  
    Title: Luis Elizondo  
-   Link: <a href="https://animated-character-database.fandom.com/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://animated-character-database.fandom.com/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://animated-character-database.fandom.com/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://animated-character-database.fandom.com/wiki/Luis_Elizondo</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tothestars.media  
    Title: To The Stars*research  
-   Link: <a href="https://tothestars.media/pages/research?srsltid=AfmBOoo3E1U9EzGp0usuAcVxq9CA-23mLpJt2ALCYxweurwbRfOS8d6y" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOoo3E1U9EzGp0usuAcVxq9CA-23mLpJt2ALCYxweurwbRfOS8d6y</a>  
+   Link:<a href="https://tothestars.media/pages/research?srsltid=AfmBOoo3E1U9EzGp0usuAcVxq9CA-23mLpJt2ALCYxweurwbRfOS8d6y" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOoo3E1U9EzGp0usuAcVxq9CA-23mLpJt2ALCYxweurwbRfOS8d6y</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ir.tothestarsinc.com  
    Title: To The Stars SEC Filings — To The Stars  
-   Link: <a href="https://ir.tothestarsinc.com/sec-filings-1" target="_blank" rel="noopener noreferrer nofollow">https://ir.tothestarsinc.com/sec-filings-1</a>  
+   Link:<a href="https://ir.tothestarsinc.com/sec-filings-1" target="_blank" rel="noopener noreferrer nofollow">https://ir.tothestarsinc.com/sec-filings-1</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tothestars.media  
    Title: crada faq  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoqVXMuZtA3r7XrXQ_xj6DP98l7u61eV4tg98RuFy9LnHsJbyL8U" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoqVXMuZtA3r7XrXQ_xj6DP98l7u61eV4tg98RuFy9LnHsJbyL8U</a>  
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoqVXMuZtA3r7XrXQ_xj6DP98l7u61eV4tg98RuFy9LnHsJbyL8U" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/crada-faq?srsltid=AfmBOoqVXMuZtA3r7XrXQ_xj6DP98l7u61eV4tg98RuFy9LnHsJbyL8U</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arstechnica.com  
    Title: all the dumb things blink 182 front mans ufo project 37 million  
-   Link: <a href="https://arstechnica.com/science/2018/10/all-the-dumb-things-blink-182-front-mans-ufo-project-37-million/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2018/10/all-the-dumb-things-blink-182-front-mans-ufo-project-37-million/</a>  
+   Link:<a href="https://arstechnica.com/science/2018/10/all-the-dumb-things-blink-182-front-mans-ufo-project-37-million/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2018/10/all-the-dumb-things-blink-182-front-mans-ufo-project-37-million/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: To the Stars  
-   Link: <a href="https://de.wikipedia.org/wiki/To_the_Stars" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/To_the_Stars</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/To_the_Stars" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/To_the_Stars</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: to the stars academy of arts science ttsa  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: to the stars academy will be bringing sekret machines to the world through a maj  
-   Link: <a href="https://www.facebook.com/officialtomdelonge/photos/to-the-stars-academy-will-be-bringing-sekret-machines-to-the-world-through-a-maj/1617134338308899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialtomdelonge/photos/to-the-stars-academy-will-be-bringing-sekret-machines-to-the-world-through-a-maj/1617134338308899/</a>  
+   Link:<a href="https://www.facebook.com/officialtomdelonge/photos/to-the-stars-academy-will-be-bringing-sekret-machines-to-the-world-through-a-maj/1617134338308899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialtomdelonge/photos/to-the-stars-academy-will-be-bringing-sekret-machines-to-the-world-through-a-maj/1617134338308899/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/about?srsltid=AfmBOoq-R2tmAeMPzJd2oXfrysD7GDLxlxNEHiX8QKNeRp2nXWQMHtwF" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/about?srsltid=AfmBOoq-R2tmAeMPzJd2oXfrysD7GDLxlxNEHiX8QKNeRp2nXWQMHtwF</a>  
+   Link:<a href="https://tothestars.media/pages/about?srsltid=AfmBOoq-R2tmAeMPzJd2oXfrysD7GDLxlxNEHiX8QKNeRp2nXWQMHtwF" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/about?srsltid=AfmBOoq-R2tmAeMPzJd2oXfrysD7GDLxlxNEHiX8QKNeRp2nXWQMHtwF</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOorrmFPRsE7_W47fGZ74p8ztm_SKw48ZtGrx0ytteMKdR0RzhzY8" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOorrmFPRsE7_W47fGZ74p8ztm_SKw48ZtGrx0ytteMKdR0RzhzY8</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOorrmFPRsE7_W47fGZ74p8ztm_SKw48ZtGrx0ytteMKdR0RzhzY8" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOorrmFPRsE7_W47fGZ74p8ztm_SKw48ZtGrx0ytteMKdR0RzhzY8</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOopAlVFau1GWv-YjDq0h2UIXTRIL22RAW5NByOCs-MdLKH17zI7j" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOopAlVFau1GWv-YjDq0h2UIXTRIL22RAW5NByOCs-MdLKH17zI7j</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOopAlVFau1GWv-YjDq0h2UIXTRIL22RAW5NByOCs-MdLKH17zI7j" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOopAlVFau1GWv-YjDq0h2UIXTRIL22RAW5NByOCs-MdLKH17zI7j</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tothestars.media  
    Title: elizondo leaves pentagon to join to the stars academy of arts science  
-   Link: <a href="https://tothestars.media/en-de/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOooeOII9p0mIoeOkfbXDBhwqpyWjEFddz8kQqNt0A-fHiXqjtGS-" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-de/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOooeOII9p0mIoeOkfbXDBhwqpyWjEFddz8kQqNt0A-fHiXqjtGS-</a>  
+   Link:<a href="https://tothestars.media/en-de/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOooeOII9p0mIoeOkfbXDBhwqpyWjEFddz8kQqNt0A-fHiXqjtGS-" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-de/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOooeOII9p0mIoeOkfbXDBhwqpyWjEFddz8kQqNt0A-fHiXqjtGS-</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tothestars.media  
    Title: ttsa announces crada with u s army ccdc  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOop5k0Pj0yHQtPBWDLUGIEq8FvX8J-8Fierdq6nbE8Ir1Bj9YMc7" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOop5k0Pj0yHQtPBWDLUGIEq8FvX8J-8Fierdq6nbE8Ir1Bj9YMc7</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOop5k0Pj0yHQtPBWDLUGIEq8FvX8J-8Fierdq6nbE8Ir1Bj9YMc7" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOop5k0Pj0yHQtPBWDLUGIEq8FvX8J-8Fierdq6nbE8Ir1Bj9YMc7</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/crada-faq?srsltid=AfmBOorumSY52IdwYIXZWc1IV_px20i3pcdiW5pB7jxO2qapg__y-Scw" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/crada-faq?srsltid=AfmBOorumSY52IdwYIXZWc1IV_px20i3pcdiW5pB7jxO2qapg__y-Scw</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/crada-faq?srsltid=AfmBOorumSY52IdwYIXZWc1IV_px20i3pcdiW5pB7jxO2qapg__y-Scw" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/crada-faq?srsltid=AfmBOorumSY52IdwYIXZWc1IV_px20i3pcdiW5pB7jxO2qapg__y-Scw</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tothestars.media  
    Title: to the stars academy history channel bring you 6 part docuseries in may  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooJrn4mjO31NoB0adHhj5oyeLjPpsGXXem9jA2_GZy9yNu3-16J" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooJrn4mjO31NoB0adHhj5oyeLjPpsGXXem9jA2_GZy9yNu3-16J</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooJrn4mjO31NoB0adHhj5oyeLjPpsGXXem9jA2_GZy9yNu3-16J" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-history-channel-bring-you-6-part-docuseries-in-may?srsltid=AfmBOooJrn4mjO31NoB0adHhj5oyeLjPpsGXXem9jA2_GZy9yNu3-16J</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoprONAFxDNrogvcSd_hXn0phAwfJIrkeNirdPDVQg1pq1Z_7nmh" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoprONAFxDNrogvcSd_hXn0phAwfJIrkeNirdPDVQg1pq1Z_7nmh</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoprONAFxDNrogvcSd_hXn0phAwfJIrkeNirdPDVQg1pq1Z_7nmh" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoprONAFxDNrogvcSd_hXn0phAwfJIrkeNirdPDVQg1pq1Z_7nmh</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: aegm.com  
-   Link: <a href="https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge</a>  
+   Link:<a href="https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.aegm.com/article/history-greenlights-new-limited-non-fiction-series-unidentified-inside-americas-ufo-investigation-executive-produced-by-tom-delonge</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html</a>  
+   Link:<a href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: to-the-stars.webflow.io  
-   Link: <a href="https://to-the-stars.webflow.io/" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars.webflow.io/</a>  
+   Link:<a href="https://to-the-stars.webflow.io/" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars.webflow.io/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: us.mensa.org  
    Title: to the stars academy unafraid to investigate the unexplained  
-   Link: <a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
+   Link:<a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Tom Delonge Talks UFO Video Release and 'the Best Record' of His Life  
-   Link: <a href="https://www.youtube.com/watch?v=96a6Bh4Kews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=96a6Bh4Kews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Navy discloses existence of &quot;unidentified aerial phenomena&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=96a6Bh4Kews" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=96a6Bh4Kews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Navy discloses existence of &quot;unidentified aerial phenomena&quot;...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: How blink-182's Singer Proved That [Aliens Exist](&#123;&#123; 'aliens-exist/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=CDZ40bmirVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CDZ40bmirVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CDZ40bmirVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CDZ40bmirVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
+   Link:<a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/officialtomdelonge/videos/unidentified-inside-americas-ufo-investigation-gets-green-light-for-season-2/2100866710219221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialtomdelonge/videos/unidentified-inside-americas-ufo-investigation-gets-green-light-for-season-2/2100866710219221/</a>  
+   Link:<a href="https://www.facebook.com/officialtomdelonge/videos/unidentified-inside-americas-ufo-investigation-gets-green-light-for-season-2/2100866710219221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialtomdelonge/videos/unidentified-inside-americas-ufo-investigation-gets-green-light-for-season-2/2100866710219221/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Unidentified-Inside-Americas-Investigation-Season/dp/B084DFY58D?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Unidentified-Inside-Americas-Investigation-Season/dp/B084DFY58D?tag=searcht-20</a>  
+   Link:<a href="https://www.amazon.nl/-/en/Unidentified-Inside-Americas-Investigation-Season/dp/B084DFY58D?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Unidentified-Inside-Americas-Investigation-Season/dp/B084DFY58D?tag=searcht-20</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/</a>  
+   Link:<a href="https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/8NewsNOW/posts/luis-lue-elizondo-spent-most-of-his-career-working-in-the-shadows-as-a-senior-co/1306217024873191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/luis-lue-elizondo-spent-most-of-his-career-working-in-the-shadows-as-a-senior-co/1306217024873191/</a>  
+   Link:<a href="https://www.facebook.com/8NewsNOW/posts/luis-lue-elizondo-spent-most-of-his-career-working-in-the-shadows-as-a-senior-co/1306217024873191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8NewsNOW/posts/luis-lue-elizondo-spent-most-of-his-career-working-in-the-shadows-as-a-senior-co/1306217024873191/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/</a>  
+   Link:<a href="https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/newly-declassified-videos-of-ufos-the-pentagon-says-theyre-incidents-the-governm/1435127275309265/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/ross-coulthart-and-luis-elizondo-two-noted-figures-in-the-study-of-unidentified-/993309193076098/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: rockcellarmagazine.com  
-   Link: <a href="https://rockcellarmagazine.com/tom-delonge-blink-182-ufo-report-ny-times-to-the-stars-luis-elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://rockcellarmagazine.com/tom-delonge-blink-182-ufo-report-ny-times-to-the-stars-luis-elizondo/</a>  
+   Link:<a href="https://rockcellarmagazine.com/tom-delonge-blink-182-ufo-report-ny-times-to-the-stars-luis-elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://rockcellarmagazine.com/tom-delonge-blink-182-ufo-report-ny-times-to-the-stars-luis-elizondo/</a>  

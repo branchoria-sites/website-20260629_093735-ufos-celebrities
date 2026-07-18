@@ -280,13 +280,13 @@ image: /assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_na
 
 ## Introduction
 
-The widely shared US Navy UFO videos are genuine [military]({{ 'military/' | relative_url }}) recordings, but one of the most persistent misunderstandings is that their official release proved the objects were alien spacecraft. It did not. What the US Department of Defense confirmed was much narrower: the videos were authentic, unclassified Navy footage showing aerial objects that had not been identified at the time of the encounters. Those are very different claims. The distinction matters because the videos have become cultural symbols in UFO [advocacy]({{ 'advocacy/' | relative_url }}) and celebrity-driven discussions, where "officially released" is often treated as equivalent to "officially confirmed". The evidence does not support that leap. Instead, the Navy videos illustrate how authentic military data can remain unresolved without providing proof of an extraordinary explanation. U.S. Department of War+2NASA Science <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The aerial phenomena observed in the videos remai...</span></span></span>
+The widely shared US Navy UFO videos are genuine [military]({{ 'military/' | relative_url }}) recordings, but one of the most persistent misunderstandings is that their official release proved the objects were alien spacecraft. It did not. What the US Department of Defense confirmed was much narrower: the videos were authentic, unclassified Navy footage showing aerial objects that had not been identified at the time of the encounters. Those are very different claims. The distinction matters because the videos have become cultural symbols in UFO [advocacy]({{ 'advocacy/' | relative_url }}) and celebrity-driven discussions, where "officially released" is often treated as equivalent to "officially confirmed". The evidence does not support that leap. Instead, the Navy videos illustrate how authentic military data can remain unresolved without providing proof of an extraordinary explanation. U.S. Department of War+2NASA Science<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The aerial phenomena observed in the videos remai...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_navy_videos_release_25b74e-Illustration-1-dark.svg" | relative_url }}" alt="Navy Videos illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_navy_videos_release_25b74e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_navy_videos_release_25b74e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What official release actually confirmed
 
-The three best-known videos—commonly known as **FLIR1** (often linked to the 2004 Nimitz encounter), **[GIMBAL]({{ 'gimbal/' | relative_url }})**, and **[GOFAST]({{ 'gofast/' | relative_url }})**—were recorded by infrared targeting systems on US Navy aircraft during separate training operations in 2004 and 2015. After versions of the videos circulated publicly for years, the Department of Defense formally authorised their release in April 2020. Its stated purpose was to remove public confusion about whether the footage was genuine and whether any additional classified imagery existed in the released clips. The Department continued to describe the observed objects simply as "unidentified". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+The three best-known videos—commonly known as **FLIR1** (often linked to the 2004 Nimitz encounter), **[GIMBAL]({{ 'gimbal/' | relative_url }})**, and **[GOFAST]({{ 'gofast/' | relative_url }})**—were recorded by infrared targeting systems on US Navy aircraft during separate training operations in 2004 and 2015. After versions of the videos circulated publicly for years, the Department of Defense formally authorised their release in April 2020. Its stated purpose was to remove public confusion about whether the footage was genuine and whether any additional classified imagery existed in the released clips. The Department continued to describe the observed objects simply as "unidentified".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
 That official acknowledgement established several important facts:
 
@@ -294,15 +294,15 @@ That official acknowledgement established several important facts:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the recordings were authentic military sensor footage;
-* the videos had been taken during genuine Navy operations; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — The Department of Defense (DOD) authorized the release of three unclassified Navy videos, one ta...</span></span></span>
+* the videos had been taken during genuine Navy operations;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — The Department of Defense (DOD) authorized the release of three unclassified Navy videos, one ta...</span></span></span>
 * the clips themselves were unclassified and suitable for public release;
 * investigators had not positively identified every object shown.
 
 </div>
 
-None of those points amounted to confirmation that the objects represented extraterrestrial technology. "Unidentified" means that available information was insufficient to reach a confident identification, not that every conventional explanation had been ruled out. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
+None of those points amounted to confirmation that the objects represented extraterrestrial technology. "Unidentified" means that available information was insufficient to reach a confident identification, not that every conventional explanation had been ruled out.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>(https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)
 
-A second source of confusion came from the sequence of events. The videos first became widely known after [reporting]({{ 'reporting/' | relative_url }}) in 2017 and earlier unauthorised disclosures. The later official release authenticated the footage as genuine government material, but many readers incorrectly interpreted that administrative decision as a new scientific conclusion about the nature of the objects themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsPentagon declassifies Navy videos that purportedly show...&quot;The Department of Defense has authorized the release of three unclass...</span></span></span>
+A second source of confusion came from the sequence of events. The videos first became widely known after [reporting]({{ 'reporting/' | relative_url }}) in 2017 and earlier unauthorised disclosures. The later official release authenticated the footage as genuine government material, but many readers incorrectly interpreted that administrative decision as a new scientific conclusion about the nature of the objects themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsPentagon declassifies Navy videos that purportedly show...&quot;The Department of Defense has authorized the release of three unclass...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
@@ -325,9 +325,9 @@ Missing or unavailable information includes:
 
 </div>
 
-Without that broader dataset, it is difficult to distinguish between possibilities such as distant aircraft, balloons, drones, atmospheric effects, sensor artefacts, or genuinely unusual objects. Video alone is rarely enough to calculate true speed, distance or acceleration because those measurements depend on camera geometry, aircraft motion and targeting-system behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+Without that broader dataset, it is difficult to distinguish between possibilities such as distant aircraft, balloons, drones, atmospheric effects, sensor artefacts, or genuinely unusual objects. Video alone is rarely enough to calculate true speed, distance or acceleration because those measurements depend on camera geometry, aircraft motion and targeting-system behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-NASA's independent UAP study highlighted this broader scientific problem. The report concluded that the current evidence base contains too little high-quality, calibrated data to support strong conclusions in many cases, and that there is no conclusive evidence in the peer-reviewed literature for an extraterrestrial origin of reported UAP. Rather than treating [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) as proof of extraordinary claims, the report argues for better data collection and more systematic observation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA's independent UAP study highlighted this broader scientific problem. The report concluded that the current evidence base contains too little high-quality, calibrated data to support strong conclusions in many cases, and that there is no conclusive evidence in the peer-reviewed literature for an extraterrestrial origin of reported UAP. Rather than treating [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) as proof of extraordinary claims, the report argues for better data collection and more systematic observation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 The released Navy clips therefore remain interesting because they document real military encounters with objects that crews could not immediately identify—not because they conclusively establish what those objects were.
 
@@ -341,10 +341,10 @@ The problem arises when different questions become merged:
 
 * **Is the footage genuine?** Yes.
 * **Were the [pilots]({{ 'pilots/' | relative_url }}) reporting something unusual?** Yes.
-* **Were the objects unidentified at the time?** Yes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</span></span></span>
+* **Were the objects unidentified at the time?** Yes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</span></span></span>
 * **Does that prove alien spacecraft?** No.
 
-Those distinctions often disappear in viral social media posts, [headlines]({{ 'headlines/' | relative_url }}) and online debates, where "Pentagon released UFO videos" is shortened in public memory to "the Pentagon admitted UFOs are aliens". That is not what either the Navy or the Department of Defense has said. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The aerial phenomena observed in the videos remai...</span></span></span>
+Those distinctions often disappear in viral social media posts, [headlines]({{ 'headlines/' | relative_url }}) and online debates, where "Pentagon released UFO videos" is shortened in public memory to "the Pentagon admitted UFOs are aliens". That is not what either the Navy or the Department of Defense has said.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The aerial phenomena observed in the videos remai...</span></span></span>
 
 The misunderstanding is reinforced because official confirmation is relatively rare in UFO history. When governments authenticate a document or video, audiences may assume they are also endorsing the most dramatic interpretation attached to it. In reality, authentication concerns provenance—whether the material is genuine—not interpretation.
 
@@ -355,7 +355,7 @@ The misunderstanding is reinforced because official confirmation is relatively r
 
 Even within the scientific and technical community, debate continues over aspects of the Navy videos. Independent analysts have proposed explanations involving camera rotation, infrared imaging behaviour, perspective effects and parallax for some apparent extraordinary motion. Others argue that available public data are insufficient to reach firm conclusions either way.
 
-For example, analyses of the GOFAST footage have argued that the object's apparent high speed may largely reflect viewing geometry rather than extreme motion over the ocean. Such analyses do not necessarily identify the object itself; instead, they illustrate how apparent behaviour in a targeting-camera display can differ from an object's actual movement. Recent Pentagon discussions have similarly noted that some apparent extraordinary motion can result from perspective effects while leaving an object's precise identity unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</span></span></span>
+For example, analyses of the GOFAST footage have argued that the object's apparent high speed may largely reflect viewing geometry rather than extreme motion over the ocean. Such analyses do not necessarily identify the object itself; instead, they illustrate how apparent behaviour in a targeting-camera display can differ from an object's actual movement. Recent Pentagon discussions have similarly noted that some apparent extraordinary motion can result from perspective effects while leaving an object's precise identity unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</span></span></span>
 
 This illustrates an important evidential principle: explaining one apparent characteristic does not automatically solve the entire case, but neither does an unresolved identity justify concluding that an extraterrestrial explanation is correct.
 
@@ -366,7 +366,7 @@ This illustrates an important evidential principle: explaining one apparent char
 
 Within the broader debate over UFO advocacy versus UFO evidence, the Navy videos are best understood as a lesson in evidential restraint.
 
-They demonstrate that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stwserve.com">[stwserve.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stwserve.com</span><span class="citation-popover-title">pentagon releases ufo footage and confirms their veracity</span><span class="citation-popover-snippet">Pentagon Releases UFO Footage and Confirms Their...5 May 2020 — The video entitled “Gimbal” features two of the pilots excitedly speakin...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+They demonstrate that:<span class="citation-chip-wrap"><a class="citation-chip" href="https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stwserve.com">[stwserve.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stwserve.com</span><span class="citation-popover-title">pentagon releases ufo footage and confirms their veracity</span><span class="citation-popover-snippet">Pentagon Releases UFO Footage and Confirms Their...5 May 2020 — The video entitled “Gimbal” features two of the pilots excitedly speakin...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
@@ -384,194 +384,194 @@ That distinction is especially important in discussions involving celebrities an
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_navy_videos_release_25b74e-Illustration-3-dark.svg" | relative_url }}" alt="Navy Videos illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_navy_videos_release_25b74e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233_navy_videos_release_25b74e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Real footage is not alien proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Real footage is not alien proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides context for evaluating unexplained aerial observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating unexplained aerial observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Discusses interpretations of reported UFO encounters while distinguishing hypothesis from evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses interpretations of reported UFO encounters while distinguishing hypothesis from evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers military witnesses and official cases closely related to Navy footage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military witnesses and official cases closely related to Navy footage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why authentic footage is not automatically proof of extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why authentic footage is not automatically proof of extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="navy-videos-0316b5-real-footage-is-not-alien-proof-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ That distinction is especially important in discussions involving celebrities an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ That distinction is especially important in discussions involving celebrities an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ That distinction is especially important in discussions involving celebrities an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ That distinction is especially important in discussions involving celebrities an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ That distinction is especially important in discussions involving celebrities an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,131 +777,131 @@ That distinction is especially important in discussions involving celebrities an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: statement by the department of defense on the release of historical navy videos  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The aerial phenomena observed in the videos remai...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The aerial phenomena observed in the videos remai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</p></details>
+   Link:<a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These videos, previously surfaced through The New York Times in 2017, were not initially authorized by the Pentagon, though they were ack...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs are extrater...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs... NASA has not found any credible evidence of extraterrestrial life and there is no evidence that UAPs are extrater...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</p></details>
+   Link:<a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joseph Gradisher, spokesman for the Deputy Chief of Naval Operations, acknowledged the footage as depicting &quot;Unidentified Aerial Phenomen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nasa.gov  
    Title: to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...Sep 12, 2023 — The report is not a review or assessment of previous unidentifiable obs...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...Sep 12, 2023 — The report is not a review or assessment of previous unidentifiable obs...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: navair.navy.mil  
    Title: mil Documents | NAVAIR  
-   Link: <a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NAVAIR - FOIAVideo - GIMBAL.mp4 - Please download. Download · 2023-009866 N0001923F0093... This is an official U.S. Navy Web site. Thi...</p></details>
+   Link:<a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NAVAIR - FOIAVideo - GIMBAL.mp4 - Please download. Download · 2023-009866 N0001923F0093... This is an official U.S. Navy Web site. Thi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: navy confirms ufo videos real  
-   Link: <a href="https://www.history.com/articles/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/navy-confirms-ufo-videos-real</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms UFO Videos Are Real and Show...19 Sept 2019 — “FLIR1” is from November 14, 2004, and “Gimbal” and “GoFast” are from Januar...</p></details>
+   Link:<a href="https://www.history.com/articles/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/navy-confirms-ufo-videos-real</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Confirms UFO Videos Are Real and Show...19 Sept 2019 — “FLIR1” is from November 14, 2004, and “Gimbal” and “GoFast” are from Januar...</p></details>
    Published: November 14, 2004  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War Releases Unidentified Anomalous...8 May 2026 — Today, the Department of War announced the initial release of new, neve...</p></details>
    Published: May 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPentagon declassifies Navy videos that purportedly show...&quot;The Department of Defense has authorized the release of three unclass...</p></details>
+   Link:<a href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPentagon declassifies Navy videos that purportedly show...&quot;The Department of Defense has authorized the release of three unclass...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — The Department of Defense (DOD) authorized the release of three unclassified Navy videos, one ta...</p></details>
+   Link:<a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — The Department of Defense (DOD) authorized the release of three unclassified Navy videos, one ta...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dailymotion.com  
-   Link: <a href="https://www.dailymotion.com/video/xafxeae" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xafxeae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Studying Unidentified Aerial Phenomena aka UFOs...NASA conducts studies of Unidentified Aerial Phenomena (UAP). NASA Associate Admi...</p></details>
+   Link:<a href="https://www.dailymotion.com/video/xafxeae" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/xafxeae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Studying Unidentified Aerial Phenomena aka UFOs...NASA conducts studies of Unidentified Aerial Phenomena (UAP). NASA Associate Admi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+   Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...NASA UAP study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYgUXZHoQgw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYgUXZHoQgw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What exactly was flying there? 🛸 #ufofiles #alienThe most famous clips are known as FLIR1, GIMBAL, and GOFAST. They were recorded by Navy...</p></details>
+   Link:<a href="https://www.instagram.com/p/DYgUXZHoQgw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYgUXZHoQgw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What exactly was flying there? 🛸 #ufofiles #alienThe most famous clips are known as FLIR1, GIMBAL, and GOFAST. They were recorded by Navy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released by US including reports of glowing...The publication of 72 files from the FBI, CIA and Pentagon reveals testimony, vi...</p></details>
+   Link:<a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released by US including reports of glowing...The publication of 72 files from the FBI, CIA and Pentagon reveals testimony, vi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The NASA independent study team did not find any evidence that UAP have an extraterr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA Administrator Bill Nelson said on Thursday that after a yearlong stud...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bR0PaotZxD0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence UAP have extraterrestrial...NASA Administrator Bill Nelson said on Thursday that after a yearlong stud...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: iflscience.com  
    Title: the pentagon has officially released three ufo videos 55853  
-   Link: <a href="https://www.iflscience.com/the-pentagon-has-officially-released-three-ufo-videos-55853" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-pentagon-has-officially-released-three-ufo-videos-55853</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database · AI Aliens: What If Extraterrestrial Life Is Artificially Intelligent? · Why Did...Re...</p></details>
+   Link:<a href="https://www.iflscience.com/the-pentagon-has-officially-released-three-ufo-videos-55853" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/the-pentagon-has-officially-released-three-ufo-videos-55853</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside The US&#x27;s Biggest &quot;Alien&quot; Sighting Database · AI Aliens: What If Extraterrestrial Life Is Artificially Intelligent? · Why Did...Re...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: stwserve.com  
    Title: pentagon releases ufo footage and confirms their veracity  
-   Link: <a href="https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/" target="_blank" rel="noopener noreferrer nofollow">https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases UFO Footage and Confirms Their...5 May 2020 — The video entitled “Gimbal” features two of the pilots excitedly speakin...</p></details>
+   Link:<a href="https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/" target="_blank" rel="noopener noreferrer nofollow">https://stwserve.com/pentagon-releases-ufo-footage-and-confirms-their-veracity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases UFO Footage and Confirms Their...5 May 2020 — The video entitled “Gimbal” features two of the pilots excitedly speakin...</p></details>
    Published: May 2020  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...r/space - NASA panel: No convincing evidence for extraterrestrial life connected with UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...r/space - NASA panel: No convincing evidence for extraterrestrial life connected with UAP...</p></details>

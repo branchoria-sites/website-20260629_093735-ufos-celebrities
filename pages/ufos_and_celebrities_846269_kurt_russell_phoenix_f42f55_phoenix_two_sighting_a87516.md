@@ -280,13 +280,13 @@ image: /assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_ph
 
 ## Introduction
 
-One of the biggest reasons the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) remain controversial is that the name refers to **two different sets of sightings on the same evening**, not one continuous event. The distinction matters because the evidence, witness descriptions and leading explanations differ between them. The **earlier reports** describe a large V-shaped formation travelling across Arizona, while the **later reports** involve a row of bright lights that appeared to hover southwest of Phoenix before gradually disappearing behind the Sierra Estrella mountains. Confusing these two episodes has fuelled decades of arguments, including discussions about actor and pilot Kurt Russell's recollection of [reporting]({{ 'reporting/' | relative_url }}) unusual lights while approaching Phoenix. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+One of the biggest reasons the [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) remain controversial is that the name refers to **two different sets of sightings on the same evening**, not one continuous event. The distinction matters because the evidence, witness descriptions and leading explanations differ between them. The **earlier reports** describe a large V-shaped formation travelling across Arizona, while the **later reports** involve a row of bright lights that appeared to hover southwest of Phoenix before gradually disappearing behind the Sierra Estrella mountains. Confusing these two episodes has fuelled decades of arguments, including discussions about actor and pilot Kurt Russell's recollection of [reporting]({{ 'reporting/' | relative_url }}) unusual lights while approaching Phoenix.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_phoenix_two_sighting_a87516-Illustration-1-dark.svg" | relative_url }}" alt="Two Sightings illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_phoenix_two_sighting_a87516-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_phoenix_two_sighting_a87516-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The early moving V timeline
 
-The first wave of reports began shortly before 8:00 p.m. on 13 March 1997 and unfolded over roughly 45 minutes as sightings progressed from Nevada into Arizona and then southwards. Witnesses from different locations described a formation of lights travelling steadily across the state rather than remaining stationary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+The first wave of reports began shortly before 8:00 p.m. on 13 March 1997 and unfolded over roughly 45 minutes as sightings progressed from Nevada into Arizona and then southwards. Witnesses from different locations described a formation of lights travelling steadily across the state rather than remaining stationary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
 Although descriptions varied, several recurring features appeared in witness testimony:
 
@@ -300,16 +300,16 @@ Although descriptions varied, several recurring features appeared in witness tes
 
 </div>
 
-Because observers viewed the formation from different distances, angles and elevations, descriptions differed considerably. Some witnesses believed they saw individual lights maintaining formation, while others interpreted the darkness between the lights as the outline of a gigantic craft blocking out stars. This difference in perception became one of the central debates surrounding the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+Because observers viewed the formation from different distances, angles and elevations, descriptions differed considerably. Some witnesses believed they saw individual lights maintaining formation, while others interpreted the darkness between the lights as the outline of a gigantic craft blocking out stars. This difference in perception became one of the central debates surrounding the incident.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
-Kurt Russell's later account aligns much more closely with this earlier phase. He recalled seeing six lights in a uniform V formation while on approach to Phoenix Sky Harbor International Airport and reporting them to air-traffic control. His description involves a moving formation rather than stationary lights over the mountains, making it consistent with the first sighting window rather than the later flare event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">“I saw six lights over the airport in absolute uniform in a V shape.Read more</span><span class="citation-popover-snippet">Kurt Russell Was the Pilot Who Reported the Phoenix Lights15 Jun 2017 — As it turns out, Kurt Russell was the pilot who first re...</span></span></span>
+Kurt Russell's later account aligns much more closely with this earlier phase. He recalled seeing six lights in a uniform V formation while on approach to Phoenix Sky Harbor International Airport and reporting them to air-traffic control. His description involves a moving formation rather than stationary lights over the mountains, making it consistent with the first sighting window rather than the later flare event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">“I saw six lights over the airport in absolute uniform in a V shape.Read more</span><span class="citation-popover-snippet">Kurt Russell Was the Pilot Who Reported the Phoenix Lights15 Jun 2017 — As it turns out, Kurt Russell was the pilot who first re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KKDy1QfBlxs" title="The Phoenix Lights: 28 years later, the mystery endures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer">The Phoenix Lights: 28 years later, the mystery endures</a></p><p class="youtube-embed-meta">Channel: ABC15 Arizona &middot; Views: 48.5K &middot; Uploaded: March 2025 &middot; Length: 2 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KKDy1QfBlxs">Open on YouTube</a></p></div></div></div>
 
 ## The later lights near Sierra Estrella
 
-Roughly half an hour after the moving formation had passed, a second phenomenon attracted widespread attention. Between approximately 9:15 and 9:35 p.m. (with some reports extending close to 10:00 p.m.), numerous people around metropolitan Phoenix observed a line of brilliant lights to the south-west near the Sierra Estrella mountain range. Unlike the earlier reports, these lights appeared largely stationary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
+Roughly half an hour after the moving formation had passed, a second phenomenon attracted widespread attention. Between approximately 9:15 and 9:35 p.m. (with some reports extending close to 10:00 p.m.), numerous people around metropolitan Phoenix observed a line of brilliant lights to the south-west near the Sierra Estrella mountain range. Unlike the earlier reports, these lights appeared largely stationary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-snippet">Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</span><span class="citation-popover-meta">Published: June 3, 2024</span></span></span>
 
 This second event became famous because it was extensively photographed and videotaped. The recordings generally show bright points of light maintaining their relative positions before disappearing one after another.
 
@@ -324,7 +324,7 @@ The leading conventional explanation identifies these lights as **LUU-2 illumina
 
 </div>
 
-Military personnel later confirmed flare exercises occurred in the relevant training area that evening, and subsequent analyses compared the recorded videos with known military flare behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+Military personnel later confirmed flare exercises occurred in the relevant training area that evening, and subsequent analyses compared the recorded videos with known military flare behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 Even among researchers who remain unconvinced about the earlier moving formation, the later lights are often regarded as the part of the incident with the strongest conventional explanation.
 
@@ -341,9 +341,9 @@ Several common misconceptions follow from merging the timelines:
 * **Videos versus eyewitnesses.** The best-known footage almost entirely documents the later lights, not the earlier moving formation that many witnesses described.
 * **Movement versus hovering.** [Early reports]({{ 'early-reports/' | relative_url }}) consistently involve motion across hundreds of kilometres, whereas the later lights remained in one general area.
 * **Different evidential strengths.** The flare explanation directly addresses the later recordings but does not automatically explain every report from the earlier sighting window.
-* **Celebrity testimony.** Kurt Russell's recollection is frequently linked to the famous videos, even though his reported timing and description fit the earlier moving formation much better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire+2Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">“I saw six lights over the airport in absolute uniform in a V shape.Read more</span><span class="citation-popover-snippet">Kurt Russell Was the Pilot Who Reported the Phoenix Lights15 Jun 2017 — As it turns out, Kurt Russell was the pilot who first re...</span></span></span>
+* **Celebrity testimony.** Kurt Russell's recollection is frequently linked to the famous videos, even though his reported timing and description fit the earlier moving formation much better.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indiewire.com">[IndieWire+2Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indiewire.com</span><span class="citation-popover-title">“I saw six lights over the airport in absolute uniform in a V shape.Read more</span><span class="citation-popover-snippet">Kurt Russell Was the Pilot Who Reported the Phoenix Lights15 Jun 2017 — As it turns out, Kurt Russell was the pilot who first re...</span></span></span>
 
-This distinction does not prove that the earlier formation represented an extraordinary object. Sceptical investigators have argued that witnesses interpreted a formation of military aircraft as a single immense craft because of perspective, distance and the difficulty of judging size against a dark night sky. Amateur astronomer Mitch Stanley, observing through a telescope, reported seeing aircraft flying in formation rather than a solid object, and this observation has become a key part of the sceptical case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+This distinction does not prove that the earlier formation represented an extraordinary object. Sceptical investigators have argued that witnesses interpreted a formation of military aircraft as a single immense craft because of perspective, distance and the difficulty of judging size against a dark night sky. Amateur astronomer Mitch Stanley, observing through a telescope, reported seeing aircraft flying in formation rather than a solid object, and this observation has become a key part of the sceptical case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0AgLYlhsA8" title="🛸 The Phoenix Lights: America&#x27;s Biggest UFO Mystery | True Story 👽" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0AgLYlhsA8" target="_blank" rel="noopener noreferrer">🛸 The Phoenix Lights: America&#x27;s Biggest UFO Mystery | True Story 👽</a></p><p class="youtube-embed-meta">Channel: PARALOREOLOGY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0AgLYlhsA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0AgLYlhsA8">Open on YouTube</a></p></div></div></div>
@@ -355,7 +355,7 @@ This distinction does not prove that the earlier formation represented an extrao
 
 Separating the two events does not resolve every question surrounding the Phoenix Lights, but it makes the debate substantially clearer.
 
-The later Sierra Estrella lights have a detailed military explanation supported by training records, pilot statements and the behaviour visible in recorded footage. The earlier moving V remains more disputed because it relies primarily on eyewitness testimony gathered across a wide geographical area, with witnesses disagreeing over whether they saw individual aircraft or a single enormous object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+The later Sierra Estrella lights have a detailed military explanation supported by training records, pilot statements and the behaviour visible in recorded footage. The earlier moving V remains more disputed because it relies primarily on eyewitness testimony gathered across a wide geographical area, with witnesses disagreeing over whether they saw individual aircraft or a single enormous object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 Understanding this two-event framework also clarifies the "Kurt Russell memory puzzle." His account contributes to the chronology of the earlier moving formation rather than serving as evidence about the later lights that became famous through television footage. Keeping those two episodes separate avoids comparing different phenomena and helps explain why discussions of the Phoenix Lights often seem to talk past one another.
 
@@ -363,194 +363,194 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_phoenix_two_sighting_a87516-Illustration-3-dark.svg" | relative_url }}" alt="Two Sightings illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_phoenix_two_sighting_a87516-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_phoenix_two_sighting_a87516-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were the Phoenix Lights Two Different Events?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were the Phoenix Lights Two Different Events?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuAJAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
-        </h4>
-        <p class="fr-book-author">By Lynne D. Kitei</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Lights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RuAJAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Lights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Lights">The Phoenix Lights</a>
+</h4>
+<p class="fr-book-author">By Lynne D. Kitei</p>
         
-        <p class="fr-book-desc">Directly examines the Phoenix Lights sightings, witnesses and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines the Phoenix Lights sightings, witnesses and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Lights+by+Lynne+D.+Kitei&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating witness testimony and aviation-related UFO reports such as the Phoenix Lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating witness testimony and aviation-related UFO reports such as the Phoenix Lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains approaches to classifying and assessing UFO reports, useful for understanding disputed sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains approaches to classifying and assessing UFO reports, useful for understanding disputed sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Offers broader interpretive perspectives that complement discussion of famous mass-sighting events like the Phoenix Lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers broader interpretive perspectives that complement discussion of famous mass-sighting events like the Phoenix Lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Lights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Lights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="two-sightings-were-the-phoenix-lights-two-different-events-ufos-and-celebrities-ufo-wall-art-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,70 +756,70 @@ Understanding this two-event framework also clarifies the "Kurt Russell memory p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: indiewire.com  
    Title: “I saw six lights over the airport in absolute uniform in a V shape.Read more  
-   Link: <a href="https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Was the Pilot Who Reported the Phoenix Lights15 Jun 2017 — As it turns out, Kurt Russell was the pilot who first re...</p></details>
+   Link:<a href="https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/" target="_blank" rel="noopener noreferrer nofollow">https://www.indiewire.com/features/general/kurt-russell-phoenix-lights-ufo-1201842807/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Was the Pilot Who Reported the Phoenix Lights15 Jun 2017 — As it turns out, Kurt Russell was the pilot who first re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: phoenixnewtimes.com  
-   Link: <a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</p></details>
+   Link:<a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesPhoenix Lights explained: Everything to know about the...June 3, 2024 — 3 Jun 2024 — The first was a V-shaped formation...</p></details>
    Published: June 3, 2024  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: Kurt Russell's wild encounter with a UFO!  
-   Link: <a href="https://www.facebook.com/TheJonathanRossShow/posts/kurt-russells-wild-encounter-with-a-ufo-kurtrussell-damemaggieaderin-thejrshow/1356432186510148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheJonathanRossShow/posts/kurt-russells-wild-encounter-with-a-ufo-kurtrussell-damemaggieaderin-thejrshow/1356432186510148/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>#kurtrussell...Kurt Russel was the first pilot in flight to report to Phoenix tower about some strange lights on approach. Turns out the...</p></details>
+   Link:<a href="https://www.facebook.com/TheJonathanRossShow/posts/kurt-russells-wild-encounter-with-a-ufo-kurtrussell-damemaggieaderin-thejrshow/1356432186510148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheJonathanRossShow/posts/kurt-russells-wild-encounter-with-a-ufo-kurtrussell-damemaggieaderin-thejrshow/1356432186510148/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#kurtrussell...Kurt Russel was the first pilot in flight to report to Phoenix tower about some strange lights on approach. Turns out the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ok6zPFn42jA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ok6zPFn42jA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20,000 citizens reported seeing the strange object pictured in Dr Kai&#x27;s video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ok6zPFn42jA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ok6zPFn42jA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20,000 citizens reported seeing the strange object pictured in Dr Kai&#x27;s video...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z7i4i_2yLK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7i4i_2yLK0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: America&#x27;s Biggest UFO Mystery | True Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z7i4i_2yLK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7i4i_2yLK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: America&#x27;s Biggest UFO Mystery | True Story...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: motorbiscuit.com  
-   Link: <a href="https://www.motorbiscuit.com/kurt-russell-reported-the-phoenix-lights-ufos-in-1997-but-didnt-realise-it-until-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.motorbiscuit.com/kurt-russell-reported-the-phoenix-lights-ufos-in-1997-but-didnt-realise-it-until-years-later/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Reported the Phoenix Lights UFOs in 1997...12 Mar 2026 — It all happened when a massive triangular craft appeared in the ni...</p></details>
+   Link:<a href="https://www.motorbiscuit.com/kurt-russell-reported-the-phoenix-lights-ufos-in-1997-but-didnt-realise-it-until-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.motorbiscuit.com/kurt-russell-reported-the-phoenix-lights-ufos-in-1997-but-didnt-realise-it-until-years-later/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Reported the Phoenix Lights UFOs in 1997...12 Mar 2026 — It all happened when a massive triangular craft appeared in the ni...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The 911 Operator Who Exposed the Phoenix Lights Cover-Up  
-   Link: <a href="https://www.youtube.com/watch?v=8tPzPCjCi4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8tPzPCjCi4I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights. One of the greatest UFO mysteries returns after years. Is it aliens or a military...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8tPzPCjCi4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8tPzPCjCi4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights. One of the greatest UFO mysteries returns after years. Is it aliens or a military...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox  
-   Link: <a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UBlJlBQdv5w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 911 Operator Who Exposed the Phoenix Lights Cover-Up...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UBlJlBQdv5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 911 Operator Who Exposed the Phoenix Lights Cover-Up...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Phoenix Lights: 28 years later, the mystery endures  
-   Link: <a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKDy1QfBlxs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KKDy1QfBlxs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KKDy1QfBlxs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: patch.com  
-   Link: <a href="https://patch.com/arizona/phoenix/phoenix-lights-kurt-russell-mystery-solved" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/arizona/phoenix/phoenix-lights-kurt-russell-mystery-solved</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights And Kurt Russell: Mystery Solved?14 Jun 2017 — There were at least two distinct sightings - one of which would later...</p></details>
+   Link:<a href="https://patch.com/arizona/phoenix/phoenix-lights-kurt-russell-mystery-solved" target="_blank" rel="noopener noreferrer nofollow">https://patch.com/arizona/phoenix/phoenix-lights-kurt-russell-mystery-solved</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights And Kurt Russell: Mystery Solved?14 Jun 2017 — There were at least two distinct sightings - one of which would later...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Phoenix Lights: America's Biggest UFO Mystery | True Story  
-   Link: <a href="https://www.youtube.com/watch?v=O0AgLYlhsA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0AgLYlhsA8</a>  
+   Link:<a href="https://www.youtube.com/watch?v=O0AgLYlhsA8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O0AgLYlhsA8</a>  

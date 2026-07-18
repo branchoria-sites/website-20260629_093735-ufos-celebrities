@@ -280,15 +280,15 @@ image: /assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_mu
 
 ## Introduction
 
-Among rock bands that have drawn on UFO imagery, Muse stands out because its 2006 song *Exo-Politics* treats an alien invasion less as a literal prediction than as a vehicle for exploring secrecy, propaganda and political manipulation. Rather than presenting extraterrestrials as confirmed reality, the song channels conspiracy culture into a dramatic narrative about governments, [military]({{ 'military/' | relative_url }}) power and public fear. Within Muse's wider catalogue, space and apocalyptic imagery repeatedly function as metaphors for authority, surveillance and psychological control rather than straightforward endorsements of UFO claims. That distinction is important: *Exo-Politics* belongs to a period when frontman Matt Bellamy was openly fascinated by conspiracy theories, but his later comments show a more sceptical and reflective attitude towards those interests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black Holes and Revelations</span><span class="citation-popover-snippet">May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Among rock bands that have drawn on UFO imagery, Muse stands out because its 2006 song *Exo-Politics* treats an alien invasion less as a literal prediction than as a vehicle for exploring secrecy, propaganda and political manipulation. Rather than presenting extraterrestrials as confirmed reality, the song channels conspiracy culture into a dramatic narrative about governments, [military]({{ 'military/' | relative_url }}) power and public fear. Within Muse's wider catalogue, space and apocalyptic imagery repeatedly function as metaphors for authority, surveillance and psychological control rather than straightforward endorsements of UFO claims. That distinction is important: *Exo-Politics* belongs to a period when frontman Matt Bellamy was openly fascinated by conspiracy theories, but his later comments show a more sceptical and reflective attitude towards those interests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black Holes and Revelations</span><span class="citation-popover-snippet">May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-1-dark.svg" | relative_url }}" alt="Exo Politics illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why *Exo-Politics* is about paranoia rather than proof
 
-The title references the fringe idea that governments secretly manage relations with extraterrestrial civilisations. However, the song itself is structured around uncertainty and manipulation rather than evidence. Its lyrics ask whether listeners will "free your mind" or remain "hypnotised", while imagined "Zetas" and military satellites become symbols of hidden power instead of documented alien visitors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://readdork.com/lyrics/muse-exo-politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readdork.com">[Readdork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readdork.com</span><span class="citation-popover-snippet">Exo-Politics Lyrics — MuseOpen the skies over me I am waiting patiently I&#x27;ll wait for a sign As conspiracies unwind Will you slam...</span></span></span>
+The title references the fringe idea that governments secretly manage relations with extraterrestrial civilisations. However, the song itself is structured around uncertainty and manipulation rather than evidence. Its lyrics ask whether listeners will "free your mind" or remain "hypnotised", while imagined "Zetas" and military satellites become symbols of hidden power instead of documented alien visitors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://readdork.com/lyrics/muse-exo-politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readdork.com">[Readdork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readdork.com</span><span class="citation-popover-snippet">Exo-Politics Lyrics — MuseOpen the skies over me I am waiting patiently I&#x27;ll wait for a sign As conspiracies unwind Will you slam...</span></span></span>
 
-Bellamy explained the song in interviews around the release of *Black Holes and Revelations* as describing "an orchestrated alien invasion" used to justify expanded military spending and space-based weapons. In that framing, the real subject is not extraterrestrials but the political exploitation of fear. References to psychological operations, classified military projects and secrecy place the imagined invasion within a broader critique of governments manufacturing external threats to consolidate authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black Holes and Revelations</span><span class="citation-popover-snippet">May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+Bellamy explained the song in interviews around the release of *Black Holes and Revelations* as describing "an orchestrated alien invasion" used to justify expanded military spending and space-based weapons. In that framing, the real subject is not extraterrestrials but the political exploitation of fear. References to psychological operations, classified military projects and secrecy place the imagined invasion within a broader critique of governments manufacturing external threats to consolidate authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black Holes and Revelations</span><span class="citation-popover-snippet">May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
 This approach differs from musicians who present UFO encounters as personal experiences. Instead of asking audiences to believe that aliens are arriving, Muse asks what would happen if leaders used such a story to shape public behaviour.
 
@@ -297,11 +297,11 @@ This approach differs from musicians who present UFO encounters as personal expe
 
 ## Matt Bellamy's conspiracy interests around the song
 
-During the early and mid-2000s, Bellamy frequently discussed books and theories involving hidden power structures, unexplained phenomena and government secrecy. Those interests influenced much of *Black Holes and Revelations*, which also includes songs attacking corruption, war and authoritarian politics. Bellamy described the unknown as a fertile source for imagination, making conspiracy narratives attractive as artistic material even when they remained speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Matt_Bellamy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Matt Bellamy</span><span class="citation-popover-snippet">Matt Bellamy</span></span></span>
+During the early and mid-2000s, Bellamy frequently discussed books and theories involving hidden power structures, unexplained phenomena and government secrecy. Those interests influenced much of *Black Holes and Revelations*, which also includes songs attacking corruption, war and authoritarian politics. Bellamy described the unknown as a fertile source for imagination, making conspiracy narratives attractive as artistic material even when they remained speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Matt_Bellamy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Matt Bellamy</span><span class="citation-popover-snippet">Matt Bellamy</span></span></span>
 
-Over time, however, his public position evolved. By 2012 he expressed discomfort that some conspiracy-minded audiences, particularly on the American political right, had embraced Muse's songs as literal political anthems. He argued that conspiracy culture had been appropriated for partisan purposes and rejected attempts to use "Uprising" in political rallies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2012/sep/28/muse-rightwing-conspiracy-theorists-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">muse rightwing conspiracy theorists music</span><span class="citation-popover-snippet">The GuardianMuse: US rightwing conspiracy theorists tried to hijack our...Sep 28, 2012 — Matt Bellamy tells the Observer that his band t...</span></span></span>
+Over time, however, his public position evolved. By 2012 he expressed discomfort that some conspiracy-minded audiences, particularly on the American political right, had embraced Muse's songs as literal political anthems. He argued that conspiracy culture had been appropriated for partisan purposes and rejected attempts to use "Uprising" in political rallies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2012/sep/28/muse-rightwing-conspiracy-theorists-music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">muse rightwing conspiracy theorists music</span><span class="citation-popover-snippet">The GuardianMuse: US rightwing conspiracy theorists tried to hijack our...Sep 28, 2012 — Matt Bellamy tells the Observer that his band t...</span></span></span>
 
-A decade later Bellamy reflected even more critically on his earlier fascination. He described himself as having become "far more rational and empirical", arguing that conspiracy theories can provide false comfort by suggesting that powerful [actors]({{ 'actors/' | relative_url }}) secretly control events when reality is often more chaotic. Rather than abandoning dystopian themes, he reframed them as ways of exploring anxiety instead of promoting conspiratorial worldviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2022/aug/05/muses-matt-bellamy-ive-got-to-an-age-where-im-not-so-titillated-by-disaster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">muses matt bellamy ive got to an age where im not so titillated by disaster</span><span class="citation-popover-snippet">The GuardianMuse&#x27;s Matt Bellamy: &#x27;I&#x27;ve got to an age where I&#x27;m not so ...Aug 5, 2022 — Frontman Bellamy talks about the return of his dys...</span></span></span>
+A decade later Bellamy reflected even more critically on his earlier fascination. He described himself as having become "far more rational and empirical", arguing that conspiracy theories can provide false comfort by suggesting that powerful [actors]({{ 'actors/' | relative_url }}) secretly control events when reality is often more chaotic. Rather than abandoning dystopian themes, he reframed them as ways of exploring anxiety instead of promoting conspiratorial worldviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2022/aug/05/muses-matt-bellamy-ive-got-to-an-age-where-im-not-so-titillated-by-disaster" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">muses matt bellamy ive got to an age where im not so titillated by disaster</span><span class="citation-popover-snippet">The GuardianMuse&#x27;s Matt Bellamy: &#x27;I&#x27;ve got to an age where I&#x27;m not so ...Aug 5, 2022 — Frontman Bellamy talks about the return of his dys...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-2-dark.svg" | relative_url }}" alt="Exo Politics illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,7 +312,7 @@ Reading *Exo-Politics* purely as an alien song misses its central mechanism. The
 * **Invisible authority:** unseen alien forces mirror opaque political institutions and secret decision-making.
 * **Manufactured fear:** the imagined invasion reflects concerns that governments can exploit external threats to justify surveillance or military expansion.
 * **Mass psychology:** recurring references to hypnosis and manipulation suggest that information control may be more dangerous than any physical invasion.
-* **Loss of agency:** ordinary people become spectators waiting for explanations from leaders who may never tell the truth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.musewiki.org/Exo-Politics_%28song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musewiki.org">[MuseWiki+2Readdork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musewiki.org</span><span class="citation-popover-title">Exo Politics (song</span><span class="citation-popover-snippet">Exo-Politics (song)Jan 18, 2022 — The song is about the inhabitants of the Zeta Reticuli Star System invading Earth, or as Matt s...</span></span></span>
+* **Loss of agency:** ordinary people become spectators waiting for explanations from leaders who may never tell the truth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.musewiki.org/Exo-Politics_%28song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: musewiki.org">[MuseWiki+2Readdork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">musewiki.org</span><span class="citation-popover-title">Exo Politics (song</span><span class="citation-popover-snippet">Exo-Politics (song)Jan 18, 2022 — The song is about the inhabitants of the Zeta Reticuli Star System invading Earth, or as Matt s...</span></span></span>
 
 In this sense, the aliens are dramatically useful because they externalise political paranoia. Whether extraterrestrials exist becomes less important than the emotional experience of wondering who controls the narrative.
 
@@ -323,9 +323,9 @@ In this sense, the aliens are dramatically useful because they externalise polit
 
 *Exo-Politics* fits into a broader pattern across Muse's work. Albums from *Black Holes and Revelations* onwards repeatedly combine cosmic imagery with themes of authoritarianism, war, technological domination and social collapse. Space functions as an imaginative setting that magnifies human conflicts rather than replacing them.
 
-This pattern extends beyond a single song. *Take a Bow* attacks corrupt leadership, *Assassin* explores revolt against oppressive systems, while later albums such as *The Resistance* and *Drones* continue examining surveillance, propaganda and loss of autonomy through increasingly cinematic science-fiction imagery. The extraterrestrial references therefore work alongside dystopian politics instead of standing apart from them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black Holes and Revelations</span><span class="citation-popover-snippet">May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+This pattern extends beyond a single song. *Take a Bow* attacks corrupt leadership, *Assassin* explores revolt against oppressive systems, while later albums such as *The Resistance* and *Drones* continue examining surveillance, propaganda and loss of autonomy through increasingly cinematic science-fiction imagery. The extraterrestrial references therefore work alongside dystopian politics instead of standing apart from them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Black Holes and Revelations</span><span class="citation-popover-snippet">May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-Even Bellamy's more recent writing retains cosmic symbolism while changing its emphasis. Discussing Muse's 2026 album *The Wow! Signal*, he described alien intelligence, spirituality and unexplained phenomena as expressions of humanity's search for meaning rather than political conspiracy. That shift highlights how space imagery has remained central to Muse while becoming less tied to literal conspiratorial thinking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tvandshowbiz/39547543/muse-matt-bellamy-tenth-album-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Signal,&quot; revealing it emerged from a deeply personal period involving his separation from model Elle Evans and his experience as a full-t...</span></span></span>
+Even Bellamy's more recent writing retains cosmic symbolism while changing its emphasis. Discussing Muse's 2026 album *The Wow! Signal*, he described alien intelligence, spirituality and unexplained phenomena as expressions of humanity's search for meaning rather than political conspiracy. That shift highlights how space imagery has remained central to Muse while becoming less tied to literal conspiratorial thinking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tvandshowbiz/39547543/muse-matt-bellamy-tenth-album-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-snippet">Signal,&quot; revealing it emerged from a deeply personal period involving his separation from model Elle Evans and his experience as a full-t...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-3-dark.svg" | relative_url }}" alt="Exo Politics illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_muse_exopolitics_par_cbb55f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -340,191 +340,191 @@ That ambiguity helps explain the song's lasting appeal. Listeners interested in 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Muse Turned UFOs Into Paranoia. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Muse Turned UFOs Into Paranoia. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Background on real UAP discussions versus artistic themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Background on real UAP discussions versus artistic themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Modern context for UFO debates that influenced popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Modern context for UFO debates that influenced popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Counterpoint to conspiracy and UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counterpoint to conspiracy and UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Okg6WBbMjzQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Provides context for conspiracy ideas reflected in the song.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for conspiracy ideas reflected in the song.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Black Holes and Revelations  
-   Link: <a href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_Holes_and_Revelations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Black_Holes_and_Revelations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Black_Holes_and_Revelations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — These themes are carried in the tracks &quot;Exo-Politics&quot; and &quot;Assassin&quot;. Bellamy said &quot;Exo-Politics&quot; describes an “orchestrate...</p></details>
    Published: May 8, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: readdork.com  
-   Link: <a href="https://readdork.com/lyrics/muse-exo-politics" target="_blank" rel="noopener noreferrer nofollow">https://readdork.com/lyrics/muse-exo-politics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-Politics Lyrics — MuseOpen the skies over me I am waiting patiently I&#x27;ll wait for a sign As conspiracies unwind Will you slam...</p></details>
+   Link:<a href="https://readdork.com/lyrics/muse-exo-politics" target="_blank" rel="noopener noreferrer nofollow">https://readdork.com/lyrics/muse-exo-politics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-Politics Lyrics — MuseOpen the skies over me I am waiting patiently I&#x27;ll wait for a sign As conspiracies unwind Will you slam...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: musewiki.org  
    Title: Exo Politics (song)  
-   Link: <a href="https://www.musewiki.org/Exo-Politics_%28song%29" target="_blank" rel="noopener noreferrer nofollow">https://www.musewiki.org/Exo-Politics_%28song%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-Politics (song)Jan 18, 2022 — The song is about the inhabitants of the Zeta Reticuli Star System invading Earth, or as Matt s...</p></details>
+   Link:<a href="https://www.musewiki.org/Exo-Politics_%28song%29" target="_blank" rel="noopener noreferrer nofollow">https://www.musewiki.org/Exo-Politics_%28song%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-Politics (song)Jan 18, 2022 — The song is about the inhabitants of the Zeta Reticuli Star System invading Earth, or as Matt s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Matt Bellamy  
-   Link: <a href="https://en.wikipedia.org/wiki/Matt_Bellamy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matt_Bellamy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Matt_Bellamy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matt_Bellamy</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Muse (band)  
-   Link: <a href="https://en.wikipedia.org/wiki/Muse_%28band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muse_%28band%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Muse_%28band%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Muse_%28band%29</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
    Title: muses matt bellamy ive got to an age where im not so titillated by disaster  
-   Link: <a href="https://www.theguardian.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMuse&#x27;s Matt Bellamy: &#x27;I&#x27;ve got to an age where I&#x27;m not so...Aug 5, 2022 — Frontman Bellamy talks about the return of his dys...</p></details>
+   Link:<a href="https://www.theguardian.com/[music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMuse&#x27;s Matt Bellamy: &#x27;I&#x27;ve got to an age where I&#x27;m not so...Aug 5, 2022 — Frontman Bellamy talks about the return of his dys...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: muse rightwing conspiracy theorists music  
-   Link: <a href="https://www.theguardian.com/music/2012/sep/28/muse-rightwing-conspiracy-theorists-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2012/sep/28/muse-rightwing-conspiracy-theorists-music</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMuse: US rightwing conspiracy theorists tried to hijack our...Sep 28, 2012 — Matt Bellamy tells the Observer that his band t...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2012/sep/28/muse-rightwing-conspiracy-theorists-music" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2012/sep/28/muse-rightwing-conspiracy-theorists-music</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianMuse: US rightwing conspiracy theorists tried to hijack our...Sep 28, 2012 — Matt Bellamy tells the Observer that his band t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thesun.co.uk  
-   Link: <a href="https://www.thesun.co.uk/tvandshowbiz/39547543/muse-matt-bellamy-tenth-album-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tvandshowbiz/39547543/muse-matt-bellamy-tenth-album-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signal,&quot; revealing it emerged from a deeply personal period involving his separation from model Elle Evans and his experience as a full-t...</p></details>
+   Link:<a href="https://www.thesun.co.uk/tvandshowbiz/39547543/muse-matt-bellamy-tenth-album-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tvandshowbiz/39547543/muse-matt-bellamy-tenth-album-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signal,&quot; revealing it emerged from a deeply personal period involving his separation from model Elle Evans and his experience as a full-t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian Muse: The Wow!  
-   Link: <a href="https://www.theguardian.com/music/2026/jun/25/muse-the-wow-signal-review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/jun/25/muse-the-wow-signal-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signal review - stupendous space-rock silliness... yet somehow surprisingly subtle?Muse’s 10th album, *The Wow! Signal*, marks a dramati...</p></details>
+   Link:<a href="https://www.theguardian.com/music/2026/jun/25/muse-the-wow-signal-review" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2026/jun/25/muse-the-wow-signal-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signal review - stupendous space-rock silliness... yet somehow surprisingly subtle?Muse’s 10th album, *The Wow! Signal*, marks a dramati...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/muse/posts/matt-bellamy-speaks-with-siriusxm-on-metal-influences-on-willofthepeople-prince-/628669358624190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/muse/posts/matt-bellamy-speaks-with-siriusxm-on-metal-influences-on-willofthepeople-prince-/628669358624190/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Bellamy speaks with SiriusXM on metal influences on...Matt Bellamy speaks with SiriusXM on metal influences on #WillOfThePeople, Pr...</p></details>
+   Link:<a href="https://www.facebook.com/muse/posts/matt-bellamy-speaks-with-siriusxm-on-metal-influences-on-willofthepeople-prince-/628669358624190/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/muse/posts/matt-bellamy-speaks-with-siriusxm-on-metal-influences-on-willofthepeople-prince-/628669358624190/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Bellamy speaks with SiriusXM on metal influences on...Matt Bellamy speaks with SiriusXM on metal influences on #WillOfThePeople, Pr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lYLH5AXzxv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lYLH5AXzxv0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Bellamy on Prince, &#x27;Full Metal Jacket,&#x27; RATM &amp; Muse&#x27;s...Matt Bellamy of Muse joins SiriusXM for an edition of &#x27;Behind The Tracks&#x27; t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lYLH5AXzxv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lYLH5AXzxv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Bellamy on Prince, &#x27;Full Metal Jacket,&#x27; RATM &amp; Muse&#x27;s...Matt Bellamy of Muse joins SiriusXM for an edition of &#x27;Behind The Tracks&#x27; t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DN-KA7vDCcA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DN-KA7vDCcA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-Politics is a dark gem in Muse&#x27;s universe, brooding...Aug 30, 2025 — It&#x27;s less about breaking free and more about knowing you&#x27;re tr...</p></details>
+   Link:<a href="https://www.instagram.com/p/DN-KA7vDCcA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DN-KA7vDCcA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-Politics is a dark gem in Muse&#x27;s universe, brooding...Aug 30, 2025 — It&#x27;s less about breaking free and more about knowing you&#x27;re tr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Muse The Resistance Making of (FULL HD IA UPSCALE)  
-   Link: <a href="https://www.youtube.com/watch?v=Ox2eZ7W2ndA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ox2eZ7W2ndA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muse Exo-Politics live explanation conspiracy interview Back when Muse&#x27;s Matt Bellamy told us the creative process behind ‘Simulation The...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ox2eZ7W2ndA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ox2eZ7W2ndA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muse Exo-Politics live explanation conspiracy interview Back when Muse&#x27;s Matt Bellamy told us the creative process behind ‘Simulation The...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-ZCFhE8VILI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ZCFhE8VILI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Bellamy on making &#x27;Knights Of Cydonia&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-ZCFhE8VILI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-ZCFhE8VILI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Bellamy on making &#x27;Knights Of Cydonia&#x27;...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: How MUSE wrote a space rock opera  
-   Link: <a href="https://www.youtube.com/watch?v=S6-hYj7Pr1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S6-hYj7Pr1s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rich Costey Producing &amp; Real-Time Mixing ’Supermassive Black Hole’ by Muse | Trailer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S6-hYj7Pr1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S6-hYj7Pr1s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rich Costey Producing &amp; Real-Time Mixing ’Supermassive Black Hole’ by Muse | Trailer...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Glenn Beck on the music and lyrics of Muse  
-   Link: <a href="https://www.youtube.com/watch?v=MbWeYjvAT-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MbWeYjvAT-E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muse The Resistance Making of (FULL HD IA UPSCALE)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MbWeYjvAT-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MbWeYjvAT-E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Muse The Resistance Making of (FULL HD IA UPSCALE)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Matt Bellamy on making 'Knights Of Cydonia'  
-   Link: <a href="https://www.youtube.com/watch?v=76PPQPs1nPA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=76PPQPs1nPA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Beck on the music and lyrics of Muse...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=76PPQPs1nPA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=76PPQPs1nPA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Beck on the music and lyrics of Muse...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KAkhzJCzDTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KAkhzJCzDTc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-PoliticsProvided to YouTube by Warner Records Exo-Politics · Muse Black Holes and Revelations ℗ 2006 A&amp;E Records Limited Assistant Re...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KAkhzJCzDTc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KAkhzJCzDTc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exo-PoliticsProvided to YouTube by Warner Records Exo-Politics · Muse Black Holes and Revelations ℗ 2006 A&amp;E Records Limited Assistant Re...</p></details>

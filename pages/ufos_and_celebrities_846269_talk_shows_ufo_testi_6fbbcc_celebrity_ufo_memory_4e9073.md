@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_ce
 
 ## Introduction
 
-Celebrity UFO stories often reach the public years or even decades after the alleged event, by which time the account may have been told repeatedly in interviews, podcasts, memoirs and late-night television appearances. Cognitive psychology offers an important explanation for why these narratives can become more polished over time without becoming more historically reliable. Memory is not a recording that is replayed unchanged. Each act of remembering involves reconstruction, and every retelling creates opportunities for details to be strengthened, omitted, reorganised or influenced by later information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+Celebrity UFO stories often reach the public years or even decades after the alleged event, by which time the account may have been told repeatedly in interviews, podcasts, memoirs and late-night television appearances. Cognitive psychology offers an important explanation for why these narratives can become more polished over time without becoming more historically reliable. Memory is not a recording that is replayed unchanged. Each act of remembering involves reconstruction, and every retelling creates opportunities for details to be strengthened, omitted, reorganised or influenced by later information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_celebrity_ufo_memory_4e9073-Illustration-1-dark.svg" | relative_url }}" alt="Memory Drift illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_celebrity_ufo_memory_4e9073-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_celebrity_ufo_memory_4e9073-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ This does not mean that celebrity witnesses are dishonest. A person can sincerel
 
 ## Delay, retelling and post-event influence
 
-One of the strongest findings in memory research is that recollection is vulnerable to post-event information. Details encountered after an experience—including conversations, interviews, [documentaries]({{ 'documentaries/' | relative_url }}), [headlines]({{ 'headlines/' | relative_url }}) and other people's interpretations—can become integrated into the remembered event itself. Psychologists describe this as the misinformation effect or, more broadly, a failure of source monitoring, where people become less certain whether a detail came from direct experience or from something learned later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Kent State University Personal Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+One of the strongest findings in memory research is that recollection is vulnerable to post-event information. Details encountered after an experience—including conversations, interviews, [documentaries]({{ 'documentaries/' | relative_url }}), [headlines]({{ 'headlines/' | relative_url }}) and other people's interpretations—can become integrated into the remembered event itself. Psychologists describe this as the misinformation effect or, more broadly, a failure of source monitoring, where people become less certain whether a detail came from direct experience or from something learned later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Kent State University Personal Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 For celebrity UFO accounts, several factors increase the opportunity for this process:
 
@@ -302,7 +302,7 @@ For celebrity UFO accounts, several factors increase the opportunity for this pr
 
 </div>
 
-Importantly, research does not suggest that every repeated story becomes inaccurate. Rather, it shows that memories remain editable. Later information can reinforce correct details, but it can also introduce distortions that feel just as vivid as genuine recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
+Importantly, research does not suggest that every repeated story becomes inaccurate. Rather, it shows that memories remain editable. Later information can reinforce correct details, but it can also introduce distortions that feel just as vivid as genuine recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</span></span></span>
 
 This helps explain why investigators generally place greater weight on contemporaneous notes, photographs, radar records or independently collected testimony than on recollections first described decades later.
 
@@ -315,7 +315,7 @@ Late-night television creates an additional memory dynamic. Once a celebrity tel
 
 A three-minute television segment is easier to remember than an uncertain, hour-long conversation. The celebrity also tends to revisit the same sequence of events in future appearances because it has already proved successful with audiences. Instead of reconstructing the original experience from scratch, they may increasingly reconstruct the previous public telling of it.
 
-Memory researchers describe remembering as a reconstructive process rather than simple playback. Each retrieval can strengthen the currently remembered version, including any changes that have accumulated since the original event. This process is often discussed alongside memory reconsolidation, in which recalled memories become open to updating before being stored again. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+Memory researchers describe remembering as a reconstructive process rather than simple playback. Each retrieval can strengthen the currently remembered version, including any changes that have accumulated since the original event. This process is often discussed alongside memory reconsolidation, in which recalled memories become open to updating before being stored again.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
 As a result, repeated media appearances may produce stories that become:
 
@@ -339,7 +339,7 @@ A common misunderstanding in UFO debates is that only two explanations exist: ei
 
 Memory science rejects this simple choice.
 
-Research on eyewitness testimony consistently shows that honest people can confidently report memories that have shifted over time through normal cognitive processes. Confidence, emotional vividness and narrative fluency are only weak indicators of objective accuracy. Even highly memorable experiences can acquire altered details through repeated recall and exposure to later information. Kent State University Personal Page+2Cambridge University Press &amp; Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: personal.kent.edu">[personal.kent.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">personal.kent.edu</span><span class="citation-popover-snippet">Kent State University Personal PageMisinformation Effects and the Suggestibility of Eyewitness...by MS Zaragoza · Cited by 228 — In this...</span></span></span>
+Research on eyewitness testimony consistently shows that honest people can confidently report memories that have shifted over time through normal cognitive processes. Confidence, emotional vividness and narrative fluency are only weak indicators of objective accuracy. Even highly memorable experiences can acquire altered details through repeated recall and exposure to later information. Kent State University Personal Page+2Cambridge University Press &amp; Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: personal.kent.edu">[personal.kent.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">personal.kent.edu</span><span class="citation-popover-snippet">Kent State University Personal PageMisinformation Effects and the Suggestibility of Eyewitness...by MS Zaragoza · Cited by 228 — In this...</span></span></span>
 
 This distinction is particularly relevant for celebrities because they often recount unusual experiences in environments designed for storytelling rather than forensic reconstruction. A polished anecdote may therefore reveal more about how the memory has stabilised socially than about the exact sequence of events on the original night.
 
@@ -355,7 +355,7 @@ These are not contradictory positions but established possibilities within cogni
 
 ## Why polished stories are not automatically stronger evidence
 
-Over time, many narratives become easier to follow. Missing transitions are filled in, uncertain timings become approximate certainties and peripheral details disappear. British psychologist Frederic Bartlett demonstrated nearly a century ago that repeated retelling naturally reshapes stories into more coherent forms that better fit existing expectations and knowledge. Later work on eyewitness memory has repeatedly confirmed that remembering is constructive rather than purely reproductive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
+Over time, many narratives become easier to follow. Missing transitions are filled in, uncertain timings become approximate certainties and peripheral details disappear. British psychologist Frederic Bartlett demonstrated nearly a century ago that repeated retelling naturally reshapes stories into more coherent forms that better fit existing expectations and knowledge. Later work on eyewitness memory has repeatedly confirmed that remembering is constructive rather than purely reproductive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Eyewitness testimony</span><span class="citation-popover-snippet">Eyewitness testimony</span></span></span>
 
 For celebrity UFO testimony, this means a later account may sound more convincing than an earlier one simply because it has undergone years of rehearsal. The improvement is often one of presentation rather than verification.
 
@@ -388,194 +388,194 @@ Seen in this light, late-night television does more than popularise UFO stories.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Memories Get Cleaner Over Time. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Memories Get Cleaner Over Time. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Directly supports discussion of memory changes through repeated retelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports discussion of memory changes through repeated retelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Shows how sincere accounts evolve without intentional deception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how sincere accounts evolve without intentional deception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Reinforces evidence-based evaluation of extraordinary testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces evidence-based evaluation of extraordinary testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eyewitness Testimony on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WgcsAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Eyewitness Testimony" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyewitness Testimony">Eyewitness Testimony</a>
+</h4>
+<p class="fr-book-author">By Elizabeth F. Loftus, James M. Doyle</p>
         
-        <p class="fr-book-desc">Explains reconstruction and post-event influence on recollection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reconstruction and post-event influence on recollection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eyewitness+Testimony+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mistakes Were Made (but Not by Me) Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="memory-drift-why-ufo-memories-get-cleaner-over-time-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ Seen in this light, late-night television does more than popularise UFO stories.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ Seen in this light, late-night television does more than popularise UFO stories.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ Seen in this light, late-night television does more than popularise UFO stories.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ Seen in this light, late-night television does more than popularise UFO stories.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ Seen in this light, late-night television does more than popularise UFO stories.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,75 +781,75 @@ Seen in this light, late-night television does more than popularise UFO stories.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMemory source monitoring and eyewitness testimonyWhen called upon to testify, eyewitnesses must di...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/D91E27C9DBCF5DA8E21FAAC672E3C263/9780511759192c2_p27-55_CBO.pdf/memory-source-monitoring-and-eyewitness-testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMemory source monitoring and eyewitness testimonyWhen called upon to testify, eyewitnesses must di...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: personal.kent.edu  
-   Link: <a href="https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent State University Personal PageMisinformation Effects and the Suggestibility of Eyewitness...by MS Zaragoza · Cited by 228 — In this...</p></details>
+   Link:<a href="https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.personal.kent.edu/~mzaragoz/publications/Zaragoza%20chapter%204%20Garry%20Hayne.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kent State University Personal PageMisinformation Effects and the Suggestibility of Eyewitness...by MS Zaragoza · Cited by 228 — In this...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Eyewitness testimony  
-   Link: <a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eyewitness_testimony" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eyewitness_testimony</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Behavioral Account of the Misinformation Effect  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Challies · 2011 · Cited by 34 — One cognitive account of the misinformation effect is that memory errors are due to source monit...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>News as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the misinformation effect ha...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>News as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the misinformation effect ha...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: academicworks.cuny.edu  
-   Link: <a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source monitoring model suggests...</p></details>
+   Link:<a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1018&amp;context=jj_etds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implicit Post-Event Information Influence Explicit...by HS Chau · 2017 — In the eyewitness setting, the source monitoring model suggests...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchportal.port.ac.uk  
-   Link: <a href="https://researchportal.port.ac.uk/files/2806324/How_to_protect_eyewitness_memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/2806324/How_to_protect_eyewitness_memory.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus&#x27;...Read more...</p></details>
+   Link:<a href="https://researchportal.port.ac.uk/files/2806324/How_to_protect_eyewitness_memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/files/2806324/How_to_protect_eyewitness_memory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loftus&#x27;...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Your Brain Destroys Your Memories Every Time You Access Them  
-   Link: <a href="https://www.youtube.com/watch?v=ycUpNLdUIx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ycUpNLdUIx4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Every Memory You Have is a Reconstruction...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ycUpNLdUIx4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ycUpNLdUIx4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Every Memory You Have is a Reconstruction...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How reliable is your memory? | Elizabeth Loftus  
-   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Brain Destroys Your Memories Every Time You Access Them...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your Brain Destroys Your Memories Every Time You Access Them...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: False Memories and the Misinformation Effect  
-   Link: <a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epXmFjTqWeU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth Loftus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=epXmFjTqWeU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=epXmFjTqWeU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth Loftus...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Why Every Memory You Have is a Reconstruction  
-   Link: <a href="https://www.youtube.com/watch?v=RwBtp5Oc6KU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RwBtp5Oc6KU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Psychology Behind Misinformation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RwBtp5Oc6KU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RwBtp5Oc6KU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Bizarre Psychology Behind Misinformation...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Bizarre Psychology Behind Misinformation  
-   Link: <a href="https://www.youtube.com/watch?v=1QT15Ab7ctU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1QT15Ab7ctU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=1QT15Ab7ctU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1QT15Ab7ctU</a>  

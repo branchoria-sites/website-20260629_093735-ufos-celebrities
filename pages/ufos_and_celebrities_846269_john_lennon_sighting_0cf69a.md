@@ -454,9 +454,9 @@ John Lennon’s UFO sighting is famous because it sits at the junction of Beatle
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a-overview.webp" | relative_url }}" alt="Overview image for Lennon Sighting" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1974 Sutton Place Account
 
-The sighting is usually dated to the evening of 23 August 1974, while Lennon and Pang were living in Manhattan during the period Lennon later called his “Lost Weekend”. The official John Lennon site gives the central documentary anchor: the *Walls and Bridges* album page reproduces the note, “On the 23rd Aug. 1974 at 9o’clock I saw a U.F.O. J.L.”, and identifies the album’s first release as 26 September 1974. That is important because it shows Lennon placed the claim in a public artefact almost immediately, rather than only in a much later memoir culture around him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track &amp; cassette. 1987...Read more...</span><span class="citation-popover-meta">Published: September 1974</span></span></span>
+The sighting is usually dated to the evening of 23 August 1974, while Lennon and Pang were living in Manhattan during the period Lennon later called his “Lost Weekend”. The official John Lennon site gives the central documentary anchor: the *Walls and Bridges* album page reproduces the note, “On the 23rd Aug. 1974 at 9o’clock I saw a U.F.O. J.L.”, and identifies the album’s first release as 26 September 1974. That is important because it shows Lennon placed the claim in a public artefact almost immediately, rather than only in a much later memoir culture around him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track &amp; cassette. 1987...Read more...</span><span class="citation-popover-meta">Published: September 1974</span></span></span>
 
-Most later accounts locate the sighting around Lennon and Pang’s apartment at 434 East 52nd Street, near the East River, with a view across towards Queens. The Beatles Bible, a long-running Beatles reference site, summarises the familiar version: Lennon and Pang saw a circular or saucer-like object with lights, tried to photograph it, and the incident later became linked to Lennon’s [album note]({{ 'album-note/' | relative_url }}) and to the lyric “There’s UFOs over New York and I ain’t too surprised” in “[Nobody Told Me]({{ 'nobody-told-me/' | relative_url }})”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">john lennon sees ufo new york city</span><span class="citation-popover-snippet">john lennon sees ufo new york city</span></span></span>
+Most later accounts locate the sighting around Lennon and Pang’s apartment at 434 East 52nd Street, near the East River, with a view across towards Queens. The Beatles Bible, a long-running Beatles reference site, summarises the familiar version: Lennon and Pang saw a circular or saucer-like object with lights, tried to photograph it, and the incident later became linked to Lennon’s [album note]({{ 'album-note/' | relative_url }}) and to the lyric “There’s UFOs over New York and I ain’t too surprised” in “[Nobody Told Me]({{ 'nobody-told-me/' | relative_url }})”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesbible.com">[The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesbible.com</span><span class="citation-popover-title">john lennon sees ufo new york city</span><span class="citation-popover-snippet">john lennon sees ufo new york city</span></span></span>
 
 The account’s vividness is part of why it endures. Pang has described an object with white lights around its rim and a red light, apparently moving silently and low over nearby buildings. Entertainment and Beatles-history retellings also include details about Lennon calling photographer Bob Gruen, attempts to take photographs, and reports that other people had called police or newspapers about a sighting in the same area. These details make the story memorable, but they do not automatically make it testable. The available public versions are filtered through memoir, fan history, interviews and retrospective journalism rather than a complete contemporary investigative record.
 
@@ -470,9 +470,9 @@ May Pang is the key reason Lennon’s sighting is not simply a one-person celebr
 
 But Pang’s testimony also has limits. She was not an unrelated observer standing elsewhere in the city; she was Lennon’s partner, in the same setting, responding to the same stimulus. That still counts as corroboration of an experience, but not as the strongest kind of independent confirmation. The strongest corroboration would be multiple observers in separated locations, making contemporaneous reports that can be matched by time, direction, altitude, motion and description.
 
-Some versions of the story say police or local media had received [other calls]({{ 'other-calls/' | relative_url }}) from the East Side. A widely repeated account attributes this to Bob Gruen checking after Lennon told him what had happened: the police allegedly said they had other calls, and the *Daily News* allegedly had several reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weeklyview.net">[weeklyview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weeklyview.net</span><span class="citation-popover-title">john lennon and the ufos</span><span class="citation-popover-snippet">john lennon and the ufos</span></span></span> This is suggestive but weak unless the underlying records can be inspected. “Other calls” could mean the same phenomenon was seen by several people, but without the original logs or articles it is hard to know whether those reports matched Lennon and Pang’s object closely or merely involved general “something in the sky” claims.
+Some versions of the story say police or local media had received [other calls]({{ 'other-calls/' | relative_url }}) from the East Side. A widely repeated account attributes this to Bob Gruen checking after Lennon told him what had happened: the police allegedly said they had other calls, and the *Daily News* allegedly had several reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weeklyview.net">[weeklyview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weeklyview.net</span><span class="citation-popover-title">john lennon and the ufos</span><span class="citation-popover-snippet">john lennon and the ufos</span></span></span> This is suggestive but weak unless the underlying records can be inspected. “Other calls” could mean the same phenomenon was seen by several people, but without the original logs or articles it is hard to know whether those reports matched Lennon and Pang’s object closely or merely involved general “something in the sky” claims.
 
-The failed photographs are another important limit. Several retellings say Lennon and Pang tried to photograph the object, including with more than one camera, but that the usable visual evidence did not survive or did not show the object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weeklyview.net">[weeklyview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weeklyview.net</span><span class="citation-popover-title">john lennon and the ufos</span><span class="citation-popover-snippet">john lennon and the ufos</span></span></span> In a modern evidence hierarchy, that is a major gap. A failed photograph can be part of the story, but it cannot be checked for object shape, exposure, lens artefacts, camera motion, relative scale, aircraft lights or astronomical explanation.
+The failed photographs are another important limit. Several retellings say Lennon and Pang tried to photograph the object, including with more than one camera, but that the usable visual evidence did not survive or did not show the object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weeklyview.net">[weeklyview.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weeklyview.net</span><span class="citation-popover-title">john lennon and the ufos</span><span class="citation-popover-snippet">john lennon and the ufos</span></span></span> In a modern evidence hierarchy, that is a major gap. A failed photograph can be part of the story, but it cannot be checked for object shape, exposure, lens artefacts, camera motion, relative scale, aircraft lights or astronomical explanation.
 
 So Pang strengthens the case that Lennon was not merely making a casual joke in an album booklet. She does not supply the kind of independent, calibrated, reproducible evidence that would allow the sighting to be resolved.
 
@@ -485,7 +485,7 @@ The *Walls and Bridges* note is the most solid artefact in the Lennon UFO story.
 
 But an album note is evidence of a claim, not evidence of the object’s identity. It does not tell us the object’s size, distance, altitude, speed, direction, duration, weather conditions, viewing angle or possible flight path in a form investigators could test. It does not include a photograph, a negative, a radar track, a police incident number, an air-traffic record or a contemporaneous witness list. It is valuable as a primary cultural source, not as a scientific measurement.
 
-The later musical reference works the same way. “Nobody Told Me”, released posthumously in 1984, includes the famous line about UFOs over New York, and Beatles and lyric references often connect it back to the 1974 sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songteksten.net">[Songteksten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songteksten.net</span><span class="citation-popover-title">John Lennon</span><span class="citation-popover-snippet">John Lennon</span></span></span> The line shows that the idea stayed in Lennon’s imagination. It does not independently verify the sighting. Songs compress experience, [persona]({{ 'persona/' | relative_url }}), humour and imagery; they are not affidavits.
+The later musical reference works the same way. “Nobody Told Me”, released posthumously in 1984, includes the famous line about UFOs over New York, and Beatles and lyric references often connect it back to the 1974 sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: songteksten.net">[Songteksten]</a><span class="citation-popover" role="note"><span class="citation-popover-source">songteksten.net</span><span class="citation-popover-title">John Lennon</span><span class="citation-popover-snippet">John Lennon</span></span></span> The line shows that the idea stayed in Lennon’s imagination. It does not independently verify the sighting. Songs compress experience, [persona]({{ 'persona/' | relative_url }}), humour and imagery; they are not affidavits.
 
 This is a common trap in celebrity UFO cases. Cultural traces feel weighty because they are tangible: a lyric can be replayed, a sleeve note can be quoted, a famous name can be attached. Yet scientific proof requires a different kind of tangibility: stable records, calibrated observations, independent checks and a way to rule out ordinary explanations. Lennon’s evidence is unusually memorable, but it remains mostly literary and testimonial.
 
@@ -508,7 +508,7 @@ For a sighting like this to move beyond testimonial value, investigators would w
 
 </div>
 
-This is where modern UAP standards are useful, even though Lennon’s sighting predates today’s terminology. NASA’s UAP material stresses that most sightings provide limited data, making firm scientific conclusions difficult; it also says there are no data supporting the idea that UAP are evidence of alien technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> The U.S. All-domain Anomaly Resolution Office similarly presents UAP investigation as a data-driven problem and notes that many unresolved cases remain unresolved because the information is insufficient, not because they have been shown to be alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+This is where modern UAP standards are useful, even though Lennon’s sighting predates today’s terminology. NASA’s UAP material stresses that most sightings provide limited data, making firm scientific conclusions difficult; it also says there are no data supporting the idea that UAP are evidence of alien technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> The U.S. All-domain Anomaly Resolution Office similarly presents UAP investigation as a data-driven problem and notes that many unresolved cases remain unresolved because the information is insufficient, not because they have been shown to be alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That framework fits Lennon’s sighting neatly. The case is interesting because a famous witness and a second witness reported a striking event. It is limited because the evidence stops well short of identifying the object.
 
@@ -520,11 +520,11 @@ That framework fits Lennon’s sighting neatly. The case is interesting because 
 
 ## The Most Plausible Reading
 
-The careful reading is that Lennon and Pang saw an unidentified aerial or visual phenomenon over Manhattan on 23 August 1974, or at least sincerely reported such an experience soon afterwards. The public record supports the existence of the claim: Lennon’s own album note, Pang’s repeated role as second witness, later biographical accounts, and the persistence of the story in Lennon-related music history all point to a real episode in Lennon lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon+2The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track &amp; cassette. 1987...Read more...</span><span class="citation-popover-meta">Published: September 1974</span></span></span>
+The careful reading is that Lennon and Pang saw an unidentified aerial or visual phenomenon over Manhattan on 23 August 1974, or at least sincerely reported such an experience soon afterwards. The public record supports the existence of the claim: Lennon’s own album note, Pang’s repeated role as second witness, later biographical accounts, and the persistence of the story in Lennon-related music history all point to a real episode in Lennon lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnlennon.com">[John Lennon+2The Beatles Bible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnlennon.com</span><span class="citation-popover-title">John Lennon Walls And Bridges</span><span class="citation-popover-snippet">J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track &amp; cassette. 1987...Read more...</span><span class="citation-popover-meta">Published: September 1974</span></span></span>
 
 What the public record does not support is the stronger conclusion often implied in casual retellings: that Lennon saw an extraterrestrial craft. “UFO” means unidentified flying object, not alien spacecraft. That difference is not pedantry; it is the centre of the case. An object can be unidentified to a witness, and still later prove to be ordinary. It can also remain unidentified because the evidence was never good enough to resolve it.
 
-Official UAP reviews reinforce that caution. The U.S. Air Force’s Project Blue Book fact sheet said there was no evidence that sightings categorised as unidentified were extraterrestrial vehicles, while more recent Pentagon reporting has likewise stated that AARO has found no verifiable evidence that any UAP sighting represented extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> These broad conclusions do not specifically solve Lennon’s case, but they do set the proper evidentiary bar: unexplained is not the same as extraterrestrial.
+Official UAP reviews reinforce that caution. The U.S. Air Force’s Project Blue Book fact sheet said there was no evidence that sightings categorised as unidentified were extraterrestrial vehicles, while more recent Pentagon reporting has likewise stated that AARO has found no verifiable evidence that any UAP sighting represented extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Open source on af.mil.</span></span></span> These broad conclusions do not specifically solve Lennon’s case, but they do set the proper evidentiary bar: unexplained is not the same as extraterrestrial.
 
 Lennon’s sighting therefore matters most as culture rather than proof. It shows how a celebrity UFO claim can become durable when it has a concrete date, a second witness, a quotable artefact and a link to music people already care about. It also shows the hard limit of celebrity testimony. Fame can make a sighting unforgettable, but it cannot supply missing data.
 
@@ -532,194 +532,194 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a-Illustration-3-dark.svg" | relative_url }}" alt="Lennon Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did John Lennon Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did John Lennon Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places celebrity testimony in the wider landscape of UFO evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places celebrity testimony in the wider landscape of UFO evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how eyewitness testimony and belief should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how eyewitness testimony and belief should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving John on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8443879-M.jpg" alt="Cover for Loving John" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
-        </h4>
-        <p class="fr-book-author">By May Pang, Henry Edwards</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Loving John on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8443879-M.jpg" alt="Cover for Loving John" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
+</h4>
+<p class="fr-book-author">By May Pang, Henry Edwards</p>
         
-        <p class="fr-book-desc">First published 1983. Subjects: Rock musicians, Biography, Lennon, john, 1940-1980.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1983. Subjects: Rock musicians, Biography, Lennon, john, 1940-1980.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Lennon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13814389-M.jpg" alt="Cover for John Lennon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
-        </h4>
-        <p class="fr-book-author">By Philip Norman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open John Lennon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13814389-M.jpg" alt="Cover for John Lennon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
+</h4>
+<p class="fr-book-author">By Philip Norman</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Lennon, john, 1940-1980, Rock musicians, great britain, Rock musicians, biography, Singers, great britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Lennon, john, 1940-1980, Rock musicians, great britain, Rock musicians, biography, Singers, great britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Loving+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loving John</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Loving+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Loving John</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="lennon-sighting-what-did-john-lennon-really-see-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -735,7 +735,7 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -755,7 +755,7 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -787,7 +787,7 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -839,7 +839,7 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -884,7 +884,7 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -925,200 +925,200 @@ Lennon’s sighting therefore matters most as culture rather than proof. It show
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weeklyview.net  
    Title: john lennon and the ufos  
-   Link: <a href="https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/</a>  
+   Link:<a href="https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://weeklyview.net/2013/08/22/john-lennon-and-the-ufos/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: songteksten.net  
    Title: John Lennon  
-   Link: <a href="https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html" target="_blank" rel="noopener noreferrer nofollow">https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html</a>  
+   Link:<a href="https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html" target="_blank" rel="noopener noreferrer nofollow">https://songteksten.net/lyric/1707/44743/john-lennon/nobody-told-me.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Dr Jon Kosloski Statement for the Record SASC Open Hearing Nov2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open_Hearing_Nov2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: good.is  
    Title: John Lennon had a UFO sighting so vivid, he referenced  
-   Link: <a href="https://www.good.is/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.good.is/john-lennon-ufo-sighting/</a>  
+   Link:<a href="https://www.good.is/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.good.is/john-lennon-ufo-sighting/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Did John Lennon See a UFO over NYC?  
-   Link: <a href="https://www.youtube.com/watch?v=J22gZspEWFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J22gZspEWFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JOHN LENNON&#x27;S UFO ENCOUNTER on Strange Universe (1998)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=J22gZspEWFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J22gZspEWFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JOHN LENNON&#x27;S UFO ENCOUNTER on Strange Universe (1998)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s UFO Drawing Sells For Big Bucks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2axtgni0qmQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2axtgni0qmQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s UFO Drawing Sells For Big Bucks...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: John Lennon's UFO Drawing Sells For Big Bucks  
-   Link: <a href="https://www.youtube.com/watch?v=zySmyX_JJvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zySmyX_JJvc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May Pang Exclusive Interview - The Truth about &#x27;The Lost Weekend&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zySmyX_JJvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zySmyX_JJvc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May Pang Exclusive Interview - The Truth about &#x27;The Lost Weekend&#x27;...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: johnlennon.com  
    Title: John Lennon Walls And Bridges  
-   Link: <a href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/music/albums/walls-and-bridges/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track &amp; cassette. 1987...Read more...</p></details>
+   Link:<a href="https://www.johnlennon.com/music/albums/walls-and-bridges/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/music/albums/walls-and-bridges/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J.L.&#x27;. First released: 26 September 1974. Versions Available. 1974 – Original Stereo version: LP, 8 Track &amp; cassette. 1987...Read more...</p></details>
    Published: September 1974  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: beatlesbible.com  
    Title: john lennon sees ufo new york city  
-   Link: <a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
+   Link:<a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: beatlesstory.com  
    Title: john lennon ufo sighting  
-   Link: <a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
+   Link:<a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ultimateclassicrock.com  
    Title: john lennon ufo  
-   Link: <a href="https://ultimateclassicrock.com/john-lennon-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ultimateclassicrock.com/john-lennon-ufo/</a>  
+   Link:<a href="https://ultimateclassicrock.com/john-lennon-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://ultimateclassicrock.com/john-lennon-ufo/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Nobody Told Me  
-   Link: <a href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobody_Told_Me</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nobody_Told_Me" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nobody_Told_Me</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: af.mil  
-   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
+   Link:<a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
+   Link:<a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: johnlennon.com  
    Title: GIMM E SOME TRUTH  
-   Link: <a href="https://www.johnlennon.com/music/albums/gimme-some-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/music/albums/gimme-some-truth/</a>  
+   Link:<a href="https://www.johnlennon.com/music/albums/gimme-some-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.johnlennon.com/music/albums/gimme-some-truth/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/[military" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/[military</a>  
+   Link:<a href="https://www.archives.gov/research/[military" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/[military</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: history.co.uk  
    Title: john lennon sees a ufo  
-   Link: <a href="https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo</a>  
+   Link:<a href="https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/this-day-in-history/23-august/john-lennon-sees-a-ufo</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: May Pang  
-   Link: <a href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May_Pang</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/May_Pang" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/May_Pang</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: musicmeter.nl  
    Title: John Lennon  
-   Link: <a href="https://www.musicmeter.nl/album/2267" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmeter.nl/album/2267</a>  
+   Link:<a href="https://www.musicmeter.nl/album/2267" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmeter.nl/album/2267</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/</a>  
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sasslantis.ee  
    Title: John Lennon  
-   Link: <a href="https://sasslantis.ee/lyrics-john_lennon-nobody_told_me" target="_blank" rel="noopener noreferrer nofollow">https://sasslantis.ee/lyrics-john_lennon-nobody_told_me</a>  
+   Link:<a href="https://sasslantis.ee/lyrics-john_lennon-nobody_told_me" target="_blank" rel="noopener noreferrer nofollow">https://sasslantis.ee/lyrics-john_lennon-nobody_told_me</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: dangerousminds.net  
    Title: john lennon sees a ufo in new york city 1974  
-   Link: <a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
+   Link:<a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ephemeralnewyork.wordpress.com  
    Title: john lennon  
-   Link: <a href="https://ephemeralnewyork.wordpress.com/tag/john-lennon/" target="_blank" rel="noopener noreferrer nofollow">https://ephemeralnewyork.wordpress.com/tag/john-lennon/</a>  
+   Link:<a href="https://ephemeralnewyork.wordpress.com/tag/john-lennon/" target="_blank" rel="noopener noreferrer nofollow">https://ephemeralnewyork.wordpress.com/tag/john-lennon/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vault.fbi.gov  
-   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
+   Link:<a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: nsa.gov  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DV_t5yJCQ5Q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV_t5yJCQ5Q/</a>  
+   Link:<a href="https://www.instagram.com/p/DV_t5yJCQ5Q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DV_t5yJCQ5Q/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/361717340550274/posts/24227331500228857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361717340550274/posts/24227331500228857/</a>  
+   Link:<a href="https://www.facebook.com/groups/361717340550274/posts/24227331500228857/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/361717340550274/posts/24227331500228857/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/popular/may-pang-and-john-lennon/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/may-pang-and-john-lennon/</a>  
+   Link:<a href="https://www.instagram.com/popular/may-pang-and-john-lennon/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/popular/may-pang-and-john-lennon/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/C3WA1NGsjjK/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3WA1NGsjjK/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/C3WA1NGsjjK/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3WA1NGsjjK/?hl=en</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
+   Link:<a href="https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2186396468236855/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/B1g4VPhJtuj/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B1g4VPhJtuj/?img_index=2</a>  
+   Link:<a href="https://www.instagram.com/p/B1g4VPhJtuj/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B1g4VPhJtuj/?img_index=2</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNews/posts/the-pentagon-says-that-they-have-has-not-yet-been-able-to-find-any-evidence-that/10162351678563812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-pentagon-says-that-they-have-has-not-yet-been-able-to-find-any-evidence-that/10162351678563812/</a>  
+   Link:<a href="https://www.facebook.com/ABCNews/posts/the-pentagon-says-that-they-have-has-not-yet-been-able-to-find-any-evidence-that/10162351678563812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNews/posts/the-pentagon-says-that-they-have-has-not-yet-been-able-to-find-any-evidence-that/10162351678563812/</a>  

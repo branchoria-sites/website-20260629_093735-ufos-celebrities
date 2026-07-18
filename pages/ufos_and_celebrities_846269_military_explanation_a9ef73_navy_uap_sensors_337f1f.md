@@ -280,17 +280,17 @@ image: /assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_na
 
 ## Introduction
 
-The US Navy's widely discussed UAP (unidentified anomalous phenomena) videos became central to the modern UFO debate because they combined trained [military]({{ 'military/' | relative_url }}) witnesses with sophisticated infrared sensors. However, the Pentagon's official release of the footage did **not** confirm that the objects were extraordinary, extraterrestrial or beyond known physics. Instead, it confirmed only that the videos were authentic Navy recordings of encounters that had not been conclusively identified at the time of filming. That distinction is crucial. The videos illustrate how advanced military sensors, pilot observations and incomplete information can produce genuine mysteries without necessarily demonstrating exotic technology. They also show why debates increasingly focus on interpreting sensor data rather than relying solely on eyewitness testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The U.S. Navy previously acknowledged that these...</span></span></span>
+The US Navy's widely discussed UAP (unidentified anomalous phenomena) videos became central to the modern UFO debate because they combined trained [military]({{ 'military/' | relative_url }}) witnesses with sophisticated infrared sensors. However, the Pentagon's official release of the footage did **not** confirm that the objects were extraordinary, extraterrestrial or beyond known physics. Instead, it confirmed only that the videos were authentic Navy recordings of encounters that had not been conclusively identified at the time of filming. That distinction is crucial. The videos illustrate how advanced military sensors, pilot observations and incomplete information can produce genuine mysteries without necessarily demonstrating exotic technology. They also show why debates increasingly focus on interpreting sensor data rather than relying solely on eyewitness testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The U.S. Navy previously acknowledged that these...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_navy_uap_sensors_337f1f-Illustration-1-dark.svg" | relative_url }}" alt="Navy Sensors illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_navy_uap_sensors_337f1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_navy_uap_sensors_337f1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the official release did—and did not—confirm
 
-In April 2020, the US Department of Defense formally authorised the release of three unclassified videos commonly known as **FLIR (or "Tic Tac")**, **[GIMBAL]({{ 'gimbal/' | relative_url }})**, and **[GOFAST]({{ 'gofast/' | relative_url }})**. The Pentagon explained that the release was intended to clear up public misconceptions after the footage had already circulated unofficially for years. Officials stated that the videos did not reveal sensitive capabilities and did not prejudice ongoing investigations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The U.S. Navy previously acknowledged that these...</span></span></span>
+In April 2020, the US Department of Defense formally authorised the release of three unclassified videos commonly known as **FLIR (or "Tic Tac")**, **[GIMBAL]({{ 'gimbal/' | relative_url }})**, and **[GOFAST]({{ 'gofast/' | relative_url }})**. The Pentagon explained that the release was intended to clear up public misconceptions after the footage had already circulated unofficially for years. Officials stated that the videos did not reveal sensitive capabilities and did not prejudice ongoing investigations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">statement by the department of defense on the release of historical navy videos</span><span class="citation-popover-snippet">Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The U.S. Navy previously acknowledged that these...</span></span></span>
 
 Importantly, the release did **not** represent official confirmation that the objects were alien spacecraft or possessed impossible flight capabilities. In military terminology, "unidentified" simply means investigators could not confidently identify an object using the information available. The label says nothing about its ultimate origin.
 
-The US intelligence community reinforced this distinction in its 2021 preliminary UAP assessment. The report concluded that many reported incidents lacked sufficient data for firm identification and suggested multiple possible explanations, including airborne clutter, atmospheric phenomena, classified US programmes, foreign technology and other still-undetermined causes. It also cautioned that some apparently unusual behaviour could result from sensor errors, observer perception or incomplete information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+The US intelligence community reinforced this distinction in its 2021 preliminary UAP assessment. The report concluded that many reported incidents lacked sufficient data for firm identification and suggested multiple possible explanations, including airborne clutter, atmospheric phenomena, classified US programmes, foreign technology and other still-undetermined causes. It also cautioned that some apparently unusual behaviour could result from sensor errors, observer perception or incomplete information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 ## How military sensors can exaggerate apparent motion
 
@@ -308,7 +308,7 @@ Several mechanisms can make ordinary objects appear extraordinary:
 
 </div>
 
-These effects are well known in aviation and optical engineering and do not imply faulty equipment. Rather, they demonstrate that interpreting military sensor footage requires detailed knowledge of aircraft geometry, camera behaviour and tracking software. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+These effects are well known in aviation and optical engineering and do not imply faulty equipment. Rather, they demonstrate that interpreting military sensor footage requires detailed knowledge of aircraft geometry, camera behaviour and tracking software.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
@@ -319,7 +319,7 @@ Among the three videos, **GOFAST** is perhaps the clearest example of how perspe
 
 The infrared footage appears to show an object skimming rapidly just above the ocean surface. For years this apparent speed was cited as evidence of unusual performance. However, later technical analyses argued that the visual impression resulted largely from parallax. Because the Navy aircraft was itself travelling at high speed while viewing an object at considerable distance, the object's movement across the image appeared much faster than its actual motion.
 
-In 2025, the Pentagon's All-domain Anomaly Resolution Office (AARO) published a detailed case-resolution methodology concluding with high confidence that the object was substantially higher above the water than many viewers assumed and moving far more slowly than the video initially suggested. The office emphasised that although the object's precise identity remained unknown, the dramatic apparent velocity did not require extraordinary physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Figure 3: One of the two frames used in the analysis with annotated field...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+In 2025, the Pentagon's All-domain Anomaly Resolution Office (AARO) published a detailed case-resolution methodology concluding with high confidence that the object was substantially higher above the water than many viewers assumed and moving far more slowly than the video initially suggested. The office emphasised that although the object's precise identity remained unknown, the dramatic apparent velocity did not require extraordinary physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Figure 3: One of the two frames used in the analysis with annotated field...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 This distinction is important. An object can remain unidentified while the claims of impossible speed are nevertheless explained.
 
@@ -331,7 +331,7 @@ The **GIMBAL** video sparked a different controversy because the infrared image 
 
 One interpretation, supported by some [pilots]({{ 'pilots/' | relative_url }}) involved in the encounter, is that the object itself was performing unusual manoeuvres. Other researchers have argued that the apparent rotation is better explained by characteristics of the aircraft's Advanced Targeting Forward Looking Infrared (ATFLIR) camera. According to this view, the rotation reflects changing orientation of infrared glare relative to the camera optics rather than rotation of the object itself.
 
-The disagreement illustrates an important point about the Navy footage: the same raw data can support different interpretations depending on assumptions about range, target orientation and sensor behaviour. Researchers continue to debate these assumptions, and no universally accepted reconstruction has emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — The GIMBAL video is also probably of a plane, West continues. “It&#x27;s not rotating. What you see i...</span></span></span>
+The disagreement illustrates an important point about the Navy footage: the same raw data can support different interpretations depending on assumptions about range, target orientation and sensor behaviour. Researchers continue to debate these assumptions, and no universally accepted reconstruction has emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — The GIMBAL video is also probably of a plane, West continues. “It&#x27;s not rotating. What you see i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jr1cfpos6vo" title="Explained: GIMBAL UFO Video - The IR Glare Hypothesis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jr1cfpos6vo" target="_blank" rel="noopener noreferrer">Explained: GIMBAL UFO Video - The IR Glare Hypothesis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 45.1K &middot; Uploaded: May 2019 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jr1cfpos6vo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jr1cfpos6vo">Open on YouTube</a></p></div></div></div>
@@ -347,7 +347,7 @@ This creates an important distinction between two separate questions:
 * **Can investigators identify the object?**
 * **Can investigators explain every apparent behaviour seen in the video?**
 
-Sometimes the answer to both is "no". In other cases, investigators can explain the apparent motion while still being unable to identify the underlying object. The GOFAST analysis illustrates this difference particularly well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Figure 3: One of the two frames used in the analysis with annotated field...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
+Sometimes the answer to both is "no". In other cases, investigators can explain the apparent motion while still being unable to identify the underlying object. The GOFAST analysis illustrates this difference particularly well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution</span><span class="citation-popover-snippet">AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Figure 3: One of the two frames used in the analysis with annotated field...</span><span class="citation-popover-meta">Published: February 24, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 204.1K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
@@ -356,7 +356,7 @@ Sometimes the answer to both is "no". In other cases, investigators can explain 
 
 Unlike many earlier UFO stories built primarily around eyewitness accounts, the Navy videos entered popular culture through a combination of official military material and influential [public figures]({{ 'public-figures/' | relative_url }}).
 
-Former Blink-182 musician Tom DeLonge and his organisation, [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}), helped bring the videos to widespread public attention after their publication alongside major news reporting in 2017. Former defence officials, military pilots and television documentaries then amplified the footage further, giving the cases an unusual blend of celebrity influence, national-security discussion and scientific scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">navy official release ufo videos</span><span class="citation-popover-snippet">Popular MechanicsThe Navy Has Officially Released the UFO Videos27 Apr 2020 — The Navy just dropped the three videos—titled “FLIR.mp4,” “...</span></span></span>
+Former Blink-182 musician Tom DeLonge and his organisation, [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}), helped bring the videos to widespread public attention after their publication alongside major news reporting in 2017. Former defence officials, military pilots and television documentaries then amplified the footage further, giving the cases an unusual blend of celebrity influence, national-security discussion and scientific scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">navy official release ufo videos</span><span class="citation-popover-snippet">Popular MechanicsThe Navy Has Officially Released the UFO Videos27 Apr 2020 — The Navy just dropped the three videos—titled “FLIR.mp4,” “...</span></span></span>
 
 The result was a shift in the public conversation. Rather than focusing mainly on dramatic eyewitness stories, debates increasingly centred on infrared imagery, radar data, flight geometry and sensor interpretation. That emphasis has encouraged more technically detailed analysis but has also revealed how difficult it is to interpret complex military data outside its original operational context.
 
@@ -366,178 +366,178 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_navy_uap_sensors_337f1f-Illustration-3-dark.svg" | relative_url }}" alt="Navy Sensors illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_navy_uap_sensors_337f1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_navy_uap_sensors_337f1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Navy UAP Videos Stay Ambiguous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Navy UAP Videos Stay Ambiguous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Focuses on Pentagon UAP investigations and Navy encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on Pentagon UAP investigations and Navy encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Background on evaluating unexplained sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Background on evaluating unexplained sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Extensively covers Navy UAP incidents and official responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Extensively covers Navy UAP incidents and official responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Features military witnesses and official evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features military witnesses and official evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="navy-sensors-why-navy-uap-videos-stay-ambiguous-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,108 +743,108 @@ For readers exploring military explanations in famous UFO stories, the Navy UAP 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: war.gov  
    Title: statement by the department of defense on the release of historical navy videos  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The U.S. Navy previously acknowledged that these...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarStatement by the Department of Defense on the Release...27 Apr 2020 — The U.S. Navy previously acknowledged that these...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: [Pentagon UFO videos](&#123;&#123; 'navy-videos/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — The GIMBAL video is also probably of a plane, West continues. “It&#x27;s not rotating. What you see i...</p></details>
+   Link:<a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — The GIMBAL video is also probably of a plane, West continues. “It&#x27;s not rotating. What you see i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Figure 3: One of the two frames used in the analysis with annotated field...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case ResolutionFebruary 24, 2025 — 6 Feb 2025 — Figure 3: One of the two frames used in the analysis with annotated field...</p></details>
    Published: February 24, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAP...</p></details>
+   Link:<a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAP...</p></details>
    Published: January 2015  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: navair.navy.mil  
    Title: mil Documents | NAVAIR  
-   Link: <a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NAVAIR - FOIAVideo - GIMBAL.mp4 - Please download. Download · 2023-009866 N0001923F0093... This is an official U.S. Navy Web site. Thi...</p></details>
+   Link:<a href="https://www.navair.navy.mil/foia/documents" target="_blank" rel="noopener noreferrer nofollow">https://www.navair.navy.mil/foia/documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NAVAIR - FOIAVideo - GIMBAL.mp4 - Please download. Download · 2023-009866 N0001923F0093... This is an official U.S. Navy Web site. Thi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released by US including reports of glowing...4 days ago — The publication of 72 files from the FBI, CIA and Pentagon reveals...</p></details>
+   Link:<a href="https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/classified-ufo-files-from-fbi-cia-and-pentagon-released-including-reports-of-glowing-red-orbs-13553433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files released by US including reports of glowing...4 days ago — The publication of 72 files from the FBI, CIA and Pentagon reveals...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: popularmechanics.com  
    Title: navy official release ufo videos  
-   Link: <a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThe Navy Has Officially Released the UFO Videos27 Apr 2020 — The Navy just dropped the three videos—titled “[FLIR](&amp;#123;&amp;#123; &#x27;flir/&#x27; | relative_url &amp;#125;&amp;#125;). mp4,” “...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsThe Navy Has Officially Released the UFO Videos27 Apr 2020 — The Navy just dropped the three videos—titled “[FLIR](&amp;#123;&amp;#123; &#x27;flir/&#x27; | relative_url &amp;#125;&amp;#125;). mp4,” “...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: popularmechanics.com  
    Title: ufo video facts  
-   Link: <a href="https://www.popularmechanics.com/military/a29091438/ufo-video-facts/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a29091438/ufo-video-facts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About the Navy&#x27;s UFOs17 Sept 2019 — The US Navy has officially confirmed that three leaked videos indeed show what the servi...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/a29091438/ufo-video-facts/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a29091438/ufo-video-facts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What We Know About the Navy&#x27;s UFOs17 Sept 2019 — The US Navy has officially confirmed that three leaked videos indeed show what the servi...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>During a Congressional hearing, Dr. Jon Kosloski from the All-Domain Anomaly Resolution Office reported that the object seen moving rapid...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/11rr90y/navairnavy_website_containing_documents_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11rr90y/navairnavy_website_containing_documents_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>website containing documents and videosThe website contains documents from the Navy including 3 UFO videos, GOFast, Gimbal and FLIR - I&#x27;v...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/11rr90y/navairnavy_website_containing_documents_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11rr90y/navairnavy_website_containing_documents_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>website containing documents and videosThe website contains documents from the Navy including 3 UFO videos, GOFast, Gimbal and FLIR - I&#x27;v...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: marketwatch.com  
-   Link: <a href="https://www.marketwatch.com/story/heres-a-believable-explanation-of-those-ufo-videos-released-by-the-navy-2019-10-15" target="_blank" rel="noopener noreferrer nofollow">https://www.marketwatch.com/story/heres-a-believable-explanation-of-those-ufo-videos-released-by-the-navy-2019-10-15</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion: Here&#x27;s a believable explanation of those UFO...19 Oct 2019 — The US Navy confirmed that three videos of unidentified aerial phe...</p></details>
+   Link:<a href="https://www.marketwatch.com/story/heres-a-believable-explanation-of-those-ufo-videos-released-by-the-navy" target="_blank" rel="noopener noreferrer nofollow">https://www.marketwatch.com/story/heres-a-believable-explanation-of-those-ufo-videos-released-by-the-navy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion: Here&#x27;s a believable explanation of those UFO...19 Oct 2019 — The US Navy confirmed that three videos of unidentified aerial phe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rO_M0hLlJ-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the Pentagon&#x27;s three declassified UFO videos taken by...“The U.S. Navy previously acknowledged that these videos circulating in th...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rO_M0hLlJ-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch the Pentagon&#x27;s three declassified UFO videos taken by...“The U.S. Navy previously acknowledged that these videos circulating in th...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: geekwire.com  
    Title: u s navy officially releases ufo videos years unofficially leaked  
-   Link: <a href="https://www.geekwire.com/2020/u-s-navy-officially-releases-ufo-videos-years-unofficially-leaked/" target="_blank" rel="noopener noreferrer nofollow">https://www.geekwire.com/2020/u-s-navy-officially-releases-ufo-videos-years-unofficially-leaked/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy officially releases UFO videos, years after they...27 Apr 2020 — The Defense Department has authorized the release of three unclass...</p></details>
+   Link:<a href="https://www.geekwire.com/2020/u-s-navy-officially-releases-ufo-videos-years-unofficially-leaked/" target="_blank" rel="noopener noreferrer nofollow">https://www.geekwire.com/2020/u-s-navy-officially-releases-ufo-videos-years-unofficially-leaked/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navy officially releases UFO videos, years after they...27 Apr 2020 — The Defense Department has authorized the release of three unclass...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the original videos were officially released in 2017 the Navy intentionally...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the original videos were officially released in 2017 the Navy intentionally...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o show a small, fast-moving object traveling just above the...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o show a small, fast-moving object traveling just above the...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elated to UFOs, or UAPs, with 72 more documents, images and recordings...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-files-pentagon-3rd-release-documents-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elated to UFOs, or UAPs, with 72 more documents, images and recordings...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: supercluster.com  
-   Link: <a href="https://www.supercluster.com/editorial/the-growing-uap-narrative-still-lacks-hard-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.supercluster.com/editorial/the-growing-uap-narrative-still-lacks-hard-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Whistleblowers Make Startling Claims During DC EventJun 13, 2023 — But the GIMBAL, GOFAST, and FLIR footage is still very much open f...</p></details>
+   Link:<a href="https://www.supercluster.com/editorial/the-growing-uap-narrative-still-lacks-hard-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.supercluster.com/editorial/the-growing-uap-narrative-still-lacks-hard-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Whistleblowers Make Startling Claims During DC EventJun 13, 2023 — But the GIMBAL, GOFAST, and FLIR footage is still very much open f...</p></details>

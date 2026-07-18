@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-celebrity/
 description: Focused pages that expand on Timeline.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_celebrity_ufo_timeli_0d3277
 parent_title: Timeline
@@ -16,7 +16,7 @@ parent_permalink: /timeline/
 
 # Explore Topics in Timeline
 
-The following pages expand on the main **[Timeline]({{ '/timeline/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Timeline]({{ '/timeline/' | relative_url }})** page and cover its key branches in.
 
 - [De Longe Shift]({{ '/de-longe-shift/' | relative_url }})
 - [Lennon Myth]({{ '/lennon-myth/' | relative_url }})

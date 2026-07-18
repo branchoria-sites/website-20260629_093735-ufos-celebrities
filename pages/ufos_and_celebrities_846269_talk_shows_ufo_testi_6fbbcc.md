@@ -456,19 +456,19 @@ This matters because celebrity UFO claims often reach the public through enterta
 
 ## The sofa changes the rules of evidence
 
-A formal UFO report asks different questions from a late-night interview. Investigators want sequence, location, duration, angle, corroboration and alternative explanations. A talk-show host wants a story the audience can follow quickly. That difference matters because modern UAP investigations repeatedly stress that witness accounts, however sincere, are not enough on their own. NASA’s independent UAP study noted that eyewitness reports can be interesting and compelling, but are usually not reproducible and often lack the information needed to draw firm conclusions about what a phenomenon was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+A formal UFO report asks different questions from a late-night interview. Investigators want sequence, location, duration, angle, corroboration and alternative explanations. A talk-show host wants a story the audience can follow quickly. That difference matters because modern UAP investigations repeatedly stress that witness accounts, however sincere, are not enough on their own. NASA’s independent UAP study noted that eyewitness reports can be interesting and compelling, but are usually not reproducible and often lack the information needed to draw firm conclusions about what a phenomenon was.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-Late-night interviews therefore tend to preserve the human experience while weakening the evidential frame. They make the witness easier to believe as a person: relaxed, funny, familiar, emotionally present. Yet they rarely slow down long enough to ask what a scientific or aviation investigation would ask. Was the object moving relative to the witness or the background? Was there a radar return? Were other observers identified? Was the account written down at the time, or reconstructed years later? NASA’s own discussion of UAP analysis highlights why such details matter: even famous [military]({{ 'military/' | relative_url }}) videos can look extraordinary until numerical display information, parallax and sensor context are examined closely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
+Late-night interviews therefore tend to preserve the human experience while weakening the evidential frame. They make the witness easier to believe as a person: relaxed, funny, familiar, emotionally present. Yet they rarely slow down long enough to ask what a scientific or aviation investigation would ask. Was the object moving relative to the witness or the background? Was there a radar return? Were other observers identified? Was the account written down at the time, or reconstructed years later? NASA’s own discussion of UAP analysis highlights why such details matter: even famous [military]({{ 'military/' | relative_url }}) videos can look extraordinary until numerical display information, parallax and sensor context are examined closely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Open source on nasa.gov.</span></span></span>
 
-Celebrity talk shows are also designed around friendliness. Research on celebrity talk-show interviewing identifies two norms that distinguish them from news interviews: personalisation, where hosts use their own experiences and interests to respond to guests, and congeniality, which creates a friendly environment where guests can present themselves and their promotional work positively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/277727223_The_celebrity_talk_show_Norms_and_practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The celebrity talk show: Norms and practices</span><span class="citation-popover-snippet">Research Gate The celebrity talk show: Norms and practices</span></span></span> That format is useful for making a star seem candid. It is poorly suited to testing a strange aerial claim.
+Celebrity talk shows are also designed around friendliness. Research on celebrity talk-show interviewing identifies two norms that distinguish them from news interviews: personalisation, where hosts use their own experiences and interests to respond to guests, and congeniality, which creates a friendly environment where guests can present themselves and their promotional work positively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/277727223_The_celebrity_talk_show_Norms_and_practices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The celebrity talk show: Norms and practices</span><span class="citation-popover-snippet">Research Gate The celebrity talk show: Norms and practices</span></span></span> That format is useful for making a star seem candid. It is poorly suited to testing a strange aerial claim.
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc-Illustration-1-dark.svg" | relative_url }}" alt="Talk Shows illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comedy framing and sincerity
 
-The most obvious reshaping tool is humour. UFO questions on late-night programmes often arrive as a joke before they are treated as testimony. When Bill Clinton appeared on *Jimmy Kimmel Live!* in 2014, the discussion moved from Area 51 and Roswell into the comic possibility of an alien invasion uniting humanity; Clinton said he had asked aides to check Area 51 and review Roswell papers, but the exchange was framed as playful entertainment rather than document review. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Bill Clinton Wouldn&#x27;t be Surprised if Aliens Exist</span><span class="citation-popover-snippet">ABC News Bill Clinton Wouldn&#x27;t be Surprised if Aliens Exist</span></span></span>
+The most obvious reshaping tool is humour. UFO questions on late-night programmes often arrive as a joke before they are treated as testimony. When Bill Clinton appeared on *Jimmy Kimmel Live!* in 2014, the discussion moved from Area 51 and Roswell into the comic possibility of an alien invasion uniting humanity; Clinton said he had asked aides to check Area 51 and review Roswell papers, but the exchange was framed as playful entertainment rather than document review.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Bill Clinton Wouldn&#x27;t be Surprised if Aliens Exist</span><span class="citation-popover-snippet">ABC News Bill Clinton Wouldn&#x27;t be Surprised if Aliens Exist</span></span></span>
 
-Barack Obama’s 2015 Kimmel appearance shows the same mechanism even more clearly. Asked about “UFO files” and Area 51, Obama answered with deadpan jokes about aliens controlling what presidents could say. The Los Angeles Times account of the segment places the UFO exchange among comic bits about emails, underpants and “mean tweets”, which is precisely the point: the topic became a vehicle for presidential charm, not an inquiry into evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Open source on latimes.com.</span></span></span>
+Barack Obama’s 2015 Kimmel appearance shows the same mechanism even more clearly. Asked about “UFO files” and Area 51, Obama answered with deadpan jokes about aliens controlling what presidents could say. The Los Angeles Times account of the segment places the UFO exchange among comic bits about emails, underpants and “mean tweets”, which is precisely the point: the topic became a vehicle for presidential charm, not an inquiry into evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-snippet">Open source on latimes.com.</span></span></span>
 
 Comedy does two things at once. It gives the guest cover — they can engage a taboo or fringe-coded subject without seeming credulous — and it gives the audience a safe way to enjoy the possibility without committing to belief. A host’s raised eyebrow, a cutaway to the band, or a joke about aliens “not letting” the president speak can make the story more watchable while making its truth status harder to parse. Viewers may remember the amusing moment more clearly than the caveats.
 
@@ -481,23 +481,23 @@ That [comedy frame]({{ 'comedy-frame/' | relative_url }}) can also soften scepti
 
 Late-night television rewards narrative economy. A strong UFO anecdote needs a beginning, a strange turn, a witness reaction and a memorable final image. That pressure can make accounts easier to retell but less useful to verify.
 
-Miley Cyrus’s 2020 account in *Interview* magazine is useful here because it shows how a celebrity UFO story can already contain uncertainty before entertainment media recirculates it. She described being chased by a glowing yellow object near San Bernardino, compared it to a “flying snowplough”, said a friend and other cars saw something too, and also volunteered that she had bought cannabis concentrate beforehand, meaning her own account contained a built-in caveat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interviewmagazine.com/fashion/rick-owens-and-miley-cyrus-discuss-ufos-rock-stars-tour-bus-moncler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviewmagazine.com">[Interview Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviewmagazine.com</span><span class="citation-popover-snippet">Open source on interviewmagazine.com.</span></span></span> When stories like that move into entertainment [headlines]({{ 'headlines/' | relative_url }}) or talk-show-style clips, the most viral ingredients tend to be the chase, the object and the alleged being — not the uncertainty.
+Miley Cyrus’s 2020 account in *Interview* magazine is useful here because it shows how a celebrity UFO story can already contain uncertainty before entertainment media recirculates it. She described being chased by a glowing yellow object near San Bernardino, compared it to a “flying snowplough”, said a friend and other cars saw something too, and also volunteered that she had bought cannabis concentrate beforehand, meaning her own account contained a built-in caveat.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interviewmagazine.com/fashion/rick-owens-and-miley-cyrus-discuss-ufos-rock-stars-tour-bus-moncler" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interviewmagazine.com">[Interview Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interviewmagazine.com</span><span class="citation-popover-snippet">Open source on interviewmagazine.com.</span></span></span> When stories like that move into entertainment [headlines]({{ 'headlines/' | relative_url }}) or talk-show-style clips, the most viral ingredients tend to be the chase, the object and the alleged being — not the uncertainty.
 
-Goldie Hawn’s recent Kimmel appearance shows a different version of the same process. ABC’s own listing for the segment groups her “close encounter with aliens in the 60s” alongside missing her Oscar win, a children’s book promotion and an old Harlem Globetrotters clip. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33/playlist/pl5523099034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com">[ABC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com</span><span class="citation-popover-snippet">Open source on abc.com.</span></span></span> That does not make her account insincere. It shows how late-night programmes package extraordinary testimony inside a mixed entertainment itinerary, where emotional revelation, nostalgia and promotion sit side by side.
+Goldie Hawn’s recent Kimmel appearance shows a different version of the same process. ABC’s own listing for the segment groups her “close encounter with aliens in the 60s” alongside missing her Oscar win, a children’s book promotion and an old Harlem Globetrotters clip.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33/playlist/pl5523099034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.com">[ABC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.com</span><span class="citation-popover-snippet">Open source on abc.com.</span></span></span> That does not make her account insincere. It shows how late-night programmes package extraordinary testimony inside a mixed entertainment itinerary, where emotional revelation, nostalgia and promotion sit side by side.
 
-Hawn had previously told a longer version of the story on Apple Fitness+’s *Time to Walk*, later reported by *Vanity Fair*: she described being a young dancer in Anaheim, thinking about UFO sightings, wishing to meet extraterrestrials, then months later hearing a high-pitched sound while resting in a car in West Covina. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOorLw9vSYU-ZTfE_yTYCYsQt6cNd7DLjMmut9wW9IL6_0MYrvyZS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair Goldie Hawn Knows That Aliens Have Touched Her Face &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair Goldie Hawn Knows That Aliens Have Touched Her Face &#124; Vanity Fair</span></span></span> On late-night television, that longer memory becomes a performance moment. The audience receives the peak beats: youthful wish, sudden sleepiness, sound, beings, paralysis, emotional meaning. What falls away is the slower work of separating memory, dreamlike experience, later interpretation and possible external corroboration.
+Hawn had previously told a longer version of the story on Apple Fitness+’s *Time to Walk*, later reported by *Vanity Fair*: she described being a young dancer in Anaheim, thinking about UFO sightings, wishing to meet extraterrestrials, then months later hearing a high-pitched sound while resting in a car in West Covina.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOorLw9vSYU-ZTfE_yTYCYsQt6cNd7DLjMmut9wW9IL6_0MYrvyZS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-title">Vanity Fair Goldie Hawn Knows That Aliens Have Touched Her Face &#124; Vanity Fair</span><span class="citation-popover-snippet">Vanity Fair Goldie Hawn Knows That Aliens Have Touched Her Face &#124; Vanity Fair</span></span></span> On late-night television, that longer memory becomes a performance moment. The audience receives the peak beats: youthful wish, sudden sleepiness, sound, beings, paralysis, emotional meaning. What falls away is the slower work of separating memory, dreamlike experience, later interpretation and possible external corroboration.
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc-Illustration-2-dark.svg" | relative_url }}" alt="Talk Shows illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What gets lost in the retelling
 
-The first thing lost is timing. Many celebrity UFO accounts are told years or decades after the alleged event. That delay does not automatically make them false, but it changes how they should be handled. Memory research on the misinformation effect shows that post-event information can alter recollection, especially through later discussion, suggestive questioning, repeated retelling or exposure to other narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">Open source on nobaproject.com.</span></span></span> A late-night appearance is a powerful form of post-event retelling: the story is rehearsed, simplified and then preserved in a clip that may become the version everyone remembers.
+The first thing lost is timing. Many celebrity UFO accounts are told years or decades after the alleged event. That delay does not automatically make them false, but it changes how they should be handled. Memory research on the misinformation effect shows that post-event information can alter recollection, especially through later discussion, suggestive questioning, repeated retelling or exposure to other narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nobaproject.com">[Noba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nobaproject.com</span><span class="citation-popover-snippet">Open source on nobaproject.com.</span></span></span> A late-night appearance is a powerful form of post-event retelling: the story is rehearsed, simplified and then preserved in a clip that may become the version everyone remembers.
 
-The second thing lost is uncertainty. A good talk-show story often needs confidence. “I saw something I could not identify, but I lack enough data to say what it was” is a responsible sentence and a weak anecdote. “I saw a UFO” is stronger television. NASA and AARO both distinguish sharply between “unidentified” and “extraterrestrial”; AARO’s historical report concluded that no reviewed UAP report established extraterrestrial origin, while also acknowledging that many cases remain unresolved and often suffer from lack of actionable data such as speed, altitude and size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+The second thing lost is uncertainty. A good talk-show story often needs confidence. “I saw something I could not identify, but I lack enough data to say what it was” is a responsible sentence and a weak anecdote. “I saw a UFO” is stronger television. NASA and AARO both distinguish sharply between “unidentified” and “extraterrestrial”; AARO’s historical report concluded that no reviewed UAP report established extraterrestrial origin, while also acknowledging that many cases remain unresolved and often suffer from lack of actionable data such as speed, altitude and size.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-The third thing lost is the mundane comparison set. AARO’s public imagery pages show how often careful review moves cases towards ordinary or unresolved categories rather than spectacular ones: some recent cases are assessed as balloons, birds or prosaic aircraft, while others remain unresolved because the footage or sensor context is insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> Late-night television rarely spends time on that middle ground. It prefers the binary: believer or sceptic, alien or joke.
+The third thing lost is the mundane comparison set. AARO’s public imagery pages show how often careful review moves cases towards ordinary or unresolved categories rather than spectacular ones: some recent cases are assessed as balloons, birds or prosaic aircraft, while others remain unresolved because the footage or sensor context is insufficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span> Late-night television rarely spends time on that middle ground. It prefers the binary: believer or sceptic, alien or joke.
 
-The fourth thing lost is the chain of custody. A clip of a celebrity describing a sighting is not the same as contemporaneous evidence. Kurt Russell’s Phoenix Lights retelling is compelling partly because he is a pilot and because it intersects with a famous mass-sighting narrative; reports of his BBC interview quote him saying he saw six lights in a V shape while approaching Phoenix and reported them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://horrornewsnetwork.net/pilot-kurt-russell-reveals-witnessed-reported-phoenix-lights-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horrornewsnetwork.net">[Horror News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horrornewsnetwork.net</span><span class="citation-popover-snippet">Open source on horrornewsnetwork.net.</span></span></span> But the late-night or entertainment retelling still invites a viewer to treat a remembered story as a case file. Those are different things.
+The fourth thing lost is the chain of custody. A clip of a celebrity describing a sighting is not the same as contemporaneous evidence. Kurt Russell’s Phoenix Lights retelling is compelling partly because he is a pilot and because it intersects with a famous mass-sighting narrative; reports of his BBC interview quote him saying he saw six lights in a V shape while approaching Phoenix and reported them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://horrornewsnetwork.net/pilot-kurt-russell-reveals-witnessed-reported-phoenix-lights-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: horrornewsnetwork.net">[Horror News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">horrornewsnetwork.net</span><span class="citation-popover-snippet">Open source on horrornewsnetwork.net.</span></span></span> But the late-night or entertainment retelling still invites a viewer to treat a remembered story as a case file. Those are different things.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JmqYwEBd3OI" title="Kurt Russell Shares His Close Encounter With A UFO | The Jonathan Ross Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JmqYwEBd3OI" target="_blank" rel="noopener noreferrer">Kurt Russell Shares His Close Encounter With A UFO | The Jonathan Ross Show</a></p><p class="youtube-embed-meta">Channel: The Jonathan Ross Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JmqYwEBd3OI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JmqYwEBd3OI">Open on YouTube</a></p></div></div></div>
@@ -545,178 +545,178 @@ Late-night television does not simply distort UFO testimony by making it silly. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Talk Shows Distort UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Talk Shows Distort UFO Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Explains how official evidence differs from media storytelling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how official evidence differs from media storytelling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides broader context for modern public UFO testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for modern public UFO testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores media, celebrity and cultural amplification of UFO stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores media, celebrity and cultural amplification of UFO stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evaluating testimony independently of entertainment presentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluating testimony independently of entertainment presentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="talk-shows-do-talk-shows-distort-ufo-stories-ufos-and-celebrities-ufo-memorabilia-book-books-gerry-anderson-series-progr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -732,7 +732,7 @@ Late-night television does not simply distort UFO testimony by making it silly. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -752,7 +752,7 @@ Late-night television does not simply distort UFO testimony by making it silly. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -784,7 +784,7 @@ Late-night television does not simply distort UFO testimony by making it silly. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -836,7 +836,7 @@ Late-night television does not simply distort UFO testimony by making it silly. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -881,7 +881,7 @@ Late-night television does not simply distort UFO testimony by making it silly. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -922,162 +922,162 @@ Late-night television does not simply distort UFO testimony by making it silly. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate The celebrity talk show: Norms and practices  
-   Link: <a href="https://www.researchgate.net/publication/277727223_The_celebrity_talk_show_Norms_and_practices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277727223_The_celebrity_talk_show_Norms_and_practices</a>  
+   Link:<a href="https://www.researchgate.net/publication/277727223_The_celebrity_talk_show_Norms_and_practices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277727223_The_celebrity_talk_show_Norms_and_practices</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: abc.com  
-   Link: <a href="https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33/playlist/pl5523099034" target="_blank" rel="noopener noreferrer nofollow">https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33/playlist/pl5523099034</a>  
+   Link:<a href="https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33/playlist/pl5523099034" target="_blank" rel="noopener noreferrer nofollow">https://abc.com/video/abd43d0d-7a9c-48b2-9c3f-0b5d64345c33/playlist/pl5523099034</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/I_am_interested_in_the_factors_distorting_eyewitness_testimony_and_wondered_if_anyone_could_direct_me_towards_more_recent_research_within_this_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/I_am_interested_in_the_factors_distorting_eyewitness_testimony_and_wondered_if_anyone_could_direct_me_towards_more_recent_research_within_this_field</a>  
+   Link:<a href="https://www.researchgate.net/post/I_am_interested_in_the_factors_distorting_eyewitness_testimony_and_wondered_if_anyone_could_direct_me_towards_more_recent_research_within_this_field" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/I_am_interested_in_the_factors_distorting_eyewitness_testimony_and_wondered_if_anyone_could_direct_me_towards_more_recent_research_within_this_field</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing</a>  
+   Link:<a href="https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380859422_Unidentified_Anomalous_Phenomena_UAP_disclosure_as_ontological_shock_Exploring_diversity_among_social_media_responses_to_a_congressional_UAP_hearing</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394608867_Unfortunately_This_Isn%27t_a_Joke_Crisis_Communication_and_Humour_Messaging_Strategy_on_American_Late_Night_Talk_Shows" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394608867_Unfortunately_This_Isn%27t_a_Joke_Crisis_Communication_and_Humour_Messaging_Strategy_on_American_Late_Night_Talk_Shows</a>  
+   Link:<a href="https://www.researchgate.net/publication/394608867_Unfortunately_This_Isn%27t_a_Joke_Crisis_Communication_and_Humour_Messaging_Strategy_on_American_Late_Night_Talk_Shows" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394608867_Unfortunately_This_Isn%27t_a_Joke_Crisis_Communication_and_Humour_Messaging_Strategy_on_American_Late_Night_Talk_Shows</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_[persona" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_[persona</a>  
+   Link:<a href="https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_[persona" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_[persona</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 355670645 The Reliability of Eyewitness Testimony  
-   Link: <a href="https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony</a>  
+   Link:<a href="https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355670645_The_Reliability_of_Eyewitness_Testimony</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: time.com  
    Title: bill clinton wouldnt be surprised if aliens existed  
-   Link: <a href="https://time.com/48132/bill-clinton-wouldnt-be-surprised-if-aliens-existed/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/48132/bill-clinton-wouldnt-be-surprised-if-aliens-existed/</a>  
+   Link:<a href="https://time.com/48132/bill-clinton-wouldnt-be-surprised-if-aliens-existed/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/48132/bill-clinton-wouldnt-be-surprised-if-aliens-existed/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/au/podcast/goldie-hawns-shocking-alien-encounter/id413046628?i=1000632772115" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/goldie-hawns-shocking-alien-encounter/id413046628?i=1000632772115</a>  
+   Link:<a href="https://podcasts.apple.com/au/podcast/goldie-hawns-shocking-alien-encounter/id413046628?i=1000632772115" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/au/podcast/goldie-hawns-shocking-alien-encounter/id413046628?i=1000632772115</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abcnews.com  
    Title: ABC News Bill Clinton Wouldn't be Surprised if Aliens Exist  
-   Link: <a href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist</a>  
+   Link:<a href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: latimes.com  
-   Link: <a href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html</a>  
+   Link:<a href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: interviewmagazine.com  
-   Link: <a href="https://www.interviewmagazine.com/fashion/rick-owens-and-miley-cyrus-discuss-ufos-rock-stars-tour-bus-moncler" target="_blank" rel="noopener noreferrer nofollow">https://www.interviewmagazine.com/fashion/rick-owens-and-miley-cyrus-discuss-ufos-rock-stars-tour-bus-moncler</a>  
+   Link:<a href="https://www.interviewmagazine.com/fashion/rick-owens-and-miley-cyrus-discuss-ufos-rock-stars-tour-bus-moncler" target="_blank" rel="noopener noreferrer nofollow">https://www.interviewmagazine.com/fashion/rick-owens-and-miley-cyrus-discuss-ufos-rock-stars-tour-bus-moncler</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanityfair.com  
    Title: Vanity Fair Goldie Hawn Knows That Aliens Have Touched Her Face | Vanity Fair  
-   Link: <a href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOorLw9vSYU-ZTfE_yTYCYsQt6cNd7DLjMmut9wW9IL6_0MYrvyZS" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOorLw9vSYU-ZTfE_yTYCYsQt6cNd7DLjMmut9wW9IL6_0MYrvyZS</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOorLw9vSYU-ZTfE_yTYCYsQt6cNd7DLjMmut9wW9IL6_0MYrvyZS" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2023/10/goldie-hawn-knows-that-aliens-have-touched-her-face?srsltid=AfmBOorLw9vSYU-ZTfE_yTYCYsQt6cNd7DLjMmut9wW9IL6_0MYrvyZS</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
+   Link:<a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: horrornewsnetwork.net  
-   Link: <a href="https://horrornewsnetwork.net/pilot-kurt-russell-reveals-witnessed-reported-phoenix-lights-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://horrornewsnetwork.net/pilot-kurt-russell-reveals-witnessed-reported-phoenix-lights-ufo-sighting/</a>  
+   Link:<a href="https://horrornewsnetwork.net/pilot-kurt-russell-reveals-witnessed-reported-phoenix-lights-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://horrornewsnetwork.net/pilot-kurt-russell-reveals-witnessed-reported-phoenix-lights-ufo-sighting/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GoB8GGxtSyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoB8GGxtSyY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=GoB8GGxtSyY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GoB8GGxtSyY</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eMvdFORrlq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMvdFORrlq4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=eMvdFORrlq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eMvdFORrlq4</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
+   Link:<a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: thedecisionlab.com  
    Title: the misinformation effect  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Kurt Russell Shares His Close Encounter With A UFO | The Jonathan Ross Show  
-   Link: <a href="https://www.youtube.com/watch?v=JmqYwEBd3OI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmqYwEBd3OI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JmqYwEBd3OI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmqYwEBd3OI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Kimmel Asks President George W. Bush to Reveal Government Secrets...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Kimmel Asks President George W. Bush to Reveal Government Secrets...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: President Bill Clinton on the Clinton Global Initiative and Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=lQNevl2BuxM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lQNevl2BuxM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Kimmel presidents Area 51 UFOs President Barack Obama Denies Knowledge of Aliens Jimmy Kimmel Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lQNevl2BuxM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lQNevl2BuxM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Kimmel presidents Area 51 UFOs President Barack Obama Denies Knowledge of Aliens Jimmy Kimmel Live...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/misinformation-effects-on-eyewitness-memory</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: President Barack Obama Denies Knowledge of Aliens  
-   Link: <a href="https://www.youtube.com/watch?v=EYzRY2XpLBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EYzRY2XpLBk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Shares His Close Encounter With A UFO | The Jonathan Ross Show...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EYzRY2XpLBk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EYzRY2XpLBk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kurt Russell Shares His Close Encounter With A UFO | The Jonathan Ross Show...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/61963871/Listening_practices_in_television_celebrity_interviews" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/61963871/Listening_practices_in_television_celebrity_interviews</a>  
+   Link:<a href="https://www.academia.edu/61963871/Listening_practices_in_television_celebrity_interviews" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/61963871/Listening_practices_in_television_celebrity_interviews</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DGexL4BRIjY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGexL4BRIjY/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DGexL4BRIjY/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DGexL4BRIjY/?hl=en</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DU08XqHGj1-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU08XqHGj1-/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DU08XqHGj1-/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DU08XqHGj1-/?hl=en</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/theoceanicpress/posts/discussion-about-whether-seth-meyers-is-the-worst-late-night-show-host-reflects-/122164546652853703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoceanicpress/posts/discussion-about-whether-seth-meyers-is-the-worst-late-night-show-host-reflects-/122164546652853703/</a>  
+   Link:<a href="https://www.facebook.com/theoceanicpress/posts/discussion-about-whether-seth-meyers-is-the-worst-late-night-show-host-reflects-/122164546652853703/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoceanicpress/posts/discussion-about-whether-seth-meyers-is-the-worst-late-night-show-host-reflects-/122164546652853703/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/RandomThoughts/comments/16g383q/do_americans_really_like_late_night_tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RandomThoughts/comments/16g383q/do_americans_really_like_late_night_tv/</a>  
+   Link:<a href="https://www.reddit.com/r/RandomThoughts/comments/16g383q/do_americans_really_like_late_night_tv/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/RandomThoughts/comments/16g383q/do_americans_really_like_late_night_tv/</a>  

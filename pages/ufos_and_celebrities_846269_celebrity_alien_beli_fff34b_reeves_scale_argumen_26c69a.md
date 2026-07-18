@@ -284,7 +284,7 @@ Keanu Reeves is often included in lists of celebrities who “believe in aliens�
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b_reeves_scale_argumen_26c69a-Illustration-1-dark.svg" | relative_url }}" alt="Reeves Scale illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b_reeves_scale_argumen_26c69a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b_reeves_scale_argumen_26c69a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-His remarks became news largely because they coincided with the promotion of a major science-fiction film, *The Day the Earth Stood Still* (2008), in which he played the alien visitor Klaatu. Rather than presenting evidence of alien visitation, Reeves expressed a probabilistic argument based on the size of the cosmos—a position that is compatible with mainstream scientific interest in astrobiology while remaining separate from claims about UFOs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
+His remarks became news largely because they coincided with the promotion of a major science-fiction film, *The Day the Earth Stood Still* (2008), in which he played the alien visitor Klaatu. Rather than presenting evidence of alien visitation, Reeves expressed a probabilistic argument based on the size of the cosmos—a position that is compatible with mainstream scientific interest in astrobiology while remaining separate from claims about UFOs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nKSbEfSpXiM" title="Tom Cruise, Miley Cyrus &amp; More Stars Who Believe in Aliens | E! News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nKSbEfSpXiM" target="_blank" rel="noopener noreferrer">Tom Cruise, Miley Cyrus &amp; More Stars Who Believe in Aliens | E! News</a></p><p class="youtube-embed-meta">Channel: E! News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nKSbEfSpXiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nKSbEfSpXiM">Open on YouTube</a></p></div></div></div>
@@ -293,11 +293,11 @@ His remarks became news largely because they coincided with the promotion of a m
 
 The best-known quotation came during publicity for *The Day the Earth Stood Still* in December 2008. Asked whether he believed there were advanced extraterrestrial life forms in the universe, Reeves replied:
 
-&gt; “I think it more likely than not. The cosmos is a pretty big place.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[hindustantimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
+&gt; “I think it more likely than not. The cosmos is a pretty big place.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[hindustantimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
 
-The statement is striking for what it does **not** say. Reeves did not claim certainty, describe hidden knowledge or suggest that extraterrestrials have visited Earth. His reasoning rested entirely on probability: if the universe contains countless stars and planets, it seems plausible that life has emerged elsewhere as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
+The statement is striking for what it does **not** say. Reeves did not claim certainty, describe hidden knowledge or suggest that extraterrestrials have visited Earth. His reasoning rested entirely on probability: if the universe contains countless stars and planets, it seems plausible that life has emerged elsewhere as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
 
-In other interviews around the film's release, Reeves made similar observations, arguing that humanity was unlikely to be the universe's only intelligent civilisation because of its sheer scale. The emphasis remained on possibility rather than proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
+In other interviews around the film's release, Reeves made similar observations, arguing that humanity was unlikely to be the universe's only intelligent civilisation because of its sheer scale. The emphasis remained on possibility rather than proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OQTww3JN49c" title="Keanu Reeves Talks Returning to Comedy in New Film, ‘Outcome’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OQTww3JN49c" target="_blank" rel="noopener noreferrer">Keanu Reeves Talks Returning to Comedy in New Film, ‘Outcome’</a></p><p class="youtube-embed-meta">Channel: TODAY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OQTww3JN49c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OQTww3JN49c">Open on YouTube</a></p></div></div></div>
@@ -328,18 +328,18 @@ That position can coexist with scepticism about individual UFO claims. One may j
 
 The timing of Reeves' remarks explains why they became associated with UFO culture.
 
-In 2008 he was promoting *The Day the Earth Stood Still*, a remake of the classic science-fiction film in which he portrayed Klaatu, an alien emissary arriving on Earth to confront humanity over its destructive behaviour. Unsurprisingly, journalists repeatedly asked him about extraterrestrial life during press interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/sci-fi-fan-keanu-reeves-jumped-at-alien-role-idUSTRE4BA3ZC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">sci fi fan keanu reeves jumped at alien role id USTRE4BA3ZC</span><span class="citation-popover-snippet">Sci-fi fan Keanu Reeves jumped at alien role11 Dec 2008 — Keanu Reeves admits to being a big science fiction fan, so when offered...</span></span></span>
+In 2008 he was promoting *The Day the Earth Stood Still*, a remake of the classic science-fiction film in which he portrayed Klaatu, an alien emissary arriving on Earth to confront humanity over its destructive behaviour. Unsurprisingly, journalists repeatedly asked him about extraterrestrial life during press interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/lifestyle/sci-fi-fan-keanu-reeves-jumped-at-alien-role-idUSTRE4BA3ZC/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">sci fi fan keanu reeves jumped at alien role id USTRE4BA3ZC</span><span class="citation-popover-snippet">Sci-fi fan Keanu Reeves jumped at alien role11 Dec 2008 — Keanu Reeves admits to being a big science fiction fan, so when offered...</span></span></span>
 
 This promotional context matters because entertainment interviews often encourage broad, speculative questions linked to a film's themes. A brief answer about the probability of alien life then becomes an eye-catching headline independent of the film itself.
 
-The resulting media shorthand—"Keanu Reeves believes [aliens exist]({{ 'aliens-exist/' | relative_url }})"—captures part of what he said but omits the crucial qualification that his reasoning was philosophical and probabilistic, not based on claimed experience or evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
+The resulting media shorthand—"Keanu Reeves believes [aliens exist]({{ 'aliens-exist/' | relative_url }})"—captures part of what he said but omits the crucial qualification that his reasoning was philosophical and probabilistic, not based on claimed experience or evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hindustantimes.com">[Hindustan Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hindustantimes.com</span><span class="citation-popover-snippet">Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</span><span class="citation-popover-meta">Published: December 10, 2008</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZphU3wVBBnU" title="‘You Wanna Rock?!&#x27; Keanu Reeves Wants To Go To Space | The Book Of Elsewhere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZphU3wVBBnU" target="_blank" rel="noopener noreferrer">‘You Wanna Rock?!&#x27; Keanu Reeves Wants To Go To Space | The Book Of Elsewhere</a></p><p class="youtube-embed-meta">Channel: Magic Radio</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZphU3wVBBnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZphU3wVBBnU">Open on YouTube</a></p></div></div></div>
 
 ## Why Reeves' comments continue to be cited
 
-Years after the original interviews, Reeves still appears in compilations of celebrities who believe extraterrestrial life exists. Modern entertainment coverage generally presents him alongside people whose views range from simple belief in life elsewhere to detailed accounts of alleged UFO encounters. That broad grouping can obscure important differences in the strength and type of evidence each person offers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
+Years after the original interviews, Reeves still appears in compilations of celebrities who believe extraterrestrial life exists. Modern entertainment coverage generally presents him alongside people whose views range from simple belief in life elsewhere to detailed accounts of alleged UFO encounters. That broad grouping can obscure important differences in the strength and type of evidence each person offers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
 
 Reeves remains one of the clearest examples of a celebrity whose public position is rooted in cosmic perspective rather than extraordinary claims. His comments are memorable because they are concise and intuitive: an enormous universe seems unlikely to contain only one intelligent civilisation. Whether that intuition ultimately proves correct is a scientific question still under investigation, but Reeves himself has not presented it as evidence that UFOs are alien craft or that he has personally witnessed anything unexplained.
 
@@ -347,194 +347,194 @@ Reeves remains one of the clearest examples of a celebrity whose public position
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b_reeves_scale_argumen_26c69a-Illustration-3-dark.svg" | relative_url }}" alt="Reeves Scale illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b_reeves_scale_argumen_26c69a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_beli_fff34b_reeves_scale_argumen_26c69a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Keanu Reeves&#x27; Alien Belief Stayed Philosophical. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Keanu Reeves&#x27; Alien Belief Stayed Philosophical. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VKjWAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Captures the cosmic-scale reasoning Reeves described.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the cosmic-scale reasoning Reeves described.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cosmos+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Reinforces evidence-based reasoning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces evidence-based reasoning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pale Blue Dot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14417175-M.jpg" alt="Cover for Pale Blue Dot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pale Blue Dot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14417175-M.jpg" alt="Cover for Pale Blue Dot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Exploration, Popular works, Outer space, Cosmology, Outer space, exploration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Exploration, Popular works, Outer space, Cosmology, Outer space, exploration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The eerie silence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7903638-M.jpg" alt="Cover for The eerie silence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The eerie silence">The eerie silence</a>
-        </h4>
-        <p class="fr-book-author">By Paul Davies</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The eerie silence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7903638-M.jpg" alt="Cover for The eerie silence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The eerie silence">The eerie silence</a>
+</h4>
+<p class="fr-book-author">By Paul Davies</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Extraterrestrial beings, Unidentified flying objects, Life on other planets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Extraterrestrial beings, Unidentified flying objects, Life on other planets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pale+Blue+Dot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cosmos</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Pale+Blue+Dot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="reeves-scale-why-keanu-reeves-alien-belief-stayed-philosophical-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,82 +740,82 @@ Reeves remains one of the clearest examples of a celebrity whose public position
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
    Title: sci fi fan keanu reeves jumped at alien role id USTRE4BA3ZC  
-   Link: <a href="https://www.reuters.com/article/lifestyle/sci-fi-fan-keanu-reeves-jumped-at-alien-role-idUSTRE4BA3ZC/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/sci-fi-fan-keanu-reeves-jumped-at-alien-role-idUSTRE4BA3ZC/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sci-fi fan Keanu Reeves jumped at alien role11 Dec 2008 — Keanu Reeves admits to being a big science fiction fan, so when offered...</p></details>
+   Link:<a href="https://www.reuters.com/article/lifestyle/sci-fi-fan-keanu-reeves-jumped-at-alien-role-idUSTRE4BA3ZC/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/lifestyle/sci-fi-fan-keanu-reeves-jumped-at-alien-role-idUSTRE4BA3ZC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sci-fi fan Keanu Reeves jumped at alien role11 Dec 2008 — Keanu Reeves admits to being a big science fiction fan, so when offered...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;), long fascinated by the paranormal...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan [Aykroyd](&amp;#123;&amp;#123; &#x27;aykroyd/&#x27; | relative_url &amp;#125;&amp;#125;), long fascinated by the paranormal...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: people.com  
-   Link: <a href="https://people.com/tag/keanu-reeves/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tag/keanu-reeves/</a>  
+   Link:<a href="https://people.com/tag/keanu-reeves/" target="_blank" rel="noopener noreferrer nofollow">https://people.com/tag/keanu-reeves/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hindustantimes.com  
-   Link: <a href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</p></details>
+   Link:<a href="https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hindustantimes.com/entertainment/keanu-reeves-thinks-it-s-likely-that-aliens-exist/story-0beyuwS4QTiwhifvRgdSBN.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hindustan TimesKeanu Reeves thinks it&#x27;s &quot;likely&quot; that aliens existDecember 10, 2008 — 10 Dec 2008 — Asked if he thinks there are &quot;advance...</p></details>
    Published: December 10, 2008  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Keanu Reeves  
-   Link: <a href="https://en.wikipedia.org/wiki/Keanu_Reeves" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Keanu_Reeves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu ReevesKeanu Charles Reeves (/kiˈɑːnuː/ kee-AH-noo; born September 2, 1964) is a Canadian actor and musician. The recipient of nu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Keanu_Reeves" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Keanu_Reeves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu ReevesKeanu Charles Reeves (/kiˈɑːnuː/ kee-AH-noo; born September 2, 1964) is a Canadian actor and musician. The recipient of nu...</p></details>
    Published: September 2, 1964  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nbcwashington.com  
-   Link: <a href="https://www.nbcwashington.com/video/local/keanu_reeves_believes_aliens_exist_all__national_/1846703/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/video/local/keanu_reeves_believes_aliens_exist_all__national_/1846703/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu Reeves Believes Aliens Exist – NBC4 WashingtonKeanu Reeves Believes Aliens Exist. NBC&#x27;s “The Buzz” hits the red carpet at the New Y...</p></details>
+   Link:<a href="https://www.nbcwashington.com/video/local/keanu_reeves_believes_aliens_exist_all__national_/1846703/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcwashington.com/video/local/keanu_reeves_believes_aliens_exist_all__national_/1846703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu Reeves Believes Aliens Exist – NBC4 WashingtonKeanu Reeves Believes Aliens Exist. NBC&#x27;s “The Buzz” hits the red carpet at the New Y...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/name/nm0000206/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0000206/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu ReevesKeanu Reeves. Actor: The Matrix. Keanu Charles Reeves, whose first name means &quot;cool breeze over the mountains&quot; in Hawaiian, w...</p></details>
+   Link:<a href="https://www.imdb.com/name/nm0000206/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0000206/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu ReevesKeanu Reeves. Actor: The Matrix. Keanu Charles Reeves, whose first name means &quot;cool breeze over the mountains&quot; in Hawaiian, w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nbcnewyork.com  
-   Link: <a href="https://www.nbcnewyork.com/video/news/national-international/keanu_reeves_believes_aliens_exist_all__national_/2167736/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcnewyork.com/video/news/national-international/keanu_reeves_believes_aliens_exist_all__national_/2167736/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu Reeves Believes Aliens Exist – NBC New YorkKeanu Reeves Believes Aliens Exist. NBC&#x27;s “The Buzz” hits the red carpet at the New York...</p></details>
+   Link:<a href="https://www.nbcnewyork.com/video/news/national-international/keanu_reeves_believes_aliens_exist_all__national_/2167736/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbcnewyork.com/video/news/national-international/keanu_reeves_believes_aliens_exist_all__national_/2167736/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu Reeves Believes Aliens Exist – NBC New YorkKeanu Reeves Believes Aliens Exist. NBC&#x27;s “The Buzz” hits the red carpet at the New York...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/80085172" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80085172</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch KeanuA heartbroken guy grows so attached to a cute new kitten that when it&#x27;s stolen, he and his uptight cousin pose as criminals to...</p></details>
+   Link:<a href="https://www.netflix.com/title/80085172" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/80085172</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch KeanuA heartbroken guy grows so attached to a cute new kitten that when it&#x27;s stolen, he and his uptight cousin pose as criminals to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/celebrity/keanu_reeves" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/celebrity/keanu_reeves</a>  
+   Link:<a href="https://www.rottentomatoes.com/celebrity/keanu_reeves" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/celebrity/keanu_reeves</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mtvza/posts/cardi-b-tells-us-whether-she-thinks-alien-life-exists-or-not-mtvnews/691000013065778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mtvza/posts/cardi-b-tells-us-whether-she-thinks-alien-life-exists-or-not-mtvnews/691000013065778/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a quiet certainty that life exists beyond Earth, based on the size...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/mtvza/posts/cardi-b-tells-us-whether-she-thinks-alien-life-exists-or-not-mtvnews/691000013065778/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mtvza/posts/cardi-b-tells-us-whether-she-thinks-alien-life-exists-or-not-mtvnews/691000013065778/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a quiet certainty that life exists beyond Earth, based on the size...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZkTPdIkXt8/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZkTPdIkXt8/?hl=en-gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e. Dozens of celebrities have openly discussed their belief in...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZkTPdIkXt8/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZkTPdIkXt8/?hl=en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e. Dozens of celebrities have openly discussed their belief in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/the.university.of.oxford/videos/do-aliens-actually-exist-former-us-president-barack-obama-has-said-that-statisti/1400112058255828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/the.university.of.oxford/videos/do-aliens-actually-exist-former-us-president-barack-obama-has-said-that-statisti/1400112058255828/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tatistically, in a universe this vast, the odds are good that...</p></details>
+   Link:<a href="https://www.facebook.com/the.university.of.oxford/videos/do-aliens-actually-exist-former-us-president-barack-obama-has-said-that-statisti/1400112058255828/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/the.university.of.oxford/videos/do-aliens-actually-exist-former-us-president-barack-obama-has-said-that-statisti/1400112058255828/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tatistically, in a universe this vast, the odds are good that...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: Get this, aliens: we just don't care!  
-   Link: <a href="https://www.theguardian.com/film/filmblog/2008/dec/15/the-day-the-earth-stood-still" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/filmblog/2008/dec/15/the-day-the-earth-stood-still</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu Reeves15 Dec 2008 — Visitors from other worlds - Klaatu of The Day the Earth Stood Still included - should take their admonitions...</p></details>
+   Link:<a href="https://www.theguardian.com/film/filmblog/2008/dec/15/the-day-the-earth-stood-still" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/filmblog/2008/dec/15/the-day-the-earth-stood-still</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keanu Reeves15 Dec 2008 — Visitors from other worlds - Klaatu of The Day the Earth Stood Still included - should take their admonitions...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OQTww3JN49c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OQTww3JN49c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>plays a beloved actor who wronged a lot of people in the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OQTww3JN49c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OQTww3JN49c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plays a beloved actor who wronged a lot of people in the...</p></details>

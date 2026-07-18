@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ag
 
 ## Introduction
 
-*The Age of Disclosure* has become one of the most prominent celebrity-adjacent [UFO documentaries]({{ 'documentaries/' | relative_url }}) because it asks viewers to accept an extraordinary conclusion through an extraordinary number of witnesses rather than through newly released physical evidence. Produced by Hollywood filmmaker Dan Farah and featuring interviews with current and former US [military]({{ 'military/' | relative_url }}), intelligence and political figures, the film argues that governments have concealed evidence of non-human intelligence for roughly 80 years. Its central question is not simply whether UFO claims are true, but whether dozens of apparently credible insiders can collectively substitute for publicly verifiable proof. That distinction is crucial because, however impressive the list of interviewees may be, testimony and evidence play different roles in establishing factual claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University New Film The Age of Disclosure Alleges Government</span><span class="citation-popover-snippet">Boston UniversityNew Film The Age of Disclosure Alleges Government...March 24, 2025 — 24 Mar 2025 — A film awaiting distribution alleges...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+*The Age of Disclosure* has become one of the most prominent celebrity-adjacent [UFO documentaries]({{ 'documentaries/' | relative_url }}) because it asks viewers to accept an extraordinary conclusion through an extraordinary number of witnesses rather than through newly released physical evidence. Produced by Hollywood filmmaker Dan Farah and featuring interviews with current and former US [military]({{ 'military/' | relative_url }}), intelligence and political figures, the film argues that governments have concealed evidence of non-human intelligence for roughly 80 years. Its central question is not simply whether UFO claims are true, but whether dozens of apparently credible insiders can collectively substitute for publicly verifiable proof. That distinction is crucial because, however impressive the list of interviewees may be, testimony and evidence play different roles in establishing factual claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University New Film The Age of Disclosure Alleges Government</span><span class="citation-popover-snippet">Boston UniversityNew Film The Age of Disclosure Alleges Government...March 24, 2025 — 24 Mar 2025 — A film awaiting distribution alleges...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_age_disclosure_testi_21478d-Illustration-1-dark.svg" | relative_url }}" alt="Disclosure Film illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_age_disclosure_testi_21478d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_age_disclosure_testi_21478d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ image: /assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ag
 
 One reason *The Age of Disclosure* has attracted unusual attention is that it deliberately avoids the familiar image of UFO enthusiasts making speculative claims. Instead, the documentary presents senior military officers, intelligence officials, legislators and defence figures speaking calmly about classified programmes, unidentified aerial phenomena (UAPs) and alleged government secrecy. The cumulative effect is to create an impression of institutional credibility.
 
-The film's director has said he intentionally sought interviewees with direct government experience and avoided sensational television-style presentation. That production choice distinguishes the documentary from many earlier UFO films. Rather than relying on dramatic recreations, it leans heavily on credentials, rank and security clearances as persuasive devices. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">age of disclosure documentary aliens</span><span class="citation-popover-snippet">The Guardian&#x27;The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high...</span></span></span>
+The film's director has said he intentionally sought interviewees with direct government experience and avoided sensational television-style presentation. That production choice distinguishes the documentary from many earlier UFO films. Rather than relying on dramatic recreations, it leans heavily on credentials, rank and security clearances as persuasive devices.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">age of disclosure documentary aliens</span><span class="citation-popover-snippet">The Guardian&#x27;The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high...</span></span></span>
 
 This illustrates a broader phenomenon sometimes described as **testimony overload**. Individually, each witness offers a personal account or interpretation. Collectively, dozens of interviews can create the psychological impression that independent confirmation has occurred even when most interviewees are discussing overlapping stories, classified information they cannot reveal publicly, or claims originating from the same disclosure network.
 
@@ -310,7 +310,7 @@ These are reasonable questions. However, they concern the credibility of witness
 
 ## The 80-year cover-up claim
 
-The documentary's central narrative is that the United States and other governments have concealed evidence of non-human intelligence since the late 1940s while operating secret programmes to recover and reverse-engineer technology of unknown origin. Multiple participants refer to a long-running effort sometimes characterised as a "legacy programme" that allegedly exists outside normal public oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
+The documentary's central narrative is that the United States and other governments have concealed evidence of non-human intelligence since the late 1940s while operating secret programmes to recover and reverse-engineer technology of unknown origin. Multiple participants refer to a long-running effort sometimes characterised as a "legacy programme" that allegedly exists outside normal public oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
 
 The claim has substantial dramatic power because it ties together several familiar elements of modern UFO culture:
 
@@ -325,7 +325,7 @@ The claim has substantial dramatic power because it ties together several famili
 
 </div>
 
-The documentary treats these ideas as mutually reinforcing. Rather than presenting one decisive document or artefact, it builds its case through repeated assertions from multiple participants who say they encountered fragments of the same hidden system during their careers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
+The documentary treats these ideas as mutually reinforcing. Rather than presenting one decisive document or artefact, it builds its case through repeated assertions from multiple participants who say they encountered fragments of the same hidden system during their careers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
 
 That narrative structure explains why the film has resonated beyond traditional UFO audiences. It resembles an investigative documentary in which numerous insiders gradually assemble a larger picture, making the absence of public evidence feel like part of the story rather than a weakness in it.
 
@@ -335,7 +335,7 @@ That narrative structure explains why the film has resonated beyond traditional 
 
 The strongest criticism of *The Age of Disclosure* is not that witnesses must be dishonest. Rather, it is that testimony—even sincere testimony—cannot by itself establish claims of extraterrestrial technology or non-human intelligence.
 
-Scientists involved in official UAP studies have repeatedly argued that extraordinary claims require independently testable evidence. Joshua Semeter, who served on NASA's independent UAP study team, has stated that he has seen no evidence of a government cover-up and has emphasised that testimony alone is insufficient without corroborating physical data, multiple sensor observations and transparent scientific analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University New Film The Age of Disclosure Alleges Government</span><span class="citation-popover-snippet">Boston UniversityNew Film The Age of Disclosure Alleges Government...March 24, 2025 — 24 Mar 2025 — A film awaiting distribution alleges...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+Scientists involved in official UAP studies have repeatedly argued that extraordinary claims require independently testable evidence. Joshua Semeter, who served on NASA's independent UAP study team, has stated that he has seen no evidence of a government cover-up and has emphasised that testimony alone is insufficient without corroborating physical data, multiple sensor observations and transparent scientific analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">Boston University New Film The Age of Disclosure Alleges Government</span><span class="citation-popover-snippet">Boston UniversityNew Film The Age of Disclosure Alleges Government...March 24, 2025 — 24 Mar 2025 — A film awaiting distribution alleges...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 This reflects a long-standing distinction in science and investigative [reporting]({{ 'reporting/' | relative_url }}):
 
@@ -349,9 +349,9 @@ This reflects a long-standing distinction in science and investigative [reportin
 
 </div>
 
-The documentary contains extensive witness testimony but comparatively little publicly examinable material that outside researchers can analyse independently. Critics therefore argue that viewers are ultimately being asked to trust authority rather than evaluate evidence directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
+The documentary contains extensive witness testimony but comparatively little publicly examinable material that outside researchers can analyse independently. Critics therefore argue that viewers are ultimately being asked to trust authority rather than evaluate evidence directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
 
-Reviewers from publications with differing perspectives have reached similar observations. While some praised the film's polished presentation and the unusually senior status of its interviewees, others noted that the documentary offers few new publicly verifiable facts and largely depends on statements that cannot currently be confirmed because the claimed supporting evidence remains classified or undisclosed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
+Reviewers from publications with differing perspectives have reached similar observations. While some praised the film's polished presentation and the unusually senior status of its interviewees, others noted that the documentary offers few new publicly verifiable facts and largely depends on statements that cannot currently be confirmed because the claimed supporting evidence remains classified or undisclosed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SXUEcfgZv70" title="THE AGE OF DISCLOSURE - TRAILER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SXUEcfgZv70" target="_blank" rel="noopener noreferrer">THE AGE OF DISCLOSURE - TRAILER</a></p><p class="youtube-embed-meta">Channel: The Age Of Disclosure</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SXUEcfgZv70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SXUEcfgZv70">Open on YouTube</a></p></div></div></div>
@@ -367,184 +367,184 @@ Unlike fictional entertainment, the film presents itself as documenting real eve
 
 That tension explains why the documentary has become such a significant cultural reference point. Supporters see an unprecedented convergence of high-level witnesses calling for transparency. Sceptics see a carefully produced accumulation of anecdotes that still stops short of the kind of publicly testable evidence needed to resolve the question.
 
-The result is a debate less about the number of people speaking than about the standard of proof required for claims that would fundamentally change humanity's understanding of its place in the universe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
+The result is a debate less about the number of people speaking than about the standard of proof required for claims that would fundamentally change humanity's understanding of its place in the universe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Age of Disclosure</span><span class="citation-popover-snippet">The Age of Disclosure</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_age_disclosure_testi_21478d-Illustration-3-dark.svg" | relative_url }}" alt="Disclosure Film illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_age_disclosure_testi_21478d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_age_disclosure_testi_21478d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can many witnesses prove disclosure?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can many witnesses prove disclosure?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Centers official testimony versus evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers official testimony versus evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Investigates modern disclosure claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Investigates modern disclosure claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Closely related to disclosure-era debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely related to disclosure-era debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Helps readers distinguish testimony from proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish testimony from proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster – Midnight UFO Encounter Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster – Midnight UFO Encounter Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="disclosure-film-can-many-witnesses-prove-disclosure-ufos-and-celebrities-ufo-documentary-poster-book-books-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ The result is a debate less about the number of people speaking than about the s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ The result is a debate less about the number of people speaking than about the s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ The result is a debate less about the number of people speaking than about the s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ The result is a debate less about the number of people speaking than about the s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ The result is a debate less about the number of people speaking than about the s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,70 +750,70 @@ The result is a debate less about the number of people speaking than about the s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bu.edu  
    Title: Boston University New Film The Age of Disclosure Alleges Government  
-   Link: <a href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2025/ufo-news-government-cover-up/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityNew Film The Age of Disclosure Alleges Government...March 24, 2025 — 24 Mar 2025 — A film awaiting distribution alleges...</p></details>
+   Link:<a href="https://www.bu.edu/articles/2025/ufo-news-government-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2025/ufo-news-government-cover-up/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityNew Film The Age of Disclosure Alleges Government...March 24, 2025 — 24 Mar 2025 — A film awaiting distribution alleges...</p></details>
    Published: March 24, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theguardian.com  
    Title: age of disclosure documentary aliens  
-   Link: <a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Age of Disclosure  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: THE AGE OF DISCLOSURE  
-   Link: <a href="https://www.youtube.com/watch?v=SXUEcfgZv70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SXUEcfgZv70</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SXUEcfgZv70" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SXUEcfgZv70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ronitjauthor.com  
-   Link: <a href="https://ronitjauthor.com/2025/12/12/review-the-age-of-disclosure-2025-are-aliens-real-brain-rot-masquerading-as-a-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://ronitjauthor.com/2025/12/12/review-the-age-of-disclosure-2025-are-aliens-real-brain-rot-masquerading-as-a-documentary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Dec 2025 — He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war. Not one of these 3...</p></details>
+   Link:<a href="https://ronitjauthor.com/2025/12/12/review-the-age-of-disclosure-2025-are-aliens-real-brain-rot-masquerading-as-a-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://ronitjauthor.com/2025/12/12/review-the-age-of-disclosure-2025-are-aliens-real-brain-rot-masquerading-as-a-documentary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Dec 2025 — He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war. Not one of these 3...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: CNN discusses disclosure with The Age of Disclosure Director/Producer Dan Farah  
-   Link: <a href="https://www.youtube.com/watch?v=OZ3QZS5mEj8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OZ3QZS5mEj8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Age of Disclosure&quot; documentary Farah The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ VICE News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OZ3QZS5mEj8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OZ3QZS5mEj8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Age of Disclosure&quot; documentary Farah The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ VICE News...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GuardianUs/posts/the-age-of-disclosure-was-granted-a-capitol-hill-screening-and-has-broken-digita/1259161729570070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GuardianUs/posts/the-age-of-disclosure-was-granted-a-capitol-hill-screening-and-has-broken-digita/1259161729570070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>igital rental records but does it really offer proof of alien life?...</p></details>
+   Link:<a href="https://www.facebook.com/GuardianUs/posts/the-age-of-disclosure-was-granted-a-capitol-hill-screening-and-has-broken-digita/1259161729570070/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GuardianUs/posts/the-age-of-disclosure-was-granted-a-capitol-hill-screening-and-has-broken-digita/1259161729570070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>igital rental records but does it really offer proof of alien life?...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sjmJmwsjdGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sjmJmwsjdGI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>decades of cover-ups. Our countdown includes massive crafts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sjmJmwsjdGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sjmJmwsjdGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>decades of cover-ups. Our countdown includes massive crafts...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MWM5AtR3n9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MWM5AtR3n9o</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MWM5AtR3n9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MWM5AtR3n9o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah  
-   Link: <a href="https://www.youtube.com/watch?v=UpFqkpiOAMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UpFqkpiOAMs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Shocking Revelations From The Age Of Disclosure Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UpFqkpiOAMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UpFqkpiOAMs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Shocking Revelations From The Age Of Disclosure Documentary...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt35520315/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt35520315/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of Disclosure (2025)An unprecedented film -featuring 34 senior US Government insiders- that reveals an 80 year cover-up of the ex...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt35520315/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt35520315/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Age of Disclosure (2025)An unprecedented film -featuring 34 senior US Government insiders- that reveals an 80 year cover-up of the ex...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/NSFaaq3vhfY?si=1UwgjBr7_7daZqyc" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/NSFaaq3vhfY?si=1UwgjBr7_7daZqyc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Farah Age of Disclosure interview The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah...</p></details>
+   Link:<a href="https://youtu.be/NSFaaq3vhfY?si=1UwgjBr7_7daZqyc" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/NSFaaq3vhfY?si=1UwgjBr7_7daZqyc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Farah Age of Disclosure interview The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah...</p></details>

@@ -278,13 +278,13 @@ Sleep paralysis is one of the most widely discussed naturalistic explanations fo
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-1-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader topic of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}), the value of the sleep paralysis explanation lies in its specificity. Rather than dismissing witnesses as dishonest, it recognises that an experience can feel intensely real while still arising during the transition between sleep and wakefulness. This distinction is especially relevant for [public figures]({{ 'public-figures/' | relative_url }}) whose stories often become part of wider debates about extraterrestrial visitation despite relying primarily on personal testimony rather than independently verifiable evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
+Within the broader topic of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}), the value of the sleep paralysis explanation lies in its specificity. Rather than dismissing witnesses as dishonest, it recognises that an experience can feel intensely real while still arising during the transition between sleep and wakefulness. This distinction is especially relevant for [public figures]({{ 'public-figures/' | relative_url }}) whose stories often become part of wider debates about extraterrestrial visitation despite relying primarily on personal testimony rather than independently verifiable evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
 
 ## What sleep paralysis feels like
 
 Sleep paralysis occurs when a person becomes conscious before the temporary muscle paralysis associated with rapid eye movement (REM) sleep has fully ended. During this brief period, they may be unable to move or speak despite feeling awake. Episodes commonly last seconds or a few minutes.
 
-Researchers have documented several experiences that frequently accompany sleep paralysis: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
+Researchers have documented several experiences that frequently accompany sleep paralysis:<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -298,7 +298,7 @@ Researchers have documented several experiences that frequently accompany sleep 
 
 </div>
 
-These experiences are not random dreams. Because they occur during a transitional state in which elements of REM dreaming intrude into wakefulness, they are often remembered as real events rather than imagined ones. Sleep deprivation, irregular sleep schedules, stress and sleeping in unfamiliar environments may increase the likelihood of episodes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
+These experiences are not random dreams. Because they occur during a transitional state in which elements of REM dreaming intrude into wakefulness, they are often remembered as real events rather than imagined ones. Sleep deprivation, irregular sleep schedules, stress and sleeping in unfamiliar environments may increase the likelihood of episodes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PipMkQsGTyg" title="Terrifying Sleep Paralysis Reveals Link to Alien Abductions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PipMkQsGTyg" target="_blank" rel="noopener noreferrer">Terrifying Sleep Paralysis Reveals Link to Alien Abductions</a></p><p class="youtube-embed-meta">Channel: Dreaming Lucid</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PipMkQsGTyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PipMkQsGTyg">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ Several features align remarkably closely:
 
 Common encounter reportSleep paralysis explanationInability to moveREM muscle atonia persisting into wakefulnessPresence of beingsHallucinated "felt presence" phenomenonStrange buzzing or high-frequency soundsAuditory hallucinations during REM transitionFloating or being liftedVestibular hallucinations affecting balance perceptionAbsolute certainty it happenedHigh realism typical of REM-related hallucinations
 
-Importantly, the explanation does not depend on a person already believing in aliens. The neurological experience comes first; cultural beliefs often influence how the experience is interpreted afterwards. In earlier centuries similar experiences were commonly attributed to demons, witches or supernatural visitors. In modern societies familiar with UFO culture, some people instead interpret the same core sensations as alien encounters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
+Importantly, the explanation does not depend on a person already believing in aliens. The neurological experience comes first; cultural beliefs often influence how the experience is interpreted afterwards. In earlier centuries similar experiences were commonly attributed to demons, witches or supernatural visitors. In modern societies familiar with UFO culture, some people instead interpret the same core sensations as alien encounters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-2-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,7 +319,7 @@ Importantly, the explanation does not depend on a person already believing in al
 
 Among well-known celebrity accounts, the one most frequently discussed in relation to sleep paralysis is that of Goldie Hawn.
 
-Hawn described falling asleep in a friend's car after an exhausting rehearsal, being awakened by a high-pitched sound, seeing silver [beings]({{ 'beings/' | relative_url }}) with triangular heads outside the vehicle, finding herself unable to move, and later remembering what she experienced as a benevolent encounter. She also acknowledged uncertainty, saying she could not prove what had happened. Journalists covering the account noted that the temporary paralysis resembled experiences reported during sleep paralysis, even while accurately [reporting]({{ 'reporting/' | relative_url }}) Hawn's own interpretation of the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
+Hawn described falling asleep in a friend's car after an exhausting rehearsal, being awakened by a high-pitched sound, seeing silver [beings]({{ 'beings/' | relative_url }}) with triangular heads outside the vehicle, finding herself unable to move, and later remembering what she experienced as a benevolent encounter. She also acknowledged uncertainty, saying she could not prove what had happened. Journalists covering the account noted that the temporary paralysis resembled experiences reported during sleep paralysis, even while accurately [reporting]({{ 'reporting/' | relative_url }}) Hawn's own interpretation of the event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter</span><span class="citation-popover-snippet">I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</span></span></span>
 
 Her story contains several elements that researchers identify as characteristic of REM-related experiences:
 
@@ -347,7 +347,7 @@ One reason alien encounter stories persist is that sleep paralysis experiences a
 
 Unlike ordinary dreams, episodes frequently produce intense emotional responses. Fear, amazement or profound calm can strengthen long-term memory, making the experience feel like an important life event. Later discussion, media coverage or exposure to UFO narratives may also shape how the memory is organised and interpreted over time.
 
-Psychological researchers studying people who sincerely report alien abductions have argued that many are not fabricating experiences. Instead, they may be attempting to explain unusually vivid experiences using the cultural framework that seems to fit best. This perspective treats witnesses as genuine reporters of subjective experiences while remaining cautious about claims that external extraterrestrial events occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+Psychological researchers studying people who sincerely report alien abductions have argued that many are not fabricating experiences. Instead, they may be attempting to explain unusually vivid experiences using the cultural framework that seems to fit best. This perspective treats witnesses as genuine reporters of subjective experiences while remaining cautious about claims that external extraterrestrial events occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fhNJt-IBdMs" title="Sleep paralysis and UFO abduction experiences #psychology #criticalthinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fhNJt-IBdMs" target="_blank" rel="noopener noreferrer">Sleep paralysis and UFO abduction experiences #psychology #criticalthinking</a></p><p class="youtube-embed-meta">Channel: TFF - Teacher From Finland</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fhNJt-IBdMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fhNJt-IBdMs">Open on YouTube</a></p></div></div></div>
@@ -363,7 +363,7 @@ Several limitations are important:
 * It cannot account for every report involving multiple [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}).
 * It does not resolve claims involving alleged events during sustained wakefulness unless additional psychological or perceptual factors are also considered.
 
-Researchers therefore treat sleep paralysis as one mechanism among several that may contribute to encounter reports, alongside false memory, expectation, perceptual error and social influences. Even critics of alien abduction claims generally avoid asserting that every account can be reduced to a single explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
+Researchers therefore treat sleep paralysis as one mechanism among several that may contribute to encounter reports, alongside false memory, expectation, perceptual error and social influences. Even critics of alien abduction claims generally avoid asserting that every account can be reduced to a single explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien abduction</span><span class="citation-popover-snippet">Alien abduction</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-3-dark.svg" | relative_url }}" alt="Sleep Paralysis illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_sleep_paralysis_abdu_5afc9f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,197 +371,197 @@ Researchers therefore treat sleep paralysis as one mechanism among several that 
 
 Celebrity accounts receive enormous public attention, but fame does not change the evidential [standards]({{ 'standards/' | relative_url }}) used to evaluate extraordinary claims. Sleep paralysis offers a scientifically grounded explanation for some of the most striking elements found in abduction-style stories—especially paralysis, sensed beings, unusual sounds and overwhelming realism—without assuming deception or dismissing the witness's [sincerity]({{ 'sincerity/' | relative_url }}).
 
-For readers examining celebrity UFO encounters, this makes sleep paralysis an important interpretive framework rather than a definitive verdict. It helps explain why experiences can be deeply convincing to the individual while remaining insufficient, on their own, to demonstrate that an encounter with extraterrestrial beings objectively occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
+For readers examining celebrity UFO encounters, this makes sleep paralysis an important interpretive framework rather than a definitive verdict. It helps explain why experiences can be deeply convincing to the individual while remaining insufficient, on their own, to demonstrate that an encounter with extraterrestrial beings objectively occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sleep paralysis</span><span class="citation-popover-snippet">Sleep paralysis</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could sleep paralysis explain alien encounters?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could sleep paralysis explain alien encounters?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Explains REM sleep and related phenomena underlying sleep paralysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains REM sleep and related phenomena underlying sleep paralysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explores cognitive mechanisms behind extraordinary beliefs and experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores cognitive mechanisms behind extraordinary beliefs and experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
-        </h4>
-        <p class="fr-book-author">By Oliver Sacks</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
+</h4>
+<p class="fr-book-author">By Oliver Sacks</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14380975-M.jpg" alt="Cover for Sleep paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep paralysis">Sleep paralysis</a>
-        </h4>
-        <p class="fr-book-author">By Shelley R. Adler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sleep paralysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14380975-M.jpg" alt="Cover for Sleep paralysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep paralysis">Sleep paralysis</a>
+</h4>
+<p class="fr-book-author">By Shelley R. Adler</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Nightmares, Sleep disorders, Mind and body, Dreams, Mind-Body Relations, Metaphysical.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Nightmares, Sleep disorders, Mind and body, Dreams, Mind-Body Relations, Metaphysical.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hallucinations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hallucinations</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="sleep-paralysis-could-sleep-paralysis-explain-alien-encounters-ufos-and-celebrities-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ For readers examining celebrity UFO encounters, this makes sleep paralysis an im
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ For readers examining celebrity UFO encounters, this makes sleep paralysis an im
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ For readers examining celebrity UFO encounters, this makes sleep paralysis an im
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ For readers examining celebrity UFO encounters, this makes sleep paralysis an im
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ For readers examining celebrity UFO encounters, this makes sleep paralysis an im
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,113 +767,113 @@ For readers examining celebrity UFO encounters, this makes sleep paralysis an im
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Sleep paralysis  
-   Link: <a href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep_paralysis</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sleep_paralysis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep_paralysis</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Perspectives on the alien abduction phenomenon  
-   Link: <a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Perspectives_on_the_alien_abduction_phenomenon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: David M. Jacobs  
-   Link: <a href="https://en.wikipedia.org/wiki/David_M._Jacobs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_M._Jacobs</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_M._Jacobs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_M._Jacobs</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Travis Walton incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_Walton_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_Walton_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GBt5q7F7rAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GBt5q7F7rAI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis | National Geographic...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GBt5q7F7rAI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GBt5q7F7rAI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep Paralysis | National Geographic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Sleep Paralysis | National Geographic  
-   Link: <a href="https://www.youtube.com/watch?v=PCZSAwSasdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PCZSAwSasdQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sleep Paralysis Giving You Night Terrors? | Because Science...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PCZSAwSasdQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PCZSAwSasdQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Sleep Paralysis Giving You Night Terrors? | Because Science...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: latimes.com  
    Title: Los Angeles Times Goldie Hawn recounts her paralyzing alien encounter  
-   Link: <a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment-arts/story/2023-10-27/goldie-hawn-alien-encounter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think I made contact with outer space&#x27; · Cardi B talks FDR and aliens on &#x27;Hot Ones&#x27; · NASA...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: aliens are abducting me. Worst one yet · r/Sleepparalysis. • 1d ago  
-   Link: <a href="https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone think Goldie Hawn&#x27;s alien encounter is just sleep paralysis?March 2, 2024 — Anyone think Goldie Hawn&#x27;s alien encounter is just sle...</p></details>
+   Link:<a href="https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Sleepparalysis/comments/1b4bnx3/anyone_think_goldie_hawns_alien_encounter_is_just/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone think Goldie Hawn&#x27;s alien encounter is just sleep paralysis?March 2, 2024 — Anyone think Goldie Hawn&#x27;s alien encounter is just sle...</p></details>
    Published: March 2, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fox5dc.com  
    Title: Goldie Hawn says she 'made contact' with aliens: 'They touched my  
-   Link: <a href="https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023 — Goldie Hawn recalled making contact with &quot;two or three&quot; extraterrestrial beings who &quot;touched&quot; her face when she was 20...</p></details>
+   Link:<a href="https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5dc.com/news/goldie-hawn-made-contact-with-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023 — Goldie Hawn recalled making contact with &quot;two or three&quot; extraterrestrial beings who &quot;touched&quot; her face when she was 20...</p></details>
    Published: October 30, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wgem.com  
    Title: Goldie Hawn shares alien encounter she experienced more than 50  
-   Link: <a href="https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023 — Goldie Hawn shares alien encounter she experienced more than 50 years ago... Goldie Hawn said the aliens were “silver in...</p></details>
+   Link:<a href="https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/" target="_blank" rel="noopener noreferrer nofollow">https://www.wgem.com/2023/10/30/goldie-hawn-shares-alien-encounter-she-experienced-more-than-50-years-ago/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2023 — Goldie Hawn shares alien encounter she experienced more than 50 years ago... Goldie Hawn said the aliens were “silver in...</p></details>
    Published: October 30, 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Goldie Hawn on her crazy alien experience! | Jimmy Kimmel Live  
-   Link: <a href="https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Goldie Hawn on her crazy alien experience... A girlfriend and I were walking home from high school and saw a strange...</p></details>
+   Link:<a href="https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/videos/goldie-hawn-on-her-crazy-alien-experience/1471156211056628/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 — Goldie Hawn on her crazy alien experience... A girlfriend and I were walking home from high school and saw a strange...</p></details>
    Published: April 29, 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: Goldie Hawn just casually walked onto Jimmy Kimmel Live!  
-   Link: <a href="https://www.facebook.com/diply/posts/goldie-hawn-just-casually-walked-onto-jimmy-kimmel-live-and-told-the-world-she-w/998960805850492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/diply/posts/goldie-hawn-just-casually-walked-onto-jimmy-kimmel-live-and-told-the-world-she-w/998960805850492/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and told...May 3, 2026 — Goldie Hawn, partner of Marvel star Kurt Russell, claimed to have had a strange alien experience one night. She...</p></details>
+   Link:<a href="https://www.facebook.com/diply/posts/goldie-hawn-just-casually-walked-onto-jimmy-kimmel-live-and-told-the-world-she-w/998960805850492/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/diply/posts/goldie-hawn-just-casually-walked-onto-jimmy-kimmel-live-and-told-the-world-she-w/998960805850492/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and told...May 3, 2026 — Goldie Hawn, partner of Marvel star Kurt Russell, claimed to have had a strange alien experience one night. She...</p></details>
    Published: May 3, 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: Goldie Hawn on her crazy alien experience!  
-   Link: <a href="https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 —... strange alien experience one night. She said she asked the sky to let her meet aliens. Months later, she wok...</p></details>
+   Link:<a href="https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JimmyKimmelLive/posts/goldie-hawn-on-her-crazy-alien-experience/1496562201825688/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 —... strange alien experience one night. She said she asked the sky to let her meet aliens. Months later, she wok...</p></details>
    Published: April 29, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Goldie Hawn on Her Crazy Alien Experience, Missing  
-   Link: <a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 —... night. Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=suzqvlOt7y4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=suzqvlOt7y4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 29, 2026 —... night. Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win &amp; Sketch with Harlem Globetrotters...</p></details>
    Published: April 29, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Terrifying Sleep Paralysis Reveals Link to Alien Abductions  
-   Link: <a href="https://www.youtube.com/watch?v=PipMkQsGTyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PipMkQsGTyg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis alien abduction explanation science What Causes People to Claim Alien Abduction? | What is Sleep Paralysis?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PipMkQsGTyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PipMkQsGTyg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis alien abduction explanation science What Causes People to Claim Alien Abduction? | What is Sleep Paralysis?...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Is Sleep Paralysis Giving You Night Terrors? | Because Science  
-   Link: <a href="https://www.youtube.com/watch?v=guLb4dyGDtI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=guLb4dyGDtI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis and UFO abduction experiences...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=guLb4dyGDtI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=guLb4dyGDtI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep paralysis and UFO abduction experiences...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Sleep paralysis and UFO abduction experiences  
-   Link: <a href="https://www.youtube.com/watch?v=fhNJt-IBdMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fhNJt-IBdMs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Sleep Paralysis Reveals Link to Alien Abductions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fhNJt-IBdMs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fhNJt-IBdMs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrifying Sleep Paralysis Reveals Link to Alien Abductions...</p></details>

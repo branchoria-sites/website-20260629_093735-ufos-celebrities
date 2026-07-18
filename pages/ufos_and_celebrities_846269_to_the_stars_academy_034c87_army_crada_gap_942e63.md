@@ -282,7 +282,7 @@ The Army agreement was real and significant. It showed that a government researc
 
 ## What a CRADA is and why it matters
 
-A Cooperative Research and Development Agreement is a legal framework allowing a federal laboratory to collaborate with non-government organisations on research and development. Rather than being a procurement contract or grant, a CRADA enables both parties to share expertise, facilities and intellectual property while pursuing mutually defined research goals. The Army describes CRADAs as mechanisms for advancing research and potentially generating new intellectual property, not as certifications that a collaborator's claims are already proven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.devcom.army.mil">[DEVCOM Army Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.devcom.army.mil</span><span class="citation-popover-snippet">DEVCOM Army Research LaboratoryCooperative Research and Development Agreement (CRADA)A Cooperative Research and Development Agreement (CR...</span></span></span>
+A Cooperative Research and Development Agreement is a legal framework allowing a federal laboratory to collaborate with non-government organisations on research and development. Rather than being a procurement contract or grant, a CRADA enables both parties to share expertise, facilities and intellectual property while pursuing mutually defined research goals. The Army describes CRADAs as mechanisms for advancing research and potentially generating new intellectual property, not as certifications that a collaborator's claims are already proven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arl.devcom.army.mil">[DEVCOM Army Research Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arl.devcom.army.mil</span><span class="citation-popover-snippet">DEVCOM Army Research LaboratoryCooperative Research and Development Agreement (CRADA)A Cooperative Research and Development Agreement (CR...</span></span></span>
 
 This distinction matters because CRADAs are designed to explore uncertainty. Government laboratories frequently enter them with universities, start-ups and established companies to evaluate promising technologies. Agreeing to investigate a claim is fundamentally different from concluding that the claim is correct.
 
@@ -290,9 +290,9 @@ Within the context of TTSA, the CRADA therefore represented an opportunity for t
 
 ## What the Army agreement said TTSA might provide
 
-The 2019 agreement focused on potential applications for Army ground systems rather than UFO disclosure. According to TTSA's announcement, the collaboration would examine materials and technologies that might improve vehicle survivability and protection. Areas mentioned included advanced materials, active camouflage and related engineering concepts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorfreCYAdLNxX5L_-g4VGleteznYEiVumr3z7gScYurWu7Psr31" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOctober 18, 2019 — Oct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army...</span><span class="citation-popover-meta">Published: October 18, 2019</span></span></span>
+The 2019 agreement focused on potential applications for Army ground systems rather than UFO disclosure. According to TTSA's announcement, the collaboration would examine materials and technologies that might improve vehicle survivability and protection. Areas mentioned included advanced materials, active camouflage and related engineering concepts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorfreCYAdLNxX5L_-g4VGleteznYEiVumr3z7gScYurWu7Psr31" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*TTSA Announces CRADA with U.S</span><span class="citation-popover-snippet">Army CCDCOctober 18, 2019 — Oct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army...</span><span class="citation-popover-meta">Published: October 18, 2019</span></span></span>
 
-The publicly released CRADA itself is more cautious than many [headlines]({{ 'headlines/' | relative_url }}) suggested. It states that the Army would work with TTSA to characterise and assess various "novel materials" and associated technologies. The agreement repeatedly frames these as subjects for investigation and verification rather than established breakthroughs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
+The publicly released CRADA itself is more cautious than many [headlines]({{ 'headlines/' | relative_url }}) suggested. It states that the Army would work with TTSA to characterise and assess various "novel materials" and associated technologies. The agreement repeatedly frames these as subjects for investigation and verification rather than established breakthroughs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
 
 One reason the announcement attracted such attention was TTSA's earlier public discussion of so-called "[metamaterials]({{ 'metamaterials/' | relative_url }})" allegedly connected to unusual aerospace phenomena. Some supporters interpreted the Army's willingness to examine these materials as indirect confirmation that they were extraordinary. The actual agreement, however, treats them as research objects whose properties remained to be evaluated.
 
@@ -303,10 +303,10 @@ One reason the announcement attracted such attention was TTSA's earlier public d
 
 The key misunderstanding arose because many readers blurred three separate questions:
 
-* **Did the Army sign a real agreement with TTSA?** Yes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span> * **Did the Army agree to examine materials and technologies TTSA presented?** Yes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
+* **Did the Army sign a real agreement with TTSA?** Yes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span> * **Did the Army agree to examine materials and technologies TTSA presented?** Yes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
 * **Did the Army conclude those materials originated from non-human or extraterrestrial technology?** No.
 
-The CRADA contains no statement that the Army accepted TTSA's interpretations about the origin of any material. Instead, it reflects a willingness to determine whether reported properties could be independently verified. That is exactly the sort of uncertainty collaborative research agreements are designed to address. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
+The CRADA contains no statement that the Army accepted TTSA's interpretations about the origin of any material. Instead, it reflects a willingness to determine whether reported properties could be independently verified. That is exactly the sort of uncertainty collaborative research agreements are designed to address.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
 
 This distinction is easy to lose in public debate because institutional collaboration carries symbolic weight. When a respected defence research organisation partners with a controversial organisation, many observers naturally infer that officials have already completed extensive validation. In reality, the validation process is often the reason the collaboration exists in the first place.
 
@@ -345,7 +345,7 @@ It does **not** demonstrate:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * that any examined material possessed non-human origins;
-* that the Army authenticated claims of alien technology; <span class="citation-chip-wrap"><a class="citation-chip" href="https://factcheck.afp.com/science-and-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.afp.com">[factcheck.afp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.afp.com</span><span class="citation-popover-snippet">and technologyAI image used in baseless claims on purported collusion to arrest ex-Philippine president&#x27;s drug war enforcer · AI videos s...</span></span></span>
+* that the Army authenticated claims of alien technology;<span class="citation-chip-wrap"><a class="citation-chip" href="https://factcheck.afp.com/science-and-technology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.afp.com">[factcheck.afp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.afp.com</span><span class="citation-popover-snippet">and technologyAI image used in baseless claims on purported collusion to arrest ex-Philippine president&#x27;s drug war enforcer · AI videos s...</span></span></span>
 * that TTSA's public statements about recovered materials were independently verified;
 * or that the collaboration produced publicly released findings confirming extraordinary performance.
 
@@ -359,7 +359,7 @@ The absence of such evidence is important because the public discussion often sk
 
 The TTSA Army collaboration illustrates a broader pattern in celebrity-driven UFO advocacy: institutional contact can create an impression of validation that exceeds what official documents actually say.
 
-Tom DeLonge's public profile ensured that news of the CRADA reached audiences well beyond aerospace and defence circles. Headlines emphasising "the Army" and "UFO researchers" encouraged many readers to interpret the agreement as an endorsement of TTSA's wider narrative. Yet the documentary record consistently frames the collaboration as exploratory research into proposed materials and technologies, not acceptance of extraordinary origin claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com+2To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
+Tom DeLonge's public profile ensured that news of the CRADA reached audiences well beyond aerospace and defence circles. Headlines emphasising "the Army" and "UFO researchers" encouraged many readers to interpret the agreement as an endorsement of TTSA's wider narrative. Yet the documentary record consistently frames the collaboration as exploratory research into proposed materials and technologies, not acceptance of extraordinary origin claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com+2To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">TTSA ARMY CRADA</span><span class="citation-popover-snippet">TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</span></span></span>
 
 For readers assessing claims about unidentified aerial phenomena, this episode provides an important lesson. Government collaboration can be meaningful without resolving the central evidential question. The Army's willingness to investigate TTSA's proposed materials made the organisation harder to dismiss outright, but it did not close the gap between scientific curiosity and proof. That endorsement gap remains one of the defining features of TTSA's role in the modern public conversation about UFOs.
 
@@ -368,178 +368,178 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Army Deal Actually Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Army Deal Actually Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides institutional context for official involvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides institutional context for official involvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Covers military and government engagement with UAP.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers military and government engagement with UAP.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores institutional and cultural dimensions of UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores institutional and cultural dimensions of UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Adds background on military secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds background on military secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="army-crada-what-did-the-army-deal-actually-prove-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,119 +745,119 @@ For readers assessing claims about unidentified aerial phenomena, this episode p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arl.devcom.army.mil  
-   Link: <a href="https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/" target="_blank" rel="noopener noreferrer nofollow">https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DEVCOM Army Research LaboratoryCooperative Research and Development Agreement (CRADA)A Cooperative Research and Development Agreement (CR...</p></details>
+   Link:<a href="https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/" target="_blank" rel="noopener noreferrer nofollow">https://arl.devcom.army.mil/collaborate-with-us/opportunity/crada/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEVCOM Army Research LaboratoryCooperative Research and Development Agreement (CRADA)A Cooperative Research and Development Agreement (CR...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: 20230405 CRADA 101 FOR PUBLIC RELEASE  
-   Link: <a href="https://media.defense.gov/2023/Jul/11/2003256650/-1/-1/0/20230405__CRADA%20101__FOR%20PUBLIC%20RELEASE.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/Jul/11/2003256650/-1/-1/0/20230405__CRADA%20101__FOR%20PUBLIC%20RELEASE.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. ARMY COMBAT CAPABILITIES DEVELOPMENT...Jul 11, 2023 — CRADAs can be used to offset the costs of an acquisition as...</p></details>
+   Link:<a href="https://media.defense.gov/2023/Jul/11/2003256650/-1/-1/0/20230405__CRADA%20101__FOR%20PUBLIC%20RELEASE.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/Jul/11/2003256650/-1/-1/0/20230405__CRADA%20101__FOR%20PUBLIC%20RELEASE.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. ARMY COMBAT CAPABILITIES DEVELOPMENT...Jul 11, 2023 — CRADAs can be used to offset the costs of an acquisition as...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: documents2.theblackvault.com  
    Title: TTSA ARMY CRADA  
-   Link: <a href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/army/TTSA-ARMY-CRADA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TTSA-ARMY-CRADA.pdf1 Oct 2019 — The CRADA Work will have the following marking: &quot;This Work wascreat!!d in the Performance of a Cooperativ...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tothestars.media  
    Title: To The Stars*TTSA Announces CRADA with U.S  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorfreCYAdLNxX5L_-g4VGleteznYEiVumr3z7gScYurWu7Psr31" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorfreCYAdLNxX5L_-g4VGleteznYEiVumr3z7gScYurWu7Psr31</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army CCDCOctober 18, 2019 — Oct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorfreCYAdLNxX5L_-g4VGleteznYEiVumr3z7gScYurWu7Psr31" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorfreCYAdLNxX5L_-g4VGleteznYEiVumr3z7gScYurWu7Psr31</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army CCDCOctober 18, 2019 — Oct 17, 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army...</p></details>
    Published: October 18, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: prnewswire.com  
-   Link: <a href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireTo The Stars Academy of Arts &amp; Science Announces...Oct 17, 2019 — To The Stars Academy of Arts &amp; Science Announces CRADA with...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces-crada-with-the-us-army-combat-capabilities-development-command-to-advance-materiel-and-technology-innovations-300940211.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR NewswireTo The Stars Academy of Arts &amp; Science Announces...Oct 17, 2019 — To The Stars Academy of Arts &amp; Science Announces CRADA with...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of official - Cambridge Dictionary...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/official</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of official - Cambridge Dictionary...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/official</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionary5 days ago — in sports, a person who is in charge of making sure players follow the rules...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/official" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/official</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionary5 days ago — in sports, a person who is in charge of making sure players follow the rules...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Official" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Official</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OfficialAn official is someone who holds an office (function or mandate, regardless of whether it carries an actual working space with...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Official" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Official</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OfficialAn official is someone who holds an office (function or mandate, regardless of whether it carries an actual working space with...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tothestars.media  
    Title: TTS A Announces CRADA with U.S  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorOL8s6o4VsETD8nHo0qsqriTXIdIK74svlQePU34gJbxRJg2S8" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorOL8s6o4VsETD8nHo0qsqriTXIdIK74svlQePU34gJbxRJg2S8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Army CCDC17 Oct 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilities...</p></details>
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorOL8s6o4VsETD8nHo0qsqriTXIdIK74svlQePU34gJbxRJg2S8" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/ttsa-announces-crada-with-u-s-army-ccdc?srsltid=AfmBOorOL8s6o4VsETD8nHo0qsqriTXIdIK74svlQePU34gJbxRJg2S8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army CCDC17 Oct 2019 — TTSA announced today a Cooperative Research and Development Agreement (CRADA) with the US Army Combat Capabilities...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/official" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/official</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If Gatorade is the official drink of the Olympics, somebody with authority has signed some...Read more...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/official" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/official</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If Gatorade is the official drink of the Olympics, somebody with authority has signed some...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: to the stars academy of arts science ttsa  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Combat...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/dj6edu/to_the_stars_academy_of_arts_science_ttsa/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Combat...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. T...</p></details>
+   Link:<a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. T...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: factcheck.afp.com  
-   Link: <a href="https://factcheck.afp.com/science-and-technology" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/science-and-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and technologyAI image used in baseless claims on purported collusion to arrest ex-Philippine president&#x27;s drug war enforcer · AI videos s...</p></details>
+   Link:<a href="https://factcheck.afp.com/science-and-technology" target="_blank" rel="noopener noreferrer nofollow">https://factcheck.afp.com/science-and-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and technologyAI image used in baseless claims on purported collusion to arrest ex-Philippine president&#x27;s drug war enforcer · AI videos s...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: law.cornell.edu  
-   Link: <a href="https://www.law.cornell.edu/wex/official" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/official</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wex | US Law | LII / Legal Information InstituteA public official is an individual elected or appointed to carry out a subset of the po...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/official" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/official</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wex | US Law | LII / Legal Information InstituteA public official is an individual elected or appointed to carry out a subset of the po...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsaustin.com  
-   Link: <a href="https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Team: Pentagon releases new UFO files, but...29 May 2026 — Military officials say the central concern is not extraterrestrial...</p></details>
+   Link:<a href="https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://cbsaustin.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact Check Team: Pentagon releases new UFO files, but...29 May 2026 — Military officials say the central concern is not extraterrestrial...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nacconsortium.org  
-   Link: <a href="https://www.nacconsortium.org/u-s-army-devcom-ac-and-national-armaments-consortium-expand-master-crada-to-collaborate-on-next-generation-uas-fuzing-technologies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nacconsortium.org/u-s-army-devcom-ac-and-national-armaments-consortium-expand-master-crada-to-collaborate-on-next-generation-uas-fuzing-technologies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army DEVCOM AC and National Armaments Consortium...Mar 9, 2026 — The Master CRADA between NAC and DEVCOM AC was signed in May 2022 to st...</p></details>
+   Link:<a href="https://www.nacconsortium.org/u-s-army-devcom-ac-and-national-armaments-consortium-expand-master-crada-to-collaborate-on-next-generation-uas-fuzing-technologies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nacconsortium.org/u-s-army-devcom-ac-and-national-armaments-consortium-expand-master-crada-to-collaborate-on-next-generation-uas-fuzing-technologies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army DEVCOM AC and National Armaments Consortium...Mar 9, 2026 — The Master CRADA between NAC and DEVCOM AC was signed in May 2022 to st...</p></details>
    Published: May 2022  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ReutersFacts" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ReutersFacts</a>  
+   Link:<a href="https://x.com/ReutersFacts" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ReutersFacts</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explore the possi...</p></details>
+   Link:<a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explore the possi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nextgov.com  
    Title: army partners ufo researchers study active camouflage and other sci fi tech  
-   Link: <a href="https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Partners with UFO Researchers to Study Active...22 Oct 2019 — The cooperative research and development agreement is set to last fiv...</p></details>
+   Link:<a href="https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/emerging-tech/2019/10/army-partners-ufo-researchers-study-active-camouflage-and-other-sci-fi-tech/160787/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army Partners with UFO Researchers to Study Active...22 Oct 2019 — The cooperative research and development agreement is set to last fiv...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: l3harris.com  
    Title: assist development modular open systems us army ground  
-   Link: <a href="https://www.l3harris.com/newsroom/press-release/2023/03/l3harris-assist-development-modular-open-systems-us-army-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/newsroom/press-release/2023/03/l3harris-assist-development-modular-open-systems-us-army-ground</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L3Harris to Assist in Development of Modular Open...Mar 27, 2023 — L3Harris Technologies announced today a Cooperative Research and Deve...</p></details>
+   Link:<a href="https://www.l3harris.com/newsroom/press-release/2023/03/l3harris-assist-development-modular-open-systems-us-army-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.l3harris.com/newsroom/press-release/2023/03/l3harris-assist-development-modular-open-systems-us-army-ground</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L3Harris to Assist in Development of Modular Open...Mar 27, 2023 — L3Harris Technologies announced today a Cooperative Research and Deve...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: investors.globalstar.com  
    Title: enters cooperative rd us army evaluate edge  
-   Link: <a href="https://investors.globalstar.com/news-releases/news-release-details/globalstar-enters-cooperative-rd-us-army-evaluate-edge" target="_blank" rel="noopener noreferrer nofollow">https://investors.globalstar.com/news-releases/news-release-details/globalstar-enters-cooperative-rd-us-army-evaluate-edge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army to...Jul 15, 2025 — The primary focus of the CRADA is to assess Globalstar&#x27;s ultra low size, weight, power and cost (SWaP-C) device...</p></details>
+   Link:<a href="https://investors.globalstar.com/news-releases/news-release-details/globalstar-enters-cooperative-rd-us-army-evaluate-edge" target="_blank" rel="noopener noreferrer nofollow">https://investors.globalstar.com/news-releases/news-release-details/globalstar-enters-cooperative-rd-us-army-evaluate-edge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army to...Jul 15, 2025 — The primary focus of the CRADA is to assess Globalstar&#x27;s ultra low size, weight, power and cost (SWaP-C) device...</p></details>

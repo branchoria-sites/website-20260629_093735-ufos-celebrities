@@ -448,23 +448,23 @@ image: /assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8-ov
 
 ## Introduction
 
-Celebrity UFO documentaries matter less because they prove alien visitation and more because they teach audiences how to watch UFO stories. A famous host, a polished streaming platform, dramatic [music]({{ 'music/' | relative_url }}), official-sounding interviewees and “new evidence” language can move a claim from niche UFO circles into mainstream entertainment without necessarily adding stronger data. That is the key mechanism: celebrity media keeps UFOs visible, emotionally compelling and culturally respectable even when the evidentiary base remains mostly testimonial, ambiguous or contested. NASA’s 2023 UAP study made the opposite kind of point: better data, calibrated collection and stigma reduction are needed before unidentified sightings can become reliable scientific evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Celebrity UFO documentaries matter less because they prove alien visitation and more because they teach audiences how to watch UFO stories. A famous host, a polished streaming platform, dramatic [music]({{ 'music/' | relative_url }}), official-sounding interviewees and “new evidence” language can move a claim from niche UFO circles into mainstream entertainment without necessarily adding stronger data. That is the key mechanism: celebrity media keeps UFOs visible, emotionally compelling and culturally respectable even when the evidentiary base remains mostly testimonial, ambiguous or contested. NASA’s 2023 UAP study made the opposite kind of point: better data, calibrated collection and stigma reduction are needed before unidentified sightings can become reliable scientific evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8-overview.webp" | relative_url }}" alt="Overview image for Documentaries" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader world of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}), documentaries are the bridge between personal belief and public framing. Tom DeLonge’s *Unidentified: Inside America’s UFO Investigation*, Demi Lovato’s *Unidentified with Demi Lovato*, Netflix’s Spielberg-produced *Encounters* and the later high-profile documentary *The Age of Disclosure* all show how entertainment can amplify UFO claims while leaving viewers to sort out the difference between visibility, credibility and proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[The Guardian+3HISTORY+3Deadline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get...</span></span></span>
+Within the broader world of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}), documentaries are the bridge between personal belief and public framing. Tom DeLonge’s *Unidentified: Inside America’s UFO Investigation*, Demi Lovato’s *Unidentified with Demi Lovato*, Netflix’s Spielberg-produced *Encounters* and the later high-profile documentary *The Age of Disclosure* all show how entertainment can amplify UFO claims while leaving viewers to sort out the difference between visibility, credibility and proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[The Guardian+3HISTORY+3Deadline]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get...</span></span></span>
 
 ## Documentaries as Cultural Engines
 
 UFO documentaries work as cultural engines because they package uncertainty into a form that feels coherent. A sighting may be fragmentary in real life: a short clip, a memory, a radar trace, a government acronym, a witness who sounds sincere. Television and streaming formats arrange those fragments into a story with characters, stakes and momentum. The result can be powerful: audiences are not just told that something was seen, but invited to follow a quest for disclosure.
 
-Tom DeLonge’s role is one of the clearest celebrity examples. The former Blink-182 guitarist helped bring UFO material into popular culture through [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) and through *Unidentified: Inside America’s UFO Investigation*, a History Channel series centred on former government and [military]({{ 'military/' | relative_url }}) figures such as Luis Elizondo and Christopher Mellon. History’s own programme page presents the series as a two-season, 14-episode investigation into America’s UFO programme, while entertainment coverage at the time stressed the unusual combination of rock celebrity, defence insiders and cable television mystery storytelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get...</span></span></span>
+Tom DeLonge’s role is one of the clearest celebrity examples. The former Blink-182 guitarist helped bring UFO material into popular culture through [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) and through *Unidentified: Inside America’s UFO Investigation*, a History Channel series centred on former government and [military]({{ 'military/' | relative_url }}) figures such as Luis Elizondo and Christopher Mellon. History’s own programme page presents the series as a two-season, 14-episode investigation into America’s UFO programme, while entertainment coverage at the time stressed the unusual combination of rock celebrity, defence insiders and cable television mystery storytelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY+2Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get...</span></span></span>
 
-That mixture mattered because it changed the wrapper around UFO claims. Older UFO television often leaned into camp, conspiracy or paranormal spectacle. *Unidentified* presented itself in a more national-security style: [pilots]({{ 'pilots/' | relative_url }}), classified programmes, official terminology and military witnesses. Even sceptical or mixed reviews recognised that the show occupied a newly serious-looking space between cable mystery programming and post-2017 UAP journalism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2019/tv/reviews/unidentified-review-history-channel-ufo-1203229629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety+2Decider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">unidentified review history channel ufo 1203229629</span><span class="citation-popover-snippet">unidentified review history channel ufo 1203229629</span></span></span>
+That mixture mattered because it changed the wrapper around UFO claims. Older UFO television often leaned into camp, conspiracy or paranormal spectacle. *Unidentified* presented itself in a more national-security style: [pilots]({{ 'pilots/' | relative_url }}), classified programmes, official terminology and military witnesses. Even sceptical or mixed reviews recognised that the show occupied a newly serious-looking space between cable mystery programming and post-2017 UAP journalism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2019/tv/reviews/unidentified-review-history-channel-ufo-1203229629/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety+2Decider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">unidentified review history channel ufo 1203229629</span><span class="citation-popover-snippet">unidentified review history channel ufo 1203229629</span></span></span>
 
-The same mechanism appears in Netflix’s *Encounters*, released in 2023 and produced by Amblin Television, the company associated with Steven Spielberg. Netflix promoted the four-part series as a documentary built around mass UFO sightings, expert interviews and firsthand accounts, including cases in Texas, Wales and Zimbabwe. The Spielberg connection did not turn the cases into scientific proof, but it gave the series an immediate cultural association with one of cinema’s most influential alien storytellers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://deadline.com/2023/08/alien-docuseries-encounters-netflix-steven-spielbergs-amblin-tv-1235521624/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadline.com">[Deadline+2Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadline.com</span><span class="citation-popover-title">alien docuseries encounters netflix steven spielbergs amblin tv 1235521624</span><span class="citation-popover-snippet">alien docuseries encounters netflix steven spielbergs amblin tv 1235521624</span></span></span>
+The same mechanism appears in Netflix’s *Encounters*, released in 2023 and produced by Amblin Television, the company associated with Steven Spielberg. Netflix promoted the four-part series as a documentary built around mass UFO sightings, expert interviews and firsthand accounts, including cases in Texas, Wales and Zimbabwe. The Spielberg connection did not turn the cases into scientific proof, but it gave the series an immediate cultural association with one of cinema’s most influential alien storytellers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://deadline.com/2023/08/alien-docuseries-encounters-netflix-steven-spielbergs-amblin-tv-1235521624/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadline.com">[Deadline+2Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadline.com</span><span class="citation-popover-title">alien docuseries encounters netflix steven spielbergs amblin tv 1235521624</span><span class="citation-popover-snippet">alien docuseries encounters netflix steven spielbergs amblin tv 1235521624</span></span></span>
 
-This is where celebrity influence is subtle. The celebrity may not need to claim direct expertise. Their name, production company or creative history can make the subject feel more watchable, more emotionally legible and less fringe. Spielberg’s alien films helped shape decades of popular imagination about contact, wonder and fear; a Spielberg-linked documentary therefore arrives with a built-in cultural vocabulary even before any evidence is assessed. Popular culture has long supplied the public shorthand for aliens, from flying saucers to benevolent visitors to secret government knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian How pop culture has shaped our understanding of aliens</span><span class="citation-popover-snippet">The Guardian How pop culture has shaped our understanding of aliens</span></span></span>
+This is where celebrity influence is subtle. The celebrity may not need to claim direct expertise. Their name, production company or creative history can make the subject feel more watchable, more emotionally legible and less fringe. Spielberg’s alien films helped shape decades of popular imagination about contact, wonder and fear; a Spielberg-linked documentary therefore arrives with a built-in cultural vocabulary even before any evidence is assessed. Popular culture has long supplied the public shorthand for aliens, from flying saucers to benevolent visitors to secret government knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian How pop culture has shaped our understanding of aliens</span><span class="citation-popover-snippet">The Guardian How pop culture has shaped our understanding of aliens</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8-Illustration-1-dark.svg" | relative_url }}" alt="Documentaries illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -472,13 +472,13 @@ This is where celebrity influence is subtle. The celebrity may not need to claim
 
 Celebrity UFO documentaries usually amplify claims through interviews rather than through new physical evidence. The format privileges compelling witnesses: pilots, former officials, experiencers, abductees, investigators, family members and celebrity believers. This is not automatically worthless. Witness testimony can identify patterns, point researchers towards data and reduce stigma around [reporting]({{ 'reporting/' | relative_url }}). But documentary interviews can also give the impression that accumulation equals verification: if enough serious people say something extraordinary, viewers may feel that the claim has been proven.
 
-Demi Lovato’s *Unidentified with Demi Lovato* shows the celebrity-host version of this mechanism. Peacock’s four-part series followed Lovato, their sister and a friend as they investigated UFO and extraterrestrial claims, speaking with enthusiasts, witnesses and “alien experts”. Entertainment coverage treated the series partly as a celebrity road trip and partly as a sincere personal search. That made the UFO topic accessible to fans who might never watch a military-focused UAP documentary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadline.com">[Deadline+2Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadline.com</span><span class="citation-popover-title">unidentified with demi lovato ufos peacock 1234753870</span><span class="citation-popover-snippet">Demi Lovato Searches For UFOs In Four-Part Docuseries...11 May 2021 — Demi Lovato, who recently opened up about her struggles wi...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Demi Lovato’s *Unidentified with Demi Lovato* shows the celebrity-host version of this mechanism. Peacock’s four-part series followed Lovato, their sister and a friend as they investigated UFO and extraterrestrial claims, speaking with enthusiasts, witnesses and “alien experts”. Entertainment coverage treated the series partly as a celebrity road trip and partly as a sincere personal search. That made the UFO topic accessible to fans who might never watch a military-focused UAP documentary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deadline.com">[Deadline+2Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deadline.com</span><span class="citation-popover-title">unidentified with demi lovato ufos peacock 1234753870</span><span class="citation-popover-snippet">Demi Lovato Searches For UFOs In Four-Part Docuseries...11 May 2021 — Demi Lovato, who recently opened up about her struggles wi...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
-The trade-off is that personal openness can blur into evidentiary looseness. A celebrity host brings warmth, vulnerability and curiosity, but not necessarily technical expertise in aviation, sensor analysis, astronomy or psychology. In Lovato’s case, reviewers noted that the series blended personal journey, UFO subculture and paranormal-style encounters. That blend can keep viewers engaged, but it also shifts the programme away from hard verification and towards experience-led belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Open source on vanityfair.com.</span></span></span>
+The trade-off is that personal openness can blur into evidentiary looseness. A celebrity host brings warmth, vulnerability and curiosity, but not necessarily technical expertise in aviation, sensor analysis, astronomy or psychology. In Lovato’s case, reviewers noted that the series blended personal journey, UFO subculture and paranormal-style encounters. That blend can keep viewers engaged, but it also shifts the programme away from hard verification and towards experience-led belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Open source on vanityfair.com.</span></span></span>
 
-*The Age of Disclosure* illustrates the more official-sounding version of claim amplification. The film features dozens of current or former government, military and intelligence figures and presents a broad claim of an 80-year cover-up involving non-human intelligence and recovered technology. Its cultural force comes from the status of the interviewees and the seriousness of the production, not from a public release of decisive physical evidence. Critics quoted in major coverage argued that the documentary relied heavily on testimony, polished framing and familiar UFO material rather than producing the kind of verifiable artefacts or data that would settle the question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+*The Age of Disclosure* illustrates the more official-sounding version of claim amplification. The film features dozens of current or former government, military and intelligence figures and presents a broad claim of an 80-year cover-up involving non-human intelligence and recovered technology. Its cultural force comes from the status of the interviewees and the seriousness of the production, not from a public release of decisive physical evidence. Critics quoted in major coverage argued that the documentary relied heavily on testimony, polished framing and familiar UFO material rather than producing the kind of verifiable artefacts or data that would settle the question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-That does not mean interviews have no value. They can put pressure on institutions to explain what is known, what remains unresolved and what reporting systems exist. They can also reduce the social cost for pilots or service members who report genuinely unidentified objects. NASA’s independent UAP team explicitly identified stigma as a problem because it discourages reporting and causes data loss. The crucial difference is that stigma reduction helps collect better evidence; it is not itself evidence that a sighting is extraterrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+That does not mean interviews have no value. They can put pressure on institutions to explain what is known, what remains unresolved and what reporting systems exist. They can also reduce the social cost for pilots or service members who report genuinely unidentified objects. NASA’s independent UAP team explicitly identified stigma as a problem because it discourages reporting and causes data loss. The crucial difference is that stigma reduction helps collect better evidence; it is not itself evidence that a sighting is extraterrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -487,11 +487,11 @@ That does not mean interviews have no value. They can put pressure on institutio
 
 The central tension in celebrity UFO documentaries is that entertainment value and evidentiary value do not rise together. A series can be beautifully edited, emotionally persuasive and culturally important while still offering little that would satisfy scientific or investigative standards. The viewer sees faces, stories and dramatic arcs; the analyst asks for original files, sensor metadata, chain of custody, independent corroboration and alternative explanations.
 
-Official reviews remain cautious for that reason. NASA says UAP should be studied with better data and transparent methods, but its 2023 public materials did not conclude that UAP are extraterrestrial. The Pentagon’s All-domain Anomaly Resolution Office likewise reported in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government or private industry had access to extraterrestrial technology. NASA Science+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Official reviews remain cautious for that reason. NASA says UAP should be studied with better data and transparent methods, but its 2023 public materials did not conclude that UAP are extraterrestrial. The Pentagon’s All-domain Anomaly Resolution Office likewise reported in 2024 that it had found no verifiable evidence that any UAP sighting represented extraterrestrial activity or that the US government or private industry had access to extraterrestrial technology. NASA Science+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 This gap is not a minor technicality. It changes how documentaries should be read. A film that says “these witnesses are credible” is making a different claim from “this object has been identified as non-human technology”. A programme that shows a military video of an unresolved object is not the same as a programme that proves alien origin. A celebrity who sincerely believes an experience was otherworldly is still offering testimony, not a calibrated measurement.
 
-Cable television’s longer UFO ecosystem shows the danger of mistaking narrative fluency for proof. *Ancient Aliens* became a durable entertainment brand by presenting speculative ancient-astronaut claims in a documentary-like style, but it has been criticised by archaeologists, science writers and historians for promoting pseudoscience and pseudoarchaeology. Smithsonian science writer Riley Black sharply criticised the programme’s treatment of scientific and historical claims, while other critics have objected to the way ancient-alien narratives can imply that non-European ancient cultures could not have built impressive monuments without outside help. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Idiocy, Fabrications and Lies of Ancient Aliens</span><span class="citation-popover-snippet">Smithsonian Magazine The Idiocy, Fabrications and Lies of Ancient Aliens</span></span></span>
+Cable television’s longer UFO ecosystem shows the danger of mistaking narrative fluency for proof. *Ancient Aliens* became a durable entertainment brand by presenting speculative ancient-astronaut claims in a documentary-like style, but it has been criticised by archaeologists, science writers and historians for promoting pseudoscience and pseudoarchaeology. Smithsonian science writer Riley Black sharply criticised the programme’s treatment of scientific and historical claims, while other critics have objected to the way ancient-alien narratives can imply that non-European ancient cultures could not have built impressive monuments without outside help.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Idiocy, Fabrications and Lies of Ancient Aliens</span><span class="citation-popover-snippet">Smithsonian Magazine The Idiocy, Fabrications and Lies of Ancient Aliens</span></span></span>
 
 The point is not that every UFO documentary is equivalent to *Ancient Aliens*. The point is that format matters. A documentary voice, archival clips, expert-looking interviews and a prestigious platform can make speculation feel documented. Celebrity projects add another layer: trust, fandom and recognition. Viewers may lower their guard because the presenter is familiar, charismatic or associated with creative work they already admire.
 
@@ -501,11 +501,11 @@ The point is not that every UFO documentary is equivalent to *Ancient Aliens*. T
 
 Celebrity UFO documentaries shape belief through repetition, social [permission]({{ 'permission/' | relative_url }}) and reframing. They do not usually persuade by one decisive revelation. They make the topic feel normal enough to discuss at work, in fandom spaces, on podcasts and in mainstream entertainment pages. Over time, that changes the public environment in which official reports, whistleblower claims and new documentaries are received.
 
-Public opinion already gives these projects fertile ground. A 2021 Pew Research Center survey found that most Americans believed intelligent life probably or definitely exists beyond Earth, while views were more divided on whether military-reported UFOs were evidence of extraterrestrial life. That distinction matters: belief in extraterrestrial life somewhere in the universe is not the same as belief that unidentified objects near Earth are alien craft, but entertainment often compresses those ideas into one emotional category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Most Americans believe in intelligent life beyond Earth</span><span class="citation-popover-snippet">Pew Research Center Most Americans believe in intelligent life beyond Earth</span></span></span>
+Public opinion already gives these projects fertile ground. A 2021 Pew Research Center survey found that most Americans believed intelligent life probably or definitely exists beyond Earth, while views were more divided on whether military-reported UFOs were evidence of extraterrestrial life. That distinction matters: belief in extraterrestrial life somewhere in the universe is not the same as belief that unidentified objects near Earth are alien craft, but entertainment often compresses those ideas into one emotional category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Most Americans believe in intelligent life beyond Earth</span><span class="citation-popover-snippet">Pew Research Center Most Americans believe in intelligent life beyond Earth</span></span></span>
 
-Celebrity projects also create a feedback loop with journalism. A documentary premieres, entertainment outlets interview the celebrity or filmmaker, sceptics respond, social media debates the clips, and the renewed attention makes the subject more attractive for another documentary. DeLonge’s case shows this loop especially clearly because his UFO work sat at the intersection of music fandom, defence-world sources, cable television and mainstream coverage of Navy UAP videos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">tom delonges to the stars academy posts declassified ufo videos 126497</span><span class="citation-popover-snippet">tom delonges to the stars academy posts declassified ufo videos 126497</span></span></span>
+Celebrity projects also create a feedback loop with journalism. A documentary premieres, entertainment outlets interview the celebrity or filmmaker, sceptics respond, social media debates the clips, and the renewed attention makes the subject more attractive for another documentary. DeLonge’s case shows this loop especially clearly because his UFO work sat at the intersection of music fandom, defence-world sources, cable television and mainstream coverage of Navy UAP videos.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone+2Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">tom delonges to the stars academy posts declassified ufo videos 126497</span><span class="citation-popover-snippet">tom delonges to the stars academy posts declassified ufo videos 126497</span></span></span>
 
-The same loop can intensify when a documentary uses official or political figures. *The Age of Disclosure* received attention partly because of the rank and visibility of its interviewees, including current and former officials. That gave the film a different cultural texture from a celebrity-host travel series: it looked less like paranormal entertainment and more like a public-affairs intervention. Yet sceptics argued that the film’s authority cues did not overcome the absence of decisive evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+The same loop can intensify when a documentary uses official or political figures. *The Age of Disclosure* received attention partly because of the rank and visibility of its interviewees, including current and former officials. That gave the film a different cultural texture from a celebrity-host travel series: it looked less like paranormal entertainment and more like a public-affairs intervention. Yet sceptics argued that the film’s authority cues did not overcome the absence of decisive evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 This is the practical reader takeaway: celebrity UFO documentaries are best understood as influence events, not proof events. They influence which cases remain visible, which witnesses are perceived as serious, which vocabulary becomes mainstream and which questions journalists ask next. They may help reduce stigma and encourage reporting, but they can also reward overclaiming if dramatic testimony is treated as a substitute for verifiable data.
 
@@ -518,7 +518,7 @@ A careful viewer does not have to dismiss celebrity UFO documentaries. They can 
 
 **First, visibility is not verification.** A major platform, famous producer or celebrity host can make a UFO claim widely known. That says something about media power, not necessarily about the object or event being described.
 
-**Second, seriousness is not proof.** Military witnesses, former officials and polished interviews deserve fair hearing, but extraordinary claims still need accessible evidence. AARO’s 2024 review and NASA’s 2023 study both point back towards data quality, reporting systems and careful analysis rather than belief by authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+**Second, seriousness is not proof.** Military witnesses, former officials and polished interviews deserve fair hearing, but extraordinary claims still need accessible evidence. AARO’s 2024 review and NASA’s 2023 study both point back towards data quality, reporting systems and careful analysis rather than belief by authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 **Third, emotion is part of the format.** Celebrity documentaries often make UFO stories feel human: wonder, fear, stigma, secrecy, awe, trauma and the hope of contact. That emotional layer explains why the programmes travel so well. It also explains why viewers should pause before moving from “this person seems sincere” to “this claim has been established”.
 
@@ -537,178 +537,178 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO Entertainment Shapes Public Belief. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO Entertainment Shapes Public Belief. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers many claims featured across modern UFO media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many claims featured across modern UFO media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts documentary storytelling with documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts documentary storytelling with documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Examines media, belief and modern UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines media, belief and modern UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers evaluate extraordinary claims in media.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate extraordinary claims in media.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster – Midnight UFO Encounter Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster – Midnight UFO Encounter Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="documentaries-how-ufo-entertainment-shapes-public-belief-ufos-and-celebrities-ufo-documentary-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -724,7 +724,7 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -744,7 +744,7 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -776,7 +776,7 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -828,7 +828,7 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -873,7 +873,7 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -914,291 +914,291 @@ Their cultural impact is real. They can reduce stigma, widen the audience for of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — NASA&#x27;s very involvement in UAP will play a vital role in reducing stigma as...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get...</p></details>
+   Link:<a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO InvestigationCatch up on Unidentified: Inside America&#x27;s UFO Investigation, only on HISTORY. Get...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: deadline.com  
    Title: unidentified with demi lovato ufos peacock 1234753870  
-   Link: <a href="https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Searches For UFOs In Four-Part Docuseries...11 May 2021 — Demi Lovato, who recently opened up about her struggles wi...</p></details>
+   Link:<a href="https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2021/05/unidentified-with-demi-lovato-ufos-peacock-1234753870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Searches For UFOs In Four-Part Docuseries...11 May 2021 — Demi Lovato, who recently opened up about her struggles wi...</p></details>
    Published: May 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: netflix.com  
    Title: encounters trailer release date news  
-   Link: <a href="https://www.netflix.com/tudum/articles/encounters-trailer-release-date-news" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/encounters-trailer-release-date-news</a>  
+   Link:<a href="https://www.netflix.com/tudum/articles/encounters-trailer-release-date-news" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/encounters-trailer-release-date-news</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: variety.com  
    Title: unidentified review history channel ufo 1203229629  
-   Link: <a href="https://variety.com/2019/tv/reviews/unidentified-review-history-channel-ufo-1203229629/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2019/tv/reviews/unidentified-review-history-channel-ufo-1203229629/</a>  
+   Link:<a href="https://variety.com/2019/tv/reviews/unidentified-review-history-channel-ufo-1203229629/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2019/tv/reviews/unidentified-review-history-channel-ufo-1203229629/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: decider.com  
    Title: unidentified history channel stream it or skip it  
-   Link: <a href="https://decider.com/2019/05/31/unidentified-history-channel-stream-it-or-skip-it/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2019/05/31/unidentified-history-channel-stream-it-or-skip-it/</a>  
+   Link:<a href="https://decider.com/2019/05/31/unidentified-history-channel-stream-it-or-skip-it/" target="_blank" rel="noopener noreferrer nofollow">https://decider.com/2019/05/31/unidentified-history-channel-stream-it-or-skip-it/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: deadline.com  
    Title: alien docuseries encounters netflix steven spielbergs amblin tv 1235521624  
-   Link: <a href="https://deadline.com/2023/08/alien-docuseries-encounters-netflix-steven-spielbergs-amblin-tv-1235521624/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2023/08/alien-docuseries-encounters-netflix-steven-spielbergs-amblin-tv-1235521624/</a>  
+   Link:<a href="https://deadline.com/2023/08/alien-docuseries-encounters-netflix-steven-spielbergs-amblin-tv-1235521624/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2023/08/alien-docuseries-encounters-netflix-steven-spielbergs-amblin-tv-1235521624/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/au/title/81489034" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/au/title/81489034</a>  
+   Link:<a href="https://www.netflix.com/au/title/81489034" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/au/title/81489034</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptic.com  
    Title: the aliens are here again a review of the age of disclosure  
-   Link: <a href="https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/</a>  
+   Link:<a href="https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-aliens-are-here-again-a-review-of-the-age-of-disclosure/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Ancient Aliens  
-   Link: <a href="https://en.wikipedia.org/wiki/Ancient_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ancient_Aliens</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ancient_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ancient_Aliens</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: time.com  
-   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
+   Link:<a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.com  
    Title: Tom De Longe  
-   Link: <a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation/cast/tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation/cast/tom-delonge</a>  
+   Link:<a href="https://www.history.com/shows/unidentified-inside-americas-ufo-investigation/cast/tom-delonge" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/unidentified-inside-americas-ufo-investigation/cast/tom-delonge</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Unidentified: Inside America's UFO Investigation  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified%3A_Inside_America%27s_UFO_Investigation</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Disclosure Day  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_Day" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_Day</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: The Age of Disclosure  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Age_of_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Age_of_Disclosure</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: deadline.com  
    Title: age of disclosure director interview ufo documentary 1236633236  
-   Link: <a href="https://deadline.com/2025/12/age-of-disclosure-director-interview-ufo-documentary-1236633236/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2025/12/age-of-disclosure-director-interview-ufo-documentary-1236633236/</a>  
+   Link:<a href="https://deadline.com/2025/12/age-of-disclosure-director-interview-ufo-documentary-1236633236/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2025/12/age-of-disclosure-director-interview-ufo-documentary-1236633236/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/81489034" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81489034</a>  
+   Link:<a href="https://www.netflix.com/title/81489034" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/81489034</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/gb/title/81489034" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/gb/title/81489034</a>  
+   Link:<a href="https://www.netflix.com/gb/title/81489034" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/gb/title/81489034</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: amblin.com  
-   Link: <a href="https://amblin.com/tv/encounters/" target="_blank" rel="noopener noreferrer nofollow">https://amblin.com/tv/encounters/</a>  
+   Link:<a href="https://amblin.com/tv/encounters/" target="_blank" rel="noopener noreferrer nofollow">https://amblin.com/tv/encounters/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: variety.com  
    Title: age of disclosure documentary [aliens exist](&#123;&#123; 'aliens-exist/' | relative_url &#125;&#125;) rubio uap 1236590833  
-   Link: <a href="https://variety.com/2025/film/news/age-of-disclosure-documentary-aliens-exist-rubio-uap-1236590833/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/film/news/age-of-disclosure-documentary-aliens-exist-rubio-uap-1236590833/</a>  
+   Link:<a href="https://variety.com/2025/film/news/age-of-disclosure-documentary-aliens-exist-rubio-uap-1236590833/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/film/news/age-of-disclosure-documentary-aliens-exist-rubio-uap-1236590833/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: variety.com  
    Title: the age of disclosure review sxsw 1236332637  
-   Link: <a href="https://variety.com/2025/film/reviews/the-age-of-disclosure-review-sxsw-1236332637/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/film/reviews/the-age-of-disclosure-review-sxsw-1236332637/</a>  
+   Link:<a href="https://variety.com/2025/film/reviews/the-age-of-disclosure-review-sxsw-1236332637/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2025/film/reviews/the-age-of-disclosure-review-sxsw-1236332637/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: them.us  
    Title: Demi Lovato Is on a Mission to Uncover UFOs in New  
-   Link: <a href="https://www.them.us/story/demi-lovato-new-docuseries-trailer" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/demi-lovato-new-docuseries-trailer</a>  
+   Link:<a href="https://www.them.us/story/demi-lovato-new-docuseries-trailer" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/demi-lovato-new-docuseries-trailer</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=yZFcxvmaNtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZFcxvmaNtY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters | Official Trailer | Netflix...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yZFcxvmaNtY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yZFcxvmaNtY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encounters | Official Trailer | Netflix...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Encounters | Official Trailer | Netflix  
-   Link: <a href="https://www.youtube.com/watch?v=GCY08bvbe0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GCY08bvbe0M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GCY08bvbe0M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GCY08bvbe0M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study Report...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary</a>  
+   Link:<a href="https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/dec/15/the-age-of-disclosure-ufo-documentary</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rollingstone.com  
    Title: tom delonge history channel mini series unidentified ufo 807180  
-   Link: <a href="https://www.rollingstone.com/tv-movies/tv-movie-news/tom-delonge-history-channel-mini-series-unidentified-ufo-807180/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/tv-movies/tv-movie-news/tom-delonge-history-channel-mini-series-unidentified-ufo-807180/</a>  
+   Link:<a href="https://www.rollingstone.com/tv-movies/tv-movie-news/tom-delonge-history-channel-mini-series-unidentified-ufo-807180/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/tv-movies/tv-movie-news/tom-delonge-history-channel-mini-series-unidentified-ufo-807180/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
    Title: The Guardian How pop culture has shaped our understanding of aliens  
-   Link: <a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
+   Link:<a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine The Idiocy, Fabrications and Lies of Ancient Aliens  
-   Link: <a href="https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/</a>  
+   Link:<a href="https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/science-nature/the-idiocy-fabrications-and-lies-of-ancient-aliens-86294030/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Most Americans believe in intelligent life beyond Earth  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/06/30/most-americans-believe-in-intelligent-life-beyond-earth-few-see-ufos-as-a-major-national-security-threat/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: rollingstone.com  
    Title: tom delonges to the stars academy posts declassified ufo videos 126497  
-   Link: <a href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/</a>  
+   Link:<a href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: vanityfair.com  
    Title: all the questions i had while watching unidentified with demi lovato  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOooc10sSeYffask5IdzTJ3gmXsEZlOGXk5IbjP-izc1i51DSESbF" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOooc10sSeYffask5IdzTJ3gmXsEZlOGXk5IbjP-izc1i51DSESbF</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOooc10sSeYffask5IdzTJ3gmXsEZlOGXk5IbjP-izc1i51DSESbF" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOooc10sSeYffask5IdzTJ3gmXsEZlOGXk5IbjP-izc1i51DSESbF</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
    Title: unidentified history blink 182 tom delonge ufo aliens  
-   Link: <a href="https://www.theguardian.com/tv-and-radio/2019/aug/31/unidentified-history-blink-182-tom-delonge-ufo-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2019/aug/31/unidentified-history-blink-182-tom-delonge-ufo-aliens</a>  
+   Link:<a href="https://www.theguardian.com/tv-and-radio/2019/aug/31/unidentified-history-blink-182-tom-delonge-ufo-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/tv-and-radio/2019/aug/31/unidentified-history-blink-182-tom-delonge-ufo-aliens</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: age of disclosure documentary aliens  
-   Link: <a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
+   Link:<a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
    Title: age of disclosure ufo documentary  
-   Link: <a href="https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary</a>  
+   Link:<a href="https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/mar/12/age-of-disclosure-ufo-documentary</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/encounters</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/encounters</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/encounters/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/encounters/s01</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/encounters/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/encounters/s01</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/tv/unidentified_inside_americas_ufo_investigation/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unidentified_inside_americas_ufo_investigation/s01</a>  
+   Link:<a href="https://www.rottentomatoes.com/tv/unidentified_inside_americas_ufo_investigation/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unidentified_inside_americas_ufo_investigation/s01</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/the_age_of_disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/the_age_of_disclosure</a>  
+   Link:<a href="https://www.rottentomatoes.com/m/the_age_of_disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/the_age_of_disclosure</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: history.co.uk  
    Title: unidentified tom delonge and luis elizondo interview  
-   Link: <a href="https://www.history.co.uk/shows/unidentified/articles/unidentified-tom-delonge-and-luis-elizondo-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/articles/unidentified-tom-delonge-and-luis-elizondo-interview</a>  
+   Link:<a href="https://www.history.co.uk/shows/unidentified/articles/unidentified-tom-delonge-and-luis-elizondo-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/articles/unidentified-tom-delonge-and-luis-elizondo-interview</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aDX79sfAW8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDX79sfAW8c</a>  
+   Link:<a href="https://www.youtube.com/watch?v=aDX79sfAW8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDX79sfAW8c</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=loXtVuj0n-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=loXtVuj0n-0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=loXtVuj0n-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=loXtVuj0n-0</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DkU7ZqbADRs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkU7ZqbADRs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DkU7ZqbADRs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkU7ZqbADRs</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: pewresearch.org  
-   Link: <a href="https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/</a>  
+   Link:<a href="https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2021/07/28/religious-americans-less-likely-to-believe-intelligent-life-exists-on-other-planets/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: pewresearch.org  
    Title: TOPLINE Views on UFOs  
-   Link: <a href="https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf</a>  
+   Link:<a href="https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/wp-content/uploads/2021/06/TOPLINE-Views-on-UFOs.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: journals.umcs.pl  
-   Link: <a href="https://journals.umcs.pl/ms/article/download/19526/pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.umcs.pl/ms/article/download/19526/pdf</a>  
+   Link:<a href="https://journals.umcs.pl/ms/article/download/19526/pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.umcs.pl/ms/article/download/19526/pdf</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NBC10Boston/status/2040634470135386214" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NBC10Boston/status/2040634470135386214</a>  
+   Link:<a href="https://x.com/NBC10Boston/status/2040634470135386214" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NBC10Boston/status/2040634470135386214</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: vulture.com  
-   Link: <a href="https://www.vulture.com/article/ufo-doc-age-of-disclosure-marco-rubio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/ufo-doc-age-of-disclosure-marco-rubio.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent figures featured in the documentary include Secretary of State Marco Rubio, who discusses unexplained aerial phenomena near nuc...</p></details>
+   Link:<a href="https://www.vulture.com/article/ufo-doc-age-of-disclosure-marco-rubio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vulture.com/article/ufo-doc-age-of-disclosure-marco-rubio.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prominent figures featured in the documentary include Secretary of State Marco Rubio, who discusses unexplained aerial phenomena near nuc...</p></details>
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: youtube.com  
    Title: NASA UFO briefing: More science, less stigma needed to understand UAPs  
-   Link: <a href="https://www.youtube.com/watch?v=xNpFEiiZ1Q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xNpFEiiZ1Q4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Inside America&#x27;s UFO Investigation Tom DeLonge Was Tom DeLonge Controlled by Powerful Insiders? | Unidentified: Inside Ameri...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xNpFEiiZ1Q4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xNpFEiiZ1Q4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Inside America&#x27;s UFO Investigation Tom DeLonge Was Tom DeLonge Controlled by Powerful Insiders? | Unidentified: Inside Ameri...</p></details>
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8THGH5-F944" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8THGH5-F944</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO briefing: More science, less stigma needed to understand UAPs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8THGH5-F944" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8THGH5-F944</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO briefing: More science, less stigma needed to understand UAPs...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: Unidentified Anomalous Phenomena Independent Study Report  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Tom DeLonge Controlled by Powerful Insiders? | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was Tom DeLonge Controlled by Powerful Insiders? | Unidentified: Inside America&#x27;s UFO Investigation...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1jagpzp/the_age_of_disclosure_review_on_whether_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1jagpzp/the_age_of_disclosure_review_on_whether_aliens/</a>  
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1jagpzp/the_age_of_disclosure_review_on_whether_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1jagpzp/the_age_of_disclosure_review_on_whether_aliens/</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/comicbookdotcom/posts/stevenspielbergs-amblin-tv-developing-alien-documentary-series-for-netflix/688095926517420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/comicbookdotcom/posts/stevenspielbergs-amblin-tv-developing-alien-documentary-series-for-netflix/688095926517420/</a>  
+   Link:<a href="https://www.facebook.com/comicbookdotcom/posts/stevenspielbergs-amblin-tv-developing-alien-documentary-series-for-netflix/688095926517420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/comicbookdotcom/posts/stevenspielbergs-amblin-tv-developing-alien-documentary-series-for-netflix/688095926517420/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1i7pe3e/age_of_disclosure_trailer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1i7pe3e/age_of_disclosure_trailer/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1i7pe3e/age_of_disclosure_trailer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1i7pe3e/age_of_disclosure_trailer/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16sti28/alien_encounters_netflix_documentary_series_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16sti28/alien_encounters_netflix_documentary_series_from/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16sti28/alien_encounters_netflix_documentary_series_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16sti28/alien_encounters_netflix_documentary_series_from/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/</a>  
+   Link:<a href="https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSMornings/posts/a-majority-of-americans-believe-in-aliens-or-intelligent-life-outside-of-earth-a/1441324788021668/</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/television/comments/15tz93t/alien_docuseries_encounters_lands_at_netflix_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/15tz93t/alien_docuseries_encounters_lands_at_netflix_from/</a>  
+   Link:<a href="https://www.reddit.com/r/television/comments/15tz93t/alien_docuseries_encounters_lands_at_netflix_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/15tz93t/alien_docuseries_encounters_lands_at_netflix_from/</a>  

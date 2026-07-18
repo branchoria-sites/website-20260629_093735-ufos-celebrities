@@ -280,13 +280,13 @@ image: /assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_de
 
 ## Introduction
 
-*Unidentified with Demi Lovato* is an unusual example of celebrity-led UFO television because it blends a personal search for meaning with the conventions of reality entertainment. Rather than presenting a scientific investigation designed to test hypotheses, the four-part 2021 series follows Demi Lovato, their sister Dallas Lovato and friend Matthew Scott Montgomery as they visit UFO hotspots, interview believers and researchers, and attempt forms of direct contact with extraterrestrial intelligences. The programme matters within the broader discussion of celebrities and UFOs because it demonstrates how television can make deeply personal experiences emotionally compelling while leaving the factual claims largely unverified. Understanding the show's format helps explain both its appeal and its evidential limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
+*Unidentified with Demi Lovato* is an unusual example of celebrity-led UFO television because it blends a personal search for meaning with the conventions of reality entertainment. Rather than presenting a scientific investigation designed to test hypotheses, the four-part 2021 series follows Demi Lovato, their sister Dallas Lovato and friend Matthew Scott Montgomery as they visit UFO hotspots, interview believers and researchers, and attempt forms of direct contact with extraterrestrial intelligences. The programme matters within the broader discussion of celebrities and UFOs because it demonstrates how television can make deeply personal experiences emotionally compelling while leaving the factual claims largely unverified. Understanding the show's format helps explain both its appeal and its evidential limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_demi_lovato_contact_7872af-Illustration-1-dark.svg" | relative_url }}" alt="Demi Show illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_demi_lovato_contact_7872af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_demi_lovato_contact_7872af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The show's contact premise
 
-Unlike many documentary series that begin with a research question, *Unidentified with Demi Lovato* starts from Lovato's publicly stated belief that they had experienced unexplained phenomena, including a UFO sighting near Joshua Tree. The series is framed as an exploration of those experiences rather than a neutral investigation into whether extraterrestrial visitation has occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nylon.com/life/unidentified-with-demi-lovato-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nylon.com">[Nylon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nylon.com</span><span class="citation-popover-title">unidentified with demi lovato review</span><span class="citation-popover-snippet">Nylon&#x27;Unidentified with Demi Lovato&#x27; Review: Earnest Cringe Meets...18 Oct 2021 — Unidentified with Demi Lovato opens with Demi Lovato d...</span></span></span>
+Unlike many documentary series that begin with a research question, *Unidentified with Demi Lovato* starts from Lovato's publicly stated belief that they had experienced unexplained phenomena, including a UFO sighting near Joshua Tree. The series is framed as an exploration of those experiences rather than a neutral investigation into whether extraterrestrial visitation has occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nylon.com/life/unidentified-with-demi-lovato-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nylon.com">[Nylon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nylon.com</span><span class="citation-popover-title">unidentified with demi lovato review</span><span class="citation-popover-snippet">Nylon&#x27;Unidentified with Demi Lovato&#x27; Review: Earnest Cringe Meets...18 Oct 2021 — Unidentified with Demi Lovato opens with Demi Lovato d...</span></span></span>
 
 Across four episodes, the programme combines several recurring elements:
 
@@ -294,7 +294,7 @@ Across four episodes, the programme combines several recurring elements:
 * Interviews with UFO investigators, experiencers and authors.
 * Discussions of government interest in unidentified aerial phenomena.
 * Attempts at meditation and what participants describe as "conscious contact" with extraterrestrial [beings]({{ 'beings/' | relative_url }}).
-* A travelling road-trip format featuring conversations between Lovato, Dallas Lovato and Matthew Scott Montgomery, who is presented as the more sceptical member of the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
+* A travelling road-trip format featuring conversations between Lovato, Dallas Lovato and Matthew Scott Montgomery, who is presented as the more sceptical member of the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv+2YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
 
 This structure places emotional experience at the centre of the narrative. Instead of building towards a definitive discovery, each episode develops through encounters with witnesses, practitioners and locations that reinforce the possibility of extraterrestrial contact.
 
@@ -318,7 +318,7 @@ The programme frequently presents:
 
 </div>
 
-These forms of evidence may be meaningful to participants but do not satisfy the [standards]({{ 'standards/' | relative_url }}) normally expected in scientific investigation, where claims require independently verifiable observations, repeatable methods and alternative explanations to be examined systematically. The series rarely pauses to test competing hypotheses with the same depth that it explores extraordinary interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: victorstiff.com">[Victor Stiff Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">victorstiff.com</span><span class="citation-popover-title">unidentified with demi lovato ufo movie club video review</span><span class="citation-popover-snippet">Victor Stiff ReviewsUnidentified with Demi Lovato: UFO Movie Club Video Review2 Feb 2022 — The four-part streaming series sees world-reno...</span></span></span>
+These forms of evidence may be meaningful to participants but do not satisfy the [standards]({{ 'standards/' | relative_url }}) normally expected in scientific investigation, where claims require independently verifiable observations, repeatable methods and alternative explanations to be examined systematically. The series rarely pauses to test competing hypotheses with the same depth that it explores extraordinary interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: victorstiff.com">[Victor Stiff Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">victorstiff.com</span><span class="citation-popover-title">unidentified with demi lovato ufo movie club video review</span><span class="citation-popover-snippet">Victor Stiff ReviewsUnidentified with Demi Lovato: UFO Movie Club Video Review2 Feb 2022 — The four-part streaming series sees world-reno...</span></span></span>
 
 This distinction mirrors the broader position taken by scientific organisations studying unidentified aerial phenomena. While governments and researchers acknowledge that some aerial observations remain unexplained, they do not treat personal testimony alone as proof of extraterrestrial visitation. The show's narrative often moves from unusual experiences to speculative interpretations without demonstrating that extraterrestrial explanations are the most likely ones.
 
@@ -333,7 +333,7 @@ These include:
 * **Companion dynamics.** Matthew Scott Montgomery's scepticism provides conversational tension without fundamentally transforming the programme into an adversarial investigation.
 * **Road-trip storytelling.** Each destination promises a fresh encounter, creating momentum regardless of whether strong evidence emerges.
 * **Personal vulnerability.** Lovato discusses spirituality, recovery and curiosity, making the search for answers part of a broader story about self-understanding rather than only extraterrestrials.
-* **Experiential scenes.** Meditation, sky watches and alleged contact attempts are filmed to immerse viewers in the moment, even though such experiences cannot easily be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube@peacocktv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Unidentified with Demi Lovato &#124; Official Trailer &#124; Peacock OriginalUnidentified with Demi Lovato is an unscripted series. Demi, Da...</span></span></span>
+* **Experiential scenes.** Meditation, sky watches and alleged contact attempts are filmed to immerse viewers in the moment, even though such experiences cannot easily be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube@peacocktv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Unidentified with Demi Lovato &#124; Official Trailer &#124; Peacock OriginalUnidentified with Demi Lovato is an unscripted series. Demi, Da...</span></span></span>
 
 These production choices do not necessarily mislead viewers, but they shift the programme's persuasive power away from empirical evidence and towards emotional authenticity. Audiences may find the experiences compelling because the participants appear sincere, not because the claims have been conclusively demonstrated.
 
@@ -352,11 +352,11 @@ Several reasons explain this limitation:
 * The programme depends heavily on anecdotal accounts.
 * Many featured techniques, such as meditation-based communication, lack broadly accepted scientific validation as methods for detecting extraterrestrial intelligence.
 * Potential alternative explanations for reported experiences are discussed less extensively than extraordinary interpretations.
-* No episode culminates in evidence that has been independently confirmed by the wider scientific community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv+2Victor Stiff Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
+* No episode culminates in evidence that has been independently confirmed by the wider scientific community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peacocktv.com">[@peacocktv+2Victor Stiff Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peacocktv.com</span><span class="citation-popover-snippet">@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</span></span></span>
 
 </div>
 
-That does not make the series meaningless. As a cultural document, it illustrates how contemporary UFO belief intersects with spirituality, celebrity influence and popular entertainment. It also reflects increased public interest in unidentified aerial phenomena during a period when government disclosures about [military]({{ 'military/' | relative_url }}) UAP reports were receiving significant media attention, providing a backdrop that made the subject feel more mainstream even though those disclosures did not establish extraterrestrial origins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.papermag.com/demi-lovatos-ufo-show" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papermag.com">[PAPER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papermag.com</span><span class="citation-popover-snippet">PAPER MagazineDemi Lovato&#x27;s Hunting Down UFOs in Her New ShowPeacock has ordered a four-part series following the pop star as she investi...</span></span></span>
+That does not make the series meaningless. As a cultural document, it illustrates how contemporary UFO belief intersects with spirituality, celebrity influence and popular entertainment. It also reflects increased public interest in unidentified aerial phenomena during a period when government disclosures about [military]({{ 'military/' | relative_url }}) UAP reports were receiving significant media attention, providing a backdrop that made the subject feel more mainstream even though those disclosures did not establish extraterrestrial origins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.papermag.com/demi-lovatos-ufo-show" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papermag.com">[PAPER Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papermag.com</span><span class="citation-popover-snippet">PAPER MagazineDemi Lovato&#x27;s Hunting Down UFOs in Her New ShowPeacock has ordered a four-part series following the pop star as she investi...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_demi_lovato_contact_7872af-Illustration-3-dark.svg" | relative_url }}" alt="Demi Show illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_demi_lovato_contact_7872af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_demi_lovato_contact_7872af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,194 +373,194 @@ For readers interested in celebrities and UFO claims, the programme is therefore
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Celebrity TV Prove Alien Contact?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Celebrity TV Prove Alien Contact?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Introduces careful investigation of sightings and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces careful investigation of sightings and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances celebrity-led claims against evidence-focused investigation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances celebrity-led claims against evidence-focused investigation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores belief, experience and modern UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief, experience and modern UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Examines reported contact experiences without treating them as proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines reported contact experiences without treating them as proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="demi-show-can-celebrity-tv-prove-alien-contact-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For readers interested in celebrities and UFO claims, the programme is therefore
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For readers interested in celebrities and UFO claims, the programme is therefore
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For readers interested in celebrities and UFO claims, the programme is therefore
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For readers interested in celebrities and UFO claims, the programme is therefore
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For readers interested in celebrities and UFO claims, the programme is therefore
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,109 +766,109 @@ For readers interested in celebrities and UFO claims, the programme is therefore
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: peacocktv.com  
-   Link: <a href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow">https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</p></details>
+   Link:<a href="https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1" target="_blank" rel="noopener noreferrer nofollow">https://www.peacocktv.com/watch-online/tv/unidentified-with-demi-lovato/7012570413857604112/seasons/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>@peacocktvUnidentified with Demi Lovato Season 1Demi Lovato travels alongside loved ones and leading alien experts in search of definitiv...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUb0U_U3vOE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato | Official Trailer | Peacock OriginalUnidentified with Demi Lovato is an unscripted series. Demi, Da...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUb0U_U3vOE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato | Official Trailer | Peacock OriginalUnidentified with Demi Lovato is an unscripted series. Demi, Da...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nylon.com  
    Title: unidentified with demi lovato review  
-   Link: <a href="https://www.nylon.com/life/unidentified-with-demi-lovato-review" target="_blank" rel="noopener noreferrer nofollow">https://www.nylon.com/life/unidentified-with-demi-lovato-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nylon&#x27;Unidentified with Demi Lovato&#x27; Review: Earnest Cringe Meets...18 Oct 2021 — Unidentified with Demi Lovato opens with Demi Lovato d...</p></details>
+   Link:<a href="https://www.nylon.com/life/unidentified-with-demi-lovato-review" target="_blank" rel="noopener noreferrer nofollow">https://www.nylon.com/life/unidentified-with-demi-lovato-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nylon&#x27;Unidentified with Demi Lovato&#x27; Review: Earnest Cringe Meets...18 Oct 2021 — Unidentified with Demi Lovato opens with Demi Lovato d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: them.us  
-   Link: <a href="https://www.them.us/story/demi-lovato-new-docuseries-trailer" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/demi-lovato-new-docuseries-trailer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The series will see Lovato, alongside their sister Dallas and friend Matthew Scott Montgomery, embarking on a quest to uncover the truth...</p></details>
+   Link:<a href="https://www.them.us/story/demi-lovato-new-docuseries-trailer" target="_blank" rel="noopener noreferrer nofollow">https://www.them.us/story/demi-lovato-new-docuseries-trailer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The series will see Lovato, alongside their sister Dallas and friend Matthew Scott Montgomery, embarking on a quest to uncover the truth...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aDX79sfAW8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDX79sfAW8c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato Review (The UFO Pop Star)#UFO #UAP #DemiLovato #UFODocumentaries Unidentified with Demi Lovato streams on P...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aDX79sfAW8c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aDX79sfAW8c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato Review (The UFO Pop Star)#UFO #UAP #DemiLovato #UFODocumentaries Unidentified with Demi Lovato streams on P...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=vnfXeffcdCM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vnfXeffcdCM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Woke Up To 3 Extraterrestrial Beings In Their Room...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vnfXeffcdCM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vnfXeffcdCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato Woke Up To 3 Extraterrestrial Beings In Their Room...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Demi Lovato Woke Up To 3 Extraterrestrial Beings In Their Room  
-   Link: <a href="http://www.youtube.com/watch?v=lISczc-u9wo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lISczc-u9wo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Meets with Alien Abductee to Discuss Her Hybrid Children | Unidentified with Demi Lovato...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=lISczc-u9wo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=lISczc-u9wo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Meets with Alien Abductee to Discuss Her Hybrid Children | Unidentified with Demi Lovato...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=P5407GiyknU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P5407GiyknU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato’s UFO Docuseries “Unidentified”...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=P5407GiyknU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P5407GiyknU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato’s UFO Docuseries “Unidentified”...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Demi Lovato’s UFO Docuseries “Unidentified”  
-   Link: <a href="http://www.youtube.com/watch?v=e3jfqG9qWIM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=e3jfqG9qWIM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato trailer clip episode Unidentified with Demi Lovato | Official Trailer | Peacock Original Peacock...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=e3jfqG9qWIM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=e3jfqG9qWIM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified with Demi Lovato trailer clip episode Unidentified with Demi Lovato | Official Trailer | Peacock Original Peacock...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: victorstiff.com  
    Title: unidentified with demi lovato ufo movie club video review  
-   Link: <a href="https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/" target="_blank" rel="noopener noreferrer nofollow">https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Victor Stiff ReviewsUnidentified with Demi Lovato: UFO Movie Club Video Review2 Feb 2022 — The four-part streaming series sees world-reno...</p></details>
+   Link:<a href="https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/" target="_blank" rel="noopener noreferrer nofollow">https://victorstiff.com/unidentified-with-demi-lovato-ufo-movie-club-video-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Victor Stiff ReviewsUnidentified with Demi Lovato: UFO Movie Club Video Review2 Feb 2022 — The four-part streaming series sees world-reno...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: papermag.com  
-   Link: <a href="https://www.papermag.com/demi-lovatos-ufo-show" target="_blank" rel="noopener noreferrer nofollow">https://www.papermag.com/demi-lovatos-ufo-show</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PAPER MagazineDemi Lovato&#x27;s Hunting Down UFOs in Her New ShowPeacock has ordered a four-part series following the pop star as she investi...</p></details>
+   Link:<a href="https://www.papermag.com/demi-lovatos-ufo-show" target="_blank" rel="noopener noreferrer nofollow">https://www.papermag.com/demi-lovatos-ufo-show</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PAPER MagazineDemi Lovato&#x27;s Hunting Down UFOs in Her New ShowPeacock has ordered a four-part series following the pop star as she investi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: commonsensemedia.org  
    Title: unidentified with demi lovato  
-   Link: <a href="https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TV Review10 Dec 2025 — UNIDENTIFIED WITH DEMI LOVATO is a reality series that follows singer Demi Lovato on a road trip to find answers a...</p></details>
+   Link:<a href="https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TV Review10 Dec 2025 — UNIDENTIFIED WITH DEMI LOVATO is a reality series that follows singer Demi Lovato on a road trip to find answers a...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accompanied by their friend and sister, Demi travels California meeting UFO enthusiasts and therapists specializing in extraterrestrial e...</p></details>
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accompanied by their friend and sister, Demi travels California meeting UFO enthusiasts and therapists specializing in extraterrestrial e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: salon.com  
    Title: demi lovato is getting her own peacock show where she hunts ufos partner  
-   Link: <a href="https://www.salon.com/2021/05/15/demi-lovato-is-getting-her-own-peacock-show-where-she-hunts-ufos_partner/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2021/05/15/demi-lovato-is-getting-her-own-peacock-show-where-she-hunts-ufos_partner/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato is getting her own Peacock show where she...15 May 2021 — The singer will give her heart a break for this four-part series t...</p></details>
+   Link:<a href="https://www.salon.com/2021/05/15/demi-lovato-is-getting-her-own-peacock-show-where-she-hunts-ufos_partner/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2021/05/15/demi-lovato-is-getting-her-own-peacock-show-where-she-hunts-ufos_partner/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato is getting her own Peacock show where she...15 May 2021 — The singer will give her heart a break for this four-part series t...</p></details>
    Published: May 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Unidentified-with-Demi-Lovato-S1/dp/B0FJ5TWJ1F?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Unidentified-with-Demi-Lovato-S1/dp/B0FJ5TWJ1F?tag=searcht-20</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Unidentified with Demi Lovato S1 | Prime VideoDemi Lovato travels alongside loved ones and leading alien experts in search of defin...</p></details>
+   Link:<a href="https://www.amazon.com/Unidentified-with-Demi-Lovato-S1/dp/B0FJ5TWJ1F?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Unidentified-with-Demi-Lovato-S1/dp/B0FJ5TWJ1F?tag=searcht-20</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Unidentified with Demi Lovato S1 | Prime VideoDemi Lovato travels alongside loved ones and leading alien experts in search of defin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rottentomatoes.com  
    Title: Rotten Tomatoes Unidentified With Demi Lovato: Season 1  
-   Link: <a href="https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi investigates recent eyewitness alien encounters, uncovers secret government reports and conducts tests at UFO hot spots in hopes of...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/tv/unidentified_with_demi_lovato/s01</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi investigates recent eyewitness alien encounters, uncovers secret government reports and conducts tests at UFO hot spots in hopes of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: avclub.com  
    Title: Demi Lovato is going to investigate UFOs on Peacock,  
-   Link: <a href="https://www.avclub.com/demi-lovato-is-going-to-investigate-ufos-on-peacock-na-1846873418" target="_blank" rel="noopener noreferrer nofollow">https://www.avclub.com/demi-lovato-is-going-to-investigate-ufos-on-peacock-na-1846873418</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peacock is getting into the fun with an unscripted show about UFOs hosted by Demi Lovato. It&#x27;s not totally clear why, but Demi Lovato has...</p></details>
+   Link:<a href="https://www.avclub.com/demi-lovato-is-going-to-investigate-ufos-on-peacock-na-1846873418" target="_blank" rel="noopener noreferrer nofollow">https://www.avclub.com/demi-lovato-is-going-to-investigate-ufos-on-peacock-na-1846873418</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peacock is getting into the fun with an unscripted show about UFOs hosted by Demi Lovato. It&#x27;s not totally clear why, but Demi Lovato has...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: etonline.com  
    Title: how to watch unidentified with demi lovato 172887  
-   Link: <a href="https://www.etonline.com/how-to-watch-unidentified-with-demi-lovato-172887" target="_blank" rel="noopener noreferrer nofollow">https://www.etonline.com/how-to-watch-unidentified-with-demi-lovato-172887</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Watch &#x27;Unidentified with Demi Lovato&#x27;27 Sept 2021 — Demi Lovato is feeling confident about the existence of extraterrestrial life...</p></details>
+   Link:<a href="https://www.etonline.com/how-to-watch-unidentified-with-demi-lovato-172887" target="_blank" rel="noopener noreferrer nofollow">https://www.etonline.com/how-to-watch-unidentified-with-demi-lovato-172887</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Watch &#x27;Unidentified with Demi Lovato&#x27;27 Sept 2021 — Demi Lovato is feeling confident about the existence of extraterrestrial life...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: primevideo.com  
-   Link: <a href="https://www.primevideo.com/-/de/detail/0JS5LUXAWVBBX6ODGEFSG4C5SM" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/de/detail/0JS5LUXAWVBBX6ODGEFSG4C5SM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stions about extraterrestrial life...</p></details>
+   Link:<a href="https://www.primevideo.com/-/de/detail/0JS5LUXAWVBBX6ODGEFSG4C5SM" target="_blank" rel="noopener noreferrer nofollow">https://www.primevideo.com/-/de/detail/0JS5LUXAWVBBX6ODGEFSG4C5SM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stions about extraterrestrial life...</p></details>

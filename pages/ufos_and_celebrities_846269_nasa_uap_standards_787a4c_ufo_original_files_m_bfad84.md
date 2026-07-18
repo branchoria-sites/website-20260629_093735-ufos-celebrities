@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_
 
 ## Introduction
 
-Celebrity UFO stories often attract attention because the witness is well known, but investigators assess them by the same standard as any other report: can the observation be tested? That is why original image or video files matter far more than copies circulating on social media or clips shown during interviews. NASA's independent study of unidentified anomalous phenomena (UAP) concluded that the biggest obstacle to understanding many sightings is not a lack of witnesses but a lack of high-quality, well-documented data. Poor sensor calibration, missing metadata and incomplete records make it difficult to distinguish an unusual object from a camera artefact, an optical illusion or an ordinary aircraft seen under unusual conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+Celebrity UFO stories often attract attention because the witness is well known, but investigators assess them by the same standard as any other report: can the observation be tested? That is why original image or video files matter far more than copies circulating on social media or clips shown during interviews. NASA's independent study of unidentified anomalous phenomena (UAP) concluded that the biggest obstacle to understanding many sightings is not a lack of witnesses but a lack of high-quality, well-documented data. Poor sensor calibration, missing metadata and incomplete records make it difficult to distinguish an unusual object from a camera artefact, an optical illusion or an ordinary aircraft seen under unusual conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-1-dark.svg" | relative_url }}" alt="Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -305,9 +305,9 @@ When people hear "metadata", they often think of hidden technical information. I
 
 None of these fields proves what an object is. Instead, they help establish whether the recording accurately represents what the witness claims to have seen.
 
-For example, focal length helps determine the field of view. A bright point recorded at extreme digital zoom may appear to move dramatically because of small hand movements, whereas the same object at normal zoom may behave exactly like a distant aircraft or planet. Timestamp data can also be compared with astronomical records, aircraft tracking information, satellite passes and local weather observations to determine whether a conventional explanation fits the observation. NASA's report specifically identifies missing sensor metadata as one of the reasons many UAP reports cannot be analysed rigorously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+For example, focal length helps determine the field of view. A bright point recorded at extreme digital zoom may appear to move dramatically because of small hand movements, whereas the same object at normal zoom may behave exactly like a distant aircraft or planet. Timestamp data can also be compared with astronomical records, aircraft tracking information, satellite passes and local weather observations to determine whether a conventional explanation fits the observation. NASA's report specifically identifies missing sensor metadata as one of the reasons many UAP reports cannot be analysed rigorously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-Metadata also assists in identifying technical artefacts. Camera sensors can produce flare, rolling-shutter distortions, compression artefacts and autofocus effects that become obvious once investigators know which device captured the footage and under what settings. NASA notes that careful examination of calibration and metadata has already shown that some apparent UAP were actually sensor artefacts rather than unusual external objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span>
+Metadata also assists in identifying technical artefacts. Camera sensors can produce flare, rolling-shutter distortions, compression artefacts and autofocus effects that become obvious once investigators know which device captured the footage and under what settings. NASA notes that careful examination of calibration and metadata has already shown that some apparent UAP were actually sensor artefacts rather than unusual external objects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -322,7 +322,7 @@ A reposted video usually loses embedded metadata because social-media platforms 
 
 Interviews introduce another limitation: memory changes over time. A witness may honestly recall events differently months or years later. That does not imply deception; it reflects how human memory naturally reconstructs experiences. Original digital files therefore provide an independent record that can be compared with later recollections instead of relying solely on testimony.
 
-For celebrity cases, this distinction matters because public attention often focuses on the person's reputation rather than the underlying evidence. Fame may increase interest in a report, but it does not compensate for missing technical data. NASA's overall approach deliberately separates witness credibility from evidence quality, treating both as different components of an investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+For celebrity cases, this distinction matters because public attention often focuses on the person's reputation rather than the underlying evidence. Fame may increase interest in a report, but it does not compensate for missing technical data. NASA's overall approach deliberately separates witness credibility from evidence quality, treating both as different components of an investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-2-dark.svg" | relative_url }}" alt="Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,7 +348,7 @@ Precise timestamps make these comparisons possible. Even an error of a few minut
 
 Original files also preserve image quality needed for frame-by-frame analysis. Analysts may estimate angular motion, reconstruct the viewing direction using background landmarks or determine whether apparent acceleration results from camera movement rather than object movement. These techniques become far less reliable once a video has been compressed repeatedly or recorded from another screen.
 
-NASA's study argues that meaningful progress depends on collecting multiple calibrated measurements rather than isolated observations. Ideally, optical imagery would be accompanied by infrared observations, radar data or independent recordings from another location, allowing one source of evidence to check another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+NASA's study argues that meaningful progress depends on collecting multiple calibrated measurements rather than isolated observations. Ideally, optical imagery would be accompanied by infrared observations, radar data or independent recordings from another location, allowing one source of evidence to check another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
@@ -374,7 +374,7 @@ These details help investigators interpret the digital evidence rather than repl
 
 Conversely, digital files help evaluate aspects of testimony that are difficult to judge from memory alone. If a witness estimates that an object remained stationary for several minutes, timestamps and frame analysis can verify whether the recording is consistent with that description.
 
-This complementary approach reflects the methodology promoted by NASA and the All-domain Anomaly Resolution Office (AARO): witness accounts are valuable starting points, but conclusions become stronger when supported by measurable, independently verifiable data rather than recollection alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</span></span></span>
+This complementary approach reflects the methodology promoted by NASA and the All-domain Anomaly Resolution Office (AARO): witness accounts are valuable starting points, but conclusions become stronger when supported by measurable, independently verifiable data rather than recollection alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-3-dark.svg" | relative_url }}" alt="Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_nasa_uap_standards_787a4c_ufo_original_files_m_bfad84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,201 +397,201 @@ A claim becomes substantially more useful when investigators can examine:
 
 Without those elements, researchers are often left evaluating only the witness's narrative rather than the event itself.
 
-That is why modern UAP investigations consistently place greater weight on original digital evidence than on repeated interviews or edited footage. Original files allow questions to be tested instead of debated, making them the foundation of any evidence-based assessment, regardless of whether the witness is an unknown observer or an internationally recognised celebrity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
+That is why modern UAP investigations consistently place greater weight on original digital evidence than on repeated interviews or edited footage. Original files allow questions to be tested instead of debated, making them the foundation of any evidence-based assessment, regardless of whether the witness is an unknown observer or an internationally recognised celebrity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Videos Need Their Original Data. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Videos Need Their Original Data. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Emphasises documented evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises documented evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports careful evaluation of evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful evaluation of evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Digital+Image+Forensics+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Forensics+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Forensics">Digital Image Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Hany Farid</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Digital+Image+Forensics+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Image Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Image+Forensics+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Image Forensics">Digital Image Forensics</a>
+</h4>
+<p class="fr-book-author">By Hany Farid</p>
         
-        <p class="fr-book-desc">Explains metadata and digital evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Image+Forensics+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains metadata and digital evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Image+Forensics+Hany+Farid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Camera on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Camera">The Camera</a>
-        </h4>
-        <p class="fr-book-author">By Ansel Adams, Robert Baker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Camera on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Camera">The Camera</a>
+</h4>
+<p class="fr-book-author">By Ansel Adams, Robert Baker</p>
         
-        <p class="fr-book-desc">Helps readers understand image capture limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand image capture limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Forensics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Image+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Image Forensics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster"><img src="{{ '/assets/images/marketplace-covers/a1da77a24c027e49baaa.jpg' | relative_url }}" alt="Listing image for Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster"><img src="{{ '/assets/images/marketplace-covers/a1da77a24c027e49baaa.jpg' | relative_url }}" alt="Listing image for Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO Gay Lovers Wall Art, Sci-fi LGBTQ Pride Decor, UAP Lesbian Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2a324bb9bd018b419d.jpg' | relative_url }}" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor"><img src="{{ '/assets/images/marketplace-covers/1af931f6be19596240e0.jpg' | relative_url }}" alt="Listing image for Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor"><img src="{{ '/assets/images/marketplace-covers/1af931f6be19596240e0.jpg' | relative_url }}" alt="Listing image for Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LIGHTNING STORM Wall Art, Sci-fi Alien Poster, UAP Desert Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+wall+art+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP wall art -underwater -scuba -swimming" data-ebay-reference="metadata-why-ufo-videos-need-their-original-data-ufos-and-celebrities-uap-wall-art-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ That is why modern UAP investigations consistently place greater weight on origi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ That is why modern UAP investigations consistently place greater weight on origi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ That is why modern UAP investigations consistently place greater weight on origi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ That is why modern UAP investigations consistently place greater weight on origi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ That is why modern UAP investigations consistently place greater weight on origi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,81 +797,81 @@ That is why modern UAP investigations consistently place greater weight on origi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — We commissioned a study team to examine from a scientific perspective unidentified anomalous phenomena (UAPs)...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — This year&#x27;s UAP report covers UAP reports from May 1, 2023, to June...</p></details>
    Published: May 1, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonConclusions from the report The NASA study team report sheds little light on whether some UAPs are extraterrestr...</p></details>
+   Link:<a href="https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/museumofscience/posts/the-government-just-dropped-classified-ufo-documents-and-the-internet-is-losing-/1462267272609864/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Museum of Science, BostonConclusions from the report The NASA study team report sheds little light on whether some UAPs are extraterrestr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/16ij1ym/nasa_has_released_the_unidentified_anomalous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has released the Unidentified Anomalous...DOD and NASA now both say there are objects in the air that they can&#x27;t identify. This UAP...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The Unidentified Anomalous Phenomena from NASA released a report to the public. Read...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — The Unidentified Anomalous Phenomena from NASA released a report to the public. Read...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This can be very useful when investigating a UFO video with limited location data.Read more...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This can be very useful when investigating a UFO video with limited location data.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: avi-loeb.medium.com  
-   Link: <a href="https://avi-loeb.medium.com/resolving-the-nature-of-unidentified-anomalous-phenomena-uap-by-scientific-evidence-217cb8ac5f72" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/resolving-the-nature-of-unidentified-anomalous-phenomena-uap-by-scientific-evidence-217cb8ac5f72</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We will provide advice to a higher-level UAP Governing board on how to...Read more...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/resolving-the-nature-of-unidentified-anomalous-phenomena-uap-by-scientific-evidence-217cb8ac5f72" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/resolving-the-nature-of-unidentified-anomalous-phenomena-uap-by-scientific-evidence-217cb8ac5f72</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We will provide advice to a higher-level UAP Governing board on how to...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: indy100.com  
    Title: nasa ufo report things learned  
-   Link: <a href="https://www.indy100.com/science-tech/nasa-ufo-report-things-learned" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/nasa-ufo-report-things-learned</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 things we learned from Nasa&#x27;s report on UFOs14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that UAP have an...</p></details>
+   Link:<a href="https://www.indy100.com/science-tech/nasa-ufo-report-things-learned" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/nasa-ufo-report-things-learned</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 things we learned from Nasa&#x27;s report on UFOs14 Sept 2023 — &quot;The NASA independent study team did not find any evidence that UAP have an...</p></details>

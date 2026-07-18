@@ -284,15 +284,15 @@ Fran Drescher's alien-abduction story is unusual because it does not rest only o
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_drescher_implant_sca_c3553f-Illustration-1-dark.svg" | relative_url }}" alt="Drescher Scars illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_drescher_implant_sca_c3553f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_alien_enco_da52a9_drescher_implant_sca_c3553f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central issue is not whether Drescher sincerely believes her interpretation. Rather, it is whether the scar itself provides evidence of an alien implant. Based on the public record, the answer is no. The claim relies on personal testimony and interpretation, while the medical and forensic evidence that would normally be expected for an extraordinary physical claim has never been presented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+The central issue is not whether Drescher sincerely believes her interpretation. Rather, it is whether the scar itself provides evidence of an alien implant. Based on the public record, the answer is no. The claim relies on personal testimony and interpretation, while the medical and forensic evidence that would normally be expected for an extraordinary physical claim has never been presented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
 ## What Drescher and Jacobson reportedly claimed
 
-The story became widely known in 2012 after an interview in which Fran Drescher said that both she and her former husband, Peter Marc Jacobson, had experienced similar UFO encounters while they were young. According to Drescher, both incidents supposedly occurred while travelling in cars with their fathers during junior high school. She later suggested that these parallel experiences were connected and that the two had somehow been "programmed" to meet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+The story became widely known in 2012 after an interview in which Fran Drescher said that both she and her former husband, Peter Marc Jacobson, had experienced similar UFO encounters while they were young. According to Drescher, both incidents supposedly occurred while travelling in cars with their fathers during junior high school. She later suggested that these parallel experiences were connected and that the two had somehow been "programmed" to meet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
-A key part of her account was that both she and Jacobson supposedly had an identical scar in the same location. Drescher interpreted the mark as the site where aliens had implanted a tracking chip. Reuters quoted her as saying that the scar marked the location of the implant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+A key part of her account was that both she and Jacobson supposedly had an identical scar in the same location. Drescher interpreted the mark as the site where aliens had implanted a tracking chip. Reuters quoted her as saying that the scar marked the location of the implant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
-What makes the account more nuanced is that Jacobson reportedly did not share that interpretation. Contemporary reports state that he believed Drescher's scar had an ordinary cause, suggesting it likely came from a drill bit or a burn from a hot cup or similar everyday accident rather than an extraterrestrial procedure. Drescher responded by saying that such explanations were themselves part of the aliens' programming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+What makes the account more nuanced is that Jacobson reportedly did not share that interpretation. Contemporary reports state that he believed Drescher's scar had an ordinary cause, suggesting it likely came from a drill bit or a burn from a hot cup or similar everyday accident rather than an extraterrestrial procedure. Drescher responded by saying that such explanations were themselves part of the aliens' programming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
 This disagreement is important because it shows that even one of the two people most closely associated with the story did not publicly endorse the implant explanation.
 
@@ -342,7 +342,7 @@ If someone claimed that a scar concealed an implanted device, investigators woul
 
 </div>
 
-None of these steps has been publicly documented in relation to Drescher's claim. No medical imaging has been released showing an unexplained implanted object, and no laboratory-tested specimen has been presented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+None of these steps has been publicly documented in relation to Drescher's claim. No medical imaging has been released showing an unexplained implanted object, and no laboratory-tested specimen has been presented.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/glGEXkTgznA" title="Fran Drescher - Talk to Al Jazeera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=glGEXkTgznA" target="_blank" rel="noopener noreferrer">Fran Drescher - Talk to Al Jazeera</a></p><p class="youtube-embed-meta">Channel: Al Jazeera America</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=glGEXkTgznA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=glGEXkTgznA">Open on YouTube</a></p></div></div></div>
@@ -351,7 +351,7 @@ None of these steps has been publicly documented in relation to Drescher's claim
 
 Drescher's account also fits into a broader history of alleged alien implant claims within UFO culture. Over several decades, investigators have announced removals of supposed implants from individuals who believed they had been abducted.
 
-These cases have generally failed to convince mainstream medicine because recovered objects have typically been identified as ordinary materials such as glass fragments, metal splinters or other debris that can become embedded in tissue after everyday injuries. Critics have repeatedly argued that extraordinary conclusions require substantially stronger physical evidence than has been produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_implants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien implants</span><span class="citation-popover-snippet">Alien implants</span></span></span>
+These cases have generally failed to convince mainstream medicine because recovered objects have typically been identified as ordinary materials such as glass fragments, metal splinters or other debris that can become embedded in tissue after everyday injuries. Critics have repeatedly argued that extraordinary conclusions require substantially stronger physical evidence than has been produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Alien_implants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Alien implants</span><span class="citation-popover-snippet">Alien implants</span></span></span>
 
 This wider context matters because Drescher's story has never progressed beyond the earliest stage of such claims. It has not produced the medical documentation or independently verifiable physical evidence that later investigators—even controversial ones—have attempted to obtain.
 
@@ -364,9 +364,9 @@ The central evidential weaknesses are straightforward.
 
 **The scar has no documented origin.** Public [reporting]({{ 'reporting/' | relative_url }}) provides no medical record establishing when it first appeared or under what circumstances.
 
-**There is no confirmed implanted object.** No imaging or surgical evidence has been published showing a foreign body beneath the scar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+**There is no confirmed implanted object.** No imaging or surgical evidence has been published showing a foreign body beneath the scar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
-**The interpretation is disputed by a key witness.** Jacobson reportedly offered ordinary explanations for the mark rather than accepting the implant hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
+**The interpretation is disputed by a key witness.** Jacobson reportedly offered ordinary explanations for the mark rather than accepting the implant hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</span></span></span>
 
 **No independent verification exists.** The account depends primarily on retrospective personal testimony rather than evidence that outside investigators can examine.
 
@@ -381,194 +381,194 @@ The scar is often presented as if it transforms the account from a personal expe
 That distinction explains why the case continues to attract attention while remaining evidentially unresolved. The story contains a physical element that appears, in principle, capable of verification, but the publicly available evidence has never bridged the gap between an unexplained personal belief and a medically supported finding.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could Drescher&#x27;s scars prove an alien implant?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could Drescher&#x27;s scars prove an alien implant?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts documented reports with anecdotal implant stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts documented reports with anecdotal implant stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Places extraordinary encounter claims into historical perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places extraordinary encounter claims into historical perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
-        </h4>
-        <p class="fr-book-author">By Whitley Strieber</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Communion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oyuGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Communion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Communion">Communion</a>
+</h4>
+<p class="fr-book-author">By Whitley Strieber</p>
         
-        <p class="fr-book-desc">Introduced many themes echoed in later implant stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduced many themes echoed in later implant stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Communion+by+Whitley+Strieber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains how physical evidence should be assessed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how physical evidence should be assessed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Communion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Communion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="drescher-scars-97eede-could-drescher-s-scars-prove-an-alien-implant-ufos-and-celebrities-ufo-poster-series-television-ge" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ That distinction explains why the case continues to attract attention while rema
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ That distinction explains why the case continues to attract attention while rema
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ That distinction explains why the case continues to attract attention while rema
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ That distinction explains why the case continues to attract attention while rema
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ That distinction explains why the case continues to attract attention while rema
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,93 +774,93 @@ That distinction explains why the case continues to attract attention while rema
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</p></details>
+   Link:<a href="https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/fran-drescher-aliens-abducted-me-implanted-a-chip-in-my-hand-idUS2511098823/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the exact same scar on the exact same spot.&quot; Drescher continued that her ex wasn&#x27;t totally convinced her joint...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Alien implants  
-   Link: <a href="https://en.wikipedia.org/wiki/Alien_implants" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_implants</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Alien_implants" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_implants</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roger Leir  
-   Link: <a href="https://en.wikipedia.org/wiki/Roger_Leir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_Leir</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Roger_Leir" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roger_Leir</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Budd Hopkins  
-   Link: <a href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Budd_Hopkins</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Budd_Hopkins</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/video/watch/idRW685309112023RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW685309112023RP1/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Nanny&#x27; Fran Drescher led Hollywood [actors](&amp;#123;&amp;#123; &#x27;actors/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; strikeTo thousands of rank-and-file Hollywood actors, Fran Drescher emerged this summer a...</p></details>
+   Link:<a href="https://www.reuters.com/video/watch/idRW685309112023RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW685309112023RP1/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Nanny&#x27; Fran Drescher led Hollywood [actors](&amp;#123;&amp;#123; &#x27;actors/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; strikeTo thousands of rank-and-file Hollywood actors, Fran Drescher emerged this summer a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cbsnews.com  
    Title: fran drescher i was abducted by aliens  
-   Link: <a href="https://www.cbsnews.com/news/fran-drescher-i-was-abducted-by-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/fran-drescher-i-was-abducted-by-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher: I was abducted by aliens27 Jan 2012 — Drescher did add that Jacobson doesn&#x27;t believe the scars came from aliens; he thinks...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/fran-drescher-i-was-abducted-by-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/fran-drescher-i-was-abducted-by-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher: I was abducted by aliens27 Jan 2012 — Drescher did add that Jacobson doesn&#x27;t believe the scars came from aliens; he thinks...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Fran Drescher  
-   Link: <a href="https://www.youtube.com/watch?v=glGEXkTgznA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=glGEXkTgznA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Talk to Al JazeeraActress Fran Drescher, a rape and cancer survivor, talks about her health [advocacy](&amp;#123;&amp;#123; &#x27;advocacy/&#x27; | relative_url &amp;#125;&amp;#125;) work and her starring role on Broadw...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=glGEXkTgznA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=glGEXkTgznA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Talk to Al JazeeraActress Fran Drescher, a rape and cancer survivor, talks about her health [advocacy](&amp;#123;&amp;#123; &#x27;advocacy/&#x27; | relative_url &amp;#125;&amp;#125;) work and her starring role on Broadw...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: abilitymagazine.com  
-   Link: <a href="https://abilitymagazine.com/fran-drescher-an-interview/" target="_blank" rel="noopener noreferrer nofollow">https://abilitymagazine.com/fran-drescher-an-interview/</a>  
+   Link:<a href="https://abilitymagazine.com/fran-drescher-an-interview/" target="_blank" rel="noopener noreferrer nofollow">https://abilitymagazine.com/fran-drescher-an-interview/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZxpW7kmysK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZxpW7kmysK/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Her now ex-husband Peter Marc Jacobson had a similar mark on his...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZxpW7kmysK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZxpW7kmysK/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her now ex-husband Peter Marc Jacobson had a similar mark on his...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: christianpost.com  
    Title: fran drescher aliens abudcted me and my husband  
-   Link: <a href="https://www.christianpost.com/news/fran-drescher-aliens-abudcted-me-and-my-husband.html" target="_blank" rel="noopener noreferrer nofollow">https://www.christianpost.com/news/fran-drescher-aliens-abudcted-me-and-my-husband.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher, &#x27;Aliens Abudcted Me and My Husband&#x27;27 Jan 2012 — Fran Drescher has told the Huffington Post that she and her ex-husband Pe...</p></details>
+   Link:<a href="https://www.christianpost.com/news/fran-drescher-aliens-abudcted-me-and-my-husband.html" target="_blank" rel="noopener noreferrer nofollow">https://www.christianpost.com/news/fran-drescher-aliens-abudcted-me-and-my-husband.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher, &#x27;Aliens Abudcted Me and My Husband&#x27;27 Jan 2012 — Fran Drescher has told the Huffington Post that she and her ex-husband Pe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Reuters/videos/fran-drescher-the-former-star-of-the-nanny-and-president-of-the-160000-member-sa/242654015213886/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/videos/fran-drescher-the-former-star-of-the-nanny-and-president-of-the-160000-member-sa/242654015213886/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>000-member SAG-AFTRA union, won widespread praise from performers for...</p></details>
+   Link:<a href="https://www.facebook.com/Reuters/videos/fran-drescher-the-former-star-of-the-nanny-and-president-of-the-160000-member-sa/242654015213886/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Reuters/videos/fran-drescher-the-former-star-of-the-nanny-and-president-of-the-160000-member-sa/242654015213886/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>000-member SAG-AFTRA union, won widespread praise from performers for...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: yahoo.com  
    Title: fran drescher claims she abducted aliens 180800365  
-   Link: <a href="https://www.yahoo.com/entertainment/fran-drescher-claims-she-abducted-aliens-180800365.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/fran-drescher-claims-she-abducted-aliens-180800365.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the exact same scar on the exact same spot.&quot; Jacobson claims Drescher&#x27;s scar is from a drill bit or is the result...Read more...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/fran-drescher-claims-she-abducted-aliens-180800365.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/fran-drescher-claims-she-abducted-aliens-180800365.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s the exact same scar on the exact same spot.&quot; Jacobson claims Drescher&#x27;s scar is from a drill bit or is the result...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DZsUkABPpNE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZsUkABPpNE/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Her now ex-husband Peter Marc Jacobson had a similar mark on his...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DZsUkABPpNE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DZsUkABPpNE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her now ex-husband Peter Marc Jacobson had a similar mark on his...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sinisterhood/videos/fran-drescher-says-she-and-her-ex-husband-both-had-et-encounters-before-they-met/947618421644108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sinisterhood/videos/fran-drescher-says-she-and-her-ex-husband-both-had-et-encounters-before-they-met/947618421644108/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>now ex-husband Peter Mark Jacobson had a similar mark on his...</p></details>
+   Link:<a href="https://www.facebook.com/sinisterhood/videos/fran-drescher-says-she-and-her-ex-husband-both-had-et-encounters-before-they-met/947618421644108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sinisterhood/videos/fran-drescher-says-she-and-her-ex-husband-both-had-et-encounters-before-they-met/947618421644108/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>now ex-husband Peter Mark Jacobson had a similar mark on his...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Entertainment/celebrities-aliens-fran-drescher-latest-share-experience/story?id=15473464" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/celebrities-aliens-fran-drescher-latest-share-experience/story?id=15473464</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsCelebrities and Aliens: Stars Share Otherworldly Experiences30 Jan 2012 — Jacobson told the website Drescher got the scar from a...</p></details>
+   Link:<a href="https://abcnews.com/Entertainment/celebrities-aliens-fran-drescher-latest-share-experience/story?id=15473464" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/celebrities-aliens-fran-drescher-latest-share-experience/story?id=15473464</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsCelebrities and Aliens: Stars Share Otherworldly Experiences30 Jan 2012 — Jacobson told the website Drescher got the scar from a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yahoo.com  
-   Link: <a href="https://www.yahoo.com/entertainment/fran-drescher-aliens-abducted-implanted-chip-hand-154801143.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/fran-drescher-aliens-abducted-implanted-chip-hand-154801143.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher: Aliens Abducted Me, Implanted a Chip in...27 Jan 2012 — The &quot;they&quot; to whom we refer: aliens, the ones Drescher says abduc...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/fran-drescher-aliens-abducted-implanted-chip-hand-154801143.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/fran-drescher-aliens-abducted-implanted-chip-hand-154801143.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher: Aliens Abducted Me, Implanted a Chip in...27 Jan 2012 — The &quot;they&quot; to whom we refer: aliens, the ones Drescher says abduc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Woman Finds Implant Near Brain After Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=t8IJoft5FgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t8IJoft5FgE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher alien abduction Fran Drescher&#x27;s Extraterrestrial Encounter: A Star&#x27;s Shocking Alien Abduction Story...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t8IJoft5FgE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t8IJoft5FgE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fran Drescher alien abduction Fran Drescher&#x27;s Extraterrestrial Encounter: A Star&#x27;s Shocking Alien Abduction Story...</p></details>

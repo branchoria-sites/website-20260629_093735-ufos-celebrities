@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_gof
 
 ## Introduction
 
-The GOFAST video is one of the three US Navy UAP clips formally released by the Pentagon in 2020, and it has often been presented as evidence of an object racing just above the ocean at extraordinary speed. A closer examination of the aircraft's own sensor data, however, suggests that the dramatic impression is not necessarily the reality. The leading conventional explanation is that the apparent high speed results largely from **parallax**—a visual effect created when a fast-moving observer tracks a more distant object from an angle. This does not identify what the object was, but it does challenge one of the video's most widely repeated claims: that it was skimming the sea at impossible velocity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+The GOFAST video is one of the three US Navy UAP clips formally released by the Pentagon in 2020, and it has often been presented as evidence of an object racing just above the ocean at extraordinary speed. A closer examination of the aircraft's own sensor data, however, suggests that the dramatic impression is not necessarily the reality. The leading conventional explanation is that the apparent high speed results largely from **parallax**—a visual effect created when a fast-moving observer tracks a more distant object from an angle. This does not identify what the object was, but it does challenge one of the video's most widely repeated claims: that it was skimming the sea at impossible velocity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_gofast_parallax_spee_972ef5-Illustration-1-dark.svg" | relative_url }}" alt="GOFAST illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_gofast_parallax_spee_972ef5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_pentagon_ufo_videos_91bebd_gofast_parallax_spee_972ef5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ The publicly released infrared video shows an object being tracked by a US Navy 
 
 To many viewers, the object appears to streak across the surface of the ocean at remarkable speed. The combination of the aircraft's infrared imagery, the moving water below and the excited pilot commentary naturally encourages the impression that the target is travelling only metres above the waves.
 
-That visual impression became one of the video's defining features in television [documentaries]({{ 'documentaries/' | relative_url }}), news coverage and online discussion. Yet the video itself provides only a two-dimensional view through a moving sensor. Without knowing the target's actual distance, it is impossible to calculate its true speed simply by watching it move across the screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+That visual impression became one of the video's defining features in television [documentaries]({{ 'documentaries/' | relative_url }}), news coverage and online discussion. Yet the video itself provides only a two-dimensional view through a moving sensor. Without knowing the target's actual distance, it is impossible to calculate its true speed simply by watching it move across the screen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/McVqKmUaaok" title="Here&#x27;s What We Really Know About These Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer">Here&#x27;s What We Really Know About These Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 345.1K &middot; Uploaded: August 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=McVqKmUaaok">Open on YouTube</a></p></div></div></div>
@@ -315,7 +315,7 @@ The GOFAST recording introduces several layers of geometry that complicate intui
 
 Together these factors can produce the illusion that the tracked object is moving far faster than it actually is.
 
-Independent analysts demonstrated that if the object were considerably farther away than many viewers assumed, its apparent motion across the camera's field of view could largely be explained by the jet's own movement rather than extraordinary acceleration by the target itself. The object's apparent race over the sea would then be mostly a perspective effect instead of evidence of exceptional performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
+Independent analysts demonstrated that if the object were considerably farther away than many viewers assumed, its apparent motion across the camera's field of view could largely be explained by the jet's own movement rather than extraordinary acceleration by the target itself. The object's apparent race over the sea would then be mostly a perspective effect instead of evidence of exceptional performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
 
 This explanation relies on ordinary geometry rather than special assumptions about the object's identity. Whether the target was a balloon, a bird, debris or something else, the parallax effect would still occur if the viewing geometry were similar.
 
@@ -327,7 +327,7 @@ The key uncertainty in GOFAST is range.
 
 A two-dimensional video records direction but not depth. Unless distance can be estimated accurately from sensor information or other measurements, calculating true speed becomes difficult. Two objects moving across the same angle of view can have dramatically different actual velocities depending on how far away they are.
 
-Analysts have therefore focused on the telemetry displayed in the video—information such as aircraft attitude, targeting angles and tracking data—rather than relying solely on what the eye perceives. Using those measurements, several reconstructions concluded that the object was much higher above the ocean than casual viewing suggests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
+Analysts have therefore focused on the telemetry displayed in the video—information such as aircraft attitude, targeting angles and tracking data—rather than relying solely on what the eye perceives. Using those measurements, several reconstructions concluded that the object was much higher above the ocean than casual viewing suggests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
 
 This illustrates a broader point about military sensor footage: visual intuition is often less reliable than geometric reconstruction.
 
@@ -338,7 +338,7 @@ This illustrates a broader point about military sensor footage: visual intuition
 
 The Pentagon's All-domain Anomaly Resolution Office (AARO) later presented a detailed reconstruction of GOFAST using geospatial analysis and trigonometry.
 
-According to AARO, the object was assessed with high confidence to be roughly **13,000 feet above the ocean**, not skimming the waves, and its estimated ground speed was around **45 miles per hour**. Under this interpretation, the dramatic appearance results primarily from parallax created by the fast-moving fighter aircraft rather than an object performing extraordinary manoeuvres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro findings go fast puerto rico mt etna objects</span><span class="citation-popover-snippet">Analysts used full-motion video, analysis software, 3D modeling, and “novel” speed and distance...</span></span></span>
+According to AARO, the object was assessed with high confidence to be roughly **13,000 feet above the ocean**, not skimming the waves, and its estimated ground speed was around **45 miles per hour**. Under this interpretation, the dramatic appearance results primarily from parallax created by the fast-moving fighter aircraft rather than an object performing extraordinary manoeuvres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro findings go fast puerto rico mt etna objects</span><span class="citation-popover-snippet">Analysts used full-motion video, analysis software, 3D modeling, and “novel” speed and distance...</span></span></span>
 
 Importantly, AARO's conclusion addressed the **apparent speed**, not necessarily the object's precise identity. Explaining why something appears fast is different from determining exactly what it is.
 
@@ -362,7 +362,7 @@ The released footage does not provide enough information to determine conclusive
 
 </div>
 
-The infrared image lacks sufficient detail for positive identification, and only a short segment of the encounter has been released publicly. As a result, resolving the speed question does not automatically resolve the identity question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
+The infrared image lacks sufficient detail for positive identification, and only a short segment of the encounter has been released publicly. As a result, resolving the speed question does not automatically resolve the identity question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
 
 This distinction is frequently lost in public debate. Some commentators interpret the parallax explanation as proving the entire incident was mundane, while others reject the speed analysis because the object remains unidentified. In reality, these are separate questions.
 
@@ -372,197 +372,197 @@ This distinction is frequently lost in public debate. Some commentators interpre
 
 GOFAST has become a useful case study because it demonstrates how convincing visual impressions can conflict with careful measurement. The video's significance lies less in proving extraordinary flight characteristics than in showing the limits of interpreting military sensor footage without full contextual data.
 
-Within the wider discussion of Pentagon UAP videos and their cultural impact, GOFAST also illustrates how dramatic imagery can become amplified through media coverage and celebrity interest before technical analysis reaches a broader audience. The clip remains authentic military footage of an object that has not been conclusively identified, but the strongest available geometric analyses indicate that its apparent extreme speed is most likely an illusion produced by parallax rather than evidence of impossible flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
+Within the wider discussion of Pentagon UAP videos and their cultural impact, GOFAST also illustrates how dramatic imagery can become amplified through media coverage and celebrity interest before technical analysis reaches a broader audience. The clip remains authentic military footage of an object that has not been conclusively identified, but the strongest available geometric analyses indicate that its apparent extreme speed is most likely an illusion produced by parallax rather than evidence of impossible flight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos &#124; PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did GOFAST Really Move That Fast?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did GOFAST Really Move That Fast?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Discusses official military UAP cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses official military UAP cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evidence-based interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evidence-based interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Adds military aviation context for sensor interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds military aviation context for sensor interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Camera on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Camera">The Camera</a>
-        </h4>
-        <p class="fr-book-author">By Ansel Adams, Robert Baker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Camera on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Camera">The Camera</a>
+</h4>
+<p class="fr-book-author">By Ansel Adams, Robert Baker</p>
         
-        <p class="fr-book-desc">Useful background on perspective and imaging.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on perspective and imaging.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Camera+by+Ansel+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/e63582ff4ac4eb09144c.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAe Jaguar GR1A XZ119 6 Squadron Gulf War By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Fine Art Print - World War II - Hawker Tempest &quot;The Birgham Tempest&quot;"><img src="{{ '/assets/images/marketplace-covers/e1cfd30e4b7fdba111a0.jpg' | relative_url }}" alt="Listing image for Aviation Fine Art Print - World War II - Hawker Tempest &quot;The Birgham Tempest&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Aviation Fine Art Print - World War II - Hawker Tempest &quot;The Birgham Tempest&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Fine Art Print - World War II - Hawker Tempest &quot;The Birgham Tempest&quot;"><img src="{{ '/assets/images/marketplace-covers/e1cfd30e4b7fdba111a0.jpg' | relative_url }}" alt="Listing image for Aviation Fine Art Print - World War II - Hawker Tempest &quot;The Birgham Tempest&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Aviation Fine Art Print - World War II - Hawker Tempest &quot;The Birgham Tempest&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Frame Aviation Art Print The Straggler Returns Robert Taylor War Bomber"><img src="{{ '/assets/images/marketplace-covers/4913dbdd9b2c87c136f3.jpg' | relative_url }}" alt="Listing image for Vintage Frame Aviation Art Print The Straggler Returns Robert Taylor War Bomber" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Frame Aviation Art Print The Straggler Returns Robert Taylor War Bomber</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Frame Aviation Art Print The Straggler Returns Robert Taylor War Bomber"><img src="{{ '/assets/images/marketplace-covers/4913dbdd9b2c87c136f3.jpg' | relative_url }}" alt="Listing image for Vintage Frame Aviation Art Print The Straggler Returns Robert Taylor War Bomber" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Frame Aviation Art Print The Straggler Returns Robert Taylor War Bomber</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAE Systems Nimrod MRA4 By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/0eda7c59541d82d8b461.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAE Systems Nimrod MRA4 By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAE Systems Nimrod MRA4 By Graham Holme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aviation Art Print BAE Systems Nimrod MRA4 By Graham Holme"><img src="{{ '/assets/images/marketplace-covers/0eda7c59541d82d8b461.jpg' | relative_url }}" alt="Listing image for Aviation Art Print BAE Systems Nimrod MRA4 By Graham Holme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Aviation Art Print BAE Systems Nimrod MRA4 By Graham Holme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: aviation art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation art print -book -books" data-ebay-reference="gofast-did-gofast-really-move-that-fast-ufos-and-celebrities-aviation-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ Within the wider discussion of Pentagon UAP videos and their cultural impact, GO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ Within the wider discussion of Pentagon UAP videos and their cultural impact, GO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ Within the wider discussion of Pentagon UAP videos and their cultural impact, GO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ Within the wider discussion of Pentagon UAP videos and their cultural impact, GO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ Within the wider discussion of Pentagon UAP videos and their cultural impact, GO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,86 +768,86 @@ Within the wider discussion of Pentagon UAP videos and their cultural impact, GO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos | PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos | PBS...Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Mick West  
-   Link: <a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Mick_West" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mick_West</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mick WestMick West (born 1967) is an American science writer, debunker and retired video game programmer. He is the creator of the web...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysts used full-motion video, analysis software, 3D modeling, and “novel” speed and distance...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysts used full-motion video, analysis software, 3D modeling, and “novel” speed and distance...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=McVqKmUaaok</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos - [FLIR](&amp;#123;&amp;#123; &#x27;flir/&#x27; | relative_url &amp;#125;&amp;#125;)... Dave Falch&#x27;s video: • Video Support this...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=McVqKmUaaok</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Videos - [FLIR](&amp;#123;&amp;#123; &#x27;flir/&#x27; | relative_url &amp;#125;&amp;#125;)... Dave Falch&#x27;s video: • Video Support this...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_[gimbal" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_[gimbal</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...Gimbal is allegedly just a distant jet and GoFast is just a balloon seen with p...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_[gimbal" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_[gimbal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...Gimbal is allegedly just a distant jet and GoFast is just a balloon seen with p...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThe video gives an impression of an object skimming above the ocean at a great vel...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThe video gives an impression of an object skimming above the ocean at a great vel...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2020/06/pentagon-releases-old-ufo-videos-with-expected-results/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/06/pentagon-releases-old-ufo-videos-with-expected-results/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Old &#x27;UFO&#x27; Videos, with Expected ResultsScience writer Mick West collaborated with others to offer exhaustive analyses o...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2020/06/pentagon-releases-old-ufo-videos-with-expected-results/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/06/pentagon-releases-old-ufo-videos-with-expected-results/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Old &#x27;UFO&#x27; Videos, with Expected ResultsScience writer Mick West collaborated with others to offer exhaustive analyses o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The...What&#x27;s really going on with UAPs? Neil deGrasse Tyson and co-host Paul Mecurio get to t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mvsU4p0Gsas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Down UAP Footage with the Head of The...What&#x27;s really going on with UAPs? Neil deGrasse Tyson and co-host Paul Mecurio get to t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCvhLmEQFo_72rjcnyjxfR_w/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCvhLmEQFo_72rjcnyjxfR_w/videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Coalition for UAP StudiesThe Scientific Coalition for UAP Studies (SCU) is a coalition of scientists, researchers, and profess...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCvhLmEQFo_72rjcnyjxfR_w/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCvhLmEQFo_72rjcnyjxfR_w/videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Coalition for UAP StudiesThe Scientific Coalition for UAP Studies (SCU) is a coalition of scientists, researchers, and profess...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: File:Go Fast Official USG Footage of UAP for Public Release.webm  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Go Fast Official USG Footage of UAP for Public...This footage was captured by a U.S. Navy F/A-18 Super Hornet using th...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AGo_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Go Fast Official USG Footage of UAP for Public...This footage was captured by a U.S. Navy F/A-18 Super Hornet using th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The Pentagon announced they solved one of the most famous UFO videos...</p></details>
+   Link:<a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The Pentagon announced they solved one of the most famous UFO videos...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: I study UFOs – and I don't believe the alien hype  
-   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — One video, codenamed “Gimbal”, seems particularly impressive: it shows what looks like an actual flying saucer sk...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — One video, codenamed “Gimbal”, seems particularly impressive: it shows what looks like an actual flying saucer sk...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — Both West and Shermer said they allow for the possibility that what [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) a...</p></details>
+   Link:<a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — Both West and Shermer said they allow for the possibility that what [pilots](&amp;#123;&amp;#123; &#x27;pilots/&#x27; | relative_url &amp;#125;&amp;#125;) a...</p></details>
    Published: May 2020  

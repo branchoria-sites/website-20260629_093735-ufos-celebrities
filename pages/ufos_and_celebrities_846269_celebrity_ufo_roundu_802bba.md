@@ -448,11 +448,11 @@ image: /assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-ov
 
 ## Introduction
 
-Celebrity UFO roundups are useful as a doorway, not as a verdict. They bring together famous [actors]({{ 'actors/' | relative_url }}), musicians, athletes and filmmakers who have said they believe in extraterrestrial life, have seen something unexplained, or have made UFO-themed work. The problem is that these lists often flatten very different kinds of claims into the same category: a philosophical belief that life probably exists somewhere in the universe, a personal sighting, a television project, a public [advocacy]({{ 'advocacy/' | relative_url }}) campaign, and a case with some independent documentation are not equivalent forms of evidence. Recent entertainment roundups have mixed Steven Spielberg’s beliefs, Tom DeLonge’s UFO activism, Demi Lovato’s docuseries, Miley Cyrus’s anecdote and Kacey Musgraves’s reported sighting under the same “celebrities and aliens” frame, which is entertaining but not a reliable evidence hierarchy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">June 8, 2026 — 8 Jun 2026 — 21 celebrities who believe aliens are real — including those who claim to have seen a UFO · Steven Spielberg...</span><span class="citation-popover-meta">Published: June 8, 2026</span></span></span>
+Celebrity UFO roundups are useful as a doorway, not as a verdict. They bring together famous [actors]({{ 'actors/' | relative_url }}), musicians, athletes and filmmakers who have said they believe in extraterrestrial life, have seen something unexplained, or have made UFO-themed work. The problem is that these lists often flatten very different kinds of claims into the same category: a philosophical belief that life probably exists somewhere in the universe, a personal sighting, a television project, a public [advocacy]({{ 'advocacy/' | relative_url }}) campaign, and a case with some independent documentation are not equivalent forms of evidence. Recent entertainment roundups have mixed Steven Spielberg’s beliefs, Tom DeLonge’s UFO activism, Demi Lovato’s docuseries, Miley Cyrus’s anecdote and Kacey Musgraves’s reported sighting under the same “celebrities and aliens” frame, which is entertaining but not a reliable evidence hierarchy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com+2Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">June 8, 2026 — 8 Jun 2026 — 21 celebrities who believe aliens are real — including those who claim to have seen a UFO · Steven Spielberg...</span><span class="citation-popover-meta">Published: June 8, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-overview.webp" | relative_url }}" alt="Overview image for Roundups" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because UFO coverage already sits between curiosity, belief, national-security [reporting]({{ 'reporting/' | relative_url }}), pop culture and scientific uncertainty. NASA’s UAP work stresses that most sightings have limited data and that there is no data supporting the idea that UAP are evidence of alien technologies; the Pentagon’s All-domain Anomaly Resolution Office says it has found no evidence of extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> A celebrity list can still be enjoyable, but readers need a way to separate cultural interest from evidential weight.
+That distinction matters because UFO coverage already sits between curiosity, belief, national-security [reporting]({{ 'reporting/' | relative_url }}), pop culture and scientific uncertainty. NASA’s UAP work stresses that most sightings have limited data and that there is no data supporting the idea that UAP are evidence of alien technologies; the Pentagon’s All-domain Anomaly Resolution Office says it has found no evidence of extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> A celebrity list can still be enjoyable, but readers need a way to separate cultural interest from evidential weight.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d9TAr20K7A0" title="These Celebrities Say They’ve Seen UFOs — And Some of the Stories Are Wild" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d9TAr20K7A0" target="_blank" rel="noopener noreferrer">These Celebrities Say They’ve Seen UFOs — And Some of the Stories Are Wild</a></p><p class="youtube-embed-meta">Channel: JoBlo Celebrity Access</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d9TAr20K7A0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d9TAr20K7A0">Open on YouTube</a></p></div></div></div>
@@ -461,13 +461,13 @@ That distinction matters because UFO coverage already sits between curiosity, be
 
 The biggest weakness of celebrity UFO roundups is category collapse. A list may place one celebrity who says “the universe is too big for us to be alone” beside another who reports a specific aerial sighting, another who hosts a UFO programme, and another whose name is attached to a declassified [military]({{ 'military/' | relative_url }})-video story. Those are not just different personalities; they are different claim types.
 
-A belief in extraterrestrial life is not the same as a UFO sighting. The first is often a broad probability argument: the universe is vast, so life elsewhere seems plausible. Many scientists would treat that as a reasonable possibility while still rejecting the leap from “life may exist elsewhere” to “aliens are visiting Earth”. NASA makes this distinction directly: it says there is no evidence that UAP are extraterrestrial, while also treating the search for life beyond Earth as a separate scientific question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> When a celebrity says aliens are likely, that may be a cosmological opinion, not testimony about an object in the sky.
+A belief in extraterrestrial life is not the same as a UFO sighting. The first is often a broad probability argument: the universe is vast, so life elsewhere seems plausible. Many scientists would treat that as a reasonable possibility while still rejecting the leap from “life may exist elsewhere” to “aliens are visiting Earth”. NASA makes this distinction directly: it says there is no evidence that UAP are extraterrestrial, while also treating the search for life beyond Earth as a separate scientific question.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> When a celebrity says aliens are likely, that may be a cosmological opinion, not testimony about an object in the sky.
 
-A sighting claim is different. Miley Cyrus’s widely repeated account, for example, describes being in San Bernardino, seeing what she called a “flying snowplough”, and being shaken afterwards; the same account also includes her own caveat about having bought weed wax shortly before the experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</span></span></span> That self-qualification does not make the story worthless as a personal experience, but it changes how it should be weighed. A reader should not treat it like a pilot report, a radar-confirmed event, or a formally investigated case.
+A sighting claim is different. Miley Cyrus’s widely repeated account, for example, describes being in San Bernardino, seeing what she called a “flying snowplough”, and being shaken afterwards; the same account also includes her own caveat about having bought weed wax shortly before the experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</span></span></span> That self-qualification does not make the story worthless as a personal experience, but it changes how it should be weighed. A reader should not treat it like a pilot report, a radar-confirmed event, or a formally investigated case.
 
-A media project is different again. Demi Lovato’s UFO profile is often included in celebrity alien lists because they made the Peacock series *Unidentified with Demi Lovato* and spoke publicly about “contact” experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/tv/demi-lovato-unidentified-interview/?srsltid=AfmBOort0fkZF8bkCrI1uRpnwJJMFH-yb7EnsLXtgkNSBjYy3ywtzYcg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Demi Lovato talks alien abductions, UFO docuseries</span><span class="citation-popover-snippet">Demi Lovato talks alien abductions, UFO docuseries</span></span></span> That is a cultural fact and a useful example of celebrity amplification, but a TV series designed around a star’s search for answers is not the same thing as independent verification of the claims explored on screen. Roundups can blur that line by treating participation, belief and proof as adjacent badges.
+A media project is different again. Demi Lovato’s UFO profile is often included in celebrity alien lists because they made the Peacock series *Unidentified with Demi Lovato* and spoke publicly about “contact” experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/tv/demi-lovato-unidentified-interview/?srsltid=AfmBOort0fkZF8bkCrI1uRpnwJJMFH-yb7EnsLXtgkNSBjYy3ywtzYcg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">Demi Lovato talks alien abductions, UFO docuseries</span><span class="citation-popover-snippet">Demi Lovato talks alien abductions, UFO docuseries</span></span></span> That is a cultural fact and a useful example of celebrity amplification, but a TV series designed around a star’s search for answers is not the same thing as independent verification of the claims explored on screen. Roundups can blur that line by treating participation, belief and proof as adjacent badges.
 
-Tom DeLonge shows why the distinction becomes even trickier. He is not merely a celebrity who once gave an interview about aliens; his To The Stars organisation helped put UAP videos and former officials into wider public circulation, and it became part of the post-2017 mainstreaming of UAP coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop9oiLovNkovR2T5HQrRvFkT6VW0pnia-ebJoEk1RJ4QgL6hxL6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To the Stars Academy of Arts &amp; Science Acknowledges</span><span class="citation-popover-snippet">To The Stars*To the Stars Academy of Arts &amp; Science Acknowledges</span></span></span> Yet his case still has to be separated into parts: musician celebrity, advocacy, media company, released videos, official confirmation that some footage showed unidentified aerial phenomena, and the much larger unresolved question of what those phenomena were. Wired’s early analysis of the Pentagon-video moment noted how easy it was for readers to slide from “unidentified” to “alien aircraft”, even when the reporting itself did not prove that conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">What Is Up With Those Pentagon UFO Videos?</span></span></span>
+Tom DeLonge shows why the distinction becomes even trickier. He is not merely a celebrity who once gave an interview about aliens; his To The Stars organisation helped put UAP videos and former officials into wider public circulation, and it became part of the post-2017 mainstreaming of UAP coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop9oiLovNkovR2T5HQrRvFkT6VW0pnia-ebJoEk1RJ4QgL6hxL6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*To the Stars Academy of Arts &amp; Science Acknowledges</span><span class="citation-popover-snippet">To The Stars*To the Stars Academy of Arts &amp; Science Acknowledges</span></span></span> Yet his case still has to be separated into parts: musician celebrity, advocacy, media company, released videos, official confirmation that some footage showed unidentified aerial phenomena, and the much larger unresolved question of what those phenomena were. Wired’s early analysis of the Pentagon-video moment noted how easy it was for readers to slide from “unidentified” to “alien aircraft”, even when the reporting itself did not prove that conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">What Is Up With Those Pentagon UFO Videos?</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-1-dark.svg" | relative_url }}" alt="Roundups illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -488,9 +488,9 @@ This flattening happens in several predictable ways:
 
 </div>
 
-Kacey Musgraves’s 2026 report illustrates the modern social-media version of this problem. People reported that Musgraves posted videos and described seeing three glowing orbs during a flight from Fort Worth to Nashville, saying they moved in triangle formations and followed the plane for a long distance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/kacey-musgraves-shares-videos-of-ufos-that-she-says-followed-her-plane-for-hundreds-of-miles-11948002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Musgraves emphasized this was not her first encounter with unexplained aerial phenomena, saying she is a keen observer and has previously...</span></span></span> That is stronger than a purely private anecdote in one sense because there was claimed video and at least one named companion, but it still needs sorting: What exactly do the videos show? Were flight path, altitude, window reflections, satellite trains, nearby aircraft, military activity or camera artefacts checked? Did pilots formally report it, or merely acknowledge seeing odd lights? A roundup may not have space, or incentive, to answer those questions.
+Kacey Musgraves’s 2026 report illustrates the modern social-media version of this problem. People reported that Musgraves posted videos and described seeing three glowing orbs during a flight from Fort Worth to Nashville, saying they moved in triangle formations and followed the plane for a long distance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.com/kacey-musgraves-shares-videos-of-ufos-that-she-says-followed-her-plane-for-hundreds-of-miles-11948002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">Musgraves emphasized this was not her first encounter with unexplained aerial phenomena, saying she is a keen observer and has previously...</span></span></span> That is stronger than a purely private anecdote in one sense because there was claimed video and at least one named companion, but it still needs sorting: What exactly do the videos show? Were flight path, altitude, window reflections, satellite trains, nearby aircraft, military activity or camera artefacts checked? Did pilots formally report it, or merely acknowledge seeing odd lights? A roundup may not have space, or incentive, to answer those questions.
 
-The same applies in reverse to older stories. John Lennon’s 1974 UFO note or Kurt Russell’s [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) connection are culturally memorable because of who the witnesses were and how the stories later entered music or entertainment history. But a celebrity name does not automatically supply what investigators usually need most: calibrated instruments, multiple independent reports tied to the same object, reliable timing, chain-of-custody evidence and plausible exclusion of ordinary explanations. NASA’s independent UAP study identified sensor calibration, metadata, reliable data-gathering and stigma around reporting as central problems for serious UAP work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+The same applies in reverse to older stories. John Lennon’s 1974 UFO note or Kurt Russell’s [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) connection are culturally memorable because of who the witnesses were and how the stories later entered music or entertainment history. But a celebrity name does not automatically supply what investigators usually need most: calibrated instruments, multiple independent reports tied to the same object, reliable timing, chain-of-custody evidence and plausible exclusion of ordinary explanations. NASA’s independent UAP study identified sensor calibration, metadata, reliable data-gathering and stigma around reporting as central problems for serious UAP work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -499,13 +499,13 @@ The same applies in reverse to older stories. John Lennon’s 1974 UFO note or K
 
 Celebrity UFO lists are not useless. They show how UFO belief moves through popular culture, how public stigma changes, and how famous people can make an obscure or marginal topic easier to discuss. A mainstream reader may first encounter UAP through Steven Spielberg, Demi Lovato, Tom DeLonge, Kacey Musgraves or a similar name rather than through NASA, AARO or a technical research project. That entry point can reduce mockery and make serious reporting easier to find.
 
-The risk is that entertainment value can crowd out context. A list that says “these stars believe” may not explain that official UAP language emerged partly because the issue includes aviation safety, military incursions, drones, balloons, sensor artefacts and national-security reporting — not only alien visitation. The US Navy’s confirmation that certain videos showed “unidentified aerial phenomena” did not mean it had confirmed extraterrestrial craft; it meant the objects in those videos remained unidentified within that frame. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Navy Confirms Existence of &#x27;Unidentified&#x27; Flying Objects Seen in Leaked Footage</span><span class="citation-popover-snippet">Navy Confirms Existence of &#x27;Unidentified&#x27; Flying Objects Seen in Leaked Footage</span></span></span>
+The risk is that entertainment value can crowd out context. A list that says “these stars believe” may not explain that official UAP language emerged partly because the issue includes aviation safety, military incursions, drones, balloons, sensor artefacts and national-security reporting — not only alien visitation. The US Navy’s confirmation that certain videos showed “unidentified aerial phenomena” did not mean it had confirmed extraterrestrial craft; it meant the objects in those videos remained unidentified within that frame.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">Navy Confirms Existence of &#x27;Unidentified&#x27; Flying Objects Seen in Leaked Footage</span><span class="citation-popover-snippet">Navy Confirms Existence of &#x27;Unidentified&#x27; Flying Objects Seen in Leaked Footage</span></span></span>
 
-A good roundup should also distinguish sincere experience from external proof. People can be honest, frightened, moved or transformed by an experience and still be mistaken about its cause. That is not a dismissal of witnesses; it is a basic rule of evidence. Reuters reported NASA study-team chair David Spergel’s point that existing data and eyewitness reports alone are insufficient to provide conclusive evidence about the nature and origin of every UAP event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">NASA UFO panel in first public meeting says better data</span><span class="citation-popover-snippet">NASA UFO panel in first public meeting says better data</span></span></span> Celebrity witnesses deserve the same respect and the same limits as non-famous witnesses.
+A good roundup should also distinguish sincere experience from external proof. People can be honest, frightened, moved or transformed by an experience and still be mistaken about its cause. That is not a dismissal of witnesses; it is a basic rule of evidence. Reuters reported NASA study-team chair David Spergel’s point that existing data and eyewitness reports alone are insufficient to provide conclusive evidence about the nature and origin of every UAP event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">NASA UFO panel in first public meeting says better data</span><span class="citation-popover-snippet">NASA UFO panel in first public meeting says better data</span></span></span> Celebrity witnesses deserve the same respect and the same limits as non-famous witnesses.
 
-There is also a commercial layer. UFO stories can promote films, albums, television shows, podcasts, documentaries, streaming series and personal brands. That does not mean every claim is cynical, but it means the reader should notice the setting. A quote given during a film promotion, a docuseries launch or a social-media campaign may be shaped by publicity logic as well as personal belief. Entertainment Weekly’s 2026 list, for instance, appeared in the context of Spielberg’s *Disclosure Day* coverage and grouped cast opinions, celebrity beliefs and claimed sightings into one entertainment feature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Emily Blunt, who had limited prior knowledge of UAPs, dove into testimonies and documentaries, becoming deeply engaged and convinced by t...</span></span></span>
+There is also a commercial layer. UFO stories can promote films, albums, television shows, podcasts, documentaries, streaming series and personal brands. That does not mean every claim is cynical, but it means the reader should notice the setting. A quote given during a film promotion, a docuseries launch or a social-media campaign may be shaped by publicity logic as well as personal belief. Entertainment Weekly’s 2026 list, for instance, appeared in the context of Spielberg’s *Disclosure Day* coverage and grouped cast opinions, celebrity beliefs and claimed sightings into one entertainment feature.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Emily Blunt, who had limited prior knowledge of UAPs, dove into testimonies and documentaries, becoming deeply engaged and convinced by t...</span></span></span>
 
-The best use of these roundups is cultural, not forensic. They reveal that UFO talk is no longer confined to fringe newsletters or late-night radio. It now moves through celebrity interviews, prestige journalism, congressional hearings, streaming platforms and official science-agency language. But that cultural mainstreaming does not settle the evidence question. AARO’s 2024 historical report said official investigations had not found evidence that any UAP sighting represented extraterrestrial technology, while also acknowledging a long history of government attention to unidentified reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
+The best use of these roundups is cultural, not forensic. They reveal that UFO talk is no longer confined to fringe newsletters or late-night radio. It now moves through celebrity interviews, prestige journalism, congressional hearings, streaming platforms and official science-agency language. But that cultural mainstreaming does not settle the evidence question. AARO’s 2024 historical report said official investigations had not found evidence that any UAP sighting represented extraterrestrial technology, while also acknowledging a long history of government attention to unidentified reports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-2-dark.svg" | relative_url }}" alt="Roundups illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -531,7 +531,7 @@ Tom DeLonge, Demi Lovato and Dan [Aykroyd]({{ 'aykroyd/' | relative_url }}) ofte
 
 **5. What would change the assessment?**
 
-A strong case would not merely add more famous names. It would add better data: original footage, full metadata, flight information, sensor calibration, independent analysis, known alternatives ruled out, and a clear chain showing when and how the evidence was captured. This is why NASA’s UAP report emphasised better data systems rather than celebrity testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+A strong case would not merely add more famous names. It would add better data: original footage, full metadata, flight information, sensor calibration, independent analysis, known alternatives ruled out, and a clear chain showing when and how the evidence was captured. This is why NASA’s UAP report emphasised better data systems rather than celebrity testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 A compact way to read any roundup is to place each item into one of four tiers: cultural belief, personal anecdote, media/advocacy project, or evidence-bearing case. Most celebrity UFO entries sit in the first three tiers. That does not make them worthless; it tells the reader what kind of value they have. They are often evidence of changing public attitudes, stigma reduction, entertainment trends and celebrity influence. They are rarely, by themselves, evidence of alien technology.
 
@@ -542,7 +542,7 @@ A compact way to read any roundup is to place each item into one of four tiers: 
 
 A stronger roundup would still be readable and entertaining, but it would not pretend that every entry has the same evidential status. It would label the claim type at the start of each entry: belief, sighting, alleged encounter, creative work, advocacy, or documented UAP connection. It would separate “believes aliens exist” from “says they saw a UFO” from “helped publicise military UAP footage”. It would also include a short “what is missing” line for each sighting: no image, no independent witness, no flight data, no official report, or no known analysis.
 
-This would make the genre more honest without draining the fun from it. A reader could still enjoy the surprise of learning which celebrities talk about UFOs, while also seeing that Steven Spielberg’s creative and personal interest, Miley Cyrus’s strange road story, Demi Lovato’s streaming series, Kacey Musgraves’s plane-window account and Tom DeLonge’s UAP activism occupy different evidential lanes. To The Stars*+3EW.com+3People.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[ew.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">June 8, 2026 — 8 Jun 2026 — 21 celebrities who believe aliens are real — including those who claim to have seen a UFO · Steven Spielberg...</span><span class="citation-popover-meta">Published: June 8, 2026</span></span></span>
+This would make the genre more honest without draining the fun from it. A reader could still enjoy the surprise of learning which celebrities talk about UFOs, while also seeing that Steven Spielberg’s creative and personal interest, Miley Cyrus’s strange road story, Demi Lovato’s streaming series, Kacey Musgraves’s plane-window account and Tom DeLonge’s UAP activism occupy different evidential lanes. To The Stars*+3EW.com+3People.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[ew.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-title">21 celebrities who believe aliens are real</span><span class="citation-popover-snippet">June 8, 2026 — 8 Jun 2026 — 21 celebrities who believe aliens are real — including those who claim to have seen a UFO · Steven Spielberg...</span><span class="citation-popover-meta">Published: June 8, 2026</span></span></span>
 
 The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade the evidence. Celebrity roundups are best read as maps of attention — who talks about UFOs, how the topic moves through culture, and which stories become memorable. For evidence, the reader still has to ask slower questions: what was observed, what was recorded, who else saw it, what was ruled out, and whether the claim remains merely unidentified or actually supports something more extraordinary.
 
@@ -550,194 +550,194 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-3-dark.svg" | relative_url }}" alt="Roundups illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_roundu_802bba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Celebrity UFO Lists Can Mislead. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Celebrity UFO Lists Can Mislead. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how to sort different kinds of UFO claims rather than flattening them into one list.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to sort different kinds of UFO claims rather than flattening them into one list.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Helps readers compare celebrity claims with more serious testimony and documented cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare celebrity claims with more serious testimony and documented cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explains why UFO stories work culturally even when evidential strength varies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why UFO stories work culturally even when evidential strength varies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports quick sorting of claims, anecdotes, entertainment value, and proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports quick sorting of claims, anecdotes, entertainment value, and proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="roundups-why-celebrity-ufo-lists-can-mislead-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -753,7 +753,7 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -773,7 +773,7 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -805,7 +805,7 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -857,7 +857,7 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -902,7 +902,7 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,213 +943,213 @@ The larger lesson is simple: fame can amplify a UFO story, but it cannot upgrade
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ew.com  
    Title: 21 celebrities who believe aliens are real  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 8, 2026 — 8 Jun 2026 — 21 celebrities who believe aliens are real — including those who claim to have seen a UFO · Steven Spielberg...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOorfVCz3UTu92WlsRbTApvAPjjQGJ9dw0wCYYpHNBWUls9UAITAG</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 8, 2026 — 8 Jun 2026 — 21 celebrities who believe aliens are real — including those who claim to have seen a UFO · Steven Spielberg...</p></details>
    Published: June 8, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: people.com  
-   Link: <a href="https://people.com/kacey-musgraves-shares-videos-of-ufos-that-she-says-followed-her-plane-for-hundreds-of-miles-11948002" target="_blank" rel="noopener noreferrer nofollow">https://people.com/kacey-musgraves-shares-videos-of-ufos-that-she-says-followed-her-plane-for-hundreds-of-miles-11948002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Musgraves emphasized this was not her first encounter with unexplained aerial phenomena, saying she is a keen observer and has previously...</p></details>
+   Link:<a href="https://people.com/kacey-musgraves-shares-videos-of-ufos-that-she-says-followed-her-plane-for-hundreds-of-miles-11948002" target="_blank" rel="noopener noreferrer nofollow">https://people.com/kacey-musgraves-shares-videos-of-ufos-that-she-says-followed-her-plane-for-hundreds-of-miles-11948002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Musgraves emphasized this was not her first encounter with unexplained aerial phenomena, saying she is a keen observer and has previously...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ew.com  
    Title: 21 celebrities who believe aliens are real  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities such as Demi Lovato and Dave Foley describe profound or transformational sightings, while others like Jordan Peele and Keanu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ew.com  
    Title: Demi Lovato talks alien abductions, UFO docuseries  
-   Link: <a href="https://ew.com/tv/demi-lovato-unidentified-interview/?srsltid=AfmBOort0fkZF8bkCrI1uRpnwJJMFH-yb7EnsLXtgkNSBjYy3ywtzYcg" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/tv/demi-lovato-unidentified-interview/?srsltid=AfmBOort0fkZF8bkCrI1uRpnwJJMFH-yb7EnsLXtgkNSBjYy3ywtzYcg</a>  
+   Link:<a href="https://ew.com/tv/demi-lovato-unidentified-interview/?srsltid=AfmBOort0fkZF8bkCrI1uRpnwJJMFH-yb7EnsLXtgkNSBjYy3ywtzYcg" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/tv/demi-lovato-unidentified-interview/?srsltid=AfmBOort0fkZF8bkCrI1uRpnwJJMFH-yb7EnsLXtgkNSBjYy3ywtzYcg</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: What Is Up With Those [Pentagon UFO Videos](&#123;&#123; 'navy-videos/' | relative_url &#125;&#125;)?  
-   Link: <a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
+   Link:<a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: Navy Confirms Existence of 'Unidentified' Flying Objects Seen in Leaked Footage  
-   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
+   Link:<a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
    Title: NASA UFO panel in first public meeting says better data  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt, who had limited prior knowledge of UAPs, dove into testimonies and documentaries, becoming deeply engaged and convinced by t...</p></details>
+   Link:<a href="https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/steven-spielberg-disclosure-day-cast-reveal-thoughts-ufos-11994330</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emily Blunt, who had limited prior knowledge of UAPs, dove into testimonies and documentaries, becoming deeply engaged and convinced by t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: history.com  
    Title: george adamski ufo alien photos  
-   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
+   Link:<a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
    Title: u s air force closes the book on ufos 45 years ago  
-   Link: <a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
+   Link:<a href="https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/u-s-air-force-closes-the-book-on-ufos-45-years-ago</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.com  
    Title: j allen hynek ufos project blue book  
-   Link: <a href="https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book</a>  
+   Link:<a href="https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/j-allen-hynek-ufos-project-blue-book</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: history.com  
    Title: first alien abduction account barney betty hill  
-   Link: <a href="https://www.history.com/articles/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/first-alien-abduction-account-barney-betty-hill</a>  
+   Link:<a href="https://www.history.com/articles/first-alien-abduction-account-barney-betty-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/first-alien-abduction-account-barney-betty-hill</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: history.com  
    Title: nikita khrushchev dies  
-   Link: <a href="https://www.history.com/this-day-in-history/september-11/nikita-khrushchev-dies" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-11/nikita-khrushchev-dies</a>  
+   Link:<a href="https://www.history.com/this-day-in-history/september-11/nikita-khrushchev-dies" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/september-11/nikita-khrushchev-dies</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.com  
    Title: red scare  
-   Link: <a href="https://www.history.com/articles/red-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/red-scare</a>  
+   Link:<a href="https://www.history.com/articles/red-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/red-scare</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.com  
    Title: doping scandals through history list  
-   Link: <a href="https://www.history.com/articles/doping-scandals-through-history-list" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/doping-scandals-through-history-list</a>  
+   Link:<a href="https://www.history.com/articles/doping-scandals-through-history-list" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/doping-scandals-through-history-list</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reuters.com  
    Title: pentagon ufo report says most sightings ordinary objects phenomena 2024 03 08  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZLTVDpmMRB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZLTVDpmMRB/</a>  
+   Link:<a href="https://www.instagram.com/p/DZLTVDpmMRB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZLTVDpmMRB/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ew.com  
    Title: celebrities who believe in aliens 11992570  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOoojY3awJlZa9ze7wNzVKDNuwiJEao_lDGLi5tUiV6NdNb7oxR76" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOoojY3awJlZa9ze7wNzVKDNuwiJEao_lDGLi5tUiV6NdNb7oxR76</a>  
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOoojY3awJlZa9ze7wNzVKDNuwiJEao_lDGLi5tUiV6NdNb7oxR76" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570?srsltid=AfmBOoojY3awJlZa9ze7wNzVKDNuwiJEao_lDGLi5tUiV6NdNb7oxR76</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: businessinsider.com  
    Title: stars who believe in aliens 2018 11  
-   Link: <a href="https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stars-who-believe-in-aliens-2018-11</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Insider13 celebrities who say they believe in aliens or UFOs15 Feb 2023 — Miley Cyrus confirmed that she believes in aliens and...</p></details>
+   Link:<a href="https://www.businessinsider.com/stars-who-believe-in-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stars-who-believe-in-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Insider13 celebrities who say they believe in aliens or UFOs15 Feb 2023 — Miley Cyrus confirmed that she believes in aliens and...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tothestars.media  
    Title: To The Stars*[To the Stars Academy](&#123;&#123; 'to-the-stars/' | relative_url &#125;&#125;) of Arts & Science Acknowledges  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop9oiLovNkovR2T5HQrRvFkT6VW0pnia-ebJoEk1RJ4QgL6hxL6" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop9oiLovNkovR2T5HQrRvFkT6VW0pnia-ebJoEk1RJ4QgL6hxL6</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop9oiLovNkovR2T5HQrRvFkT6VW0pnia-ebJoEk1RJ4QgL6hxL6" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop9oiLovNkovR2T5HQrRvFkT6VW0pnia-ebJoEk1RJ4QgL6hxL6</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: businessinsider.com  
    Title: tom delonge ufo company reportedly 374 million deficit 2018 10  
-   Link: <a href="https://www.businessinsider.com/tom-delonge-ufo-company-reportedly-374-million-deficit-2018-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/tom-delonge-ufo-company-reportedly-374-million-deficit-2018-10</a>  
+   Link:<a href="https://www.businessinsider.com/tom-delonge-ufo-company-reportedly-374-million-deficit" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/tom-delonge-ufo-company-reportedly-374-million-deficit</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: businessinsider.com  
    Title: demi lovato alien contact joshua tree 2021 9  
-   Link: <a href="https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree-2021-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree-2021-9</a>  
+   Link:<a href="https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/demi-lovato-alien-contact-joshua-tree</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qScsyQZCgmM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qScsyQZCgmM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities who believe in aliens UFO sightings interview Kim Wilde Had a UFO Encounter | Loose Women Loose Women...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qScsyQZCgmM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qScsyQZCgmM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities who believe in aliens UFO sightings interview Kim Wilde Had a UFO Encounter | Loose Women Loose Women...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CN3lcJkH3Ro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CN3lcJkH3Ro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge 2017 COAST TO COAST AM UFO PHENOMENA EXPLAINED Update #4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CN3lcJkH3Ro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CN3lcJkH3Ro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge 2017 COAST TO COAST AM UFO PHENOMENA EXPLAINED Update #4...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Talking Aliens With Roswell's Own Demi Moore  
-   Link: <a href="https://www.youtube.com/watch?v=BADi74s1SDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BADi74s1SDk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I Don&#x27;t Go Looking For Aliens, They Find Me&#x27; Shaun Ryder On Alien Encounters | This Morning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BADi74s1SDk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BADi74s1SDk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;I Don&#x27;t Go Looking For Aliens, They Find Me&#x27; Shaun Ryder On Alien Encounters | This Morning...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419022341/tv519688_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419022341/tv519688_partii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419022341/tv519688_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419022341/tv519688_partii.htm</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: 5 Celebrities Who Encountered UFOs & Potential Alien Life | Episode 2  
-   Link: <a href="https://www.youtube.com/watch?v=mJ8bKOzqAMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJ8bKOzqAMI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Talking Aliens With Roswell&#x27;s Own Demi Moore...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mJ8bKOzqAMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJ8bKOzqAMI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Talking Aliens With Roswell&#x27;s Own Demi Moore...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Top 10 Celebrities Who Claimed Alien Encounters  
-   Link: <a href="https://www.youtube.com/watch?v=JZ-FJNGCprI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JZ-FJNGCprI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Celebrities Who Encountered UFOs &amp; Potential Alien Life | Episode 2...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JZ-FJNGCprI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JZ-FJNGCprI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Celebrities Who Encountered UFOs &amp; Potential Alien Life | Episode 2...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: aol.com  
-   Link: <a href="https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html</a>  
+   Link:<a href="https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/21-celebrities-believe-aliens-real-200000000.html</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ranker.com  
-   Link: <a href="https://www.ranker.com/list/celebrities-who-believe-in-aliens/celebrity-lists" target="_blank" rel="noopener noreferrer nofollow">https://www.ranker.com/list/celebrities-who-believe-in-aliens/celebrity-lists</a>  
+   Link:<a href="https://www.ranker.com/list/celebrities-who-believe-in-aliens/celebrity-lists" target="_blank" rel="noopener noreferrer nofollow">https://www.ranker.com/list/celebrities-who-believe-in-aliens/celebrity-lists</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/906773721/Conspiracy-Journal-Reader" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906773721/Conspiracy-Journal-Reader</a>  
+   Link:<a href="https://www.scribd.com/document/906773721/Conspiracy-Journal-Reader" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/906773721/Conspiracy-Journal-Reader</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  

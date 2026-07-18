@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_ro
 
 ## Introduction
 
-Project Mogul is the leading official explanation for the debris recovered near Roswell, New Mexico, in July 1947. Rather than identifying the wreckage as an ordinary weather balloon, the US Air Force concluded in 1994 that it most likely came from a highly classified balloon array developed to detect distant Soviet nuclear tests during the opening years of the Cold War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
+Project Mogul is the leading official explanation for the debris recovered near Roswell, New Mexico, in July 1947. Rather than identifying the wreckage as an ordinary weather balloon, the US Air Force concluded in 1994 that it most likely came from a highly classified balloon array developed to detect distant Soviet nuclear tests during the opening years of the Cold War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_roswell_project_mogu_55e357-Illustration-1-dark.svg" | relative_url }}" alt="Roswell Mogul illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_roswell_project_mogu_55e357-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_roswell_project_mogu_55e357-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ The Roswell case remains important because it illustrates how genuine [military]
 
 ## Did Project Mogul explain Roswell?
 
-The Air Force's investigation concluded that the debris recovered from rancher W. W. "Mac" Brazel's property was consistent with a Project Mogul balloon train rather than an extraterrestrial craft. Mogul was a Top Secret research programme that flew long chains of balloons carrying radar reflectors, acoustic equipment and other instruments intended to detect the sound waves from Soviet nuclear explosions before satellite surveillance existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
+The Air Force's investigation concluded that the debris recovered from rancher W. W. "Mac" Brazel's property was consistent with a Project Mogul balloon train rather than an extraterrestrial craft. Mogul was a Top Secret research programme that flew long chains of balloons carrying radar reflectors, acoustic equipment and other instruments intended to detect the sound waves from Soviet nuclear explosions before satellite surveillance existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
 
 Unlike an ordinary weather balloon, a Mogul launch could stretch hundreds of feet in length and contain multiple unusual-looking components. These included:
 
@@ -303,18 +303,18 @@ Unlike an ordinary weather balloon, a Mogul launch could stretch hundreds of fee
 
 </div>
 
-To someone unfamiliar with classified military hardware in 1947, such debris could easily appear unfamiliar. Contemporary descriptions of foil, sticks, rubber and paper match the kinds of materials used in Mogul equipment far more closely than later descriptions of exotic alloys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
+To someone unfamiliar with classified military hardware in 1947, such debris could easily appear unfamiliar. Contemporary descriptions of foil, sticks, rubber and paper match the kinds of materials used in Mogul equipment far more closely than later descriptions of exotic alloys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
 
-The Air Force's reconstruction identified one of the experimental Mogul launches from early June 1947 as the most likely source of the recovered debris, although historians continue to debate exactly which launch produced the wreckage because records for some early test flights were incomplete. The central conclusion—that the debris belonged to the Mogul programme rather than an alien spacecraft—remained unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
+The Air Force's reconstruction identified one of the experimental Mogul launches from early June 1947 as the most likely source of the recovered debris, although historians continue to debate exactly which launch produced the wreckage because records for some early test flights were incomplete. The central conclusion—that the debris belonged to the Mogul programme rather than an alien spacecraft—remained unchanged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force+2muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m7rVSri-7es" title="Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer">Reel America: &quot;The Roswell Reports&quot; - 1997 U.S. Air Force Film</a></p><p class="youtube-embed-meta">Channel: C-SPAN&#x27;s American History TV &middot; Views: 1.2K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m7rVSri-7es">Open on YouTube</a></p></div></div></div>
 
 ## What the Air Force report said
 
-The 1994 report, *The Roswell Report: Fact versus Fiction in the New Mexico Desert*, was commissioned after congressional interest prompted a review of surviving government records. Investigators examined archival documents, flight logs, engineering reports and interviews with surviving personnel. Their conclusion was that the recovered material was "consistent with" a Project Mogul balloon device and that no official records supported claims of an extraterrestrial crash. DAF History+2FAS Project on Government Secrecy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/DAF-History-Publications/igphoto/2003789023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">Schiff (R-NM) for information regarding an alleged crash of an unidentified flying object...Read more...</span></span></span>
+The 1994 report, *The Roswell Report: Fact versus Fiction in the New Mexico Desert*, was commissioned after congressional interest prompted a review of surviving government records. Investigators examined archival documents, flight logs, engineering reports and interviews with surviving personnel. Their conclusion was that the recovered material was "consistent with" a Project Mogul balloon device and that no official records supported claims of an extraterrestrial crash. DAF History+2FAS Project on Government Secrecy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/DAF-History-Publications/igphoto/2003789023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafhistory.af.mil">[dafhistory.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafhistory.af.mil</span><span class="citation-popover-snippet">Schiff (R-NM) for information regarding an alleged crash of an unidentified flying object...Read more...</span></span></span>
 
-A second report published in 1997 addressed another major element of the Roswell legend: later claims that alien bodies had been recovered. The Air Force argued that many recollections emerging decades after the event likely combined memories of unrelated military activities, including anthropomorphic test dummies used in high-altitude experiments during the 1950s and routine aircraft accident recoveries, rather than events from July 1947 itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
+A second report published in 1997 addressed another major element of the Roswell legend: later claims that alien bodies had been recovered. The Air Force argued that many recollections emerging decades after the event likely combined memories of unrelated military activities, including anthropomorphic test dummies used in high-altitude experiments during the 1950s and routine aircraft accident recoveries, rather than events from July 1947 itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">AFD 101027 030</span><span class="citation-popover-snippet">Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</span></span></span>
 
 Although critics dispute aspects of these conclusions, the two reports remain the official US government explanation.
 
@@ -324,7 +324,7 @@ Although critics dispute aspects of these conclusions, the two reports remain th
 
 Ironically, one reason the Mogul explanation appears suspicious is that the military really did conceal the programme.
 
-In July 1947, Project Mogul's purpose was among the United States' most closely guarded intelligence efforts. Detecting Soviet nuclear testing was considered a strategic priority during the emerging Cold War. Revealing the programme could have alerted foreign governments to American surveillance capabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
+In July 1947, Project Mogul's purpose was among the United States' most closely guarded intelligence efforts. Detecting Soviet nuclear testing was considered a strategic priority during the emerging Cold War. Revealing the programme could have alerted foreign governments to American surveillance capabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Mogul</span><span class="citation-popover-snippet">Project Mogul</span></span></span>
 
 As a result:
 
@@ -346,14 +346,14 @@ For historians, Roswell therefore illustrates an important lesson: a genuine gov
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_roswell_project_mogu_55e357-Illustration-2-dark.svg" | relative_url }}" alt="Roswell Mogul illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_roswell_project_mogu_55e357-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_military_explanation_a9ef73_roswell_project_mogu_55e357-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the alien-crash claim still relies on later testimony
 
-The strongest evidence supporting the Mogul explanation comes from contemporary records created in 1947. By contrast, many claims about alien craft and recovered bodies emerged decades later, particularly from the late 1970s onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
+The strongest evidence supporting the Mogul explanation comes from contemporary records created in 1947. By contrast, many claims about alien craft and recovered bodies emerged decades later, particularly from the late 1970s onward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-title">The Roswell Report</span><span class="citation-popover-snippet">Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</span></span></span>
 
 Supporters of the extraterrestrial interpretation often point to later testimony from former military personnel and civilians who described extraordinary materials or alleged body recoveries. These accounts remain influential within UFO literature, but they present several historical challenges:
 
 * Most were recorded many years after the event.
 * Different witnesses describe conflicting locations, timelines and recovered objects.
 * Many accounts cannot be independently verified using surviving contemporary documents.
-* The descriptions of the debris often became progressively more extraordinary over time, differing markedly from the simpler 1947 descriptions of foil, sticks and rubber. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">ROSWELL INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, allege...</span></span></span>
+* The descriptions of the debris often became progressively more extraordinary over time, differing markedly from the simpler 1947 descriptions of foil, sticks and rubber.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muller.lbl.gov">[muller.lbl.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muller.lbl.gov</span><span class="citation-popover-snippet">ROSWELL INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, allege...</span></span></span>
 
 This does not prove that every witness intentionally fabricated memories. Memory research shows that recollections can change over decades, particularly after prolonged exposure to books, [documentaries]({{ 'documentaries/' | relative_url }}), media coverage and discussions with other witnesses. Historians therefore tend to give greater weight to documents created during or immediately after the events than to recollections recorded many years later.
 
@@ -373,194 +373,194 @@ For that reason, Roswell continues to be the benchmark against which military ex
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Project Mogul Explain Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Project Mogul Explain Roswell?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places Roswell within wider UFO history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places Roswell within wider UFO history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
-        </h4>
-        <p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crash at Corona on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hi_BBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Crash at Corona" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crash at Corona">Crash at Corona</a>
+</h4>
+<p class="fr-book-author">By Don Berliner, Stanton T. Friedman</p>
         
-        <p class="fr-book-desc">Presents the pro-crash interpretation for comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Presents the pro-crash interpretation for comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crash+at+Corona+by+Don+Berliner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explores Project Mogul and Cold War secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores Project Mogul and Cold War secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
-        </h4>
-        <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Roswell Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
+</h4>
+<p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
         
-        <p class="fr-book-desc">Established the modern Roswell narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Established the modern Roswell narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crash+at+Corona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crash at Corona</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien ReAction Figure Xenomorph 4.5” Super7 Carded Horror Collectible"><img src="{{ '/assets/images/marketplace-covers/85fb37b1cada82644d30.jpg' | relative_url }}" alt="Listing image for Alien ReAction Figure Xenomorph 4.5” Super7 Carded Horror Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien ReAction Figure Xenomorph 4.5” Super7 Carded Horror Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien ReAction Figure Xenomorph 4.5” Super7 Carded Horror Collectible"><img src="{{ '/assets/images/marketplace-covers/85fb37b1cada82644d30.jpg' | relative_url }}" alt="Listing image for Alien ReAction Figure Xenomorph 4.5” Super7 Carded Horror Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien ReAction Figure Xenomorph 4.5” Super7 Carded Horror Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Predator Style Alien Hunter – Large 3D Printed Collectible Figure – PLA+"><img src="{{ '/assets/images/marketplace-covers/a1fa8aa8a762971e3ca8.jpg' | relative_url }}" alt="Listing image for Predator Style Alien Hunter – Large 3D Printed Collectible Figure – PLA+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Predator Style Alien Hunter – Large 3D Printed Collectible Figure – PLA+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Predator Style Alien Hunter – Large 3D Printed Collectible Figure – PLA+"><img src="{{ '/assets/images/marketplace-covers/a1fa8aa8a762971e3ca8.jpg' | relative_url }}" alt="Listing image for Predator Style Alien Hunter – Large 3D Printed Collectible Figure – PLA+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Predator Style Alien Hunter – Large 3D Printed Collectible Figure – PLA+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Action Figure Red Xenomorph Collectible Vintage Toy"><img src="{{ '/assets/images/marketplace-covers/221948472b8900f94ac2.jpg' | relative_url }}" alt="Listing image for Alien Action Figure Red Xenomorph Collectible Vintage Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Action Figure Red Xenomorph Collectible Vintage Toy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Action Figure Red Xenomorph Collectible Vintage Toy"><img src="{{ '/assets/images/marketplace-covers/221948472b8900f94ac2.jpg' | relative_url }}" alt="Listing image for Alien Action Figure Red Xenomorph Collectible Vintage Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Action Figure Red Xenomorph Collectible Vintage Toy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible"><img src="{{ '/assets/images/marketplace-covers/d9e8a2b2f1c215764b00.jpg' | relative_url }}" alt="Listing image for Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">Funko POP! Movies Alien Chestburster Light Up Vinyl Figure 1988 Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien collectible figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien collectible figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+collectible+figure+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien collectible figure -book -books" data-ebay-reference="roswell-mogul-did-project-mogul-explain-roswell-ufos-and-celebrities-alien-collectible-figure-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -576,7 +576,7 @@ For that reason, Roswell continues to be the benchmark against which military ex
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -596,7 +596,7 @@ For that reason, Roswell continues to be the benchmark against which military ex
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -628,7 +628,7 @@ For that reason, Roswell continues to be the benchmark against which military ex
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -680,7 +680,7 @@ For that reason, Roswell continues to be the benchmark against which military ex
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -725,7 +725,7 @@ For that reason, Roswell continues to be the benchmark against which military ex
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -766,108 +766,108 @@ For that reason, Roswell continues to be the benchmark against which military ex
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: <a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
+   Link:<a href="https://sgp.fas.org/othergov/roswell.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/othergov/roswell.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Roswell, NM UFO CrashAt the time of the Roswell crash, project MOGUL was a highly classified U.S. effort to determine the state...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Mogul  
-   Link: <a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Project_Mogul" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Mogul</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ate explanation for the &quot;Roswell Incident.Read more...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ate explanation for the &quot;Roswell Incident.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: AFD 101027 030  
-   Link: <a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
+   Link:<a href="https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2010/Oct/27/2001330219/-1/-1/0/AFD-101027-030.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Air Force: &quot;The Roswell Report: Case Closed&quot;Project MOGUL balloon train similar to one found on a ranch. 75 miles n...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: u s air force reports on roswell  
-   Link: <a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
+   Link:<a href="https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/june-24/u-s-air-force-reports-on-roswell</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Air Force reports on Roswell | June 24, 1997On June 24, 1997, US Air Force officials release a 231-page report dismissing long-stand...</p></details>
    Published: June 24, 1997  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: muller.lbl.gov  
-   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, allege...</p></details>
+   Link:<a href="https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/RoswellIncident.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ROSWELL INCIDENT REPORTMost versions now claim that there were two crash sites where debris was recovered; and at the second site, allege...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... (GAO). The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... (GAO). The initial 1994 USAF report admitted that the weather balloon explanation was a cover story for Project Mo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</p></details>
+   Link:<a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceThe Roswell ReportThe 1994 Air Force report concluded that the predecessor to the U.S. Air Force, the U.S. Army Air Forces, reco...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dafhistory.af.mil  
-   Link: <a href="https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/DAF-History-Publications/igphoto/2003789023/" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/DAF-History-Publications/igphoto/2003789023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schiff (R-NM) for information regarding an alleged crash of an unidentified flying object...Read more...</p></details>
+   Link:<a href="https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/DAF-History-Publications/igphoto/2003789023/" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/The-DAF-Legacy-Vault/DAF-History-Publications/igphoto/2003789023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schiff (R-NM) for information regarding an alleged crash of an unidentified flying object...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
+   Link:<a href="https://www.wired.com/story/roswell-aliens-fermi-paradox" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/roswell-aliens-fermi-paradox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, an examination reveals a confluence of secret government projects and Cold War era activities rather than extraterrestrial invol...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
+   Link:<a href="https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/8096320837079395/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell UFO incident rememberedHappy Roswell U̶F̶O̶ &quot;W͇e͇a͇t͇h͇e͇r͇ B͇a͇l͇l͇o͇o͇n͇&quot; Day!!! 👽 (photo from Wikipedia, initial source cannot...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aus1bi/the_long_held_mogul_balloon_explanation_for_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The long held Mogul Balloon explanation for the Roswell...The Mogul Balloon explanation is a theory that the DoD has long held to explai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: physics.smu.edu  
-   Link: <a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL resulted from two important post-World War II priorities set by the. Commanding General of the Army Air Forces, Henry H. “Hap” Arno...</p></details>
+   Link:<a href="https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.physics.smu.edu/pseudo/UFOs/pt01a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MOGUL resulted from two important post-World War II priorities set by the. Commanding General of the Army Air Forces, Henry H. “Hap” Arno...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blogs.library.unt.edu  
    Title: 75 years after the roswell incident what have we learned  
-   Link: <a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — A 1947 Air Force report noted the recovery of a flying disk...</p></details>
+   Link:<a href="https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.unt.edu/sycamore-stacks/2022/07/07/75-years-after-the-roswell-incident-what-have-we-learned/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unt.edu75 Years after the Roswell Incident, What Have We Learned?7 Jul 2022 — A 1947 Air Force report noted the recovery of a flying disk...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gutenberg.org  
-   Link: <a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
+   Link:<a href="https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/63659/old/63659-h/63659-h.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report: Case Closed, by James McAndrew—...The 1994 Air Force report determined that project Mogul was responsible for the 19...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencefriday.com  
    Title: The Real Roswell Cover-Up?  
-   Link: <a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
+   Link:<a href="https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencefriday.com/articles/the-real-roswell-cover-up-spying-on-air/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spying On Air21 Jul 2017 — And in fact, we can now say for certain that the air force lied about this: that was no weather balloon Mac Br...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Mp7vDBvN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b8Mp7vDBvN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b8Mp7vDBvN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Reel America: "The Roswell Reports"  
-   Link: <a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m7rVSri-7es" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m7rVSri-7es</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was Roswell Really a Secret Government Experiment? | History&#x27;s Greatest Mysteries (S6)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nsa.gov  
    Title: report af roswell  
-   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the...</p></details>
+   Link:<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/report_af_roswell.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>report of air force research regarding the21 Jul 1994 — Air Force involvement in the alleged UFO-related incident popularly known as the...</p></details>

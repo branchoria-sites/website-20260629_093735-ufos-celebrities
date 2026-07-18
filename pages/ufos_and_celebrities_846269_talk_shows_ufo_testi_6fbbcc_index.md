@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-talk-shows/
 description: Focused pages that expand on Talk Shows.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc
 parent_title: Talk Shows
@@ -16,7 +16,7 @@ parent_permalink: /talk-shows/
 
 # Explore Topics in Talk Shows
 
-The following pages expand on the main **[Talk Shows]({{ '/talk-shows/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Talk Shows]({{ '/talk-shows/' | relative_url }})** page and cover its key branches in.
 
 - [Memory Drift]({{ '/memory-drift/' | relative_url }})
 - [Hawn Story]({{ '/hawn-story/' | relative_url }})

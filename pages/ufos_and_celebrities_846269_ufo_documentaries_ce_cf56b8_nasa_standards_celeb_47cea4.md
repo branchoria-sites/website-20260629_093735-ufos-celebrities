@@ -280,11 +280,11 @@ image: /assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_na
 
 ## Introduction
 
-Celebrity [UFO documentaries]({{ 'documentaries/' | relative_url }}) often succeed by telling compelling stories, but NASA's approach to unidentified anomalous phenomena (UAP) asks a different question: **what evidence would actually allow scientists to reach reliable conclusions?** That contrast is useful for viewers because it separates two distinct goals. Entertainment aims to create an engaging narrative around unusual events and eyewitness testimony. NASA's 2023 independent UAP study instead proposed a framework built on calibrated instruments, transparent methods, reproducible observations and better-quality [reporting]({{ 'reporting/' | relative_url }}) rather than dramatic claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+Celebrity [UFO documentaries]({{ 'documentaries/' | relative_url }}) often succeed by telling compelling stories, but NASA's approach to unidentified anomalous phenomena (UAP) asks a different question: **what evidence would actually allow scientists to reach reliable conclusions?** That contrast is useful for viewers because it separates two distinct goals. Entertainment aims to create an engaging narrative around unusual events and eyewitness testimony. NASA's 2023 independent UAP study instead proposed a framework built on calibrated instruments, transparent methods, reproducible observations and better-quality [reporting]({{ 'reporting/' | relative_url }}) rather than dramatic claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_nasa_standards_celeb_47cea4-Illustration-1-dark.svg" | relative_url }}" alt="NASA Standards illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_nasa_standards_celeb_47cea4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_nasa_standards_celeb_47cea4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This difference does not mean documentaries are worthless or that eyewitnesses should be dismissed. NASA explicitly argues that reducing stigma around reporting unusual observations is important because fear of [ridicule]({{ 'ridicule/' | relative_url }}) discourages [pilots]({{ 'pilots/' | relative_url }}) and others from coming forward. However, reducing stigma is presented as a way to improve data collection—not as evidence that extraordinary explanations are correct. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+This difference does not mean documentaries are worthless or that eyewitnesses should be dismissed. NASA explicitly argues that reducing stigma around reporting unusual observations is important because fear of [ridicule]({{ 'ridicule/' | relative_url }}) discourages [pilots]({{ 'pilots/' | relative_url }}) and others from coming forward. However, reducing stigma is presented as a way to improve data collection—not as evidence that extraordinary explanations are correct.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
@@ -293,9 +293,9 @@ This difference does not mean documentaries are worthless or that eyewitnesses s
 
 One of the most misunderstood aspects of NASA's UAP work is its emphasis on reducing stigma. Some audiences interpret this as institutional validation of alien visitation. The report makes a much narrower point.
 
-NASA argues that people who observe unusual aerial events, particularly civilian and [military]({{ 'military/' | relative_url }}) pilots, may hesitate to report them because of professional or social consequences. If genuine observations go unreported, researchers lose opportunities to compare incidents, identify patterns and rule out ordinary explanations. Better reporting therefore improves the quality of the available evidence, regardless of what ultimately caused the sighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+NASA argues that people who observe unusual aerial events, particularly civilian and [military]({{ 'military/' | relative_url }}) pilots, may hesitate to report them because of professional or social consequences. If genuine observations go unreported, researchers lose opportunities to compare incidents, identify patterns and rule out ordinary explanations. Better reporting therefore improves the quality of the available evidence, regardless of what ultimately caused the sighting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-Celebrity documentaries often use stigma differently. In many productions, overcoming ridicule becomes part of the emotional narrative: witnesses are portrayed as finally being believed after years of dismissal. That storytelling can encourage empathy, but it does not itself increase the scientific reliability of the underlying claims. NASA separates these ideas. Respecting witnesses and collecting stronger evidence are complementary goals, not interchangeable ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+Celebrity documentaries often use stigma differently. In many productions, overcoming ridicule becomes part of the emotional narrative: witnesses are portrayed as finally being believed after years of dismissal. That storytelling can encourage empathy, but it does not itself increase the scientific reliability of the underlying claims. NASA separates these ideas. Respecting witnesses and collecting stronger evidence are complementary goals, not interchangeable ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -310,9 +310,9 @@ According to the study, many reports lack features that scientists routinely req
 * multiple independent measurements rather than a single video;
 * complete [metadata]({{ 'metadata/' | relative_url }}) such as location, time and viewing conditions;
 * observations from different sensor types, including optical, infrared or radar where available;
-* enough contextual information to compare the event against ordinary aircraft, weather or astronomical phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+* enough contextual information to compare the event against ordinary aircraft, weather or astronomical phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-This emphasis explains why NASA repeatedly avoids jumping from "unidentified" to "extraterrestrial". An event may remain unidentified simply because the available evidence is incomplete. The report notes that poor sensor calibration, missing metadata and the absence of multiple measurements make definitive conclusions difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+This emphasis explains why NASA repeatedly avoids jumping from "unidentified" to "extraterrestrial". An event may remain unidentified simply because the available evidence is incomplete. The report notes that poor sensor calibration, missing metadata and the absence of multiple measurements make definitive conclusions difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 By contrast, celebrity-led documentaries frequently build dramatic momentum from ambiguity itself. A grainy recording, an apparently credible witness and an unresolved government document can create an engaging mystery for viewers, even though each element would still fall short of NASA's preferred evidentiary standard.
 
@@ -322,13 +322,13 @@ By contrast, celebrity-led documentaries frequently build dramatic momentum from
 
 NASA's framework offers practical questions that viewers can apply while watching celebrity UFO programmes.
 
-**What was actually recorded?** A witness account is different from calibrated sensor data. NASA gives greater weight to measurements that can be independently analysed than to memories alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+**What was actually recorded?** A witness account is different from calibrated sensor data. NASA gives greater weight to measurements that can be independently analysed than to memories alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-**Is there more than one source of evidence?** A single infrared clip or mobile phone recording may appear persuasive in isolation. Independent radar, visual observations, atmospheric data and other measurements greatly strengthen any investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+**Is there more than one source of evidence?** A single infrared clip or mobile phone recording may appear persuasive in isolation. Independent radar, visual observations, atmospheric data and other measurements greatly strengthen any investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-**Could ordinary explanations be tested first?** NASA stresses that investigators should systematically eliminate aircraft, balloons, drones, weather effects and sensor artefacts before considering more unusual possibilities. The report does not assume that every case has already been explained, but it does insist that conventional explanations should be examined rigorously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+**Could ordinary explanations be tested first?** NASA stresses that investigators should systematically eliminate aircraft, balloons, drones, weather effects and sensor artefacts before considering more unusual possibilities. The report does not assume that every case has already been explained, but it does insist that conventional explanations should be examined rigorously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-**Does the documentary distinguish evidence from interpretation?** Many programmes blend authenticated military footage, interviews, speculation and dramatic narration into a single storyline. NASA's approach instead keeps observation, analysis and hypothesis separate so that later discoveries can revise earlier conclusions without changing the underlying data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+**Does the documentary distinguish evidence from interpretation?** Many programmes blend authenticated military footage, interviews, speculation and dramatic narration into a single storyline. NASA's approach instead keeps observation, analysis and hypothesis separate so that later discoveries can revise earlier conclusions without changing the underlying data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
@@ -337,186 +337,186 @@ NASA's framework offers practical questions that viewers can apply while watchin
 
 Celebrity involvement can broaden public interest and reduce the cultural stigma surrounding discussion of UFOs and UAP. That influence may even encourage witnesses to report observations that would otherwise remain undocumented.
 
-However, NASA's framework suggests that public attention should not be confused with scientific progress. A famous presenter, respected actor or well-produced streaming documentary may increase the visibility of a case without increasing its evidential strength. Credibility comes from the quality of the underlying observations, not from the prominence of the person presenting them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+However, NASA's framework suggests that public attention should not be confused with scientific progress. A famous presenter, respected actor or well-produced streaming documentary may increase the visibility of a case without increasing its evidential strength. Credibility comes from the quality of the underlying observations, not from the prominence of the person presenting them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
-This distinction helps explain why NASA deliberately framed its UAP work as a roadmap for future investigation rather than an attempt to validate existing celebrity narratives. The agency's recommendations focus on [better sensors]({{ 'better-sensors/' | relative_url }}), transparent analysis, open scientific methods, improved reporting systems and higher-quality data collection. Those are governance and research priorities designed to make future claims easier to evaluate, whatever their eventual explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
+This distinction helps explain why NASA deliberately framed its UAP work as a roadmap for future investigation rather than an attempt to validate existing celebrity narratives. The agency's recommendations focus on [better sensors]({{ 'better-sensors/' | relative_url }}), transparent analysis, open scientific methods, improved reporting systems and higher-quality data collection. Those are governance and research priorities designed to make future claims easier to evaluate, whatever their eventual explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_nasa_standards_celeb_47cea4-Illustration-3-dark.svg" | relative_url }}" alt="NASA Standards illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_nasa_standards_celeb_47cea4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_nasa_standards_celeb_47cea4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What would count as better UFO evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What would count as better UFO evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Contrasts scientific investigation with extraordinary claims and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts scientific investigation with extraordinary claims and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Dr. Michael P. Masters</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Identified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ixOXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Identified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Identified Flying Objects">Identified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Dr. Michael P. Masters</p>
         
-        <p class="fr-book-desc">Encourages readers to examine evidence and competing explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages readers to examine evidence and competing explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Identified+Flying+Objects+by+Dr.+Michael+P.+Masters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on documented cases and credible witnesses rather than speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on documented cases and credible witnesses rather than speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains scientific standards, skepticism and evidence evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains scientific standards, skepticism and evidence evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Identified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Identified Flying Objects</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster – Midnight UFO Encounter Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print"><img src="{{ '/assets/images/marketplace-covers/a1cb280d24ff09729665.jpg' | relative_url }}" alt="Listing image for Alien Cornfield Poster – Midnight UFO Encounter Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">Alien Cornfield Poster – Midnight UFO Encounter Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="{{ '/assets/images/marketplace-covers/377545920a0c8e0b5491.jpg' | relative_url }}" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO documentary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO documentary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+documentary+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO documentary poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="nasa-standards-bc3216-what-would-count-as-better-ufo-evidence-ufos-and-celebrities-ufo-documentary-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ This distinction helps explain why NASA deliberately framed its UAP work as a ro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ This distinction helps explain why NASA deliberately framed its UAP work as a ro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ This distinction helps explain why NASA deliberately framed its UAP work as a ro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ This distinction helps explain why NASA deliberately framed its UAP work as a ro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ This distinction helps explain why NASA deliberately framed its UAP work as a ro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,84 +722,84 @@ This distinction helps explain why NASA deliberately framed its UAP work as a ro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s very involvement in UAP will play a vital role in reducing stigma associated with UAP rep...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently co...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>quality data and a lingering stigma pose the greatest barriers to unraveling such mysteries... NASA panel to hold first public meeting o...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>quality data and a lingering stigma pose the greatest barriers to unraveling such mysteries... NASA panel to hold first public meeting o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQsThe UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study U...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQsThe UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study U...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>as on matters relevant to potential methods of study for unidentified...Read more...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as on matters relevant to potential methods of study for unidentified...Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/timesofmalta/posts/icymi-an-independent-team-of-16-researchers-concluded-that-the-search-for-uniden/681521720690648/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofmalta/posts/icymi-an-independent-team-of-16-researchers-concluded-that-the-search-for-uniden/681521720690648/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ICYMI: An independent team of 16 researchers concluded...NASA&#x27;s UFO study: Identifying the unknown lies in better quality data. NASA rec...</p></details>
+   Link:<a href="https://www.facebook.com/timesofmalta/posts/icymi-an-independent-team-of-16-researchers-concluded-that-the-search-for-uniden/681521720690648/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/timesofmalta/posts/icymi-an-independent-team-of-16-researchers-concluded-that-the-search-for-uniden/681521720690648/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICYMI: An independent team of 16 researchers concluded...NASA&#x27;s UFO study: Identifying the unknown lies in better quality data. NASA rec...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I read the report. To summarize: we should reduce stigma for reporting this stuff. we nee...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: axios.com  
-   Link: <a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
+   Link:<a href="https://www.axios.com/2023/09/14/nasa-uap-report-release" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2023/09/14/nasa-uap-report-release</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: Combating Stigma | PDF13 Nov 2024 — Embracing anomalies through rigorous data collection and hypothesis testing embodie...</p></details>
+   Link:<a href="https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/792084775/Unidentified-Anomalous-Phenomena-Exposing-the-Truth-Written-Testimony-of-Mike-Gold</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: Combating Stigma | PDF13 Nov 2024 — Embracing anomalies through rigorous data collection and hypothesis testing embodie...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalnews.ca  
-   Link: <a href="https://globalnews.ca/news/9737881/ufo-nasa-panel-meeting-data/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9737881/ufo-nasa-panel-meeting-data/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO study is limited by data gaps, lingering stigma, NASA...31 May 2023 — UFO study is limited by data gaps, lingering stigma, NASA...</p></details>
+   Link:<a href="https://globalnews.ca/news/9737881/ufo-nasa-panel-meeting-data/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/9737881/ufo-nasa-panel-meeting-data/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO study is limited by data gaps, lingering stigma, NASA...31 May 2023 — UFO study is limited by data gaps, lingering stigma, NASA...</p></details>
    Published: May 2023  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rev.com  
    Title: unidentified anomalous phenomena independent study report from nasa transcript  
-   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — Stigma has limited reporting by pilots, both civilian and military, so we know there...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Report from NASA18 Sept 2023 — Stigma has limited reporting by pilots, both civilian and military, so we know there...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  

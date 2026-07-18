@@ -274,31 +274,31 @@ image: /assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugg
 
 ## Introduction
 
-*Dan [Aykroyd]({{ 'aykroyd/' | relative_url }}) Unplugged on UFOs* (2005) marked an important moment in Dan Aykroyd's public identity within UFO culture. Rather than appearing as a comedian discussing paranormal interests in passing, Aykroyd spent a feature-length documentary speaking directly about UFO reports, alleged encounters, government secrecy and the people he believed deserved to be taken seriously. The result was less a conventional documentary than a sustained on-camera statement of belief, helping establish Aykroyd as one of the few Hollywood figures who repeatedly appeared as himself in UFO media rather than simply acting in science-fiction films. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</span></span></span>
+*Dan [Aykroyd]({{ 'aykroyd/' | relative_url }}) Unplugged on UFOs* (2005) marked an important moment in Dan Aykroyd's public identity within UFO culture. Rather than appearing as a comedian discussing paranormal interests in passing, Aykroyd spent a feature-length documentary speaking directly about UFO reports, alleged encounters, government secrecy and the people he believed deserved to be taken seriously. The result was less a conventional documentary than a sustained on-camera statement of belief, helping establish Aykroyd as one of the few Hollywood figures who repeatedly appeared as himself in UFO media rather than simply acting in science-fiction films.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-1-dark.svg" | relative_url }}" alt="Unplugged illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The film occupies a distinctive place within UFO fandom because its value lies less in presenting new evidence than in presenting Aykroyd himself as an informed advocate. For supporters, it offered an unusually candid celebrity interview. For sceptics, it illustrated how conviction and storytelling can be compelling without independently verifying extraordinary claims. That tension explains why the documentary has remained a recurring reference point in discussions of Aykroyd's role in UFO media. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</span></span></span>
+The film occupies a distinctive place within UFO fandom because its value lies less in presenting new evidence than in presenting Aykroyd himself as an informed advocate. For supporters, it offered an unusually candid celebrity interview. For sceptics, it illustrated how conviction and storytelling can be compelling without independently verifying extraordinary claims. That tension explains why the documentary has remained a recurring reference point in discussions of Aykroyd's role in UFO media.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kzpxHrQcwFk" title="Dan Aykroyd Has Seen UFOs In Person" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kzpxHrQcwFk" target="_blank" rel="noopener noreferrer">Dan Aykroyd Has Seen UFOs In Person</a></p><p class="youtube-embed-meta">Channel: BUILD Series</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kzpxHrQcwFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kzpxHrQcwFk">Open on YouTube</a></p></div></div></div>
 
 ## What the documentary format changed
 
-Unlike television talk-show appearances, *Unplugged on UFOs* gave Aykroyd more than an hour to develop his views with minimal interruption. Directed by David Sereda, the production is structured around an extended interview interwoven with archival footage, photographs and commentary from other UFO advocates. The format allows Aykroyd to explain not only individual claims but also the broader worldview that underpins his long-standing interest in unexplained aerial phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</span></span></span>
+Unlike television talk-show appearances, *Unplugged on UFOs* gave Aykroyd more than an hour to develop his views with minimal interruption. Directed by David Sereda, the production is structured around an extended interview interwoven with archival footage, photographs and commentary from other UFO advocates. The format allows Aykroyd to explain not only individual claims but also the broader worldview that underpins his long-standing interest in unexplained aerial phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</span></span></span>
 
-This mattered because audiences encountered Aykroyd outside his familiar comic [persona]({{ 'persona/' | relative_url }}). His manner throughout the film is measured and conversational rather than performative. He discusses historical incidents, reported [military]({{ 'military/' | relative_url }}) encounters, witness testimony and government secrecy in the same tone he might use when discussing a historical documentary. The interview therefore encouraged viewers to evaluate him not as a celebrity making an off-hand remark but as someone consciously presenting himself as a committed student of the subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">dan aykroyd unplugged on ufos 1200515731</span><span class="citation-popover-snippet">Dan Aykroyd: Unplugged on UFOs5 Jun 2006 — A man needs a hobby, and Dan Aykroyd proves a persuasively articulate advocate for his...</span></span></span>
+This mattered because audiences encountered Aykroyd outside his familiar comic [persona]({{ 'persona/' | relative_url }}). His manner throughout the film is measured and conversational rather than performative. He discusses historical incidents, reported [military]({{ 'military/' | relative_url }}) encounters, witness testimony and government secrecy in the same tone he might use when discussing a historical documentary. The interview therefore encouraged viewers to evaluate him not as a celebrity making an off-hand remark but as someone consciously presenting himself as a committed student of the subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">dan aykroyd unplugged on ufos 1200515731</span><span class="citation-popover-snippet">Dan Aykroyd: Unplugged on UFOs5 Jun 2006 — A man needs a hobby, and Dan Aykroyd proves a persuasively articulate advocate for his...</span></span></span>
 
-The documentary also helped reinforce a pattern that would continue throughout Aykroyd's later media work: repeated appearances in programmes devoted to unexplained phenomena rather than isolated celebrity endorsements of UFO stories. His later hosting work built on an identity already visible in *Unplugged on UFOs*, where he acted primarily as a narrator of UFO culture rather than an entertainer borrowing its imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
+The documentary also helped reinforce a pattern that would continue throughout Aykroyd's later media work: repeated appearances in programmes devoted to unexplained phenomena rather than isolated celebrity endorsements of UFO stories. His later hosting work built on an identity already visible in *Unplugged on UFOs*, where he acted primarily as a narrator of UFO culture rather than an entertainer borrowing its imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ew.com">[EW.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ew.com</span><span class="citation-popover-snippet">Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K5lKZheBmgA" title="Unexplained Encounters That Defy Reality | The UnBelievable with Dan Aykroyd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K5lKZheBmgA" target="_blank" rel="noopener noreferrer">Unexplained Encounters That Defy Reality | The UnBelievable with Dan Aykroyd</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 85.7K &middot; Uploaded: May 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K5lKZheBmgA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K5lKZheBmgA">Open on YouTube</a></p></div></div></div>
 
 ## Celebrity confession versus UFO evidence
 
-One of the film's defining characteristics is its emphasis on personal conviction rather than original investigation. Aykroyd discusses reported sightings, famous UFO cases and accounts from military personnel alongside his own experiences and beliefs. The documentary presents these materials sympathetically, inviting viewers to see cumulative witness testimony as persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
+One of the film's defining characteristics is its emphasis on personal conviction rather than original investigation. Aykroyd discusses reported sightings, famous UFO cases and accounts from military personnel alongside his own experiences and beliefs. The documentary presents these materials sympathetically, inviting viewers to see cumulative witness testimony as persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
 
-However, the documentary itself contributes little in the way of independently verifiable new evidence. Much of its supporting material had circulated previously within UFO literature or [documentaries]({{ 'documentaries/' | relative_url }}), and critics argued that familiar footage and anecdotal accounts were presented without sufficiently examining competing explanations or evidential weaknesses. Reviews at the time described the interview with Aykroyd as engaging while questioning whether the surrounding documentary assembled a rigorous case for extraterrestrial visitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</span></span></span>
+However, the documentary itself contributes little in the way of independently verifiable new evidence. Much of its supporting material had circulated previously within UFO literature or [documentaries]({{ 'documentaries/' | relative_url }}), and critics argued that familiar footage and anecdotal accounts were presented without sufficiently examining competing explanations or evidential weaknesses. Reviews at the time described the interview with Aykroyd as engaging while questioning whether the surrounding documentary assembled a rigorous case for extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</span></span></span>
 
 This distinction is central to understanding the film's place within UFO media. Its lasting significance comes from documenting a celebrity believer speaking at length, not from resolving disputed UFO cases. Readers looking for historical evidence therefore need to separate Aykroyd's sincere [advocacy]({{ 'advocacy/' | relative_url }}) from the broader scientific question, which remains unresolved despite decades of debate.
 
@@ -306,7 +306,7 @@ This distinction is central to understanding the film's place within UFO media. 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-2-dark.svg" | relative_url }}" alt="Unplugged illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why fans kept returning to the interview
 
-Within UFO fandom, the documentary developed a reputation less because of polished filmmaking than because it preserved Aykroyd speaking freely about a subject he had clearly studied for years. Viewers interested in his paranormal interests often regarded it as the clearest single expression of his thinking before his later television hosting roles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[Letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">dan aykroyd unplugged on ufos</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged On UFOs (2005)Dan Aykroyd Unplugged On UFOs · Ratings · Popular reviews · Recent reviews · Popular Lists...</span></span></span>
+Within UFO fandom, the documentary developed a reputation less because of polished filmmaking than because it preserved Aykroyd speaking freely about a subject he had clearly studied for years. Viewers interested in his paranormal interests often regarded it as the clearest single expression of his thinking before his later television hosting roles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[Letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">dan aykroyd unplugged on ufos</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged On UFOs (2005)Dan Aykroyd Unplugged On UFOs · Ratings · Popular reviews · Recent reviews · Popular Lists...</span></span></span>
 
 Several features helped the interview remain memorable:
 
@@ -316,213 +316,213 @@ Several features helped the interview remain memorable:
 * It presented Aykroyd largely out of character, speaking as himself rather than promoting a fictional work.
 * It linked celebrity recognition with long-standing UFO community figures and recurring cases familiar to enthusiasts.
 * It conveyed continuity with Aykroyd's broader paranormal interests instead of presenting UFOs as a temporary fascination.
-* It became an accessible introduction for fans who knew Aykroyd from *Ghostbusters* but were unaware of his decades-long involvement with UFO culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix+2Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
+* It became an accessible introduction for fans who knew Aykroyd from *Ghostbusters* but were unaware of his decades-long involvement with UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix+2Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
 
 </div>
 
-The interview also gained retrospective interest because later appearances by Aykroyd echoed many of the same themes. In subsequent media interviews and television projects, he continued to describe personal sightings, family influences and his belief that credible witness testimony deserved greater attention, reinforcing the impression that *Unplugged on UFOs* reflected a stable personal position rather than a promotional exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Known for his comedy work on &quot;Saturday Night Live,&quot; &quot;Ghostbusters,&quot; and &quot;Coneheads,&quot; Aykroyd has a longstanding interest in the paranorma...</span></span></span>
+The interview also gained retrospective interest because later appearances by Aykroyd echoed many of the same themes. In subsequent media interviews and television projects, he continued to describe personal sightings, family influences and his belief that credible witness testimony deserved greater attention, reinforcing the impression that *Unplugged on UFOs* reflected a stable personal position rather than a promotional exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Known for his comedy work on &quot;Saturday Night Live,&quot; &quot;Ghostbusters,&quot; and &quot;Coneheads,&quot; Aykroyd has a longstanding interest in the paranorma...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TUTJKjvPk4E" title="Review - &#x27;Dan Aykroyd UNPLUGGED on UFOs&#x27; - That UFO Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TUTJKjvPk4E" target="_blank" rel="noopener noreferrer">Review - &#x27;Dan Aykroyd UNPLUGGED on UFOs&#x27; - That UFO Podcast</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TUTJKjvPk4E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TUTJKjvPk4E">Open on YouTube</a></p></div></div></div>
 
 ## The documentary's place in Aykroyd's UFO legacy
 
-Viewed today, *Dan Aykroyd Unplugged on UFOs* is best understood as a showcase of celebrity belief rather than a landmark in UFO evidence. Its importance lies in documenting how a well-known Hollywood figure chose to use his public credibility: not to claim definitive proof of extraterrestrial visitors, but to argue that the subject merited serious attention and that many witnesses had been dismissed too readily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">dan aykroyd unplugged on ufos 1200515731</span><span class="citation-popover-snippet">Dan Aykroyd: Unplugged on UFOs5 Jun 2006 — A man needs a hobby, and Dan Aykroyd proves a persuasively articulate advocate for his...</span></span></span>
+Viewed today, *Dan Aykroyd Unplugged on UFOs* is best understood as a showcase of celebrity belief rather than a landmark in UFO evidence. Its importance lies in documenting how a well-known Hollywood figure chose to use his public credibility: not to claim definitive proof of extraterrestrial visitors, but to argue that the subject merited serious attention and that many witnesses had been dismissed too readily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: variety.com">[Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">variety.com</span><span class="citation-popover-title">dan aykroyd unplugged on ufos 1200515731</span><span class="citation-popover-snippet">Dan Aykroyd: Unplugged on UFOs5 Jun 2006 — A man needs a hobby, and Dan Aykroyd proves a persuasively articulate advocate for his...</span></span></span>
 
-That role distinguishes the documentary within the wider landscape of celebrity UFO culture. Many [public figures]({{ 'public-figures/' | relative_url }}) mention unusual experiences briefly; Aykroyd instead devoted an entire feature-length interview to explaining why he believed the phenomenon warranted sustained discussion. Whether viewers accept his conclusions or remain sceptical, the film remains one of the clearest examples of a celebrity consciously presenting himself as a public UFO believer rather than merely an actor associated with science-fiction themes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</span></span></span>
+That role distinguishes the documentary within the wider landscape of celebrity UFO culture. Many [public figures]({{ 'public-figures/' | relative_url }}) mention unusual experiences briefly; Aykroyd instead devoted an entire feature-length interview to explaining why he believed the phenomenon warranted sustained discussion. Whether viewers accept his conclusions or remain sceptical, the film remains one of the clearest examples of a celebrity consciously presenting himself as a public UFO believer rather than merely an actor associated with science-fiction themes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-3-dark.svg" | relative_url }}" alt="Unplugged illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_dan_aykroyd_ufo_37c1f1_unplugged_ufo_showca_08c731-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Aykroyd Spoke as a UFO Believer. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Aykroyd Spoke as a UFO Believer. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides historical context for many UFO claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for many UFO claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
-        </h4>
-        <p class="fr-book-author">By Ralph Blumenthal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3FbSEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
+</h4>
+<p class="fr-book-author">By Ralph Blumenthal</p>
         
-        <p class="fr-book-desc">Examines influential UFO belief and experiencer narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines influential UFO belief and experiencer narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believer+by+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers many of the evidence claims discussed by Aykroyd.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many of the evidence claims discussed by Aykroyd.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Explores belief, celebrity, and modern UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores belief, celebrity, and modern UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believer</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="unplugged-when-aykroyd-spoke-as-a-ufo-believer-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ That role distinguishes the documentary within the wider landscape of celebrity 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ That role distinguishes the documentary within the wider landscape of celebrity 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ That role distinguishes the documentary within the wider landscape of celebrity 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ That role distinguishes the documentary within the wider landscape of celebrity 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ That role distinguishes the documentary within the wider landscape of celebrity 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,141 +728,141 @@ That role distinguishes the documentary within the wider landscape of celebrity 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0470994/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt0470994/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0470994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005)Dan Aykroyd Unplugged on UFOs (2005). Documentary. A UFO enthusiast interviews Dan Aykroyd on the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: variety.com  
    Title: dan aykroyd unplugged on ufos 1200515731  
-   Link: <a href="https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd: Unplugged on UFOs5 Jun 2006 — A man needs a hobby, and Dan Aykroyd proves a persuasively articulate advocate for his...</p></details>
+   Link:<a href="https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/" target="_blank" rel="noopener noreferrer nofollow">https://variety.com/2006/film/reviews/dan-aykroyd-unplugged-on-ufos-1200515731/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd: Unplugged on UFOs5 Jun 2006 — A man needs a hobby, and Dan Aykroyd proves a persuasively articulate advocate for his...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70049805</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</p></details>
+   Link:<a href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70049805</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ew.com  
-   Link: <a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</p></details>
+   Link:<a href="https://ew.com/celebrities-who-believe-in-aliens-11992570" target="_blank" rel="noopener noreferrer nofollow">https://ew.com/celebrities-who-believe-in-aliens-11992570</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some stars, including Miley Cyrus and Kacey Musgraves, recounted strange, vivid sightings. Dan Aykroyd, long fascinated by the paranormal...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: letterboxd.com  
    Title: dan aykroyd unplugged on ufos  
-   Link: <a href="https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged On UFOs (2005)Dan Aykroyd Unplugged On UFOs · Ratings · Popular reviews · Recent reviews · Popular Lists...</p></details>
+   Link:<a href="https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged On UFOs (2005)Dan Aykroyd Unplugged On UFOs · Ratings · Popular reviews · Recent reviews · Popular Lists...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dan.org  
-   Link: <a href="https://dan.org/about-dan/" target="_blank" rel="noopener noreferrer nofollow">https://dan.org/about-dan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lth and well-being of divers...Read more...</p></details>
+   Link:<a href="https://dan.org/about-dan/" target="_blank" rel="noopener noreferrer nofollow">https://dan.org/about-dan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lth and well-being of divers...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dan.org  
-   Link: <a href="https://dan.org/safety-prevention/dan-store/" target="_blank" rel="noopener noreferrer nofollow">https://dan.org/safety-prevention/dan-store/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DAN StoreDAN Store. Shop · Home · Site Map · Policies · Terms &amp; Conditions · Advertise · Contact Us. © DAN, Inc. All rights reserved. Fac...</p></details>
+   Link:<a href="https://dan.org/safety-prevention/dan-store/" target="_blank" rel="noopener noreferrer nofollow">https://dan.org/safety-prevention/dan-store/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAN StoreDAN Store. Shop · Home · Site Map · Policies · Terms &amp; Conditions · Advertise · Contact Us. © DAN, Inc. All rights reserved. Fac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: letterboxd.com  
-   Link: <a href="https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/reviews/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/reviews/page/5/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>this documentary has everything: an explanation of spacetime, upscale powerpoint slide transitions, ronald reagan as himself...Read more...</p></details>
+   Link:<a href="https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/reviews/page/5/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/dan-aykroyd-unplugged-on-ufos/reviews/page/5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>this documentary has everything: an explanation of spacetime, upscale powerpoint slide transitions, ronald reagan as himself...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dan-vs.fandom.com  
-   Link: <a href="https://dan-vs.fandom.com/wiki/Dan" target="_blank" rel="noopener noreferrer nofollow">https://dan-vs.fandom.com/wiki/Dan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiki - FandomDaniel &#x27;&#x27;Dan&#x27;&#x27; Mandel (Curtis Armstrong) is the titular anti-heroic main protagonist of Dan Vs. His main goal in the series...</p></details>
+   Link:<a href="https://dan-vs.fandom.com/wiki/Dan" target="_blank" rel="noopener noreferrer nofollow">https://dan-vs.fandom.com/wiki/Dan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiki - FandomDaniel &#x27;&#x27;Dan&#x27;&#x27; Mandel (Curtis Armstrong) is the titular anti-heroic main protagonist of Dan Vs. His main goal in the series...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/es/title/tt0470994/reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/es/title/tt0470994/reviews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opiniones de... However, the way the movie was setup with the interviewer and Dan... Yet here&#x27;s the footage again in a 2005...</p></details>
+   Link:<a href="https://www.imdb.com/es/title/tt0470994/reviews/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/es/title/tt0470994/reviews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opiniones de... However, the way the movie was setup with the interviewer and Dan... Yet here&#x27;s the footage again in a 2005...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CdQ94_defiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CdQ94_defiE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005) - Official Trailer | VMI Worldwide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CdQ94_defiE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CdQ94_defiE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Unplugged on UFOs (2005) - Official Trailer | VMI Worldwide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=0cadTZOBAaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0cadTZOBAaI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Has Seen UFOs In Person...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0cadTZOBAaI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0cadTZOBAaI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Has Seen UFOs In Person...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rottentomatoes.com  
-   Link: <a href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known for his comedy work on &quot;Saturday Night Live,&quot; &quot;Ghostbusters,&quot; and &quot;Coneheads,&quot; Aykroyd has a longstanding interest in the paranorma...</p></details>
+   Link:<a href="https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/12/entertainment/dan-aykroyd-on-ufos-and-how-john-belushi-showed-him-the-power-of-stardom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known for his comedy work on &quot;Saturday Night Live,&quot; &quot;Ghostbusters,&quot; and &quot;Coneheads,&quot; Aykroyd has a longstanding interest in the paranorma...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 'Dan Aykroyd UNPLUGGED on UFOs'  
-   Link: <a href="https://www.youtube.com/watch?v=TUTJKjvPk4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TUTJKjvPk4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastReview - &#x27;Dan Aykroyd UNPLUGGED on UFOs&#x27; - That UFO Podcast.Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TUTJKjvPk4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TUTJKjvPk4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastReview - &#x27;Dan Aykroyd UNPLUGGED on UFOs&#x27; - That UFO Podcast.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: [music](&#123;&#123; 'music/' | relative_url &#125;&#125;). apple.com  
-   Link: <a href="https://music.apple.com/ng/artist/dan/1609096614" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/ng/artist/dan/1609096614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to music by Dan on Apple Music. Find top songs and albums by Dan, including Legends Aren&#x27;t Made, bands and more...</p></details>
+   Link:<a href="https://music.apple.com/ng/artist/dan/1609096614" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/ng/artist/dan/1609096614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to music by Dan on Apple Music. Find top songs and albums by Dan, including Legends Aren&#x27;t Made, bands and more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tubitv.com  
    Title: dan aykroyd unplugged on ufos  
-   Link: <a href="https://tubitv.com/movies/100048739/dan-aykroyd-unplugged-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://tubitv.com/movies/100048739/dan-aykroyd-unplugged-on-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd: Unplugged on UFOs (2005)Nov 26, 2025 — Dan Aykroyd: Unplugged on UFOs. Documentary ·. 2005 · 1 hr 35 min. TV-14. Play in the...</p></details>
+   Link:<a href="https://tubitv.com/movies/100048739/dan-aykroyd-unplugged-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://tubitv.com/movies/100048739/dan-aykroyd-unplugged-on-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd: Unplugged on UFOs (2005)Nov 26, 2025 — Dan Aykroyd: Unplugged on UFOs. Documentary ·. 2005 · 1 hr 35 min. TV-14. Play in the...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/dan" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/dan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAN Definition &amp; Meaningnoun · (in the Bible) a son of Jacob and Bilhah. · one of the 12 tribes of ancient Israel, traditionally descende...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/dan" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/dan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DAN Definition &amp; Meaningnoun · (in the Bible) a son of Jacob and Bilhah. · one of the 12 tribes of ancient Israel, traditionally descende...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/dan" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/dan</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/dan" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/dan</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abarim-publications.com  
-   Link: <a href="https://www.abarim-publications.com/Meaning/Dan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abarim-publications.com/Meaning/Dan.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Related names: • Via דין (din): Abidan, Daniel, Dan-jaan, Dinah, Hashbaddanah...Read more...</p></details>
+   Link:<a href="https://www.abarim-publications.com/Meaning/Dan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.abarim-publications.com/Meaning/Dan.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Related names: • Via דין (din): Abidan, Daniel, Dan-jaan, Dinah, Hashbaddanah...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lnthurman.wordpress.com  
    Title: dan aykroyd unplugged on ufos david sereda 2005  
-   Link: <a href="https://lnthurman.wordpress.com/2016/09/18/dan-aykroyd-unplugged-on-ufos-david-sereda-2005/" target="_blank" rel="noopener noreferrer nofollow">https://lnthurman.wordpress.com/2016/09/18/dan-aykroyd-unplugged-on-ufos-david-sereda-2005/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>documentary by Canadian sham David Sereda entitled Dan Aykroyd Unplugged on UFOs (2005)...Read more...</p></details>
+   Link:<a href="https://lnthurman.wordpress.com/2016/09/18/dan-aykroyd-unplugged-on-ufos-david-sereda-2005/" target="_blank" rel="noopener noreferrer nofollow">https://lnthurman.wordpress.com/2016/09/18/dan-aykroyd-unplugged-on-ufos-david-sereda-2005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>documentary by Canadian sham David Sereda entitled Dan Aykroyd Unplugged on UFOs (2005)...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Dan Aykroyd Tells the Stories Behind his 4 UFO Sightings on Sway in the Morning  
-   Link: <a href="https://www.youtube.com/watch?v=-rvxPNHf-z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-rvxPNHf-z4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Encounters That Defy Reality | The UnBelievable with Dan Aykroyd...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-rvxPNHf-z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-rvxPNHf-z4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Encounters That Defy Reality | The UnBelievable with Dan Aykroyd...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: D.A.N. official Videos · D.A.N  
-   Link: <a href="https://www.youtube.com/channel/UC0MtUeg-nWPwrSquHP-raPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0MtUeg-nWPwrSquHP-raPQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>D.A.N. officialVideos · D.A.N. - Purple Sunshine (Official Audio) · D.A.N. - Daydreaming (Official Audio) · D.A.N. - Afterglows (Official...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UC0MtUeg-nWPwrSquHP-raPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC0MtUeg-nWPwrSquHP-raPQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>D.A.N. officialVideos · D.A.N. - Purple Sunshine (Official Audio) · D.A.N. - Daydreaming (Official Audio) · D.A.N. - Afterglows (Official...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Dan Aykroyd Has Seen UFOs In Person  
-   Link: <a href="https://www.youtube.com/watch?v=kzpxHrQcwFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kzpxHrQcwFk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Tells the Stories Behind his 4 UFO Sightings on Sway in the Morning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kzpxHrQcwFk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kzpxHrQcwFk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Aykroyd Tells the Stories Behind his 4 UFO Sightings on Sway in the Morning...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40DanExclaims" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40DanExclaims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>months ago.Read more...</p></details>
+   Link:<a href="https://www.youtube.com/%40DanExclaims" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40DanExclaims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>months ago.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Unexplained Encounters That Defy Reality | The [Un Believable](&#123;&#123; 'un-believable/' | relative_url &#125;&#125;) with Dan Aykroyd  
-   Link: <a href="https://www.youtube.com/watch?v=K5lKZheBmgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K5lKZheBmgA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=K5lKZheBmgA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K5lKZheBmgA</a>  

@@ -286,7 +286,7 @@ image: /assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_tt
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_ttsa_company_model_b2cfcc-Illustration-1-dark.svg" | relative_url }}" alt="Company Model illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_ttsa_company_model_b2cfcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_ttsa_company_model_b2cfcc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why TTSA used a public-benefit corporation
 
-TTSA incorporated as a **public benefit corporation (PBC)** in Delaware in 2017. Unlike an ordinary for-profit corporation, a PBC is legally permitted to pursue one or more stated public benefits alongside financial returns. TTSA described its public purpose as advancing research, innovation and education at the "outer edges of science and engineering", while using entertainment to reach a broad audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
+TTSA incorporated as a **public benefit corporation (PBC)** in Delaware in 2017. Unlike an ordinary for-profit corporation, a PBC is legally permitted to pursue one or more stated public benefits alongside financial returns. TTSA described its public purpose as advancing research, innovation and education at the "outer edges of science and engineering", while using entertainment to reach a broad audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
 
 That legal form mattered because TTSA was attempting to reconcile several objectives that might otherwise appear contradictory:
 
@@ -300,9 +300,9 @@ That legal form mattered because TTSA was attempting to reconcile several object
 
 </div>
 
-Rather than presenting these as competing goals, TTSA argued that each reinforced the others. Books, [documentaries]({{ 'documentaries/' | relative_url }}) and television projects would fund research while simultaneously educating audiences. Research findings, in turn, could create new media products and intellectual property. The company's governance documents therefore described science, aerospace and entertainment as integrated divisions rather than separate businesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
+Rather than presenting these as competing goals, TTSA argued that each reinforced the others. Books, [documentaries]({{ 'documentaries/' | relative_url }}) and television projects would fund research while simultaneously educating audiences. Research findings, in turn, could create new media products and intellectual property. The company's governance documents therefore described science, aerospace and entertainment as integrated divisions rather than separate businesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
 
-Importantly, becoming a public-benefit corporation **did not make TTSA a charity or non-profit organisation**. Investors purchased equity in a for-profit company whose directors retained discretion to balance shareholder interests with the corporation's declared public mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
+Importantly, becoming a public-benefit corporation **did not make TTSA a charity or non-profit organisation**. Investors purchased equity in a for-profit company whose directors retained discretion to balance shareholder interests with the corporation's declared public mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OBSdg3nwxoo" title="Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer">Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan</a></p><p class="youtube-embed-meta">Channel: Dr Brian Keating &middot; Views: 723.1K &middot; Uploaded: August 2021 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OBSdg3nwxoo">Open on YouTube</a></p></div></div></div>
@@ -315,13 +315,13 @@ Its filings described three principal operating areas:
 
 * **Entertainment**, producing books, films, television, [music]({{ 'music/' | relative_url }}) and branded merchandise.
 * **Science**, studying unexplained phenomena and encouraging public participation in research.
-* **Aerospace**, pursuing long-term concepts including advanced propulsion, novel materials and related technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
+* **Aerospace**, pursuing long-term concepts including advanced propulsion, novel materials and related technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
 
 This combination distinguished TTSA from traditional UFO advocacy groups. Instead of simply collecting witness reports or lobbying government, the company sought to create a self-reinforcing ecosystem in which entertainment attracted audiences, audiences attracted investors, and investment financed scientific work.
 
-Tom DeLonge's celebrity status formed an explicit part of this model rather than merely providing publicity. SEC filings disclosed licensing arrangements covering his name, likeness, trademarks and creative works, allowing the company to build commercial products around an established entertainment brand while pursuing its public-benefit mission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: to-the-stars-web-assets.s3.amazonaws.com">[to-the-stars-web-assets.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">to-the-stars-web-assets.s3.amazonaws.com</span><span class="citation-popover-snippet">offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — Under a Licensing Agreement, we are required to pay royalty pa...</span><span class="citation-popover-meta">Published: September 29, 2017</span></span></span>
+Tom DeLonge's celebrity status formed an explicit part of this model rather than merely providing publicity. SEC filings disclosed licensing arrangements covering his name, likeness, trademarks and creative works, allowing the company to build commercial products around an established entertainment brand while pursuing its public-benefit mission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: to-the-stars-web-assets.s3.amazonaws.com">[to-the-stars-web-assets.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">to-the-stars-web-assets.s3.amazonaws.com</span><span class="citation-popover-snippet">offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — Under a Licensing Agreement, we are required to pay royalty pa...</span><span class="citation-popover-meta">Published: September 29, 2017</span></span></span>
 
-TTSA also described plans for a "Community of Interest" through which members of the public could submit reports and data related to unexplained aerial phenomena. This reinforced the company's presentation of itself as both a media producer and a platform for citizen participation in research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
+TTSA also described plans for a "Community of Interest" through which members of the public could submit reports and data related to unexplained aerial phenomena. This reinforced the company's presentation of itself as both a media producer and a platform for citizen participation in research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3r6SmrCUM0" title="Luis Elizondo Presents the History of AATIP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer">Luis Elizondo Presents the History of AATIP</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science &middot; Views: 107.2K &middot; Uploaded: August 2018 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3r6SmrCUM0">Open on YouTube</a></p></div></div></div>
@@ -340,9 +340,9 @@ TTSA rarely framed its public case as "we have proved extraterrestrial visitors.
 
 </div>
 
-Its filings nevertheless discussed ambitious research aspirations, including beamed-energy propulsion, space-time metric engineering, advanced materials and investigations into unusual [metamaterials]({{ 'metamaterials/' | relative_url }}). At the same time, the same offering documents warned investors that these projects involved substantial technical uncertainty and could fail entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
+Its filings nevertheless discussed ambitious research aspirations, including beamed-energy propulsion, space-time metric engineering, advanced materials and investigations into unusual [metamaterials]({{ 'metamaterials/' | relative_url }}). At the same time, the same offering documents warned investors that these projects involved substantial technical uncertainty and could fail entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">tv492460 partii</span><span class="citation-popover-snippet">Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</span></span></span>
 
-A good example is TTSA's acquisition of pieces of material claimed by previous UFO researchers to possess unusual properties. Rather than stating that alien technology had been confirmed, the company said it intended to test the materials independently. Subsequent partnerships, including a cooperative research agreement with the U.S. Army concerning evaluation of advanced materials and related technologies, reflected interest in examining these claims rather than official confirmation that extraordinary properties had been established. Independent scientists and materials experts remained sceptical that publicly available evidence demonstrated anything beyond ordinary industrial alloys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explore the po...</span></span></span>
+A good example is TTSA's acquisition of pieces of material claimed by previous UFO researchers to possess unusual properties. Rather than stating that alien technology had been confirmed, the company said it intended to test the materials independently. Subsequent partnerships, including a cooperative research agreement with the U.S. Army concerning evaluation of advanced materials and related technologies, reflected interest in examining these claims rather than official confirmation that extraordinary properties had been established. Independent scientists and materials experts remained sceptical that publicly available evidence demonstrated anything beyond ordinary industrial alloys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[TWZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explore the po...</span></span></span>
 
 This distinction is important. TTSA consistently promoted investigation of unusual claims, but publicly available evidence has not demonstrated that its research established extraterrestrial technology or revolutionary aerospace breakthroughs.
 
@@ -352,14 +352,14 @@ This distinction is important. TTSA consistently promoted investigation of unusu
 
 One of the most frequently misunderstood aspects of TTSA concerns its relationship with the U.S. Securities and Exchange Commission (SEC).
 
-TTSA used a **Regulation A+** offering, allowing members of the public—not only accredited investors—to purchase shares after the SEC qualified its offering documents. That qualification required disclosure and regulatory review of the offering materials. It **did not** mean the SEC endorsed the company's science, business prospects or UFO-related claims. SEC investor guidance explicitly explains that qualification of a Regulation A offering should not be interpreted as approval or validation of the investment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.gov">[Investor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.gov</span><span class="citation-popover-title">Regulation A – Updated Investor Bulletin</span><span class="citation-popover-snippet">Regulation A – Updated Investor BulletinApril 14, 2021 — For Tier 1 offerings, the offering circular must be filed with, and is s...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
+TTSA used a **Regulation A+** offering, allowing members of the public—not only accredited investors—to purchase shares after the SEC qualified its offering documents. That qualification required disclosure and regulatory review of the offering materials. It **did not** mean the SEC endorsed the company's science, business prospects or UFO-related claims. SEC investor guidance explicitly explains that qualification of a Regulation A offering should not be interpreted as approval or validation of the investment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.gov">[Investor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.gov</span><span class="citation-popover-title">Regulation A – Updated Investor Bulletin</span><span class="citation-popover-snippet">Regulation A – Updated Investor BulletinApril 14, 2021 — For Tier 1 offerings, the offering circular must be filed with, and is s...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
 
 TTSA's own filings likewise contained extensive risk disclosures, including warnings that:
 
 * proposed aerospace technologies might never become commercially viable;
 * scientific research could fail to produce expected discoveries;
 * commercial success depended on uncertain media revenues;
-* investors could lose their entire investment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">To The Stars Academy of Arts and Science Inc</span><span class="citation-popover-snippet">To The Stars Academy of Arts and Science Inc. - SEC.govPRELIMINARY OFFERING CIRCULAR DATED AUGUST 15, 2017. To The Stars Academy of Ar...</span><span class="citation-popover-meta">Published: August 15, 2017</span></span></span>
+* investors could lose their entire investment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-title">To The Stars Academy of Arts and Science Inc</span><span class="citation-popover-snippet">To The Stars Academy of Arts and Science Inc. - SEC.govPRELIMINARY OFFERING CIRCULAR DATED AUGUST 15, 2017. To The Stars Academy of Ar...</span><span class="citation-popover-meta">Published: August 15, 2017</span></span></span>
 
 These disclosures are significant because public discussion sometimes blurred the distinction between **SEC qualification of securities documents** and **government endorsement of TTSA's underlying UFO claims**. The former is a routine securities-law process; the latter never occurred.
 
@@ -381,7 +381,7 @@ Supporters argued that this approach:
 
 </div>
 
-Critics, however, questioned whether speculative scientific ambitions had become too closely tied to commercial incentives. Journalists examining TTSA's SEC filings noted slower-than-expected fundraising, significant accumulated losses and the financial risks inherent in combining highly speculative research with entertainment and merchandising. Those observations did not demonstrate fraud or invalidate the company's mission, but they highlighted the practical difficulty of financing frontier research through public equity crowdfunding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Tom DeLonge&#x27;s UFO Organization Has a $37.4 Million DeficitOctober 15, 2018 — 15 Oct 2018 — Because it has public, non accredited inve...</span><span class="citation-popover-meta">Published: October 15, 2018</span></span></span>
+Critics, however, questioned whether speculative scientific ambitions had become too closely tied to commercial incentives. Journalists examining TTSA's SEC filings noted slower-than-expected fundraising, significant accumulated losses and the financial risks inherent in combining highly speculative research with entertainment and merchandising. Those observations did not demonstrate fraud or invalidate the company's mission, but they highlighted the practical difficulty of financing frontier research through public equity crowdfunding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Tom DeLonge&#x27;s UFO Organization Has a $37.4 Million DeficitOctober 15, 2018 — 15 Oct 2018 — Because it has public, non accredited inve...</span><span class="citation-popover-meta">Published: October 15, 2018</span></span></span>
 
 The resulting tension became central to TTSA's public identity. Its governance model encouraged long-term experimentation and public outreach, yet it also required balancing investor expectations with scientific uncertainty—particularly in a field where extraordinary evidence remained elusive.
 
@@ -395,178 +395,178 @@ TTSA's most enduring contribution may be organisational rather than scientific. 
 Whether one accepts or rejects its interpretations of UAP, TTSA showed how corporate governance, celebrity influence, public investment and scientific ambition could be combined into a single institutional model. It also illustrated the limits of that approach: a public-benefit corporation can encourage investigation, fund research and popularise debate, but its legal structure does not itself validate extraordinary claims. The distinction between corporate mission, scientific hypothesis and demonstrated evidence remains fundamental to understanding TTSA's place in the modern history of UFO advocacy.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a UFO Company Serve the Public?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a UFO Company Serve the Public?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider UAP context for TTSA&#x27;s mission.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider UAP context for TTSA&#x27;s mission.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Explains broader government-UAP landscape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains broader government-UAP landscape.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines organizations, institutions and public engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines organizations, institutions and public engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
-        </h4>
-        <p class="fr-book-author">By Eric Ries</p>
-        <p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
-        <p class="fr-book-desc">Offers perspective on startup structures and business models.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lean Startup on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tvfyz-4JILwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Lean Startup" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lean Startup">The Lean Startup</a>
+</h4>
+<p class="fr-book-author">By Eric Ries</p>
+<p class="fr-book-popularity">Rating: 3.0/5 from 33 Google Books ratings</p>
+<p class="fr-book-desc">Offers perspective on startup structures and business models.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lean+Startup+by+Eric+Ries&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="company-model-can-a-ufo-company-serve-the-public-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ Whether one accepts or rejects its interpretations of UAP, TTSA showed how corpo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ Whether one accepts or rejects its interpretations of UAP, TTSA showed how corpo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ Whether one accepts or rejects its interpretations of UAP, TTSA showed how corpo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ Whether one accepts or rejects its interpretations of UAP, TTSA showed how corpo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ Whether one accepts or rejects its interpretations of UAP, TTSA showed how corpo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,125 +772,125 @@ Whether one accepts or rejects its interpretations of UAP, TTSA showed how corpo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sec.gov  
    Title: tv492460 partii  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our subsidiary TTS did not compensate its executive officer and sole director, Tom...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sec.gov  
    Title: To The Stars Academy of Arts and Science Inc  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Academy of Arts and Science Inc. - SEC.govPRELIMINARY OFFERING CIRCULAR DATED AUGUST 15, 2017. To The Stars Academy of Ar...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Academy of Arts and Science Inc. - SEC.govPRELIMINARY OFFERING CIRCULAR DATED AUGUST 15, 2017. To The Stars Academy of Ar...</p></details>
    Published: August 15, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sec.gov  
    Title: tv525071 253g2  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated july 12, 2019TTS Academy is the parent company of To The Stars, Inc. “TTS Inc.”, a vertically integrated entertai...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated july 12, 2019TTS Academy is the parent company of To The Stars, Inc. “TTS Inc.”, a vertically integrated entertai...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: to-the-stars-web-assets.s3.amazonaws.com  
-   Link: <a href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — Under a Licensing Agreement, we are required to pay royalty pa...</p></details>
+   Link:<a href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — Under a Licensing Agreement, we are required to pay royalty pa...</p></details>
    Published: September 29, 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explore the po...</p></details>
+   Link:<a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explore the po...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: investor.gov  
    Title: Regulation A – Updated Investor Bulletin  
-   Link: <a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-1" target="_blank" rel="noopener noreferrer nofollow">https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulation A – Updated Investor BulletinApril 14, 2021 — For Tier 1 offerings, the offering circular must be filed with, and is s...</p></details>
+   Link:<a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-1" target="_blank" rel="noopener noreferrer nofollow">https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regulation A – Updated Investor BulletinApril 14, 2021 — For Tier 1 offerings, the offering circular must be filed with, and is s...</p></details>
    Published: April 14, 2021  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: vice.com  
-   Link: <a href="https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge&#x27;s UFO Organization Has a $37.4 Million DeficitOctober 15, 2018 — 15 Oct 2018 — Because it has public, non accredited inve...</p></details>
+   Link:<a href="https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/tom-delonges-ufo-organization-is-37-million-in-debt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom DeLonge&#x27;s UFO Organization Has a $37.4 Million DeficitOctober 15, 2018 — 15 Oct 2018 — Because it has public, non accredited inve...</p></details>
    Published: October 15, 2018  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sec.gov  
    Title: Untitled OFFERIN G CIRCULAR DATED  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419029517/tv522799_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419029517/tv522799_partiiandiii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledOFFERING CIRCULAR DATED JUNE 3, 2019. To The Stars Academy of Arts and Science Inc. 315 S. Coast Hwy 101. Suite U38. Encinitas, C...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419029517/tv522799_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419029517/tv522799_partiiandiii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledOFFERING CIRCULAR DATED JUNE 3, 2019. To The Stars Academy of Arts and Science Inc. 315 S. Coast Hwy 101. Suite U38. Encinitas, C...</p></details>
    Published: June 3, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>te its executive officer and sole director, Tom DeLonge in cash.Read more...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>te its executive officer and sole director, Tom DeLonge in cash.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/research?srsltid=AfmBOorD17Nxk_RzLj5aeHnEy2XTDjsOWC-y-hJk9FQCz34bS3DSuxUg" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOorD17Nxk_RzLj5aeHnEy2XTDjsOWC-y-hJk9FQCz34bS3DSuxUg</a>  
+   Link:<a href="https://tothestars.media/pages/research?srsltid=AfmBOorD17Nxk_RzLj5aeHnEy2XTDjsOWC-y-hJk9FQCz34bS3DSuxUg" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOorD17Nxk_RzLj5aeHnEy2XTDjsOWC-y-hJk9FQCz34bS3DSuxUg</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: to-the-stars.webflow.io  
-   Link: <a href="https://to-the-stars.webflow.io/" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars.webflow.io/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars* | Early InvestorsTom DeLonge of Blink-182/Angels &amp; Airwaves Opens To the Stars Inc. to Investors Via New Reg A Crowdfunding...</p></details>
+   Link:<a href="https://to-the-stars.webflow.io/" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars.webflow.io/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars* | Early InvestorsTom DeLonge of Blink-182/Angels &amp; Airwaves Opens To the Stars Inc. to Investors Via New Reg A Crowdfunding...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Quite a &quot;UFO IPO&quot;: Tom DeLonge Is Seeking Your...11 Oct 2017 — DeLonge is soliciting investment by registering TTS AAS as a public b...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not Quite a &quot;UFO IPO&quot;: Tom DeLonge Is Seeking Your...11 Oct 2017 — DeLonge is soliciting investment by registering TTS AAS as a public b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sec.state.ma.us  
-   Link: <a href="https://www.sec.state.ma.us/divisions/corporations/general-information/benefit-corporations.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.state.ma.us/divisions/corporations/general-information/benefit-corporations.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssachusetts Secretary of StateBenefit CorporationsThe new Chapter 156E, signed into law as part of the Acts, governs the establishment...</p></details>
+   Link:<a href="https://www.sec.state.ma.us/divisions/corporations/general-information/benefit-corporations.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.state.ma.us/divisions/corporations/general-information/benefit-corporations.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ssachusetts Secretary of StateBenefit CorporationsThe new Chapter 156E, signed into law as part of the Acts, governs the establishment...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/meetings/SY/SY21/20180411/108175/HHRG-115-SY21-20180411-SD003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/SY/SY21/20180411/108175/HHRG-115-SY21-20180411-SD003.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or spies: foreign plots targeting america&#x27;s research...11 Apr 2018 — at ProPublica, a non-profit website for investigative [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/SY/SY21/20180411/108175/HHRG-115-SY21-20180411-SD003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/SY/SY21/20180411/108175/HHRG-115-SY21-20180411-SD003.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or spies: foreign plots targeting america&#x27;s research...11 Apr 2018 — at ProPublica, a non-profit website for investigative [reporting](&amp;#123;&amp;#123; &#x27;reporting/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: augment.market  
    Title: SE C rules for private companies: what every investor should know  
-   Link: <a href="https://augment.market/manual/sec-rules-for-private-companies-what-every-investor-should-know-augment" target="_blank" rel="noopener noreferrer nofollow">https://augment.market/manual/sec-rules-for-private-companies-what-every-investor-should-know-augment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEC rules for private companies: what every investor should knowApril 27, 2026 — Explore key SEC rules for private companies, including e...</p></details>
+   Link:<a href="https://augment.market/manual/sec-rules-for-private-companies-what-every-investor-should-know-augment" target="_blank" rel="noopener noreferrer nofollow">https://augment.market/manual/sec-rules-for-private-companies-what-every-investor-should-know-augment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEC rules for private companies: what every investor should knowApril 27, 2026 — Explore key SEC rules for private companies, including e...</p></details>
    Published: April 27, 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is he still doing To The Stars at all? Feel like there were some major disclosures (kind of?). What&#x27;s...</p></details>
+   Link:<a href="https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is he still doing To The Stars at all? Feel like there were some major disclosures (kind of?). What&#x27;s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: clsbluesky.law.columbia.edu  
    Title: sec commissioner speaks on offerings exempted from registration  
-   Link: <a href="https://clsbluesky.law.columbia.edu/2024/01/23/sec-commissioner-speaks-on-offerings-exempted-from-registration/" target="_blank" rel="noopener noreferrer nofollow">https://clsbluesky.law.columbia.edu/2024/01/23/sec-commissioner-speaks-on-offerings-exempted-from-registration/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioner Speaks on Offerings Exempted from RegistrationJanuary 23, 2024 — Nearly fifty years after the adoption of former rule 146, t...</p></details>
+   Link:<a href="https://clsbluesky.law.columbia.edu/2024/01/23/sec-commissioner-speaks-on-offerings-exempted-from-registration/" target="_blank" rel="noopener noreferrer nofollow">https://clsbluesky.law.columbia.edu/2024/01/23/sec-commissioner-speaks-on-offerings-exempted-from-registration/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioner Speaks on Offerings Exempted from RegistrationJanuary 23, 2024 — Nearly fifty years after the adoption of former rule 146, t...</p></details>
    Published: January 23, 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pryorcashman.com  
-   Link: <a href="https://www.pryorcashman.com/publications/sec-proposes-sweeping-reforms-to-registered-offerings-and-reporting-obligations-for-public-companies" target="_blank" rel="noopener noreferrer nofollow">https://www.pryorcashman.com/publications/sec-proposes-sweeping-reforms-to-registered-offerings-and-reporting-obligations-for-public-companies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SEC Proposes Sweeping Reforms to Registered Offerings and...May 26, 2026 — The SEC&#x27;s proposal would eliminate both the one-year seasonin...</p></details>
+   Link:<a href="https://www.pryorcashman.com/publications/sec-proposes-sweeping-reforms-to-registered-offerings-and-reporting-obligations-for-public-companies" target="_blank" rel="noopener noreferrer nofollow">https://www.pryorcashman.com/publications/sec-proposes-sweeping-reforms-to-registered-offerings-and-reporting-obligations-for-public-companies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SEC Proposes Sweeping Reforms to Registered Offerings and...May 26, 2026 — The SEC&#x27;s proposal would eliminate both the one-year seasonin...</p></details>
    Published: May 26, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thebrag.com  
-   Link: <a href="https://thebrag.com/tom-delonges-to-the-stars-academy-has-allegedly-obtained-metamaterials-not-of-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://thebrag.com/tom-delonges-to-the-stars-academy-has-allegedly-obtained-metamaterials-not-of-this-world/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, will &#x27;metamaterials&#x27; be enough to pull the academy back from the brink...Read more...</p></details>
+   Link:<a href="https://thebrag.com/tom-delonges-to-the-stars-academy-has-allegedly-obtained-metamaterials-not-of-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://thebrag.com/tom-delonges-to-the-stars-academy-has-allegedly-obtained-metamaterials-not-of-this-world/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, will &#x27;metamaterials&#x27; be enough to pull the academy back from the brink...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: torresbusinesslaw.com  
    Title: What Does SEC's Proposal Mean for Form S-3 Eligibility?  
-   Link: <a href="https://www.torresbusinesslaw.com/blog/sec-proposal-could-expand-form-s-3-eligibility-what-public-companies-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://www.torresbusinesslaw.com/blog/sec-proposal-could-expand-form-s-3-eligibility-what-public-companies-should-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2026 — Form S-3 is a short-form registration statement that allows eligible public companies to conduct registered securities off...</p></details>
+   Link:<a href="https://www.torresbusinesslaw.com/blog/sec-proposal-could-expand-form-s-3-eligibility-what-public-companies-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://www.torresbusinesslaw.com/blog/sec-proposal-could-expand-form-s-3-eligibility-what-public-companies-should-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2026 — Form S-3 is a short-form registration statement that allows eligible public companies to conduct registered securities off...</p></details>
    Published: June 9, 2026  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/legal/litigation/metas-social-media-litigation-who-pays-lawyers-2026-06-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/metas-social-media-litigation-who-pays-lawyers-2026-06-23/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>designing features to exploit ⁠teenagers&#x27; developing brains and foster...Read more...</p></details>
+   Link:<a href="https://www.reuters.com/legal/litigation/metas-social-media-litigation-who-pays-lawyers-2026-06-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/metas-social-media-litigation-who-pays-lawyers-2026-06-23/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>designing features to exploit ⁠teenagers&#x27; developing brains and foster...Read more...</p></details>

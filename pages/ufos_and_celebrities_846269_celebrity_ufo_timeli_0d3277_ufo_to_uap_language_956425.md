@@ -280,9 +280,9 @@ The shift from **UFO** (Unidentified Flying Object) to **UAP** (Unidentified Aer
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_timeli_0d3277_ufo_to_uap_language_956425-Illustration-1-dark.svg" | relative_url }}" alt="UAP Language illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_timeli_0d3277_ufo_to_uap_language_956425-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_celebrity_ufo_timeli_0d3277_ufo_to_uap_language_956425-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Baggage Carried by "UFO"
 
-For decades, the term "UFO" carried cultural meanings far beyond its literal definition. Although it originally described any unidentified object in the sky, popular films, television, conspiracy theories and tabloid journalism gradually made it almost synonymous with alien spacecraft. As a result, simply using the word often primed audiences to think about extraterrestrials before any evidence had been examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News What are UAPs, and why do UFOs have a new name?</span><span class="citation-popover-snippet">CBS NewsWhat are UAPs, and why do UFOs have a new name?July 27, 2023 — 14 Sept 2023 — UFOs became a cultural phenomenon over the ensuing...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
+For decades, the term "UFO" carried cultural meanings far beyond its literal definition. Although it originally described any unidentified object in the sky, popular films, television, conspiracy theories and tabloid journalism gradually made it almost synonymous with alien spacecraft. As a result, simply using the word often primed audiences to think about extraterrestrials before any evidence had been examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News What are UAPs, and why do UFOs have a new name?</span><span class="citation-popover-snippet">CBS NewsWhat are UAPs, and why do UFOs have a new name?July 27, 2023 — 14 Sept 2023 — UFOs became a cultural phenomenon over the ensuing...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
 
-This cultural baggage affected more than public opinion. Military [pilots]({{ 'pilots/' | relative_url }}), commercial aviators and scientists have repeatedly said that reporting unusual observations could expose them to [ridicule]({{ 'ridicule/' | relative_url }}) or damage their professional reputations. Official reviews of reporting practices concluded that this stigma discouraged the reporting of potentially important aviation incidents, regardless of their eventual explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO reviewed official USG efforts involving UFOs/UAP...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+This cultural baggage affected more than public opinion. Military [pilots]({{ 'pilots/' | relative_url }}), commercial aviators and scientists have repeatedly said that reporting unusual observations could expose them to [ridicule]({{ 'ridicule/' | relative_url }}) or damage their professional reputations. Official reviews of reporting practices concluded that this stigma discouraged the reporting of potentially important aviation incidents, regardless of their eventual explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO reviewed official USG efforts involving UFOs/UAP...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 Mainstream journalism reflected these assumptions. Before the late 2010s, celebrity UFO stories were commonly treated as entertainment features or personality profiles. A musician, actor or television personality mentioning a UFO encounter was often presented alongside discussions of mysticism, science fiction or personal beliefs rather than as part of an aviation or defence story.
 
@@ -290,14 +290,14 @@ Mainstream journalism reflected these assumptions. Before the late 2010s, celebr
 
 The growing use of **UAP** did not mean that governments had reached different conclusions about unexplained sightings. Instead, it reflected an effort to describe observations without implying what they were.
 
-The phrase "unidentified aerial phenomena" deliberately shifted attention from an assumed object to an observed event. An unexplained radar return, infrared signature, unusual light or visual observation could all fall within the category without suggesting an alien spacecraft or even a solid physical object. This broader wording also fit military investigations, where the central question is whether an observation represents a safety hazard, foreign technology, equipment error or another identifiable cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium obj...</span></span></span>
+The phrase "unidentified aerial phenomena" deliberately shifted attention from an assumed object to an observed event. An unexplained radar return, infrared signature, unusual light or visual observation could all fall within the category without suggesting an alien spacecraft or even a solid physical object. This broader wording also fit military investigations, where the central question is whether an observation represents a safety hazard, foreign technology, equipment error or another identifiable cause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium obj...</span></span></span>
 
 The transition accelerated after several key developments:
 
 * The December 2017 reporting on the Pentagon's Advanced Aerospace Threat Identification Program introduced millions of readers to the government's preferred terminology alongside Navy footage.
 * The establishment of the Unidentified Aerial Phenomena Task Force institutionalised the language inside the US defence community.
 * NASA, congressional hearings and the Department of Defense subsequently adopted similar terminology, reinforcing its legitimacy in news coverage.
-* In 2022, the Pentagon broadened the meaning further by defining **UAP** as **Unidentified Anomalous Phenomena**, allowing investigations of incidents occurring across air, sea and space rather than only in the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AARO+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+* In 2022, the Pentagon broadened the meaning further by defining **UAP** as **Unidentified Anomalous Phenomena**, allowing investigations of incidents occurring across air, sea and space rather than only in the atmosphere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[AARO+3Wikipedia+3Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 This evolution signalled that the subject was being treated primarily as a matter of detection, reporting and analysis rather than speculation about extraterrestrial life.
 
@@ -306,7 +306,7 @@ This evolution signalled that the subject was being treated primarily as a matte
 
 ## How Mainstream Media Changed Its Language
 
-The language shift did not happen overnight. Around 2017, many [headlines]({{ 'headlines/' | relative_url }}) still used "UFO" because it was familiar to readers, while introducing "UAP" in the body of the article. Over the following years, national newspapers and broadcasters increasingly adopted formulations such as "UAP (formerly known as UFOs)" or paired the terms until audiences became familiar with the newer acronym. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News What are UAPs, and why do UFOs have a new name?</span><span class="citation-popover-snippet">CBS NewsWhat are UAPs, and why do UFOs have a new name?July 27, 2023 — 14 Sept 2023 — UFOs became a cultural phenomenon over the ensuing...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
+The language shift did not happen overnight. Around 2017, many [headlines]({{ 'headlines/' | relative_url }}) still used "UFO" because it was familiar to readers, while introducing "UAP" in the body of the article. Over the following years, national newspapers and broadcasters increasingly adopted formulations such as "UAP (formerly known as UFOs)" or paired the terms until audiences became familiar with the newer acronym.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News What are UAPs, and why do UFOs have a new name?</span><span class="citation-popover-snippet">CBS NewsWhat are UAPs, and why do UFOs have a new name?July 27, 2023 — 14 Sept 2023 — UFOs became a cultural phenomenon over the ensuing...</span><span class="citation-popover-meta">Published: July 27, 2023</span></span></span>
 
 The framing also changed in several noticeable ways.
 
@@ -328,7 +328,7 @@ Earlier celebrity UFO stories—such as accounts associated with musicians in th
 
 After 2017, celebrity involvement increasingly intersected with institutional developments. [Public figures]({{ 'public-figures/' | relative_url }}) commenting on Navy videos, congressional hearings or military reporting often found themselves discussed alongside defence officials, former intelligence personnel and aviation experts rather than solely within entertainment pages.
 
-Tom DeLonge illustrates this transition particularly well. His public role became less about claiming personal UFO experiences and more about advocating for the release of government information, supporting investigative organisations and participating in discussions surrounding official UAP reporting. The media therefore increasingly described him in relation to defence disclosures and congressional interest instead of simply placing him within celebrity UFO folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+Tom DeLonge illustrates this transition particularly well. His public role became less about claiming personal UFO experiences and more about advocating for the release of government information, supporting investigative organisations and participating in discussions surrounding official UAP reporting. The media therefore increasingly described him in relation to defence disclosures and congressional interest instead of simply placing him within celebrity UFO folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 The linguistic change also made it easier for journalists to quote [actors]({{ 'actors/' | relative_url }}), musicians or former military figures discussing unexplained aerial reports without immediately signalling endorsement of extraordinary explanations. Referring to "UAP" conveyed that the subject under discussion was an unresolved observation rather than a conclusion about aliens.
 
@@ -337,7 +337,7 @@ The linguistic change also made it easier for journalists to quote [actors]({{ '
 
 ## What the New Language Did—and Did Not—Change
 
-Changing terminology did not resolve the underlying question of what unexplained reports represent. Official reviews continue to conclude that many cases can be attributed to ordinary objects, sensor limitations, atmospheric effects or misidentification, while a smaller number remain unresolved because available data are insufficient for firm conclusions. Importantly, official investigations have not found verified evidence that unresolved cases demonstrate extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO reviewed official USG efforts involving UFOs/UAP...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
+Changing terminology did not resolve the underlying question of what unexplained reports represent. Official reviews continue to conclude that many cases can be attributed to ordinary objects, sensor limitations, atmospheric effects or misidentification, while a smaller number remain unresolved because available data are insufficient for firm conclusions. Importantly, official investigations have not found verified evidence that unresolved cases demonstrate extraterrestrial technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO reviewed official USG efforts involving UFOs/UAP...</span><span class="citation-popover-meta">Published: March 9, 2024</span></span></span>
 
 What changed was the framework for discussion. "UAP" encouraged journalists, officials and pilots to separate three distinct questions:
 
@@ -365,194 +365,194 @@ The change in language therefore reflects a broader mechanism: mainstream media 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Became UAP. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Became UAP. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Shows how historical UFO terminology developed before the UAP era.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how historical UFO terminology developed before the UAP era.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Explains the modern policy environment in which UAP terminology became prominent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the modern policy environment in which UAP terminology became prominent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly bridges older UFO terminology with modern official investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly bridges older UFO terminology with modern official investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
-        </h4>
-        <p class="fr-book-author">By Edward J. Ruppelt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_L47DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+</h4>
+<p class="fr-book-author">By Edward J. Ruppelt</p>
         
-        <p class="fr-book-desc">Provides historical context for official investigations and changing language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for official investigations and changing language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP"><img src="{{ '/assets/images/marketplace-covers/55f25f503d62ea596eb6.jpg' | relative_url }}" alt="Listing image for WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">WEAPONIZED PODCAST T-Shirt, UFO Disclosure Tee, Jeremy Corbell George Knapp UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee"><img src="{{ '/assets/images/marketplace-covers/5f954163d44887a47a78.jpg' | relative_url }}" alt="Listing image for ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Shirt, Sexy Cryptid Vintage Sci-fi T-shirt, UFO Sighting UAP Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt"><img src="{{ '/assets/images/marketplace-covers/d8b1f2dd9cb3bbb11435.jpg' | relative_url }}" alt="Listing image for UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">UFO T Shirt - Alien invasion T Shirt - 3 colours - XS to 5XL - UAP T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee"><img src="{{ '/assets/images/marketplace-covers/89857f1a4e639ced19e5.jpg' | relative_url }}" alt="Listing image for Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NUN T-Shirt, Alien God Disclosure Shirt, UAP Jesus Christ Bible Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+t+shirt+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP t shirt -underwater -scuba -swimming" data-ebay-reference="uap-language-why-ufo-became-uap-ufos-and-celebrities-uap-t-shirt-underwater-scuba-swimming" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ The change in language therefore reflects a broader mechanism: mainstream media 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ The change in language therefore reflects a broader mechanism: mainstream media 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ The change in language therefore reflects a broader mechanism: mainstream media 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ The change in language therefore reflects a broader mechanism: mainstream media 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ The change in language therefore reflects a broader mechanism: mainstream media 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,93 +758,93 @@ The change in language therefore reflects a broader mechanism: mainstream media 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO reviewed official USG efforts involving UFOs/UAP...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1March 9, 2024 — 8 Mar 2024 — AARO reviewed official USG efforts involving UFOs/UAP...</p></details>
    Published: March 9, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium obj...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium obj...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Disclosure movement  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: When the UFO Story Changed: Nick Pope Explains  
-   Link: <a href="https://www.youtube.com/watch?v=tR7zBstOmTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tR7zBstOmTs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP - Unidentified Aerial Phenomena (2022) [Documentary] The New Frontier of Disclosure...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tR7zBstOmTs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tR7zBstOmTs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP - Unidentified Aerial Phenomena (2022) [Documentary] The New Frontier of Disclosure...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gwB6gz5tvDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwB6gz5tvDA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Orders to Open Secret UFO Files, Hidden Truth Finally Revealed?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gwB6gz5tvDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gwB6gz5tvDA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Orders to Open Secret UFO Files, Hidden Truth Finally Revealed?...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cbsnews.com  
    Title: CBS News What are UAPs, and why do UFOs have a new name?  
-   Link: <a href="https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhat are UAPs, and why do UFOs have a new name?July 27, 2023 — 14 Sept 2023 — UFOs became a cultural phenomenon over the ensuing...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/what-are-uaps-unexplained-aerial-phenomenon-ufos-new-name/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsWhat are UAPs, and why do UFOs have a new name?July 27, 2023 — 14 Sept 2023 — UFOs became a cultural phenomenon over the ensuing...</p></details>
    Published: July 27, 2023  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2022/12/19/pentagon-changes-uap-terminology-as-it-looks-to-investigate-unexplainable-sightings-across-all-domains/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2022/12/19/pentagon-changes-uap-terminology-as-it-looks-to-investigate-unexplainable-sightings-across-all-domains/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon changes &#x27;UAP&#x27; terminology as it looks to...19 Dec 2022 — Senior Pentagon officials spotlighted a new office seeking to document...</p></details>
+   Link:<a href="https://defensescoop.com/2022/12/19/pentagon-changes-uap-terminology-as-it-looks-to-investigate-unexplainable-sightings-across-all-domains/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2022/12/19/pentagon-changes-uap-terminology-as-it-looks-to-investigate-unexplainable-sightings-across-all-domains/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon changes &#x27;UAP&#x27; terminology as it looks to...19 Dec 2022 — Senior Pentagon officials spotlighted a new office seeking to document...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: holistic.news  
    Title: no more ufos now its uap whats behind this change and what does it mean  
-   Link: <a href="https://holistic.news/en/no-more-ufos-now-its-uap-whats-behind-this-change-and-what-does-it-mean/" target="_blank" rel="noopener noreferrer nofollow">https://holistic.news/en/no-more-ufos-now-its-uap-whats-behind-this-change-and-what-does-it-mean/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP: The End of UFOs?22 Jul 2025 — UAP: The New Era of Unidentified Aerial Phenomena – Why the Shift from UFOs? · UAP, Not UFO · In Searc...</p></details>
+   Link:<a href="https://holistic.news/en/no-more-ufos-now-its-uap-whats-behind-this-change-and-what-does-it-mean/" target="_blank" rel="noopener noreferrer nofollow">https://holistic.news/en/no-more-ufos-now-its-uap-whats-behind-this-change-and-what-does-it-mean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP: The End of UFOs?22 Jul 2025 — UAP: The New Era of Unidentified Aerial Phenomena – Why the Shift from UFOs? · UAP, Not UFO · In Searc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nps.edu  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science and AnalysisHowever, the first effect may be more damaging as it, along with the conflation of...</p></details>
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Science and AnalysisHowever, the first effect may be more damaging as it, along with the conflation of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Trump Orders to Open Secret UFO Files, Hidden Truth Finally Revealed?  
-   Link: <a href="https://www.youtube.com/watch?v=ipHUmkiMmGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ipHUmkiMmGs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases UFO Files Proving We&#x27;re Not Alone...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ipHUmkiMmGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ipHUmkiMmGs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases UFO Files Proving We&#x27;re Not Alone...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: gaia.com  
    Title: what are uaps  
-   Link: <a href="https://www.gaia.com/article/what-are-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/what-are-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Approach to the UFO Phenomenon2 Jun 2026 — The term UAP changed the way the UFO phenomenon is approached. Discover what it means...</p></details>
+   Link:<a href="https://www.gaia.com/article/what-are-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/what-are-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The New Approach to the UFO Phenomenon2 Jun 2026 — The term UAP changed the way the UFO phenomenon is approached. Discover what it means...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why The US Government Replaced UFO With UAP | WION Podcast  
-   Link: <a href="https://www.youtube.com/watch?v=RmcM-f9E2Qc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmcM-f9E2Qc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Story Changed: Nick Pope Explains...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RmcM-f9E2Qc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RmcM-f9E2Qc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the UFO Story Changed: Nick Pope Explains...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Pentagon Releases UFO Files Proving We're Not Alone  
-   Link: <a href="https://www.youtube.com/watch?v=w3Wxj_jEN64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3Wxj_jEN64</a>  
+   Link:<a href="https://www.youtube.com/watch?v=w3Wxj_jEN64" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w3Wxj_jEN64</a>  

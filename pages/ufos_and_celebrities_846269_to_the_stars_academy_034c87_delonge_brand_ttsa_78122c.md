@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_de
 
 ## Introduction
 
-Tom DeLonge's role in [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) (TTSA) was more than that of a founder with an interest in unidentified aerial phenomena (UAP). His existing celebrity status as a co-founder of Blink-182 became a central part of the organisation's credibility strategy. TTSA used DeLonge's fame to attract audiences that traditional UFO organisations rarely reached, while simultaneously presenting him alongside former [military]({{ 'military/' | relative_url }}), intelligence and aerospace officials. This combination allowed TTSA to argue that public attention and institutional expertise could reinforce one another. At the same time, the company's legal and financial structure explicitly tied its public mission to licensing DeLonge's personal brand, music catalogue and intellectual property. That business model became one of the most debated aspects of TTSA, raising questions about where celebrity marketing ended and evidence-based claims began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">to the stars academy of arts and science inc.DeLonge&#x27;s name and/or likeness and such approval will be valid for subsequent use in conn...</span></span></span>
+Tom DeLonge's role in [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) (TTSA) was more than that of a founder with an interest in unidentified aerial phenomena (UAP). His existing celebrity status as a co-founder of Blink-182 became a central part of the organisation's credibility strategy. TTSA used DeLonge's fame to attract audiences that traditional UFO organisations rarely reached, while simultaneously presenting him alongside former [military]({{ 'military/' | relative_url }}), intelligence and aerospace officials. This combination allowed TTSA to argue that public attention and institutional expertise could reinforce one another. At the same time, the company's legal and financial structure explicitly tied its public mission to licensing DeLonge's personal brand, music catalogue and intellectual property. That business model became one of the most debated aspects of TTSA, raising questions about where celebrity marketing ended and evidence-based claims began.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">to the stars academy of arts and science inc.DeLonge&#x27;s name and/or likeness and such approval will be valid for subsequent use in conn...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-1-dark.svg" | relative_url }}" alt="De Longe Brand illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ The mechanism was straightforward:
 
 </div>
 
-This strategy proved effective at generating publicity. Media coverage frequently introduced TTSA by identifying DeLonge as the musician who had assembled an unusual advisory team rather than simply as another celebrity expressing belief in UFOs. The celebrity became the entry point rather than the ultimate authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">aliens real ufo area 51 nevada pentagon history 1046067</span><span class="citation-popover-snippet">Rolling StoneLoving the Alien20 Aug 2020 — TTSA is the brainchild of Tom DeLonge, one of the founders of the band Blink-182, TTSA has bee...</span></span></span>
+This strategy proved effective at generating publicity. Media coverage frequently introduced TTSA by identifying DeLonge as the musician who had assembled an unusual advisory team rather than simply as another celebrity expressing belief in UFOs. The celebrity became the entry point rather than the ultimate authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">aliens real ufo area 51 nevada pentagon history 1046067</span><span class="citation-popover-snippet">Rolling StoneLoving the Alien20 Aug 2020 — TTSA is the brainchild of Tom DeLonge, one of the founders of the band Blink-182, TTSA has bee...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/er1jVsxg3sc" title="The Beginning of To The Stars Academy of Arts &amp; Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=er1jVsxg3sc" target="_blank" rel="noopener noreferrer">The Beginning of To The Stars Academy of Arts &amp; Science</a></p><p class="youtube-embed-meta">Channel: To The Stars Academy of Arts &amp; Science</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=er1jVsxg3sc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=er1jVsxg3sc">Open on YouTube</a></p></div></div></div>
@@ -310,7 +310,7 @@ This strategy proved effective at generating publicity. Media coverage frequentl
 
 One feature that distinguished TTSA from many [advocacy]({{ 'advocacy/' | relative_url }}) organisations was the extent to which DeLonge's personal brand was embedded in its corporate structure.
 
-SEC filings describe licensing agreements covering his professional name, likeness, voice, photographs, trademarks, copyrights and music-related intellectual property. Those rights could be used across books, films, music, apparel, accessories and other licensed products produced by the company. The filings also describe royalty arrangements, including minimum annual royalty guarantees and provisions governing promotional use of DeLonge's identity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC+2SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">Licensing Agreement dated April 26, 2017Tom DeLonge, To The Stars Academy of. DeLonge is the sole and exclusive owner of the name and...</span></span></span>
+SEC filings describe licensing agreements covering his professional name, likeness, voice, photographs, trademarks, copyrights and music-related intellectual property. Those rights could be used across books, films, music, apparel, accessories and other licensed products produced by the company. The filings also describe royalty arrangements, including minimum annual royalty guarantees and provisions governing promotional use of DeLonge's identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC+2SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">Licensing Agreement dated April 26, 2017Tom DeLonge, To The Stars Academy of. DeLonge is the sole and exclusive owner of the name and...</span></span></span>
 
 This arrangement reflected TTSA's broader commercial strategy. Rather than separating entertainment from its research ambitions, the company presented them as mutually reinforcing.
 
@@ -326,7 +326,7 @@ The model worked in several directions:
 
 </div>
 
-Offering documents explicitly identified DeLonge-related brands as significant commercial assets alongside existing publishing, music and merchandise activities, illustrating that celebrity intellectual property was treated as an important business resource rather than merely incidental publicity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: to-the-stars-web-assets.s3.amazonaws.com">[to-the-stars-web-assets.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">to-the-stars-web-assets.s3.amazonaws.com</span><span class="citation-popover-title">The rights</span><span class="citation-popover-snippet">offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — TTS AAS and TTS are also licensees of Angels and Airwaves, Cat...</span><span class="citation-popover-meta">Published: September 29, 2017</span></span></span>
+Offering documents explicitly identified DeLonge-related brands as significant commercial assets alongside existing publishing, music and merchandise activities, illustrating that celebrity intellectual property was treated as an important business resource rather than merely incidental publicity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: to-the-stars-web-assets.s3.amazonaws.com">[to-the-stars-web-assets.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">to-the-stars-web-assets.s3.amazonaws.com</span><span class="citation-popover-title">The rights</span><span class="citation-popover-snippet">offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — TTS AAS and TTS are also licensees of Angels and Airwaves, Cat...</span><span class="citation-popover-meta">Published: September 29, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-2-dark.svg" | relative_url }}" alt="De Longe Brand illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,7 +336,7 @@ DeLonge's fame generated two opposing credibility effects at the same time.
 
 For supporters, his willingness to risk his reputation suggested [sincerity]({{ 'sincerity/' | relative_url }}). He repeatedly argued that his goal was to encourage serious discussion of UAP rather than simply promote entertainment projects. His ability to recruit former government personnel was often cited as evidence that influential insiders considered him credible enough to work with.
 
-Critics reached the opposite conclusion. Because TTSA combined investment offerings, media production, merchandise and UFO advocacy within one organisation, sceptics argued that commercial incentives complicated public evaluation of its claims. When the same company sold books, apparel and stock while promoting extraordinary narratives, observers questioned whether publicity and evidence were becoming intertwined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC+2JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">To The Stars Academy of Arts and Science Inc.We are required to pay a minimum royalty guarantee of $100,000 each calendar year. Under...</span></span></span>
+Critics reached the opposite conclusion. Because TTSA combined investment offerings, media production, merchandise and UFO advocacy within one organisation, sceptics argued that commercial incentives complicated public evaluation of its claims. When the same company sold books, apparel and stock while promoting extraordinary narratives, observers questioned whether publicity and evidence were becoming intertwined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC+2JASON COLAVITO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">To The Stars Academy of Arts and Science Inc.We are required to pay a minimum royalty guarantee of $100,000 each calendar year. Under...</span></span></span>
 
 Importantly, these criticisms did not necessarily depend on whether particular UAP incidents were authentic. Instead, they focused on governance and incentives:
 
@@ -362,7 +362,7 @@ DeLonge's prominence helped place UAP discussions into mainstream newspapers, te
 
 However, celebrity status did not itself validate broader claims regarding non-human technology, recovered craft or revolutionary aerospace breakthroughs. Those questions remained dependent on documentary evidence, official investigations, physical materials and independent verification rather than on the popularity of the messenger.
 
-The distinction is important because TTSA's strongest public contribution may have been agenda-setting rather than proof. DeLonge's profile encouraged journalists, policymakers and the public to take military UAP encounters more seriously as a subject worthy of investigation. Yet attention is not the same as confirmation. Increased visibility expanded the conversation but did not eliminate the need for evidence capable of supporting extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone+2SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">aliens real ufo area 51 nevada pentagon history 1046067</span><span class="citation-popover-snippet">Rolling StoneLoving the Alien20 Aug 2020 — TTSA is the brainchild of Tom DeLonge, one of the founders of the band Blink-182, TTSA has bee...</span></span></span>
+The distinction is important because TTSA's strongest public contribution may have been agenda-setting rather than proof. DeLonge's profile encouraged journalists, policymakers and the public to take military UAP encounters more seriously as a subject worthy of investigation. Yet attention is not the same as confirmation. Increased visibility expanded the conversation but did not eliminate the need for evidence capable of supporting extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone+2SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">aliens real ufo area 51 nevada pentagon history 1046067</span><span class="citation-popover-snippet">Rolling StoneLoving the Alien20 Aug 2020 — TTSA is the brainchild of Tom DeLonge, one of the founders of the band Blink-182, TTSA has bee...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-3-dark.svg" | relative_url }}" alt="De Longe Brand illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_to_the_stars_academy_034c87_delonge_brand_ttsa_78122c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -370,185 +370,185 @@ The distinction is important because TTSA's strongest public contribution may ha
 
 The TTSA experience demonstrates how celebrity functions as a communication mechanism rather than as evidence. DeLonge's public identity lowered barriers to engagement, helped assemble audiences and provided a recognisable face for an otherwise technical discussion. At the same time, embedding that celebrity identity within the company's licensing, merchandising and investment structure ensured that questions about commercial incentives would accompany its credibility claims.
 
-As a result, TTSA became a defining example of the strengths and limits of celebrity-led UFO advocacy. Fame can dramatically increase visibility, attract institutional collaborators and reshape public conversation. It cannot, by itself, establish the truth of extraordinary claims. That boundary remained one of the central tensions in TTSA's public credibility throughout its development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC+2SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">Licensing Agreement dated April 26, 2017Tom DeLonge, To The Stars Academy of. DeLonge is the sole and exclusive owner of the name and...</span></span></span>
+As a result, TTSA became a defining example of the strengths and limits of celebrity-led UFO advocacy. Fame can dramatically increase visibility, attract institutional collaborators and reshape public conversation. It cannot, by itself, establish the truth of extraordinary claims. That boundary remained one of the central tensions in TTSA's public credibility throughout its development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sec.gov">[SEC+2SEC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sec.gov</span><span class="citation-popover-snippet">Licensing Agreement dated April 26, 2017Tom DeLonge, To The Stars Academy of. DeLonge is the sole and exclusive owner of the name and...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MZ9nVn5vuUE" title="Tuna on Toast with Tom Delonge (UFO&#x27;s, Blink 182 Memories, New Boxcar Racer, AVA, Mark Hoppus Love)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MZ9nVn5vuUE" target="_blank" rel="noopener noreferrer">Tuna on Toast with Tom Delonge (UFO&#x27;s, Blink 182 Memories, New Boxcar Racer, AVA, Mark Hoppus Love)</a></p><p class="youtube-embed-meta">Channel: Tuna on Toast with Stryker</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MZ9nVn5vuUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MZ9nVn5vuUE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Celebrity Fame Help or Distort TTSA?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Celebrity Fame Help or Distort TTSA?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
-        </h4>
-        <p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
+</h4>
+<p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
         
-        <p class="fr-book-desc">Illustrates DeLonge&#x27;s entertainment-driven UFO approach.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates DeLonge&#x27;s entertainment-driven UFO approach.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines celebrity, belief and institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines celebrity, belief and institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Provides overlapping UAP context involving former officials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides overlapping UAP context involving former officials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Broadens understanding beyond celebrity branding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Broadens understanding beyond celebrity branding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sekret Machines: Gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sekret Machines: Gods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/83e30108942623654bdf.jpg' | relative_url }}" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster+-book+-books+-underwater+-scuba+-swimming&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster -book -books -underwater -scuba -swimming" data-ebay-reference="de-longe-brand-did-celebrity-fame-help-or-distort-ttsa-ufos-and-celebrities-uap-poster-book-books-underwater-scuba-swimm" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -564,7 +564,7 @@ As a result, TTSA became a defining example of the strengths and limits of celeb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -584,7 +584,7 @@ As a result, TTSA became a defining example of the strengths and limits of celeb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -616,7 +616,7 @@ As a result, TTSA became a defining example of the strengths and limits of celeb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -668,7 +668,7 @@ As a result, TTSA became a defining example of the strengths and limits of celeb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -713,7 +713,7 @@ As a result, TTSA became a defining example of the strengths and limits of celeb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -754,126 +754,126 @@ As a result, TTSA became a defining example of the strengths and limits of celeb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to the stars academy of arts and science inc.DeLonge&#x27;s name and/or likeness and such approval will be valid for subsequent use in conn...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418023727/tv492460_partii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the stars academy of arts and science inc.DeLonge&#x27;s name and/or likeness and such approval will be valid for subsequent use in conn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Academy of Arts and Science Inc.We are required to pay a minimum royalty guarantee of $100,000 each calendar year. Under...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417043466/v473169_partiiandiii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Academy of Arts and Science Inc.We are required to pay a minimum royalty guarantee of $100,000 each calendar year. Under...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing Agreement dated April 26, 2017Tom DeLonge, To The Stars Academy of. DeLonge is the sole and exclusive owner of the name and...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420417036300/filename7.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Licensing Agreement dated April 26, 2017Tom DeLonge, To The Stars Academy of. DeLonge is the sole and exclusive owner of the name and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: to-the-stars-web-assets.s3.amazonaws.com  
    Title: The rights  
-   Link: <a href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — TTS AAS and TTS are also licensees of Angels and Airwaves, Cat...</p></details>
+   Link:<a href="https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf" target="_blank" rel="noopener noreferrer nofollow">https://to-the-stars-web-assets.s3.amazonaws.com/downloads/TTSA_Offering_Circular_092917_vLAUNCH_DAY.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated september 29, 2017October 6, 2017 — 29 Sept 2017 — TTS AAS and TTS are also licensees of Angels and Airwaves, Cat...</p></details>
    Published: September 29, 2017  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>financial reportOn April 26, 2017, the company entered into a licensing agreement with Thomas DeLonge. DeLonge&#x27;s legal and professional n...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420418050766/tv503167_1sa.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>financial reportOn April 26, 2017, the company entered into a licensing agreement with Thomas DeLonge. DeLonge&#x27;s legal and professional n...</p></details>
    Published: April 26, 2017  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Quite a &quot;UFO IPO&quot;: Tom DeLonge Is Seeking Your...11 Oct 2017 — DeLonge is soliciting investment by registering TTS AAS as a public b...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/not-quite-a-ufo-ipo-tom-delonge-is-seeking-your-investment-in-to-the-stars-to-give-himself-a-700000-or-more-payday</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not Quite a &quot;UFO IPO&quot;: Tom DeLonge Is Seeking Your...11 Oct 2017 — DeLonge is soliciting investment by registering TTS AAS as a public b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sec.gov  
    Title: Untitled Under a licensing agreement dated  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920040685/tm208241d1_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920040685/tm208241d1_253g2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledUnder a licensing agreement dated April 26, 2017, Tom DeLonge, Mr. Handsome, LLC, Good In Bed Music and ASCAP have licensed certa...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920040685/tm208241d1_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920040685/tm208241d1_253g2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UntitledUnder a licensing agreement dated April 26, 2017, Tom DeLonge, Mr. Handsome, LLC, Good In Bed Music and ASCAP have licensed certa...</p></details>
    Published: April 26, 2017  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sec.gov  
    Title: tv525071 253g2  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated july 12, 2019Under a Licensing Agreement, we are required to pay royalty payments to Tom DeLonge, Mr. Handsome, L...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000114420419034515/tv525071_253g2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>offering circular dated july 12, 2019Under a Licensing Agreement, we are required to pay royalty payments to Tom DeLonge, Mr. Handsome, L...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to the stars academy of arts and science inc.The Licensing Agreement allows Tom DeLonge to elect to invest any royalty payment due to the...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the stars academy of arts and science inc.The Licensing Agreement allows Tom DeLonge to elect to invest any royalty payment due to the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>urities and exchange commissionThe Company continued to benefit from our President and Interim CEO, Tom DeLonge&#x27;s, music tour where he...</p></details>
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000164117225005183/partii.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>urities and exchange commissionThe Company continued to benefit from our President and Interim CEO, Tom DeLonge&#x27;s, music tour where he...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rollingstone.com  
    Title: aliens real ufo area 51 nevada pentagon history 1046067  
-   Link: <a href="https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneLoving the Alien20 Aug 2020 — TTSA is the brainchild of Tom DeLonge, one of the founders of the band Blink-182, TTSA has bee...</p></details>
+   Link:<a href="https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-features/aliens-real-ufo-area-51-nevada-pentagon-history-1046067/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rolling StoneLoving the Alien20 Aug 2020 — TTSA is the brainchild of Tom DeLonge, one of the founders of the band Blink-182, TTSA has bee...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eresources.nlb.gov.sg  
    Title: nlb.gov.sg Newspaper S G  
-   Link: <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20180908-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20180908-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits Times, 8 September 20188 Sept 2018 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers published...</p></details>
+   Link:<a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20180908-1" target="_blank" rel="noopener noreferrer nofollow">https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20180908-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Straits Times, 8 September 20188 Sept 2018 — NewspaperSG is an online resource of over 200 Singapore and Malaya newspapers published...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs</a>  
+   Link:<a href="https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/107388360/Hyperconvergence_Religion_Politics_and_UFOs</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RyanEFOX2/posts/wait-what-former-congressman-matt-gaetz-dropped-a-bombshell-on-benny-johnsons-po/1468561334641852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RyanEFOX2/posts/wait-what-former-congressman-matt-gaetz-dropped-a-bombshell-on-benny-johnsons-po/1468561334641852/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WAIT, WHAT?👽 Former Congressman Matt Gaetz dropped...... Tom DeLonge. DeLonge has sung about aliens in songs like Aliens... New York Ti...</p></details>
+   Link:<a href="https://www.facebook.com/RyanEFOX2/posts/wait-what-former-congressman-matt-gaetz-dropped-a-bombshell-on-benny-johnsons-po/1468561334641852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RyanEFOX2/posts/wait-what-former-congressman-matt-gaetz-dropped-a-bombshell-on-benny-johnsons-po/1468561334641852/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WAIT, WHAT?👽 Former Congressman Matt Gaetz dropped...... Tom DeLonge. DeLonge has sung about aliens in songs like Aliens... New York Ti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: physicist warns ufo disclosure is a government distractionevery time theres a bi  
-   Link: <a href="https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shawn Ryan Show... Tom DeLonge. DeLonge has sung about aliens in songs like Aliens... New York Times in 2017. The fact that the governme...</p></details>
+   Link:<a href="https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/shawnryanshow/posts/physicist-warns-ufo-disclosure-is-a-government-distractionevery-time-theres-a-bi/1737335251174128/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shawn Ryan Show... Tom DeLonge. DeLonge has sung about aliens in songs like Aliens... New York Times in 2017. The fact that the governme...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nal.usda.gov  
-   Link: <a href="https://www.nal.usda.gov/exhibits/speccoll/items/browse?advanced%5B0%5D%5Belement_id%5D=49&amp;advanced%5B0%5D%5Bterms%5D=herbicide+application&amp;advanced%5B0%5D%5Btype%5D=is+exactly&amp;output=omeka-xml&amp;page=1&amp;sort_dir=a&amp;sort_field=added" target="_blank" rel="noopener noreferrer nofollow">https://www.nal.usda.gov/exhibits/speccoll/items/browse?advanced%5B0%5D%5Belement_id%5D=49&amp;advanced%5B0%5D%5Bterms%5D=herbicide+application&amp;advanced%5B0%5D%5Btype%5D=is+exactly&amp;output=omeka-xml&amp;page=1&amp;sort_dir=a&amp;sort_field=added</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star ions 1 - 7 5 Blank Hours AIRCRAFT COURSE: 270 Degrees Sec. G.P.A. STATION G.P.A. STATION 76 77 78 79 80 81 82 83 84 85 86 87 88 89 9...</p></details>
+   Link:<a href="https://www.nal.usda.gov/exhibits/speccoll/items/browse?advanced%5B0%5D%5Belement_id%5D=49&amp;advanced%5B0%5D%5Bterms%5D=herbicide+application&amp;advanced%5B0%5D%5Btype%5D=is+exactly&amp;output=omeka-xml&amp;page=1&amp;sort_dir=a&amp;sort_field=added" target="_blank" rel="noopener noreferrer nofollow">https://www.nal.usda.gov/exhibits/speccoll/items/browse?advanced%5B0%5D%5Belement_id%5D=49&amp;advanced%5B0%5D%5Bterms%5D=herbicide+application&amp;advanced%5B0%5D%5Btype%5D=is+exactly&amp;output=omeka-xml&amp;page=1&amp;sort_dir=a&amp;sort_field=added</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Star ions 1 - 7 5 Blank Hours AIRCRAFT COURSE: 270 Degrees Sec. G.P.A. STATION G.P.A. STATION 76 77 78 79 80 81 82 83 84 85 86 87 88 89 9...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C2dBbElyjmk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C2dBbElyjmk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ontacts and they did help get this 2017 New York Times article...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/C2dBbElyjmk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C2dBbElyjmk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ontacts and they did help get this 2017 New York Times article...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
    Title: Bill Birnes joined Ancient Aliens in Season 1  
-   Link: <a href="https://www.facebook.com/100091249837062/posts/bill-birnes-joined-ancient-aliens-in-season-1-becoming-one-of-the-shows-most-rec/944441341940852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091249837062/posts/bill-birnes-joined-ancient-aliens-in-season-1-becoming-one-of-the-shows-most-rec/944441341940852/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Birnes joined Ancient Aliens in Season 1, becoming one of the show&#x27;s most recognisable and prolific contributors across more...</p></details>
+   Link:<a href="https://www.facebook.com/100091249837062/posts/bill-birnes-joined-ancient-aliens-in-season-1-becoming-one-of-the-shows-most-rec/944441341940852/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100091249837062/posts/bill-birnes-joined-ancient-aliens-in-season-1-becoming-one-of-the-shows-most-rec/944441341940852/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Birnes joined Ancient Aliens in Season 1, becoming one of the show&#x27;s most recognisable and prolific contributors across more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/65573267/Digital_Economy_Emerging_Technologies_and_Business_Innovation_4th_International_Conference_ICDEc_2019_Beirut_Lebanon_April_15_18_2019_Proceedings" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/65573267/Digital_Economy_Emerging_Technologies_and_Business_Innovation_4th_International_Conference_ICDEc_2019_Beirut_Lebanon_April_15_18_2019_Proceedings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ith digitalization are understandable by Russian companies.Read more...</p></details>
+   Link:<a href="https://www.academia.edu/65573267/Digital_Economy_Emerging_Technologies_and_Business_Innovation_4th_International_Conference_ICDEc_2019_Beirut_Lebanon_April_15_18_2019_Proceedings" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/65573267/Digital_Economy_Emerging_Technologies_and_Business_Innovation_4th_International_Conference_ICDEc_2019_Beirut_Lebanon_April_15_18_2019_Proceedings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ith digitalization are understandable by Russian companies.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MZ9nVn5vuUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MZ9nVn5vuUE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know What Tom Delonge Knows (From Joe Rogan Experience #1029)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MZ9nVn5vuUE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MZ9nVn5vuUE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know What Tom Delonge Knows (From Joe Rogan Experience #1029)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lrec-conf.org  
    Title: 2026.politicalnlp 1.0  
-   Link: <a href="https://lrec-conf.org/proceedings/lrec2026/workshops/politicalnlp/2026.politicalnlp-1.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lrec-conf.org/proceedings/lrec2026/workshops/politicalnlp/2026.politicalnlp-1.0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LREC 202616 May 2026 — 2026 is the third edition of the international workshop dedicated to the intersection of Natural Language Processi...</p></details>
+   Link:<a href="https://lrec-conf.org/proceedings/lrec2026/workshops/politicalnlp/2026.politicalnlp-1.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lrec-conf.org/proceedings/lrec2026/workshops/politicalnlp/2026.politicalnlp-1.0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LREC 202616 May 2026 — 2026 is the third edition of the international workshop dedicated to the intersection of Natural Language Processi...</p></details>
    Published: May 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: billboard.com  
    Title: billboard top music lawyers 2020 list 9424332  
-   Link: <a href="https://www.billboard.com/music/music-news/billboard-top-music-lawyers-2020-list-9424332/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/music-news/billboard-top-music-lawyers-2020-list-9424332/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army and DeLonge&#x27;s To the Stars Academy of Arts &amp; Science, which conducts research...Read more...</p></details>
+   Link:<a href="https://www.billboard.com/music/music-news/billboard-top-music-lawyers-2020-list-9424332/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/music-news/billboard-top-music-lawyers-2020-list-9424332/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army and DeLonge&#x27;s To the Stars Academy of Arts &amp; Science, which conducts research...Read more...</p></details>

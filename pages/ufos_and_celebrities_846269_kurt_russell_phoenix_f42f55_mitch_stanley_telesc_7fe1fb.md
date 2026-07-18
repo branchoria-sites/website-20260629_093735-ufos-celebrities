@@ -280,17 +280,17 @@ image: /assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mi
 
 ## Introduction
 
-Mitch Stanley’s telescope observation is one of the most important pieces of evidence in debates about the moving V-shaped lights seen during the 13 March 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event. Unlike most witnesses, Stanley did not rely solely on the unaided eye. An amateur astronomer observing from Scottsdale, Arizona, he pointed a 10-inch Dobsonian telescope at the formation and reported that the lights resolved into separate aircraft rather than a single enormous craft. His account has become a central argument for those who conclude that at least the earlier moving formation was an ordinary [military]({{ 'military/' | relative_url }}) flight rather than an unknown object. At the same time, many witnesses who believed they saw a single, silent structure argue that Stanley observed only one portion of the night's events or that his view cannot explain every reported observation. The disagreement illustrates how a single instrument-assisted observation can be highly significant without necessarily resolving every claim associated with the broader Phoenix Lights case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
+Mitch Stanley’s telescope observation is one of the most important pieces of evidence in debates about the moving V-shaped lights seen during the 13 March 1997 [Phoenix Lights]({{ 'phoenix-lights/' | relative_url }}) event. Unlike most witnesses, Stanley did not rely solely on the unaided eye. An amateur astronomer observing from Scottsdale, Arizona, he pointed a 10-inch Dobsonian telescope at the formation and reported that the lights resolved into separate aircraft rather than a single enormous craft. His account has become a central argument for those who conclude that at least the earlier moving formation was an ordinary [military]({{ 'military/' | relative_url }}) flight rather than an unknown object. At the same time, many witnesses who believed they saw a single, silent structure argue that Stanley observed only one portion of the night's events or that his view cannot explain every reported observation. The disagreement illustrates how a single instrument-assisted observation can be highly significant without necessarily resolving every claim associated with the broader Phoenix Lights case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mitch_stanley_telesc_7fe1fb-Illustration-1-dark.svg" | relative_url }}" alt="Telescope View illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mitch_stanley_telesc_7fe1fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mitch_stanley_telesc_7fe1fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Stanley said he saw
 
-According to Stanley, he was already observing the night sky with a 10-inch Dobsonian telescope when the V-shaped formation came into view. Through the telescope, what appeared to be individual bright lights to the naked eye resolved into aircraft. He reported seeing paired lights mounted beneath squarish wings and concluded immediately that they were ordinary aeroplanes flying in formation rather than lights attached to one gigantic object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
+According to Stanley, he was already observing the night sky with a 10-inch Dobsonian telescope when the V-shaped formation came into view. Through the telescope, what appeared to be individual bright lights to the naked eye resolved into aircraft. He reported seeing paired lights mounted beneath squarish wings and concluded immediately that they were ordinary aeroplanes flying in formation rather than lights attached to one gigantic object.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
 
-A detail often overlooked is Stanley's reaction at the time. Rather than continuing to observe the formation for an extended period, he reportedly lost interest once he recognised it as aircraft. He later explained that there was nothing mysterious left to investigate, making the sighting unremarkable from his perspective. That comment is frequently cited because it suggests his conclusion was reached during the event itself rather than reconstructed years later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
+A detail often overlooked is Stanley's reaction at the time. Rather than continuing to observe the formation for an extended period, he reportedly lost interest once he recognised it as aircraft. He later explained that there was nothing mysterious left to investigate, making the sighting unremarkable from his perspective. That comment is frequently cited because it suggests his conclusion was reached during the event itself rather than reconstructed years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
 
-His account also fits the [timeline]({{ 'timeline/' | relative_url }}) of the earlier moving V formation rather than the later stationary lights seen over the Phoenix area. This distinction matters because the two episodes are widely regarded by investigators as separate events that have often been merged in popular retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+His account also fits the [timeline]({{ 'timeline/' | relative_url }}) of the earlier moving V formation rather than the later stationary lights seen over the Phoenix area. This distinction matters because the two episodes are widely regarded by investigators as separate events that have often been merged in popular retellings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UBlJlBQdv5w" title="Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer">Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UBlJlBQdv5w">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ In Stanley's description, the telescope changed the appearance of the formation 
 
 * Individual lights split into pairs rather than remaining single glowing points.
 * He could distinguish the aircraft's squarish wing shape instead of seeing isolated lights suspended in space.
-* The formation appeared to consist of multiple independent aircraft maintaining formation rather than lights fixed to one rigid structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
+* The formation appeared to consist of multiple independent aircraft maintaining formation rather than lights fixed to one rigid structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
 
 This does not prove that every observer should have perceived the same thing. Most witnesses were looking with the naked eye, often from different locations, at different elevations and under varying atmospheric conditions. Human vision is particularly poor at estimating the distance, size and speed of isolated lights against a dark sky, making formation flights capable of producing misleading impressions of a single object.
 
@@ -313,9 +313,9 @@ This does not prove that every observer should have perceived the same thing. Mo
 
 Stanley's testimony did not stand alone. It became influential because it aligned with a broader reconstruction proposed by sceptical investigators and later supported by [reporting]({{ 'reporting/' | relative_url }}) on military activity that evening.
 
-According to this interpretation, the moving V corresponded to a formation of A-10 Thunderbolt II aircraft returning during Operation Snowbird training. Flying at relatively high altitude with steady formation lights, the aircraft could appear as a coherent V while their blinking anti-collision lights were less noticeable from the ground. Stanley's description of small aircraft with squared wings is consistent with that hypothesis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[Plane &amp; Pilot+2Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">the phoenix lights</span><span class="citation-popover-snippet">Plane &amp; PilotThe Phoenix Lights20 Sept 2022 — Its squared wings and H-tail empennage give it a boxy profile that matches the witness repo...</span></span></span>
+According to this interpretation, the moving V corresponded to a formation of A-10 Thunderbolt II aircraft returning during Operation Snowbird training. Flying at relatively high altitude with steady formation lights, the aircraft could appear as a coherent V while their blinking anti-collision lights were less noticeable from the ground. Stanley's description of small aircraft with squared wings is consistent with that hypothesis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planeandpilotmag.com">[Plane &amp; Pilot+2Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planeandpilotmag.com</span><span class="citation-popover-title">the phoenix lights</span><span class="citation-popover-snippet">Plane &amp; PilotThe Phoenix Lights20 Sept 2022 — Its squared wings and H-tail empennage give it a boxy profile that matches the witness repo...</span></span></span>
 
-Later investigations also noted that some witnesses reported changes in the spacing of the lights during flight, behaviour that is easier to explain if the lights belonged to separate aircraft adjusting their formation than if they were embedded in a rigid, single object. Contemporary reporting highlighted Stanley's observation as evidence supporting that interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/news/the-great-ufo-cover-up-6422930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">the great ufo cover up 6422930</span><span class="citation-popover-snippet">Phoenix New TimesThe Great UFO Cover-up26 Jun 1997 — Mitch Stanley&#x27;s sighting jibes well with witness reports that the configuration of t...</span></span></span>
+Later investigations also noted that some witnesses reported changes in the spacing of the lights during flight, behaviour that is easier to explain if the lights belonged to separate aircraft adjusting their formation than if they were embedded in a rigid, single object. Contemporary reporting highlighted Stanley's observation as evidence supporting that interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.phoenixnewtimes.com/news/the-great-ufo-cover-up-6422930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phoenixnewtimes.com">[Phoenix New Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phoenixnewtimes.com</span><span class="citation-popover-title">the great ufo cover up 6422930</span><span class="citation-popover-snippet">Phoenix New TimesThe Great UFO Cover-up26 Jun 1997 — Mitch Stanley&#x27;s sighting jibes well with witness reports that the configuration of t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bgBxBA9BD4E" title="The Phoenix Lights: Unraveling One of the Largest UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bgBxBA9BD4E" target="_blank" rel="noopener noreferrer">The Phoenix Lights: Unraveling One of the Largest UFO Sightings</a></p><p class="youtube-embed-meta">Channel: Top 5 Scary Videos</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bgBxBA9BD4E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bgBxBA9BD4E">Open on YouTube</a></p></div></div></div>
@@ -332,11 +332,11 @@ Supporters of the giant-craft interpretation raise several objections:
 * **Different viewing locations.** Stanley observed from one position, whereas thousands of other witnesses viewed the formation from many locations across Arizona.
 * **Different phases of the event.** Some argue he observed only one segment of the reported flight path rather than every reported sighting.
 * **Reports of a dark structure.** Numerous witnesses maintained that they perceived a solid, silent object blocking out stars between the lights, something Stanley's account does not directly address.
-* **Separation from the later lights.** Stanley's observation concerns the moving formation, not the later hovering lights over Phoenix that generated much of the photographic evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
+* **Separation from the later lights.** Stanley's observation concerns the moving formation, not the later hovering lights over Phoenix that generated much of the photographic evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Phoenix Lights</span><span class="citation-popover-snippet">Phoenix Lights</span></span></span>
 
 </div>
 
-Sceptics respond that eyewitness testimony, particularly at night, is vulnerable to perceptual errors. They argue that independent aircraft flying in formation can create the illusion of a single connected object, especially when observers mentally link bright lights into a coherent outline and infer a body connecting them. Stanley's telescope observation is therefore treated as a valuable calibration point against unaided visual impressions rather than simply another witness statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Alien Lights?</span><span class="citation-popover-snippet">At Phoenix, Stephenville, and ElsewhereStanley could see that the lights were, in a word, “planes.” He saw that each light was actually a...</span></span></span>
+Sceptics respond that eyewitness testimony, particularly at night, is vulnerable to perceptual errors. They argue that independent aircraft flying in formation can create the illusion of a single connected object, especially when observers mentally link bright lights into a coherent outline and infer a body connecting them. Stanley's telescope observation is therefore treated as a valuable calibration point against unaided visual impressions rather than simply another witness statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Alien Lights?</span><span class="citation-popover-snippet">At Phoenix, Stephenville, and ElsewhereStanley could see that the lights were, in a word, “planes.” He saw that each light was actually a...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mitch_stanley_telesc_7fe1fb-Illustration-3-dark.svg" | relative_url }}" alt="Telescope View illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mitch_stanley_telesc_7fe1fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_kurt_russell_phoenix_f42f55_mitch_stanley_telesc_7fe1fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,201 +344,201 @@ Sceptics respond that eyewitness testimony, particularly at night, is vulnerable
 
 Within the broader discussion of Kurt Russell's recollection, Stanley's observation provides an important counterweight. Russell described reporting a V-shaped formation of lights while flying into Phoenix, but his account, like most cockpit and ground reports, was based on unaided observation rather than telescopic inspection.
 
-If Stanley correctly identified separate aircraft, then Russell may have reported exactly what a pilot would naturally see from a distance: an organised formation of bright lights whose individual aircraft were not yet distinguishable. That possibility neither questions Russell's [sincerity]({{ 'sincerity/' | relative_url }}) nor diminishes the value of his testimony. Instead, it highlights a recurring feature of the Phoenix Lights case: different observers, using different viewing conditions and different levels of optical resolution, could arrive at dramatically different interpretations of the same moving lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
+If Stanley correctly identified separate aircraft, then Russell may have reported exactly what a pilot would naturally see from a distance: an organised formation of bright lights whose individual aircraft were not yet distinguishable. That possibility neither questions Russell's [sincerity]({{ 'sincerity/' | relative_url }}) nor diminishes the value of his testimony. Instead, it highlights a recurring feature of the Phoenix Lights case: different observers, using different viewing conditions and different levels of optical resolution, could arrive at dramatically different interpretations of the same moving lights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tucsonweekly.com">[Tucson Weekly+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tucsonweekly.com</span><span class="citation-popover-title">Tucson Weekly Answering The &quot;Arizona Question&quot; (July 3</span><span class="citation-popover-snippet">telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8SUJTh6Hs-I" title="The Phoenix Lights - 17 years later" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer">The Phoenix Lights - 17 years later</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8SUJTh6Hs-I">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did a Telescope Solve the Moving V?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did a Telescope Solve the Moving V?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Explores how trained observers, evidence, and credibility affect UFO case evaluations, complementing discussion of telescope observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how trained observers, evidence, and credibility affect UFO case evaluations, complementing discussion of telescope observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides the scientific framework for evaluating eyewitness sightings and competing interpretations such as the Phoenix Lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the scientific framework for evaluating eyewitness sightings and competing interpretations such as the Phoenix Lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps readers understand observational limits, perception, and the role of evidence in extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand observational limits, perception, and the role of evidence in extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
-        </h4>
-        <p class="fr-book-author">By Peter A. Sturrock</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Enigma on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0jymdfEFM4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Enigma" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
+</h4>
+<p class="fr-book-author">By Peter A. Sturrock</p>
         
-        <p class="fr-book-desc">Examines physical evidence and scientific analysis relevant to debates over notable sightings like the Phoenix Lights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines physical evidence and scientific analysis relevant to debates over notable sightings like the Phoenix Lights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Peter+A.+Sturrock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND"><img src="{{ '/assets/images/marketplace-covers/cc1b8d2608c4535dd144.jpg' | relative_url }}" alt="Listing image for Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Inspired UFO Model S4/Area 51 - Retro / Sci Fi + FREE DISPLAY STAND</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE"><img src="{{ '/assets/images/marketplace-covers/be015d518def7513643e.jpg' | relative_url }}" alt="Listing image for 122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">122CM LARGE ROSWELL ALIEN GREEN FINISH UFO EXTRATERRESTRIAL FIGURINE OUTER SPACE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="telescope-view-did-a-telescope-solve-the-moving-v-ufos-and-celebrities-ufo-collectible-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ If Stanley correctly identified separate aircraft, then Russell may have reporte
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ If Stanley correctly identified separate aircraft, then Russell may have reporte
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ If Stanley correctly identified separate aircraft, then Russell may have reporte
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ If Stanley correctly identified separate aircraft, then Russell may have reporte
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ If Stanley correctly identified separate aircraft, then Russell may have reporte
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,136 +744,136 @@ If Stanley correctly identified separate aircraft, then Russell may have reporte
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skepticalinquirer.org  
    Title: Alien Lights?  
-   Link: <a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At Phoenix, Stephenville, and ElsewhereStanley could see that the lights were, in a word, “planes.” He saw that each light was actually a...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/03/alien-lights-at-phoenix-stephenville-and-elsewhere-a-postmortem/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At Phoenix, Stephenville, and ElsewhereStanley could see that the lights were, in a word, “planes.” He saw that each light was actually a...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Phoenix Lights  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix_Lights</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Phoenix, Arizona  
-   Link: <a href="https://en.wikipedia.org/wiki/Phoenix%2C_Arizona" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix%2C_Arizona</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix, ArizonaThe capital and most populous city of the US state of Arizona. With over 1.6 million residents at the 2020 census, Pho...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Phoenix%2C_Arizona" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Phoenix%2C_Arizona</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix, ArizonaThe capital and most populous city of the US state of Arizona. With over 1.6 million residents at the 2020 census, Pho...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=z7i4i_2yLK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7i4i_2yLK0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights - 17 years later...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z7i4i_2yLK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z7i4i_2yLK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights - 17 years later...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The Phoenix Lights  
-   Link: <a href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SUJTh6Hs-I</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 years later and The Phoenix Lights mystery goes on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8SUJTh6Hs-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8SUJTh6Hs-I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 years later and The Phoenix Lights mystery goes on...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tucsonweekly.com  
    Title: Tucson Weekly Answering The "Arizona Question" (July 3  
-   Link: <a href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.tucsonweekly.com/tw/07-03-97/curr1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</p></details>
+   Link:<a href="https://www.tucsonweekly.com/tw/07-03-97/curr1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.tucsonweekly.com/tw/07-03-97/curr1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>telescope. The lights were located on the undersides of squarish wings, Mitch says. And the planes themselves seemed small, like light pr...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: phoenixnewtimes.com  
    Title: phoenix lights ufo mystery explanations 19105870  
-   Link: <a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights explained: Everything to know about the...3 Jun 2024 — The first sighting is believed to have been a group of A-10 Thunde...</p></details>
+   Link:<a href="https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/uncategorized/phoenix-lights-ufo-mystery-explanations-19105870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights explained: Everything to know about the...3 Jun 2024 — The first sighting is believed to have been a group of A-10 Thunde...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: planeandpilotmag.com  
    Title: the phoenix lights  
-   Link: <a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane &amp; PilotThe Phoenix Lights20 Sept 2022 — Its squared wings and H-tail empennage give it a boxy profile that matches the witness repo...</p></details>
+   Link:<a href="https://planeandpilotmag.com/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://planeandpilotmag.com/the-phoenix-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plane &amp; PilotThe Phoenix Lights20 Sept 2022 — Its squared wings and H-tail empennage give it a boxy profile that matches the witness repo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: phoenixnewtimes.com  
    Title: the great ufo cover up 6422930  
-   Link: <a href="https://www.phoenixnewtimes.com/news/the-great-ufo-cover-up-6422930/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/news/the-great-ufo-cover-up-6422930/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesThe Great UFO Cover-up26 Jun 1997 — Mitch Stanley&#x27;s sighting jibes well with witness reports that the configuration of t...</p></details>
+   Link:<a href="https://www.phoenixnewtimes.com/news/the-great-ufo-cover-up-6422930/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/news/the-great-ufo-cover-up-6422930/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix New TimesThe Great UFO Cover-up26 Jun 1997 — Mitch Stanley&#x27;s sighting jibes well with witness reports that the configuration of t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: phoenixnewtimes.com  
    Title: air traffic controllers who saw ufo muzzled by faa 6631922  
-   Link: <a href="https://www.phoenixnewtimes.com/news/air-traffic-controllers-who-saw-ufo-muzzled-by-faa-6631922/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/news/air-traffic-controllers-who-saw-ufo-muzzled-by-faa-6631922/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitch Stanley looked at the source of the lights with his telescope and saw — airplanes. His description of squared-off wings gibed with...</p></details>
+   Link:<a href="https://www.phoenixnewtimes.com/news/air-traffic-controllers-who-saw-ufo-muzzled-by-faa-6631922/" target="_blank" rel="noopener noreferrer nofollow">https://www.phoenixnewtimes.com/news/air-traffic-controllers-who-saw-ufo-muzzled-by-faa-6631922/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mitch Stanley looked at the source of the lights with his telescope and saw — airplanes. His description of squared-off wings gibed with...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: metabunk.org  
    Title: Phoenix Lights | Page 2 | Metabunk  
-   Link: <a href="https://www.metabunk.org/threads/phoenix-lights.11938/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/phoenix-lights.11938/page-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 7, 2021 — Mitch Stanley, an amateur astronomer, stated that he resolved the Phoenix lights (or rather the first event, at 20:00 hr...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/phoenix-lights.11938/page-2" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/phoenix-lights.11938/page-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 7, 2021 — Mitch Stanley, an amateur astronomer, stated that he resolved the Phoenix lights (or rather the first event, at 20:00 hr...</p></details>
    Published: August 7, 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: stampaday.wordpress.com  
    Title: the phoenix lights  
-   Link: <a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights - A Stamp A DayMarch 13, 2019 — Mitch Stanley, an amateur astronomer, observed high altitude lights flying in formation us...</p></details>
+   Link:<a href="https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/" target="_blank" rel="noopener noreferrer nofollow">https://stampaday.wordpress.com/2019/03/13/the-phoenix-lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights - A Stamp A DayMarch 13, 2019 — Mitch Stanley, an amateur astronomer, observed high altitude lights flying in formation us...</p></details>
    Published: March 13, 2019  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: echoes-of-the-infinite.fandom.com  
    Title: Phoenix Lights  
-   Link: <a href="https://echoes-of-the-infinite.fandom.com/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://echoes-of-the-infinite.fandom.com/wiki/Phoenix_Lights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights | Echoes of the Infinite Wiki - FandomAmateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lig...</p></details>
+   Link:<a href="https://echoes-of-the-infinite.fandom.com/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer nofollow">https://echoes-of-the-infinite.fandom.com/wiki/Phoenix_Lights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lights | Echoes of the Infinite Wiki - FandomAmateur astronomer Mitch Stanley in Scottsdale, Arizona, also observed the high altitude lig...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/lmpq4v/debunking_popular_ufo_cases_the_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/lmpq4v/debunking_popular_ufo_cases_the_phoenix_lights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBUNKING POPULAR UFO CASES: The Phoenix LightsAs I first revealed in the Phoenix New Times, a young man with a 10-inch Dobsonian telesco...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/lmpq4v/debunking_popular_ufo_cases_the_phoenix_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/lmpq4v/debunking_popular_ufo_cases_the_phoenix_lights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEBUNKING POPULAR UFO CASES: The Phoenix LightsAs I first revealed in the Phoenix New Times, a young man with a 10-inch Dobsonian telesco...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/buzzfeedunsolved/videos/the-unexplained-phoenix-lights-phenomenon/311627510139226/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/buzzfeedunsolved/videos/the-unexplained-phoenix-lights-phenomenon/311627510139226/</a>  
+   Link:<a href="https://www.facebook.com/buzzfeedunsolved/videos/the-unexplained-phoenix-lights-phenomenon/311627510139226/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/buzzfeedunsolved/videos/the-unexplained-phoenix-lights-phenomenon/311627510139226/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: 1428elm.com  
-   Link: <a href="https://1428elm.com/2018/03/31/phoenix-ufo-sighting-isnt-google-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://1428elm.com/2018/03/31/phoenix-ufo-sighting-isnt-google-balloon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix UFO Sighting – This isn&#x27;t a Google balloon…31 Mar 2018 — According to him, the planes appeared small and he could see wings...</p></details>
+   Link:<a href="https://1428elm.com/2018/03/31/phoenix-ufo-sighting-isnt-google-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://1428elm.com/2018/03/31/phoenix-ufo-sighting-isnt-google-balloon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix UFO Sighting – This isn&#x27;t a Google balloon…31 Mar 2018 — According to him, the planes appeared small and he could see wings...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mitchstudio.com.au  
-   Link: <a href="https://mitchstudio.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://mitchstudio.com.au/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with low tox haircare. Blondes, Balayage, Lived In Colours...</p></details>
+   Link:<a href="https://mitchstudio.com.au/" target="_blank" rel="noopener noreferrer nofollow">https://mitchstudio.com.au/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with low tox haircare. Blondes, Balayage, Lived In Colours...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bgBxBA9BD4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bgBxBA9BD4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: Unraveling One of the Largest UFO...Time Codes: 0:00- Intro 0:11- V-shaped Object 2:35- Operation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bgBxBA9BD4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bgBxBA9BD4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: Unraveling One of the Largest UFO...Time Codes: 0:00- Intro 0:11- V-shaped Object 2:35- Operation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: What This Air Force Pilot Saw Over Phoenix Changes Everything | James Fox  
-   Link: <a href="https://www.youtube.com/watch?v=WnK8u3PY-pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WnK8u3PY-pg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights. One of the greatest UFO mysteries returns after years. Is it aliens or a military...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WnK8u3PY-pg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WnK8u3PY-pg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phoenix Lights. One of the greatest UFO mysteries returns after years. Is it aliens or a military...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Phoenix Lights incidentOn March 13, 1997 thousands of Arizona residents witnessed a Large Unidentified Flying Objects mov...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/11qdqfi/on_march_13_1997_thousands_of_arizona_residents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Phoenix Lights incidentOn March 13, 1997 thousands of Arizona residents witnessed a Large Unidentified Flying Objects mov...</p></details>
    Published: March 13, 1997  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Air Force Pilot Breaks His Silence on the Phoenix Lights Craft | James Fox  
-   Link: <a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UBlJlBQdv5w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What This Air Force Pilot Saw Over Phoenix Changes Everything | James Fox...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UBlJlBQdv5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UBlJlBQdv5w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What This Air Force Pilot Saw Over Phoenix Changes Everything | James Fox...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: instagram.com  
    Title: The second  
-   Link: <a href="https://www.instagram.com/p/DVjSEpmiNkl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVjSEpmiNkl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: One of the Most Mysterious Aerial Events in...March 6, 2026 — An amateur astronomer named Mitch Stanley watched the...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVjSEpmiNkl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVjSEpmiNkl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phoenix Lights: One of the Most Mysterious Aerial Events in...March 6, 2026 — An amateur astronomer named Mitch Stanley watched the...</p></details>
    Published: March 6, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: go.gale.com  
-   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA182976232&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA182976232&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentby T Ortega · 2008 —... Mitch Stanley spotted the vee from his backyard. Looking through a 10-inch Dobsonian telescope he saw th...</p></details>
+   Link:<a href="https://go.gale.com/ps/i.do?id=GALE%7CA182976232&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA182976232&amp;issn=10639330&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Documentby T Ortega · 2008 —... Mitch Stanley spotted the vee from his backyard. Looking through a 10-inch Dobsonian telescope he saw th...</p></details>

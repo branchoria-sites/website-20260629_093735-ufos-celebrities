@@ -274,13 +274,13 @@ image: /assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_zi
 
 ## Introduction
 
-David Bowie's Ziggy Stardust was never presented as evidence of a real UFO encounter or extraterrestrial contact. Instead, the character used the idea of an alien visitor as a powerful theatrical device that allowed Bowie to reinvent himself while exploring fame, identity, gender expression and cultural anxiety. Introduced through *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* (1972), Ziggy became one of popular [music]({{ 'music/' | relative_url }})'s most influential fictional figures because the character's apparent extraterrestrial nature gave Bowie [permission]({{ 'permission/' | relative_url }}) to challenge expectations about what a rock star could look like, sound like and represent. Rather than asking audiences to believe in aliens, Bowie used alienness as a metaphor for being different, misunderstood and transformed through performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Bowie performing as Ziggy Stardust, the British glam rockstar assuming</span><span class="citation-popover-snippet">The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</span><span class="citation-popover-meta">Published: June 8, 2017</span></span></span>
+David Bowie's Ziggy Stardust was never presented as evidence of a real UFO encounter or extraterrestrial contact. Instead, the character used the idea of an alien visitor as a powerful theatrical device that allowed Bowie to reinvent himself while exploring fame, identity, gender expression and cultural anxiety. Introduced through *The Rise and Fall of Ziggy Stardust and the Spiders from Mars* (1972), Ziggy became one of popular [music]({{ 'music/' | relative_url }})'s most influential fictional figures because the character's apparent extraterrestrial nature gave Bowie [permission]({{ 'permission/' | relative_url }}) to challenge expectations about what a rock star could look like, sound like and represent. Rather than asking audiences to believe in aliens, Bowie used alienness as a metaphor for being different, misunderstood and transformed through performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Bowie performing as Ziggy Stardust, the British glam rockstar assuming</span><span class="citation-popover-snippet">The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</span><span class="citation-popover-meta">Published: June 8, 2017</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-1-dark.svg" | relative_url }}" alt="Ziggy illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Ziggy framed the arrival of an alien rock star
 
-The Ziggy story unfolds as a concept narrative in which Earth faces imminent destruction and an extraordinary rock performer emerges as a messenger during humanity's final years. The album opens with the apocalyptic "Five Years", establishing a world approaching collapse before introducing Ziggy as the charismatic figure who channels hope, desire and spectacle through music. Although the narrative shifts between songs and leaves room for interpretation, the extraterrestrial framing is essential: Ziggy is not merely eccentric but fundamentally "other". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Five_Years_%28David_Bowie_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Five Years (David Bowie song</span><span class="citation-popover-snippet">Five Years (David Bowie song</span></span></span>
+The Ziggy story unfolds as a concept narrative in which Earth faces imminent destruction and an extraordinary rock performer emerges as a messenger during humanity's final years. The album opens with the apocalyptic "Five Years", establishing a world approaching collapse before introducing Ziggy as the charismatic figure who channels hope, desire and spectacle through music. Although the narrative shifts between songs and leaves room for interpretation, the extraterrestrial framing is essential: Ziggy is not merely eccentric but fundamentally "other".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Five_Years_%28David_Bowie_song%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Five Years (David Bowie song</span><span class="citation-popover-snippet">Five Years (David Bowie song</span></span></span>
 
 That alien identity solved several artistic problems at once.
 
@@ -305,13 +305,13 @@ Ziggy's importance lies less in where he supposedly came from than in what his a
 
 ### Fame viewed from the outside
 
-By presenting the central figure as someone who appears to have arrived from another world, Bowie examined celebrity almost as if an outsider were studying human society. Ziggy becomes consumed by the adoration directed towards him, eventually collapsing under the pressures of messianic fame. The character's rise and destruction therefore operate as a critique of rock-star culture rather than a celebration of it. The Library of Congress notes that Ziggy's death on stage reflects Bowie's wider commentary on the nature of performance and the construction of the rock-star image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Bowie performing as Ziggy Stardust, the British glam rockstar assuming</span><span class="citation-popover-snippet">The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</span><span class="citation-popover-meta">Published: June 8, 2017</span></span></span>
+By presenting the central figure as someone who appears to have arrived from another world, Bowie examined celebrity almost as if an outsider were studying human society. Ziggy becomes consumed by the adoration directed towards him, eventually collapsing under the pressures of messianic fame. The character's rise and destruction therefore operate as a critique of rock-star culture rather than a celebration of it. The Library of Congress notes that Ziggy's death on stage reflects Bowie's wider commentary on the nature of performance and the construction of the rock-star image.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Bowie performing as Ziggy Stardust, the British glam rockstar assuming</span><span class="citation-popover-snippet">The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</span><span class="citation-popover-meta">Published: June 8, 2017</span></span></span>
 
 ### Alien identity and gender performance
 
 The extraterrestrial framing also created space for radical experimentation with appearance and identity. Ziggy's brightly coloured hair, theatrical costumes, make-up and androgynous styling deliberately resisted rigid masculine norms. Rather than arguing directly for a political programme, Bowie suggested that an alien visitor need not obey familiar social rules.
 
-Japanese designer Kansai Yamamoto's costumes, mime techniques, kabuki influences and glam aesthetics reinforced this sense that Ziggy occupied a world adjacent to everyday reality. The result was a character who looked unfamiliar enough that audiences could reconsider assumptions about beauty, masculinity and performance itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust (character</span><span class="citation-popover-snippet">Ziggy Stardust (character</span></span></span>
+Japanese designer Kansai Yamamoto's costumes, mime techniques, kabuki influences and glam aesthetics reinforced this sense that Ziggy occupied a world adjacent to everyday reality. The result was a character who looked unfamiliar enough that audiences could reconsider assumptions about beauty, masculinity and performance itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust (character</span><span class="citation-popover-snippet">Ziggy Stardust (character</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-2-dark.svg" | relative_url }}" alt="Ziggy illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,9 +325,9 @@ Rather than treating apocalypse as literal prediction, Bowie used it as emotiona
 
 Within the broader history of musicians using extraterrestrial imagery, Ziggy is notable because the alien functions almost entirely as metaphor.
 
-Unlike artists who discussed alleged UFO sightings or paranormal experiences, Bowie generally described Ziggy as an artistic construction. In later interviews he explained that he wanted to create an archetypal "messiah rock star", combining theatre, mime and rock performance into a fictional role. The extraterrestrial identity was one component of that dramatic design rather than an expression of personal testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust (character</span><span class="citation-popover-snippet">Ziggy Stardust (character</span></span></span>
+Unlike artists who discussed alleged UFO sightings or paranormal experiences, Bowie generally described Ziggy as an artistic construction. In later interviews he explained that he wanted to create an archetypal "messiah rock star", combining theatre, mime and rock performance into a fictional role. The extraterrestrial identity was one component of that dramatic design rather than an expression of personal testimony.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust (character</span><span class="citation-popover-snippet">Ziggy Stardust (character</span></span></span>
 
-Several influences fed into the character's creation, including performer Vince Taylor's self-identification with alien and messianic ideas after his psychological decline, Bowie's fascination with theatrical presentation, and his ambition to merge rock concerts with dramatic storytelling. These inspirations produced a deliberately synthetic figure assembled from multiple cultural references rather than a straightforward science-fiction hero. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust (character</span><span class="citation-popover-snippet">Ziggy Stardust (character</span></span></span>
+Several influences fed into the character's creation, including performer Vince Taylor's self-identification with alien and messianic ideas after his psychological decline, Bowie's fascination with theatrical presentation, and his ambition to merge rock concerts with dramatic storytelling. These inspirations produced a deliberately synthetic figure assembled from multiple cultural references rather than a straightforward science-fiction hero.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust (character</span><span class="citation-popover-snippet">Ziggy Stardust (character</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FqXdEGj_Syg" title="David Bowie documentary: The story of Ziggy Stardust .mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FqXdEGj_Syg" target="_blank" rel="noopener noreferrer">David Bowie documentary: The story of Ziggy Stardust .mp4</a></p><p class="youtube-embed-meta">Channel: Claus Wright</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FqXdEGj_Syg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FqXdEGj_Syg">Open on YouTube</a></p></div></div></div>
@@ -336,9 +336,9 @@ Several influences fed into the character's creation, including performer Vince 
 
 A crucial distinction separates Ziggy Stardust from celebrity UFO narratives. Bowie never asked audiences to accept Ziggy as evidence that extraterrestrials existed. The character belongs to theatrical fiction.
 
-The Library of Congress describes the Ziggy project as an exercise in "metarock": Bowie performs as Ziggy, while Ziggy himself performs the role of an alien rock star. This layered construction continually reminds audiences that they are watching performance rather than documentary reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Bowie performing as Ziggy Stardust, the British glam rockstar assuming</span><span class="citation-popover-snippet">The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</span><span class="citation-popover-meta">Published: June 8, 2017</span></span></span>
+The Library of Congress describes the Ziggy project as an exercise in "metarock": Bowie performs as Ziggy, while Ziggy himself performs the role of an alien rock star. This layered construction continually reminds audiences that they are watching performance rather than documentary reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-title">Bowie performing as Ziggy Stardust, the British glam rockstar assuming</span><span class="citation-popover-snippet">The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</span><span class="citation-popover-meta">Published: June 8, 2017</span></span></span>
 
-That theatrical approach became even clearer when Bowie dramatically retired the character during the final Ziggy concert at London's Hammersmith Odeon in July 1973. Many audience members initially believed Bowie himself was retiring, illustrating how successfully performer and [persona]({{ 'persona/' | relative_url }}) had merged in the public imagination. The staged ending demonstrated that Ziggy was a role that could be created, inhabited and discarded as part of Bowie's continuing artistic reinvention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust%3A_The_Motion_Picture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust: The Motion Picture</span><span class="citation-popover-snippet">Ziggy Stardust: The Motion Picture</span></span></span>
+That theatrical approach became even clearer when Bowie dramatically retired the character during the final Ziggy concert at London's Hammersmith Odeon in July 1973. Many audience members initially believed Bowie himself was retiring, illustrating how successfully performer and [persona]({{ 'persona/' | relative_url }}) had merged in the public imagination. The staged ending demonstrated that Ziggy was a role that could be created, inhabited and discarded as part of Bowie's continuing artistic reinvention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ziggy_Stardust%3A_The_Motion_Picture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ziggy Stardust: The Motion Picture</span><span class="citation-popover-snippet">Ziggy Stardust: The Motion Picture</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/81H5PT7ANjc" title="David Bowie Explains Ziggy Stardust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=81H5PT7ANjc" target="_blank" rel="noopener noreferrer">David Bowie Explains Ziggy Stardust</a></p><p class="youtube-embed-meta">Channel: CBC News: The National</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=81H5PT7ANjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=81H5PT7ANjc">Open on YouTube</a></p></div></div></div>
@@ -359,190 +359,190 @@ The character showed later musicians that "alien" could signify:
 
 </div>
 
-The continuing preservation of Ziggy costumes, notebooks and stage materials within the Victoria and Albert Museum's David Bowie archive reflects how this fictional alien evolved into one of modern popular culture's defining performance identities. The archive emphasises Bowie's continual reinvention through constructed personas, with Ziggy remaining the most enduring example of how extraterrestrial imagery could reshape music, fashion and visual culture without ever claiming to document a real UFO event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vam.ac.uk/collections/david-bowie?srsltid=AfmBOooAawyKLYlky0u_vDtlJnpa0wTGeSOiO0-FmgYGBeJ5GvK7h9Cz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vam.ac.uk">[Victoria and Albert Museum+2apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vam.ac.uk</span><span class="citation-popover-snippet">Victoria and Albert MuseumDavid Bowie – Explore the CollectionsBowie periodically reinvented himself, creating on-stage personas such as...</span></span></span>
+The continuing preservation of Ziggy costumes, notebooks and stage materials within the Victoria and Albert Museum's David Bowie archive reflects how this fictional alien evolved into one of modern popular culture's defining performance identities. The archive emphasises Bowie's continual reinvention through constructed personas, with Ziggy remaining the most enduring example of how extraterrestrial imagery could reshape music, fashion and visual culture without ever claiming to document a real UFO event.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vam.ac.uk/collections/david-bowie?srsltid=AfmBOooAawyKLYlky0u_vDtlJnpa0wTGeSOiO0-FmgYGBeJ5GvK7h9Cz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vam.ac.uk">[Victoria and Albert Museum+2apnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vam.ac.uk</span><span class="citation-popover-snippet">Victoria and Albert MuseumDavid Bowie – Explore the CollectionsBowie periodically reinvented himself, creating on-stage personas such as...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-3-dark.svg" | relative_url }}" alt="Ziggy illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_musicians_ufo_cultur_2f2a21_ziggy_alien_reinvent_658e0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Ziggy Stardust Needed to Be Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Ziggy Stardust Needed to Be Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/948872-M.jpg" alt="Cover for The Complete David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete David Bowie">The Complete David Bowie</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Pegg, Pegg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/948872-M.jpg" alt="Cover for The Complete David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete David Bowie">The Complete David Bowie</a>
+</h4>
+<p class="fr-book-author">By Nicholas Pegg, Pegg</p>
         
-        <p class="fr-book-desc">First published 2000. Subjects: Discography, Rock musicians, Popmuziek, Criticism and interpretation, Biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2000. Subjects: Discography, Rock musicians, Popmuziek, Criticism and interpretation, Biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Starman: David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8562432-M.jpg" alt="Cover for Starman: David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Starman: David Bowie">Starman: David Bowie</a>
-        </h4>
-        <p class="fr-book-author">By Paul Trynka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Starman: David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8562432-M.jpg" alt="Cover for Starman: David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Starman: David Bowie">Starman: David Bowie</a>
+</h4>
+<p class="fr-book-author">By Paul Trynka</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Rock musicians, Biography, Bowie, david, 1947-2016, Rock musicians, biography, Great britain, biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Rock musicians, Biography, Bowie, david, 1947-2016, Rock musicians, biography, Great britain, biography.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10249393-M.jpg" alt="Cover for David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="David Bowie">David Bowie</a>
-        </h4>
-        <p class="fr-book-author">By Jones, Dylan, Dylan Jones et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10249393-M.jpg" alt="Cover for David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="David Bowie">David Bowie</a>
+</h4>
+<p class="fr-book-author">By Jones, Dylan, Dylan Jones et al.</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Rock musicians, Biography, Bowie, david, 1947-2016, Rock musicians, biography, Rock musicians, great brit...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Rock musicians, Biography, Bowie, david, 1947-2016, Rock musicians, biography, Rock musicians, great brit...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonage daydream on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/551292-M.jpg" alt="Cover for Moonage daydream" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonage daydream">Moonage daydream</a>
-        </h4>
-        <p class="fr-book-author">By Mick Rock, David Bowie</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonage daydream on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/551292-M.jpg" alt="Cover for Moonage daydream" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonage daydream">Moonage daydream</a>
+</h4>
+<p class="fr-book-author">By Mick Rock, David Bowie</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Portraits, Rock musicians, Rock music, Bowie, david, 1947-2016, Singers, great britain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Portraits, Rock musicians, Rock music, Bowie, david, 1947-2016, Singers, great britain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete David Bowie</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Starman: David Bowie</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">David Bowie</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete David Bowie</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Starman: David Bowie</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">David Bowie</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Five Years (David Bowie song)  
-   Link: <a href="https://en.wikipedia.org/wiki/Five_Years_%28David_Bowie_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Five_Years_%28David_Bowie_song%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Five_Years_%28David_Bowie_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Five_Years_%28David_Bowie_song%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Ziggy Stardust (character)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ziggy_Stardust_%28character%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ziggy Stardust (song)  
-   Link: <a href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ziggy_Stardust_%28song%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ziggy_Stardust_%28song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ziggy_Stardust_%28song%29</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ziggy Stardust: The Motion Picture  
-   Link: <a href="https://en.wikipedia.org/wiki/Ziggy_Stardust%3A_The_Motion_Picture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ziggy_Stardust%3A_The_Motion_Picture</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ziggy_Stardust%3A_The_Motion_Picture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ziggy_Stardust%3A_The_Motion_Picture</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/3a0203ba490e549fd8af700bed830b2e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3a0203ba490e549fd8af700bed830b2e</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The collection, a gift from Bowie&#x27;s estate, will be housed at the new David Bowie Center for the Study of Performing Arts, set to open in...</p></details>
+   Link:<a href="https://apnews.com/article/3a0203ba490e549fd8af700bed830b2e" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/3a0203ba490e549fd8af700bed830b2e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The collection, a gift from Bowie&#x27;s estate, will be housed at the new David Bowie Center for the Study of Performing Arts, set to open in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/657a86a1a87597d547d5d206546461d4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/657a86a1a87597d547d5d206546461d4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The center also emphasizes Bowie’s global cultural influence and his deep engagement with politics, art, and technology. Part of the V&amp;A...</p></details>
+   Link:<a href="https://apnews.com/article/657a86a1a87597d547d5d206546461d4" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/657a86a1a87597d547d5d206546461d4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The center also emphasizes Bowie’s global cultural influence and his deep engagement with politics, art, and technology. Part of the V&amp;A...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: museum.de  
    Title: Ziggy Stardust Archive  
-   Link: <a href="https://www.museum.de/blog/tag/ziggy-stardust/" target="_blank" rel="noopener noreferrer nofollow">https://www.museum.de/blog/tag/ziggy-stardust/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Der MuseumsblogZiggy Stardust David Bowie Centre at V&amp;A East Storehouse. David Bowie, London, UK, V&amp;A East Storehouse, Victoria &amp; Albert...</p></details>
+   Link:<a href="https://www.museum.de/blog/tag/ziggy-stardust/" target="_blank" rel="noopener noreferrer nofollow">https://www.museum.de/blog/tag/ziggy-stardust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Der MuseumsblogZiggy Stardust David Bowie Centre at V&amp;A East Storehouse. David Bowie, London, UK, V&amp;A East Storehouse, Victoria &amp; Albert...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: loc.gov  
    Title: Bowie performing as Ziggy Stardust, the British glam rockstar assuming  
-   Link: <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</p></details>
+   Link:<a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressRise and Fall of Ziggy Stardust and the Spiders from MarsJune 8, 2017 — Ziggy&#x27;s death on stage speaks to Bowie&#x27;s p...</p></details>
    Published: June 8, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vam.ac.uk  
-   Link: <a href="https://www.vam.ac.uk/collections/david-bowie?srsltid=AfmBOooAawyKLYlky0u_vDtlJnpa0wTGeSOiO0-FmgYGBeJ5GvK7h9Cz" target="_blank" rel="noopener noreferrer nofollow">https://www.vam.ac.uk/collections/david-bowie?srsltid=AfmBOooAawyKLYlky0u_vDtlJnpa0wTGeSOiO0-FmgYGBeJ5GvK7h9Cz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Victoria and Albert MuseumDavid Bowie – Explore the CollectionsBowie periodically reinvented himself, creating on-stage personas such as...</p></details>
+   Link:<a href="https://www.vam.ac.uk/collections/david-bowie?srsltid=AfmBOooAawyKLYlky0u_vDtlJnpa0wTGeSOiO0-FmgYGBeJ5GvK7h9Cz" target="_blank" rel="noopener noreferrer nofollow">https://www.vam.ac.uk/collections/david-bowie?srsltid=AfmBOooAawyKLYlky0u_vDtlJnpa0wTGeSOiO0-FmgYGBeJ5GvK7h9Cz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Victoria and Albert MuseumDavid Bowie – Explore the CollectionsBowie periodically reinvented himself, creating on-stage personas such as...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/844818295643764/posts/24104299945935604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/844818295643764/posts/24104299945935604/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering David Bowie through Ziggy StardustMy first encounter with Starman was Ziggy and my heart was captured. I devoured previous re...</p></details>
+   Link:<a href="https://www.facebook.com/groups/844818295643764/posts/24104299945935604/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/844818295643764/posts/24104299945935604/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovering David Bowie through Ziggy StardustMy first encounter with Starman was Ziggy and my heart was captured. I devoured previous re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: designboom.com  
    Title: va new archive details david bowie centre september opening london 07 04 2025  
-   Link: <a href="https://www.designboom.com/art/va-new-archive-details-david-bowie-centre-september-opening-london-07-04-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.designboom.com/art/va-new-archive-details-david-bowie-centre-september-opening-london-07-04-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unseen ziggy guitar revealed at V&amp;A&#x27;s david bowie centre...10 Sept 2025 — David Bowie Centre reveals a wealth of previously unseen s arc...</p></details>
+   Link:<a href="https://www.designboom.com/art/va-new-archive-details-david-bowie-centre-september-opening-london-07-04-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.designboom.com/art/va-new-archive-details-david-bowie-centre-september-opening-london-07-04-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unseen ziggy guitar revealed at V&amp;A&#x27;s david bowie centre...10 Sept 2025 — David Bowie Centre reveals a wealth of previously unseen s arc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: artblart.com  
    Title: david bowie ziggy stardust  
-   Link: <a href="https://artblart.com/tag/david-bowie-ziggy-stardust/" target="_blank" rel="noopener noreferrer nofollow">https://artblart.com/tag/david-bowie-ziggy-stardust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: David Bowie Ziggy StardustZiggy Stardust and 1972 marked the birth of his most famous creation; Ziggy Stardust, a human manifestatio...</p></details>
+   Link:<a href="https://artblart.com/tag/david-bowie-ziggy-stardust/" target="_blank" rel="noopener noreferrer nofollow">https://artblart.com/tag/david-bowie-ziggy-stardust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tag: David Bowie Ziggy StardustZiggy Stardust and 1972 marked the birth of his most famous creation; Ziggy Stardust, a human manifestatio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RZ3TpmR2fhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZ3TpmR2fhU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 David Bowie: Stardust to Berlin (Documentary)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RZ3TpmR2fhU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZ3TpmR2fhU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 David Bowie: Stardust to Berlin (Documentary)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: David Bowie documentary: The story of Ziggy Stardust.mp4  
-   Link: <a href="https://www.youtube.com/watch?v=FqXdEGj_Syg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXdEGj_Syg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 David Bowie on the Ziggy Stardust years: “We were designing the 21st century in 1971”...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FqXdEGj_Syg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FqXdEGj_Syg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 David Bowie on the Ziggy Stardust years: “We were designing the 21st century in 1971”...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fm4.orf.at  
-   Link: <a href="https://fm4.orf.at/stories/3002986/" target="_blank" rel="noopener noreferrer nofollow">https://fm4.orf.at/stories/3002986/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Bowie zum Alien-Messias Ziggy Stardust wurde25 May 2020 — Eine neue Graphic Novel bildet die Evolution von David Bowie zum fiktiona...</p></details>
+   Link:<a href="https://fm4.orf.at/stories/3002986/" target="_blank" rel="noopener noreferrer nofollow">https://fm4.orf.at/stories/3002986/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Bowie zum Alien-Messias Ziggy Stardust wurde25 May 2020 — Eine neue Graphic Novel bildet die Evolution von David Bowie zum fiktiona...</p></details>
    Published: May 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: David Bowie Explains Ziggy Stardust  
-   Link: <a href="https://www.youtube.com/watch?v=81H5PT7ANjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=81H5PT7ANjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 David Bowie documentary: The story of Ziggy Stardust.mp4...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=81H5PT7ANjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=81H5PT7ANjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 David Bowie documentary: The story of Ziggy Stardust.mp4...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nrWQGwman3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrWQGwman3g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 David Bowie Explains Ziggy Stardust...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nrWQGwman3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nrWQGwman3g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 David Bowie Explains Ziggy Stardust...</p></details>

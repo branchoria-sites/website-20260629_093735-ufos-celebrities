@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufos-and-celebrities-846269-ufo/
 description: Focused pages that expand on Evidence Types.
-date: '2026-06-29'
+date: '2026'
 layout: default
 parent_basename: ufos_and_celebrities_846269_ufo_evidence_types_701d5c
 parent_title: Evidence Types
@@ -16,7 +16,7 @@ parent_permalink: /evidence-types/
 
 # Explore Topics in Evidence Types
 
-The following pages expand on the main **[Evidence Types]({{ '/evidence-types/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Evidence Types]({{ '/evidence-types/' | relative_url }})** page and cover its key branches in.
 
 - [AARO Balloons]({{ '/aaro-balloons/' | relative_url }})
 - [NASA Standards]({{ '/nasa-standards/' | relative_url }})

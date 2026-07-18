@@ -452,17 +452,17 @@ Alien imagery in celebrity culture is often art, not evidence. A singer in a sil
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76-overview.webp" | relative_url }}" alt="Overview image for Persona" loading="eager" decoding="sync" fetchpriority="high">
-The safest way to read “aliens and celebrities” is to separate three questions: is this a fictional or symbolic persona, a branding choice, or a serious real-world claim? Official UAP bodies also keep a hard boundary: NASA says there are no data supporting UAP as evidence of alien technologies, and the US All-domain Anomaly Resolution Office says it has found no verifiable evidence that any UAP sighting represents extraterrestrial activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+The safest way to read “aliens and celebrities” is to separate three questions: is this a fictional or symbolic persona, a branding choice, or a serious real-world claim? Official UAP bodies also keep a hard boundary: NASA says there are no data supporting UAP as evidence of alien technologies, and the US All-domain Anomaly Resolution Office says it has found no verifiable evidence that any UAP sighting represents extraterrestrial activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 ## Creative personas turn “alien” into a language of otherness
 
-The alien has been one of popular [music]({{ 'music/' | relative_url }})’s most useful masks because it says several things at once. It can mean “I am futuristic”, “I am not like ordinary people”, “I feel displaced”, “I reject the rules of normal identity”, or “this performance takes place in a fictional world”. Ken McLeod’s study of alien and futuristic themes in popular music argues that such imagery has often helped artists construct nonconformist identities, including forms linked to African American empowerment and gay and lesbian cultural expression. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/231854018_Space_Oddities_Aliens_Futurism_and_Meaning_in_Popular_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Space Oddities: Aliens, Futurism and Meaning in Popular Music</span><span class="citation-popover-snippet">Research Gate(PDF) Space Oddities: Aliens, Futurism and Meaning in Popular Music</span></span></span>
+The alien has been one of popular [music]({{ 'music/' | relative_url }})’s most useful masks because it says several things at once. It can mean “I am futuristic”, “I am not like ordinary people”, “I feel displaced”, “I reject the rules of normal identity”, or “this performance takes place in a fictional world”. Ken McLeod’s study of alien and futuristic themes in popular music argues that such imagery has often helped artists construct nonconformist identities, including forms linked to African American empowerment and gay and lesbian cultural expression.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/231854018_Space_Oddities_Aliens_Futurism_and_Meaning_in_Popular_Music" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Space Oddities: Aliens, Futurism and Meaning in Popular Music</span><span class="citation-popover-snippet">Research Gate(PDF) Space Oddities: Aliens, Futurism and Meaning in Popular Music</span></span></span>
 
-David Bowie is the classic case because his alien language was theatrical rather than evidentiary. “Space Oddity” turned the astronaut into a figure of isolation, and Ziggy Stardust later made science fiction central to glam rock’s questions about fame, gender and self-invention. Pitchfork’s account of Bowie’s science-fiction work describes him as repeatedly switching names and identities before reinventing himself as Ziggy at the height of glam, while also tying his work to wider speculative fiction and the cultural shock of the space age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/features/article/9787-anthems-for-the-moon-david-bowies-sci-fi-explorations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Anthems for the Moon: David Bowie’s Sci-Fi Explorations &#124; Pitchfork</span><span class="citation-popover-snippet">Anthems for the Moon: David Bowie’s Sci-Fi Explorations &#124; Pitchfork</span></span></span>
+David Bowie is the classic case because his alien language was theatrical rather than evidentiary. “Space Oddity” turned the astronaut into a figure of isolation, and Ziggy Stardust later made science fiction central to glam rock’s questions about fame, gender and self-invention. Pitchfork’s account of Bowie’s science-fiction work describes him as repeatedly switching names and identities before reinventing himself as Ziggy at the height of glam, while also tying his work to wider speculative fiction and the cultural shock of the space age.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pitchfork.com/features/article/9787-anthems-for-the-moon-david-bowies-sci-fi-explorations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pitchfork.com">[Pitchfork]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pitchfork.com</span><span class="citation-popover-title">Anthems for the Moon: David Bowie’s Sci-Fi Explorations &#124; Pitchfork</span><span class="citation-popover-snippet">Anthems for the Moon: David Bowie’s Sci-Fi Explorations &#124; Pitchfork</span></span></span>
 
-Sun Ra shows a more spiritually charged version of the same mechanism. The National Museum of African American History and Culture describes him as a jazz composer, bandleader and philosopher whose futuristic clothing and self-created persona helped lay the groundwork for musical Afrofuturism. It also notes that, after a personal awakening, he declared himself an alien from Saturn on a mission of peace and liberation, with the persona characterising the alienated and displaced position of African Americans in society. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchablemuseum.com">[Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchablemuseum.com</span><span class="citation-popover-snippet">Open source on searchablemuseum.com.</span></span></span>
+Sun Ra shows a more spiritually charged version of the same mechanism. The National Museum of African American History and Culture describes him as a jazz composer, bandleader and philosopher whose futuristic clothing and self-created persona helped lay the groundwork for musical Afrofuturism. It also notes that, after a personal awakening, he declared himself an alien from Saturn on a mission of peace and liberation, with the persona characterising the alienated and displaced position of African Americans in society.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchablemuseum.com">[Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchablemuseum.com</span><span class="citation-popover-snippet">Open source on searchablemuseum.com.</span></span></span>
 
-Janelle Monáe’s [android]({{ 'android/' | relative_url }}) figure Cindi Mayweather makes the distinction especially clear for modern audiences. The New Yorker describes Monáe as a world-builder whose early work cast her as the android alter ego Cindi Mayweather and used that figure as a metaphor for otherness as a queer Black woman from Kansas City. That is not a UFO sighting claim. It is a crafted science-fiction framework for identity, vulnerability, futurism and social exclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Janelle Monáe Peels the Onion &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Janelle Monáe Peels the Onion &#124; The New Yorker</span></span></span>
+Janelle Monáe’s [android]({{ 'android/' | relative_url }}) figure Cindi Mayweather makes the distinction especially clear for modern audiences. The New Yorker describes Monáe as a world-builder whose early work cast her as the android alter ego Cindi Mayweather and used that figure as a metaphor for otherness as a queer Black woman from Kansas City. That is not a UFO sighting claim. It is a crafted science-fiction framework for identity, vulnerability, futurism and social exclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">The New Yorker Janelle Monáe Peels the Onion &#124; The New Yorker</span><span class="citation-popover-snippet">The New Yorker Janelle Monáe Peels the Onion &#124; The New Yorker</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76-Illustration-1-dark.svg" | relative_url }}" alt="Persona illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -470,11 +470,11 @@ Janelle Monáe’s [android]({{ 'android/' | relative_url }}) figure Cindi Maywe
 
 The hard cases are not the purely fictional ones. They are the celebrities who use alien aesthetics while also making sincere UFO or extraterrestrial claims. In those cases, persona, promotion and belief can become difficult to untangle.
 
-Tom DeLonge is the clearest example because his celebrity identity, entertainment work and UAP activism became part of one public story. [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) described itself as a 2017 public benefit corporation bringing together academia, industry and pop culture to advance understanding of scientific phenomena and their technological implications. It also celebrated the Pentagon’s 2020 release of three Navy UAP videos as a milestone for its work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoq09xdFKtu0kXa4xDRpyhwPOCYR_QvQu6327KJAEWovFkbAnx-j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">Open source on tothestars.media.</span></span></span>
+Tom DeLonge is the clearest example because his celebrity identity, entertainment work and UAP activism became part of one public story. [To The Stars Academy]({{ 'to-the-stars/' | relative_url }}) described itself as a 2017 public benefit corporation bringing together academia, industry and pop culture to advance understanding of scientific phenomena and their technological implications. It also celebrated the Pentagon’s 2020 release of three Navy UAP videos as a milestone for its work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoq09xdFKtu0kXa4xDRpyhwPOCYR_QvQu6327KJAEWovFkbAnx-j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">Open source on tothestars.media.</span></span></span>
 
 That does not make DeLonge’s claims automatically false or automatically true. It means the reader has to ask what kind of claim is being made. A Blink-182 musician writing fiction, selling merchandise, producing films or building a media brand is operating in entertainment. The same person promoting UAP investigation is making a public knowledge claim. Those modes can support each other culturally, but they should not be evaluated by the same [standards]({{ 'standards/' | relative_url }}).
 
-Demi Lovato’s *Unidentified with Demi Lovato* sits in a similar hybrid zone. Vanity Fair described the Peacock series as following Lovato’s fascination with the unknown after an experience they believed was an alien abduction, while the show’s premise involved trying to connect with [beings]({{ 'beings/' | relative_url }}) from another realm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOoqaco-0Z3Fhik-aP61GQsgnuVLyPoCPsWUOQH5TNHZUcCef8VaQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Open source on vanityfair.com.</span></span></span> That is very different from Doja Cat using extraterrestrial sexuality and space styling in *Planet Her* videos, or Grimes presenting futuristic and “alien” aesthetics as part of an art-and-technology persona. The Guardian grouped these examples together as part of a wider 2021 pop-culture turn towards space, declassified UFO files, billionaires’ space ambitions and online cosmic imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2021/jul/06/demi-lovato-doja-cat-grimes-aliens-shaun-ryder-robbie-williams-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Demi Lovato’s *Unidentified with Demi Lovato* sits in a similar hybrid zone. Vanity Fair described the Peacock series as following Lovato’s fascination with the unknown after an experience they believed was an alien abduction, while the show’s premise involved trying to connect with [beings]({{ 'beings/' | relative_url }}) from another realm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOoqaco-0Z3Fhik-aP61GQsgnuVLyPoCPsWUOQH5TNHZUcCef8VaQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Open source on vanityfair.com.</span></span></span> That is very different from Doja Cat using extraterrestrial sexuality and space styling in *Planet Her* videos, or Grimes presenting futuristic and “alien” aesthetics as part of an art-and-technology persona. The Guardian grouped these examples together as part of a wider 2021 pop-culture turn towards space, declassified UFO files, billionaires’ space ambitions and online cosmic imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/music/2021/jul/06/demi-lovato-doja-cat-grimes-aliens-shaun-ryder-robbie-williams-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 The risk is that entertainment framing can make all three categories feel equivalent:
 
@@ -494,7 +494,7 @@ Only the third category is an evidence question about the external world. The fi
 
 ## Why fans read sincerity into alien performance
 
-Fans are not wrong to look for [sincerity]({{ 'sincerity/' | relative_url }}) in performance. Pop personae are built across songs, interviews, videos, live shows, social media and publicity, so audiences naturally stitch together fragments into a coherent sense of “who the artist really is”. A Cambridge University Press article on pop personae argues that artist identities are multiply constructed across recordings, videos, performances, interviews and social media, and that reading a persona means assessing the texts and contexts that shape both production and reception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/twentieth-century-music/article/rereading-pop-personae-a-transmedial-approach-to-studying-the-multiple-construction-of-artist-identities/F8874979F90DEB9FEFF62D501EFFD092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
+Fans are not wrong to look for [sincerity]({{ 'sincerity/' | relative_url }}) in performance. Pop personae are built across songs, interviews, videos, live shows, social media and publicity, so audiences naturally stitch together fragments into a coherent sense of “who the artist really is”. A Cambridge University Press article on pop personae argues that artist identities are multiply constructed across recordings, videos, performances, interviews and social media, and that reading a persona means assessing the texts and contexts that shape both production and reception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/twentieth-century-music/article/rereading-pop-personae-a-transmedial-approach-to-studying-the-multiple-construction-of-artist-identities/F8874979F90DEB9FEFF62D501EFFD092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Open source on cambridge.org.</span></span></span>
 
 That matters for alien imagery because the persona is often designed to blur edges. Bowie’s Ziggy was obviously theatrical, but it still felt emotionally real because it expressed fame, estrangement and transformation. Monáe’s androids are fictional, but their emotional and political meaning is sincere. Sun Ra’s Saturn identity operated as myth, [philosophy]({{ 'philosophy/' | relative_url }}), performance and social critique at once. These examples show why “not literally true” does not mean “fake” in the artistic sense.
 
@@ -508,9 +508,9 @@ This is also why fan interpretation can outrun the artist’s own intent. A spac
 
 Once a celebrity moves from alien imagery to UFO claims, the standard changes. The useful questions are no longer about symbolism or performance. They are about evidence: what was observed, when it was reported, whether there were independent witnesses, whether there is sensor data, whether ordinary explanations were ruled out, and whether the account has changed over time.
 
-Official UAP work has repeatedly stressed the limits of weak data. NASA’s UAP FAQ says most sightings produce very limited data, making scientific conclusions difficult, and says there are no data supporting UAP as evidence of alien technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> The Office of the Director of National Intelligence’s 2021 preliminary assessment was framed as a report to Congress on the challenge of understanding UAP and the progress made by the UAP Task Force, not as a confirmation of extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Open source on dni.gov.</span></span></span>
+Official UAP work has repeatedly stressed the limits of weak data. NASA’s UAP FAQ says most sightings produce very limited data, making scientific conclusions difficult, and says there are no data supporting UAP as evidence of alien technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span> The Office of the Director of National Intelligence’s 2021 preliminary assessment was framed as a report to Congress on the challenge of understanding UAP and the progress made by the UAP Task Force, not as a confirmation of extraterrestrial craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Open source on dni.gov.</span></span></span>
 
-AARO’s 2024 historical review went further on claims of hidden alien technology. The Department of Defense reported AARO’s conclusion that it found no verifiable evidence any UAP sighting represented extraterrestrial activity, no verifiable evidence that the US government or private industry had access to extraterrestrial technology, and no indication that information was illegally withheld from Congress. It also attributed some persistent claims to misidentified sensitive programmes and circular reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
+AARO’s 2024 historical review went further on claims of hidden alien technology. The Department of Defense reported AARO’s conclusion that it found no verifiable evidence any UAP sighting represented extraterrestrial activity, no verifiable evidence that the US government or private industry had access to extraterrestrial technology, and no indication that information was illegally withheld from Congress. It also attributed some persistent claims to misidentified sensitive programmes and circular reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
 
 That official position does not mean every witness is lying or every sighting is solved. It means “unidentified” is not the same as “alien”. For celebrity cases, this distinction is crucial because fame adds reach, not probative value. A famous witness can make a story travel further; they cannot, by fame alone, turn an anecdote into verified evidence.
 
@@ -551,194 +551,194 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Alien Imagery Is Art, Not Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Alien Imagery Is Art, Not Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.+W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785613-M.jpg" alt="Cover for American Cosmic: UFOs, Religion, Technology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.+W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
-        </h4>
-        <p class="fr-book-author">By D. W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.+W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic: UFOs, Religion, Technology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8785613-M.jpg" alt="Cover for American Cosmic: UFOs, Religion, Technology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.+W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic: UFOs, Religion, Technology">American Cosmic: UFOs, Religion, Technology</a>
+</h4>
+<p class="fr-book-author">By D. W. Pasulka</p>
         
-        <p class="fr-book-desc">Useful for understanding how alien imagery becomes meaningful in popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.+W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how alien imagery becomes meaningful in popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology+D.+W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helps clarify why artistic alien imagery should not be treated as factual UFO testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps clarify why artistic alien imagery should not be treated as factual UFO testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Useful for understanding how alien imagery becomes meaningful in popular culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how alien imagery becomes meaningful in popular culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains how audiences can read sincerity, symbolism, and claims through existing belief patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how audiences can read sincerity, symbolism, and claims through existing belief patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic: UFOs, Religion, Technology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic%3A+UFOs%2C+Religion%2C+Technology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic: UFOs, Religion, Technology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone"><img src="{{ '/assets/images/marketplace-covers/c55bd17eeaec578c24e2.jpg' | relative_url }}" alt="Listing image for Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny UFO T Shirt I Want To Leave Retro Alien Roswell Area 51 You Are Not Alone</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="persona-when-alien-imagery-is-art-not-evidence-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -754,7 +754,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -774,7 +774,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -806,7 +806,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -858,7 +858,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -903,7 +903,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -944,201 +944,201 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Space Oddities: Aliens, Futurism and Meaning in Popular Music  
-   Link: <a href="https://www.researchgate.net/publication/231854018_Space_Oddities_Aliens_Futurism_and_Meaning_in_Popular_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231854018_Space_Oddities_Aliens_Futurism_and_Meaning_in_Popular_Music</a>  
+   Link:<a href="https://www.researchgate.net/publication/231854018_Space_Oddities_Aliens_Futurism_and_Meaning_in_Popular_Music" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231854018_Space_Oddities_Aliens_Futurism_and_Meaning_in_Popular_Music</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pitchfork.com  
    Title: Anthems for the Moon: David Bowie’s Sci-Fi Explorations | Pitchfork  
-   Link: <a href="https://pitchfork.com/features/article/9787-anthems-for-the-moon-david-bowies-sci-fi-explorations" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/features/article/9787-anthems-for-the-moon-david-bowies-sci-fi-explorations</a>  
+   Link:<a href="https://pitchfork.com/features/article/9787-anthems-for-the-moon-david-bowies-sci-fi-explorations" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/features/article/9787-anthems-for-the-moon-david-bowies-sci-fi-explorations</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/twentieth-century-music/article/rereading-pop-personae-a-transmedial-approach-to-studying-the-multiple-construction-of-artist-identities/F8874979F90DEB9FEFF62D501EFFD092" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/twentieth-century-music/article/rereading-pop-personae-a-transmedial-approach-to-studying-the-multiple-construction-of-artist-identities/F8874979F90DEB9FEFF62D501EFFD092</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/twentieth-century-music/article/rereading-pop-personae-a-transmedial-approach-to-studying-the-multiple-construction-of-artist-identities/F8874979F90DEB9FEFF62D501EFFD092" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/twentieth-century-music/article/rereading-pop-personae-a-transmedial-approach-to-studying-the-multiple-construction-of-artist-identities/F8874979F90DEB9FEFF62D501EFFD092</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263528526_Racial_Transparency_Theory_Applied_to_Musicians_who_Claim_to_Be_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263528526_Racial_Transparency_Theory_Applied_to_Musicians_who_Claim_to_Be_Aliens</a>  
+   Link:<a href="https://www.researchgate.net/publication/263528526_Racial_Transparency_Theory_Applied_to_Musicians_who_Claim_to_Be_Aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263528526_Racial_Transparency_Theory_Applied_to_Musicians_who_Claim_to_Be_Aliens</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_persona" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_persona</a>  
+   Link:<a href="https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_persona" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327349229_Stance_and_the_construction_of_authentic_celebrity_persona</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: david-bowie.fandom.com  
    Title: Ziggy Stardust (persona)  
-   Link: <a href="https://david-bowie.fandom.com/wiki/Ziggy_Stardust_%28persona%29" target="_blank" rel="noopener noreferrer nofollow">https://david-bowie.fandom.com/wiki/Ziggy_Stardust_%28persona%29</a>  
+   Link:<a href="https://david-bowie.fandom.com/wiki/Ziggy_Stardust_%28persona%29" target="_blank" rel="noopener noreferrer nofollow">https://david-bowie.fandom.com/wiki/Ziggy_Stardust_%28persona%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: secnav.navy.mil  
    Title: mil Prelimary Assessment UAP  
-   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf</a>  
+   Link:<a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/Prelimary%20Assessment%20UAP.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: searchablemuseum.com  
-   Link: <a href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/</a>  
+   Link:<a href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: newyorker.com  
    Title: The New Yorker Janelle Monáe Peels the Onion | The New Yorker  
-   Link: <a href="https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion</a>  
+   Link:<a href="https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoq09xdFKtu0kXa4xDRpyhwPOCYR_QvQu6327KJAEWovFkbAnx-j" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoq09xdFKtu0kXa4xDRpyhwPOCYR_QvQu6327KJAEWovFkbAnx-j</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoq09xdFKtu0kXa4xDRpyhwPOCYR_QvQu6327KJAEWovFkbAnx-j" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOoq09xdFKtu0kXa4xDRpyhwPOCYR_QvQu6327KJAEWovFkbAnx-j</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOoqaco-0Z3Fhik-aP61GQsgnuVLyPoCPsWUOQH5TNHZUcCef8VaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOoqaco-0Z3Fhik-aP61GQsgnuVLyPoCPsWUOQH5TNHZUcCef8VaQ</a>  
+   Link:<a href="https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOoqaco-0Z3Fhik-aP61GQsgnuVLyPoCPsWUOQH5TNHZUcCef8VaQ" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/hollywood/2021/10/all-the-questions-i-had-while-watching-unidentified-with-demi-lovato?srsltid=AfmBOoqaco-0Z3Fhik-aP61GQsgnuVLyPoCPsWUOQH5TNHZUcCef8VaQ</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/music/2021/jul/06/demi-lovato-doja-cat-grimes-aliens-shaun-ryder-robbie-williams-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2021/jul/06/demi-lovato-doja-cat-grimes-aliens-shaun-ryder-robbie-williams-ufos</a>  
+   Link:<a href="https://www.theguardian.com/music/2021/jul/06/demi-lovato-doja-cat-grimes-aliens-shaun-ryder-robbie-williams-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/2021/jul/06/demi-lovato-doja-cat-grimes-aliens-shaun-ryder-robbie-williams-ufos</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Sun Ra  
-   Link: <a href="https://en.wikipedia.org/wiki/Sun_Ra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sun_Ra</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sun_Ra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sun_Ra</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: how pop culture has shaped our understanding of aliens  
-   Link: <a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
+   Link:<a href="https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/culture/2021/jun/25/how-pop-culture-has-shaped-our-understanding-of-aliens</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: janelle monae black android  
-   Link: <a href="https://www.theguardian.com/music/musicblog/2010/may/27/janelle-monae-black-android" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/musicblog/2010/may/27/janelle-monae-black-android</a>  
+   Link:<a href="https://www.theguardian.com/music/musicblog/2010/may/27/janelle-monae-black-android" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/music/musicblog/2010/may/27/janelle-monae-black-android</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: commonsensemedia.org  
    Title: unidentified with demi lovato  
-   Link: <a href="https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato</a>  
+   Link:<a href="https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato" target="_blank" rel="noopener noreferrer nofollow">https://www.commonsensemedia.org/tv-reviews/unidentified-with-demi-lovato</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/?srsltid=AfmBOoqbbDtLH0IGsv2bJ6BEnIopfbQ6U433BvlKYpepWjFB_q6lCQFr" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/?srsltid=AfmBOoqbbDtLH0IGsv2bJ6BEnIopfbQ6U433BvlKYpepWjFB_q6lCQFr</a>  
+   Link:<a href="https://tothestars.media/?srsltid=AfmBOoqbbDtLH0IGsv2bJ6BEnIopfbQ6U433BvlKYpepWjFB_q6lCQFr" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/?srsltid=AfmBOoqbbDtLH0IGsv2bJ6BEnIopfbQ6U433BvlKYpepWjFB_q6lCQFr</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/about?srsltid=AfmBOool_VOzpaz5vcOHQROaAsdYIXaTHl8xTmUXVb6loAhBJbjjlbsi" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/about?srsltid=AfmBOool_VOzpaz5vcOHQROaAsdYIXaTHl8xTmUXVb6loAhBJbjjlbsi</a>  
+   Link:<a href="https://tothestars.media/pages/about?srsltid=AfmBOool_VOzpaz5vcOHQROaAsdYIXaTHl8xTmUXVb6loAhBJbjjlbsi" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/about?srsltid=AfmBOool_VOzpaz5vcOHQROaAsdYIXaTHl8xTmUXVb6loAhBJbjjlbsi</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUb0U_U3vOE</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NUb0U_U3vOE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUb0U_U3vOE</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fi2N5KHgO80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fi2N5KHgO80</a>  
+   Link:<a href="https://www.youtube.com/watch?v=fi2N5KHgO80" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fi2N5KHgO80</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/tothestarsacademy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/tothestarsacademy/</a>  
+   Link:<a href="https://www.instagram.com/tothestarsacademy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/tothestarsacademy/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: us.mensa.org  
    Title: to the stars academy unafraid to investigate the unexplained  
-   Link: <a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
+   Link:<a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Entertainment/inside-david-bowies-colorful-personas/story?id=36216413" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/inside-david-bowies-colorful-personas/story?id=36216413</a>  
+   Link:<a href="https://abcnews.com/Entertainment/inside-david-bowies-colorful-personas/story?id=36216413" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Entertainment/inside-david-bowies-colorful-personas/story?id=36216413</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: producelikeapro.com  
    Title: ziggy stardust  
-   Link: <a href="https://producelikeapro.com/blog/ziggy-stardust/" target="_blank" rel="noopener noreferrer nofollow">https://producelikeapro.com/blog/ziggy-stardust/</a>  
+   Link:<a href="https://producelikeapro.com/blog/ziggy-stardust/" target="_blank" rel="noopener noreferrer nofollow">https://producelikeapro.com/blog/ziggy-stardust/</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Celebs' Best Alien Encounter Stories ft. Billy Ray Cyrus, Demi Lovato  
-   Link: <a href="http://www.youtube.com/watch?v=YOb_hDTV4BI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YOb_hDTV4BI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities who believe in UFOs claims Top 10 Celebrities Who Claimed Alien Encounters Top 10 Archive...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=YOb_hDTV4BI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YOb_hDTV4BI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities who believe in UFOs claims Top 10 Celebrities Who Claimed Alien Encounters Top 10 Archive...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Demi Lovato, Miley Cyrus and more celebrities who believe in aliens  
-   Link: <a href="http://www.youtube.com/watch?v=gT8Wvw7T3Qw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gT8Wvw7T3Qw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Celebrities Who Believe Aliens Have Visited Earth...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=gT8Wvw7T3Qw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gT8Wvw7T3Qw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Celebrities Who Believe Aliens Have Visited Earth...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: loc.gov  
-   Link: <a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf</a>  
+   Link:<a href="https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/static/programs/national-recording-preservation-board/documents/booth_ziggy_stardust.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Top 10 Celebrities Who Claimed Alien Encounters  
-   Link: <a href="http://www.youtube.com/watch?v=JZ-FJNGCprI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JZ-FJNGCprI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato, Miley Cyrus and more celebrities who believe in aliens...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JZ-FJNGCprI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JZ-FJNGCprI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Demi Lovato, Miley Cyrus and more celebrities who believe in aliens...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html</a>  
+   Link:<a href="https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/acknowledged-a-perspective-on-ufos-aliens-and-crop-circles-0244166447-9780244166441.html</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Grimes/comments/yfpwst/confused_about_grimes_recently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Grimes/comments/yfpwst/confused_about_grimes_recently/</a>  
+   Link:<a href="https://www.reddit.com/r/Grimes/comments/yfpwst/confused_about_grimes_recently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Grimes/comments/yfpwst/confused_about_grimes_recently/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thefavesusa/posts/crazy-things-happen-at-rich-peoples-parties-according-to-foo-fighters-drummer-il/1394835652671948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thefavesusa/posts/crazy-things-happen-at-rich-peoples-parties-according-to-foo-fighters-drummer-il/1394835652671948/</a>  
+   Link:<a href="https://www.facebook.com/thefavesusa/posts/crazy-things-happen-at-rich-peoples-parties-according-to-foo-fighters-drummer-il/1394835652671948/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thefavesusa/posts/crazy-things-happen-at-rich-peoples-parties-according-to-foo-fighters-drummer-il/1394835652671948/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: countercultureuk.com  
-   Link: <a href="https://countercultureuk.com/category/film-dvd-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://countercultureuk.com/category/film-dvd-reviews/</a>  
+   Link:<a href="https://countercultureuk.com/category/film-dvd-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://countercultureuk.com/category/film-dvd-reviews/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gentjazz/posts/he-dropped-out-of-college-because-aliens-from-saturn-told-him-to-he-changed-his-/1517128589784620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gentjazz/posts/he-dropped-out-of-college-because-aliens-from-saturn-told-him-to-he-changed-his-/1517128589784620/</a>  
+   Link:<a href="https://www.facebook.com/gentjazz/posts/he-dropped-out-of-college-because-aliens-from-saturn-told-him-to-he-changed-his-/1517128589784620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gentjazz/posts/he-dropped-out-of-college-because-aliens-from-saturn-told-him-to-he-changed-his-/1517128589784620/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DPOYxpZDuZE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPOYxpZDuZE/</a>  
+   Link:<a href="https://www.instagram.com/reel/DPOYxpZDuZE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPOYxpZDuZE/</a>  

@@ -280,15 +280,15 @@ image: /assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_su
 
 ## Introduction
 
-Sun Ra's claim to be from Saturn is often remembered as one of popular [music]({{ 'music/' | relative_url }})'s strangest stories. Taken in isolation, it can sound like a literal extraterrestrial claim. In context, however, most historians, critics and scholars interpret the Saturn mythology as a deliberately constructed artistic and philosophical framework rather than straightforward testimony about UFOs or alien contact. It allowed Sun Ra to express experiences of racial exclusion, imagine liberation beyond the limits of American society, and create an alternative future for Black identity. Within discussions of celebrities and UFOs, his case therefore occupies a distinctive position: he adopted an alien identity not primarily to persuade audiences that extraterrestrials existed, but to challenge assumptions about race, history and human possibility through performance, music and myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal+2Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
+Sun Ra's claim to be from Saturn is often remembered as one of popular [music]({{ 'music/' | relative_url }})'s strangest stories. Taken in isolation, it can sound like a literal extraterrestrial claim. In context, however, most historians, critics and scholars interpret the Saturn mythology as a deliberately constructed artistic and philosophical framework rather than straightforward testimony about UFOs or alien contact. It allowed Sun Ra to express experiences of racial exclusion, imagine liberation beyond the limits of American society, and create an alternative future for Black identity. Within discussions of celebrities and UFOs, his case therefore occupies a distinctive position: he adopted an alien identity not primarily to persuade audiences that extraterrestrials existed, but to challenge assumptions about race, history and human possibility through performance, music and myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal+2Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-1-dark.svg" | relative_url }}" alt="Sun Ra illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Saturn persona
 
-Sun Ra, born Herman Poole Blount, gradually reinvented himself as a cosmic figure who declared that he had come from Saturn on a mission connected with music, peace and human transformation. His concerts, costumes, interviews and compositions all reinforced this mythology. Ancient Egyptian symbolism, space-age imagery, electronic instruments and avant-garde jazz became parts of one integrated artistic language rather than separate gimmicks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/07/05/how-sun-ra-taught-us-to-believe-in-the-impossible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Born in 1914 in Birmingham, Alabama, Ra claimed that a 1930s alien encounter shifted his life trajectory from teaching to music. Predicat...</span></span></span>
+Sun Ra, born Herman Poole Blount, gradually reinvented himself as a cosmic figure who declared that he had come from Saturn on a mission connected with music, peace and human transformation. His concerts, costumes, interviews and compositions all reinforced this mythology. Ancient Egyptian symbolism, space-age imagery, electronic instruments and avant-garde jazz became parts of one integrated artistic language rather than separate gimmicks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newyorker.com/magazine/2021/07/05/how-sun-ra-taught-us-to-believe-in-the-impossible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Born in 1914 in Birmingham, Alabama, Ra claimed that a 1930s alien encounter shifted his life trajectory from teaching to music. Predicat...</span></span></span>
 
-Rather than separating biography from performance, Sun Ra blurred the distinction intentionally. He rejected many aspects of his documented personal history and treated myth as a creative truth capable of revealing realities that ordinary biography could not. Scholars have argued that this self-created identity functioned as a challenge to conventional ideas about authenticity: if society had imposed false identities on Black Americans through slavery, segregation and racism, inventing an entirely new identity became an act of cultural resistance rather than deception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/23783446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2FinFar Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Sun Ra and the Afro-Future Underground, 1954-1968June 29, 2012 — by D Kreiss · 2012 · Cited by 23 — sociotechnical and Afro-Futurist...</span><span class="citation-popover-meta">Published: June 29, 2012</span></span></span>
+Rather than separating biography from performance, Sun Ra blurred the distinction intentionally. He rejected many aspects of his documented personal history and treated myth as a creative truth capable of revealing realities that ordinary biography could not. Scholars have argued that this self-created identity functioned as a challenge to conventional ideas about authenticity: if society had imposed false identities on Black Americans through slavery, segregation and racism, inventing an entirely new identity became an act of cultural resistance rather than deception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/23783446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2FinFar Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Sun Ra and the Afro-Future Underground, 1954-1968June 29, 2012 — by D Kreiss · 2012 · Cited by 23 — sociotechnical and Afro-Futurist...</span><span class="citation-popover-meta">Published: June 29, 2012</span></span></span>
 
 This helps explain why his Saturn story differs from celebrities making factual claims about UFO sightings or government conspiracies. The mythology was embedded in an artistic project whose purpose was symbolic, philosophical and political.
 
@@ -297,13 +297,13 @@ This helps explain why his Saturn story differs from celebrities making factual 
 
 ## Afrofuturism and displacement
 
-Today Sun Ra is widely recognised as one of the foundational figures of Afrofuturism, a movement that combines speculative futures, science fiction, technology and Black cultural history to imagine alternatives to systems of oppression. His cosmic worldview emerged decades before the term "Afrofuturism" became common, yet later writers consistently identify his work as one of its defining precedents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegiehall.org">[Carnegie Hall+2Wereldmuseum Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegiehall.org</span><span class="citation-popover-title">Jazz and Afrofuturism</span><span class="citation-popover-snippet">Carnegie HallJazz and Afrofuturism: From Sun Ra to Flying Lotus9 Feb 2022 — Afrofuturism pioneer Sun Ra&#x27;s music blazed new paths and cont...</span></span></span>
+Today Sun Ra is widely recognised as one of the foundational figures of Afrofuturism, a movement that combines speculative futures, science fiction, technology and Black cultural history to imagine alternatives to systems of oppression. His cosmic worldview emerged decades before the term "Afrofuturism" became common, yet later writers consistently identify his work as one of its defining precedents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegiehall.org">[Carnegie Hall+2Wereldmuseum Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegiehall.org</span><span class="citation-popover-title">Jazz and Afrofuturism</span><span class="citation-popover-snippet">Carnegie HallJazz and Afrofuturism: From Sun Ra to Flying Lotus9 Feb 2022 — Afrofuturism pioneer Sun Ra&#x27;s music blazed new paths and cont...</span></span></span>
 
 The alien identity worked because it transformed social exclusion into a source of imaginative power. Instead of presenting Black Americans as marginalised within existing society, Sun Ra imagined them as participants in a civilisation that exceeded earthly limitations altogether. Space became less a destination than a metaphor for freedom.
 
-His famous slogan, "Space Is the Place", illustrates this shift. Space was not simply outer space in an astronomical sense. It represented an imagined realm beyond racism, inherited social categories and historical constraints. The National Museum of African American History and Culture describes his work as portraying liberated Black people unconstrained by racism while using music, technology and futurist imagery to envision new possibilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchablemuseum.com">[Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchablemuseum.com</span><span class="citation-popover-snippet">Searchable MuseumSun Ra and Jimi HendrixSun Ra&#x27;s music portrayed an image of liberated Black people unimpeded by racism and societal cons...</span></span></span>
+His famous slogan, "Space Is the Place", illustrates this shift. Space was not simply outer space in an astronomical sense. It represented an imagined realm beyond racism, inherited social categories and historical constraints. The National Museum of African American History and Culture describes his work as portraying liberated Black people unconstrained by racism while using music, technology and futurist imagery to envision new possibilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchablemuseum.com">[Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchablemuseum.com</span><span class="citation-popover-snippet">Searchable MuseumSun Ra and Jimi HendrixSun Ra&#x27;s music portrayed an image of liberated Black people unimpeded by racism and societal cons...</span></span></span>
 
-The metaphor also inverted historical narratives. Some scholars have argued that Sun Ra's cosmic stories echoed the forced displacement created by the Atlantic slave trade. Rather than allowing history to define Black identity through trauma alone, he replaced it with a narrative of chosen cosmic origins and self-determined destiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/sun-ra" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Sun Ra &#124; History &#124; Research StartersSun Ra&#x27;s esoteric ideas were heavily saturated in wordplay and biblical references and frequentl...</span></span></span>
+The metaphor also inverted historical narratives. Some scholars have argued that Sun Ra's cosmic stories echoed the forced displacement created by the Atlantic slave trade. Rather than allowing history to define Black identity through trauma alone, he replaced it with a narrative of chosen cosmic origins and self-determined destiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/sun-ra" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Sun Ra &#124; History &#124; Research StartersSun Ra&#x27;s esoteric ideas were heavily saturated in wordplay and biblical references and frequentl...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-2-dark.svg" | relative_url }}" alt="Sun Ra illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,14 +311,14 @@ The metaphor also inverted historical narratives. Some scholars have argued that
 
 The question continues to attract debate because Sun Ra rarely stepped outside the character he had created. In interviews he often spoke as though the Saturn identity were entirely real, refusing to reassure audiences that it was "only" metaphor.
 
-Most scholarly interpretations nevertheless conclude that treating the [persona]({{ 'persona/' | relative_url }}) as either entirely literal or entirely fictional misses the point. Instead, they argue that Sun Ra deliberately occupied an ambiguous space where myth itself became a way of thinking about social reality. One analysis describes his Saturn origin as a metaphor designed to provoke discussion about otherness rather than as a conventional factual claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
+Most scholarly interpretations nevertheless conclude that treating the [persona]({{ 'persona/' | relative_url }}) as either entirely literal or entirely fictional misses the point. Instead, they argue that Sun Ra deliberately occupied an ambiguous space where myth itself became a way of thinking about social reality. One analysis describes his Saturn origin as a metaphor designed to provoke discussion about otherness rather than as a conventional factual claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
 
 This ambiguity served several purposes:
 
 * It unsettled audiences who expected artists to present fixed, verifiable identities.
 * It challenged assumptions about who had authority to define reality.
 * It suggested that imagination could become a political tool rather than mere entertainment.
-* It transformed the figure of the "alien" from an object of fear into a symbol of survival and independence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
+* It transformed the figure of the "alien" from an object of fear into a symbol of survival and independence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
 
 Because Sun Ra almost never broke character publicly, some listeners interpreted his statements literally. Others viewed them as theatrical performance. The enduring discussion reflects how successfully he erased the usual boundary between [philosophy]({{ 'philosophy/' | relative_url }}), music and persona.
 
@@ -340,209 +340,209 @@ His performances asked questions such as:
 
 </div>
 
-Seen this way, Saturn becomes less an astronomical destination than a critique of Earth. The implication was that a society built around racial hierarchy had become so limiting that imagining life on another planet could express social reality more honestly than ordinary political language. Critics have therefore described his mythology as an artistic strategy that reimagined Black existence through speculative futures instead of accepting narratives imposed by dominant culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/23783446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Carnegie Hall]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Sun Ra and the Afro-Future Underground, 1954-1968June 29, 2012 — by D Kreiss · 2012 · Cited by 23 — sociotechnical and Afro-Futurist...</span><span class="citation-popover-meta">Published: June 29, 2012</span></span></span>
+Seen this way, Saturn becomes less an astronomical destination than a critique of Earth. The implication was that a society built around racial hierarchy had become so limiting that imagining life on another planet could express social reality more honestly than ordinary political language. Critics have therefore described his mythology as an artistic strategy that reimagined Black existence through speculative futures instead of accepting narratives imposed by dominant culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstor.org/stable/23783446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR+2Carnegie Hall]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Sun Ra and the Afro-Future Underground, 1954-1968June 29, 2012 — by D Kreiss · 2012 · Cited by 23 — sociotechnical and Afro-Futurist...</span><span class="citation-popover-meta">Published: June 29, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-3-dark.svg" | relative_url }}" alt="Sun Ra illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_sun_ra_saturn_myth_56d8d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A lasting influence on creative "alien" identities
 
-Sun Ra's Saturn mythology established a model that later artists adapted in different ways. His influence can be seen across music, visual art and fashion, particularly where speculative identities become vehicles for discussing race, technology, liberation and belonging rather than claims about extraterrestrial life. His example helped make the alien figure a language of cultural critique within Afrofuturism instead of simply a science-fiction character. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegiehall.org">[Carnegie Hall+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegiehall.org</span><span class="citation-popover-title">Jazz and Afrofuturism</span><span class="citation-popover-snippet">Carnegie HallJazz and Afrofuturism: From Sun Ra to Flying Lotus9 Feb 2022 — Afrofuturism pioneer Sun Ra&#x27;s music blazed new paths and cont...</span></span></span>
+Sun Ra's Saturn mythology established a model that later artists adapted in different ways. His influence can be seen across music, visual art and fashion, particularly where speculative identities become vehicles for discussing race, technology, liberation and belonging rather than claims about extraterrestrial life. His example helped make the alien figure a language of cultural critique within Afrofuturism instead of simply a science-fiction character.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegiehall.org">[Carnegie Hall+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegiehall.org</span><span class="citation-popover-title">Jazz and Afrofuturism</span><span class="citation-popover-snippet">Carnegie HallJazz and Afrofuturism: From Sun Ra to Flying Lotus9 Feb 2022 — Afrofuturism pioneer Sun Ra&#x27;s music blazed new paths and cont...</span></span></span>
 
-For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}), Sun Ra demonstrates why artistic alien personae should not automatically be read as evidence of sincere belief in extraterrestrials. His Saturn story remains significant not because it supports UFO claims, but because it transformed the image of the alien into a powerful critique of racial exclusion and a radically hopeful vision of Black futurity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal+2Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
+For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | relative_url }}), Sun Ra demonstrates why artistic alien personae should not automatically be read as evidence of sincere belief in extraterrestrials. His Saturn story remains significant not because it supports UFO claims, but because it transformed the image of the alien into a powerful critique of racial exclusion and a radically hopeful vision of Black futurity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.finfar.org">[FinFar Journal+2Searchable Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.finfar.org</span><span class="citation-popover-snippet">FinFar JournalSun Ra: Myth, Science, and Science Fiction. &#124;Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cfy2BpbkGe8" title="SUN RA SPEAKS - BERKELEY LECTURE PT 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cfy2BpbkGe8" target="_blank" rel="noopener noreferrer">SUN RA SPEAKS - BERKELEY LECTURE PT 1</a></p><p class="youtube-embed-meta">Channel: SUN RA MUSIC CHANNEL (OFFICIAL)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cfy2BpbkGe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cfy2BpbkGe8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Sun Ra&#x27;s Saturn Story Literal?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Sun Ra&#x27;s Saturn Story Literal?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Helps frame myth, belief and UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps frame myth, belief and UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages separating symbolism from empirical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages separating symbolism from empirical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afrofuturism: The World of Black Sci-Fi and Fantasy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8737975-M.jpg" alt="Cover for Afrofuturism: The World of Black Sci-Fi and Fantasy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
-        </h4>
-        <p class="fr-book-author">By Ytasha Womack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afrofuturism: The World of Black Sci-Fi and Fantasy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8737975-M.jpg" alt="Cover for Afrofuturism: The World of Black Sci-Fi and Fantasy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
+</h4>
+<p class="fr-book-author">By Ytasha Womack</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Race identity, Social aspects, Futurologists, Influence, Science fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Race identity, Social aspects, Futurologists, Influence, Science fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space is the place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/418157-M.jpg" alt="Cover for Space is the place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space is the place">Space is the place</a>
-        </h4>
-        <p class="fr-book-author">By John F. Szwed</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space is the place on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/418157-M.jpg" alt="Cover for Space is the place" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space is the place">Space is the place</a>
+</h4>
+<p class="fr-book-author">By John F. Szwed</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Biography, Jazz musicians, Biographies, Musiciens de jazz, Sun Ra.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Biography, Jazz musicians, Biographies, Musiciens de jazz, Sun Ra.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci+Fi+and+Fantasy+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Afrofuturism: The World of Black Sci Fi and Fantasy Culture</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci+Fi+and+Fantasy+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Afrofuturism: The World of Black Sci Fi and Fantasy Culture</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top"><img src="{{ '/assets/images/marketplace-covers/25aaee5271ccab1e600d.jpg' | relative_url }}" alt="Listing image for ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN Movie Poster T-shirt S M L XL XXL Unisex Men&#x27;s Retro Film Fan Top</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="sun-ra-was-sun-ra-s-saturn-story-literal-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,109 +748,109 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journal.finfar.org  
-   Link: <a href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FinFar JournalSun Ra: Myth, Science, and Science Fiction. |Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</p></details>
+   Link:<a href="https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://journal.finfar.org/articles/sun-ra-myth-science-and-science-fiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FinFar JournalSun Ra: Myth, Science, and Science Fiction. |Sun Ra&#x27;s mythic identity and claims of originating from Saturn were metaphoric...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: amsterdam.wereldmuseum.nl  
-   Link: <a href="https://amsterdam.wereldmuseum.nl/en/collection-stories/afrofuturism" target="_blank" rel="noopener noreferrer nofollow">https://amsterdam.wereldmuseum.nl/en/collection-stories/afrofuturism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wereldmuseum AmsterdamAfrofuturism | Wereldmuseum AmsterdamEqually influential was his “cosmic” Afrofuturist philosophy, inspired by a vi...</p></details>
+   Link:<a href="https://amsterdam.wereldmuseum.nl/en/collection-stories/afrofuturism" target="_blank" rel="noopener noreferrer nofollow">https://amsterdam.wereldmuseum.nl/en/collection-stories/afrofuturism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wereldmuseum AmsterdamAfrofuturism | Wereldmuseum AmsterdamEqually influential was his “cosmic” Afrofuturist philosophy, inspired by a vi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/23783446" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/23783446</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra and the Afro-Future Underground, 1954-1968June 29, 2012 — by D Kreiss · 2012 · Cited by 23 — sociotechnical and Afro-Futurist...</p></details>
+   Link:<a href="https://www.jstor.org/stable/23783446" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/23783446</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra and the Afro-Future Underground, 1954-1968June 29, 2012 — by D Kreiss · 2012 · Cited by 23 — sociotechnical and Afro-Futurist...</p></details>
    Published: June 29, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/history/sun-ra" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/sun-ra</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra | History | Research StartersSun Ra&#x27;s esoteric ideas were heavily saturated in wordplay and biblical references and frequentl...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/history/sun-ra" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/sun-ra</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra | History | Research StartersSun Ra&#x27;s esoteric ideas were heavily saturated in wordplay and biblical references and frequentl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: searchablemuseum.com  
-   Link: <a href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searchable MuseumSun Ra and Jimi HendrixSun Ra&#x27;s music portrayed an image of liberated Black people unimpeded by racism and societal cons...</p></details>
+   Link:<a href="https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/" target="_blank" rel="noopener noreferrer nofollow">https://www.searchablemuseum.com/sun-ra-and-jimi-hendrix/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Searchable MuseumSun Ra and Jimi HendrixSun Ra&#x27;s music portrayed an image of liberated Black people unimpeded by racism and societal cons...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2021/07/05/how-sun-ra-taught-us-to-believe-in-the-impossible" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/07/05/how-sun-ra-taught-us-to-believe-in-the-impossible</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Born in 1914 in Birmingham, Alabama, Ra claimed that a 1930s alien encounter shifted his life trajectory from teaching to music. Predicat...</p></details>
+   Link:<a href="https://www.newyorker.com/magazine/2021/07/05/how-sun-ra-taught-us-to-believe-in-the-impossible" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/07/05/how-sun-ra-taught-us-to-believe-in-the-impossible</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Born in 1914 in Birmingham, Alabama, Ra claimed that a 1930s alien encounter shifted his life trajectory from teaching to music. Predicat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: carnegiehall.org  
    Title: Jazz and Afrofuturism  
-   Link: <a href="https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism" target="_blank" rel="noopener noreferrer nofollow">https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie HallJazz and Afrofuturism: From Sun Ra to Flying Lotus9 Feb 2022 — Afrofuturism pioneer Sun Ra&#x27;s music blazed new paths and cont...</p></details>
+   Link:<a href="https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism" target="_blank" rel="noopener noreferrer nofollow">https://www.carnegiehall.org/Explore/Articles/2022/02/09/Jazz-and-Afrofuturism</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie HallJazz and Afrofuturism: From Sun Ra to Flying Lotus9 Feb 2022 — Afrofuturism pioneer Sun Ra&#x27;s music blazed new paths and cont...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Sun Ra  
-   Link: <a href="https://en.wikipedia.org/wiki/Sun_Ra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sun_Ra</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun RaHe grounded his practice of Afrofuturism in a musical tradition that has been described as &#x27;performing blackness&#x27;&#x27;. Sun Ra lived...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sun_Ra" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sun_Ra</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun RaHe grounded his practice of Afrofuturism in a musical tradition that has been described as &#x27;performing blackness&#x27;&#x27;. Sun Ra lived...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: onassis.org  
    Title: afrofuturism sun ra  
-   Link: <a href="https://www.onassis.org/whats-on/enter-afrofuturism/afrofuturism-sun-ra" target="_blank" rel="noopener noreferrer nofollow">https://www.onassis.org/whats-on/enter-afrofuturism/afrofuturism-sun-ra</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Afrofuturism | Sun Ra Arkestra | Music9 Nov 2017 — With their motto &quot;Space is the Place&quot; and their trademark space... Saturn, which simu...</p></details>
+   Link:<a href="https://www.onassis.org/whats-on/enter-afrofuturism/afrofuturism-sun-ra" target="_blank" rel="noopener noreferrer nofollow">https://www.onassis.org/whats-on/enter-afrofuturism/afrofuturism-sun-ra</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Afrofuturism | Sun Ra Arkestra | Music9 Nov 2017 — With their motto &quot;Space is the Place&quot; and their trademark space... Saturn, which simu...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/30276130136/posts/10174812246335137/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/30276130136/posts/10174812246335137/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra&#x27;s album is an Afrofuturistic journeySun Ra adopted a “space age” philosophy, later recognized as Afrofuturism, that merged Egyptia...</p></details>
+   Link:<a href="https://www.facebook.com/groups/30276130136/posts/10174812246335137/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/30276130136/posts/10174812246335137/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra&#x27;s album is an Afrofuturistic journeySun Ra adopted a “space age” philosophy, later recognized as Afrofuturism, that merged Egyptia...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: choice360.org  
-   Link: <a href="https://www.choice360.org/tie-post/the-smithsonian-national-museum-of-african-american-history-cultures-afrofuturism-a-history-of-black-futures-exhibit/" target="_blank" rel="noopener noreferrer nofollow">https://www.choice360.org/tie-post/the-smithsonian-national-museum-of-african-american-history-cultures-afrofuturism-a-history-of-black-futures-exhibit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Smithsonian National Museum of African American...29 Feb 2024 — Afrofuturism: A History of Black Futures includes over 100 objects f...</p></details>
+   Link:<a href="https://www.choice360.org/tie-post/the-smithsonian-national-museum-of-african-american-history-cultures-afrofuturism-a-history-of-black-futures-exhibit/" target="_blank" rel="noopener noreferrer nofollow">https://www.choice360.org/tie-post/the-smithsonian-national-museum-of-african-american-history-cultures-afrofuturism-a-history-of-black-futures-exhibit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Smithsonian National Museum of African American...29 Feb 2024 — Afrofuturism: A History of Black Futures includes over 100 objects f...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pacifica.edu  
-   Link: <a href="https://www.pacifica.edu/dissertation-oral-defense/sun-ra-his-myth-music-and-the-alter-destiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.pacifica.edu/dissertation-oral-defense/sun-ra-his-myth-music-and-the-alter-destiny/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pacifica Graduate InstituteSun Ra: His Myth, Music, and the Alter DestinyRa&#x27;s concept of the “alter destiny” is shown to be the ultimate...</p></details>
+   Link:<a href="https://www.pacifica.edu/dissertation-oral-defense/sun-ra-his-myth-music-and-the-alter-destiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.pacifica.edu/dissertation-oral-defense/sun-ra-his-myth-music-and-the-alter-destiny/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pacifica Graduate InstituteSun Ra: His Myth, Music, and the Alter DestinyRa&#x27;s concept of the “alter destiny” is shown to be the ultimate...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: in 1957 sun ra founded saturn records with alton abraham making him one of the f  
-   Link: <a href="https://www.facebook.com/AmericanMasters/posts/in-1957-sun-ra-founded-saturn-records-with-alton-abraham-making-him-one-of-the-f/1333309142169386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanMasters/posts/in-1957-sun-ra-founded-saturn-records-with-alton-abraham-making-him-one-of-the-f/1333309142169386/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1957, Sun Ra founded Saturn Records with Alton...Considered the foremost exponent of Afrofuturism, Sun Ra mastered a wide array of st...</p></details>
+   Link:<a href="https://www.facebook.com/AmericanMasters/posts/in-1957-sun-ra-founded-saturn-records-with-alton-abraham-making-him-one-of-the-f/1333309142169386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanMasters/posts/in-1957-sun-ra-founded-saturn-records-with-alton-abraham-making-him-one-of-the-f/1333309142169386/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1957, Sun Ra founded Saturn Records with Alton...Considered the foremost exponent of Afrofuturism, Sun Ra mastered a wide array of st...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: kentakepage.com  
    Title: sun ra cosmic philosopher jazz visionary and father of afrofuturism  
-   Link: <a href="https://kentakepage.com/sun-ra-cosmic-philosopher-jazz-visionary-and-father-of-afrofuturism/" target="_blank" rel="noopener noreferrer nofollow">https://kentakepage.com/sun-ra-cosmic-philosopher-jazz-visionary-and-father-of-afrofuturism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra: Cosmic Philosopher, Jazz Visionary, and Father of...22 May 2026 — Born as Herman Poole Blount, he later renounced his legal iden...</p></details>
+   Link:<a href="https://kentakepage.com/sun-ra-cosmic-philosopher-jazz-visionary-and-father-of-afrofuturism/" target="_blank" rel="noopener noreferrer nofollow">https://kentakepage.com/sun-ra-cosmic-philosopher-jazz-visionary-and-father-of-afrofuturism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra: Cosmic Philosopher, Jazz Visionary, and Father of...22 May 2026 — Born as Herman Poole Blount, he later renounced his legal iden...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: phillyjazz.us  
    Title: sun ra afrofuturism pbs american masters black history month  
-   Link: <a href="https://phillyjazz.us/2026/02/15/sun-ra-afrofuturism-pbs-american-masters-black-history-month/" target="_blank" rel="noopener noreferrer nofollow">https://phillyjazz.us/2026/02/15/sun-ra-afrofuturism-pbs-american-masters-black-history-month/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra: A Cosmic Visionary Who Dared to Do the Impossible15 Feb 2026 — Sun Ra, born Herman Poole Blount (1914-1993), grew up in the Jim C...</p></details>
+   Link:<a href="https://phillyjazz.us/2026/02/15/sun-ra-afrofuturism-pbs-american-masters-black-history-month/" target="_blank" rel="noopener noreferrer nofollow">https://phillyjazz.us/2026/02/15/sun-ra-afrofuturism-pbs-american-masters-black-history-month/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra: A Cosmic Visionary Who Dared to Do the Impossible15 Feb 2026 — Sun Ra, born Herman Poole Blount (1914-1993), grew up in the Jim C...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dublab-api-1.s3.amazonaws.com  
-   Link: <a href="https://dublab-api-1.s3.amazonaws.com/uploads/2024/10/carsten-sun-ra-myth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dublab-api-1.s3.amazonaws.com/uploads/2024/10/carsten-sun-ra-myth.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra: His Myth, Music, and the Alter Destinyby J Carsten · Cited by 1 — Ra claimed to be an alien, and unfailingly asserted his origin...</p></details>
+   Link:<a href="https://dublab-api-1.s3.amazonaws.com/uploads/2024/10/carsten-sun-ra-myth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dublab-api-1.s3.amazonaws.com/uploads/2024/10/carsten-sun-ra-myth.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sun Ra: His Myth, Music, and the Alter Destinyby J Carsten · Cited by 1 — Ra claimed to be an alien, and unfailingly asserted his origin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: howwegettonext.com  
    Title: He was a key contributor to the aesthetic, using  
-   Link: <a href="https://www.howwegettonext.com/space-is-the-place-a-crash-course-in-the-sounds-of-afrofuturism/" target="_blank" rel="noopener noreferrer nofollow">https://www.howwegettonext.com/space-is-the-place-a-crash-course-in-the-sounds-of-afrofuturism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space is the Place: A Crash Course in the Sounds...22 Jan 2016 — Jazz musician Sun Ra is, in many ways, the grandfather and originator o...</p></details>
+   Link:<a href="https://www.howwegettonext.com/space-is-the-place-a-crash-course-in-the-sounds-of-afrofuturism/" target="_blank" rel="noopener noreferrer nofollow">https://www.howwegettonext.com/space-is-the-place-a-crash-course-in-the-sounds-of-afrofuturism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space is the Place: A Crash Course in the Sounds...22 Jan 2016 — Jazz musician Sun Ra is, in many ways, the grandfather and originator o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nmaahc.si.edu  
    Title: black futures spotlights sounds afrofuturism 14  
-   Link: <a href="https://nmaahc.si.edu/events/black-futures-spotlights-sounds-afrofuturism-14" target="_blank" rel="noopener noreferrer nofollow">https://nmaahc.si.edu/events/black-futures-spotlights-sounds-afrofuturism-14</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of African American HistoryBlack Futures Spotlights: The Sounds of Afrofuturism8 Aug 2024 — Our 25-minute spotlight tours...</p></details>
+   Link:<a href="https://nmaahc.si.edu/events/black-futures-spotlights-sounds-afrofuturism-14" target="_blank" rel="noopener noreferrer nofollow">https://nmaahc.si.edu/events/black-futures-spotlights-sounds-afrofuturism-14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Museum of African American HistoryBlack Futures Spotlights: The Sounds of Afrofuturism8 Aug 2024 — Our 25-minute spotlight tours...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: academicworks.cuny.edu  
-   Link: <a href="https://academicworks.cuny.edu/context/gc_etds/article/2100/viewcontent/Parhizkar_minarees_0046N_13897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/context/gc_etds/article/2100/viewcontent/Parhizkar_minarees_0046N_13897.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ra and the Performance of Reckoningby MI Parhizkar — thinker and self-proclaimed extraterrestrial Sun Ra (1914-1993) through samplings of...</p></details>
+   Link:<a href="https://academicworks.cuny.edu/context/gc_etds/article/2100/viewcontent/Parhizkar_minarees_0046N_13897.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academicworks.cuny.edu/context/gc_etds/article/2100/viewcontent/Parhizkar_minarees_0046N_13897.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ra and the Performance of Reckoningby MI Parhizkar — thinker and self-proclaimed extraterrestrial Sun Ra (1914-1993) through samplings of...</p></details>

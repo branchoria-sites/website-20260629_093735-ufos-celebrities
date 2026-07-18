@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_pr
 
 ## Introduction
 
-Questions about UFOs carry unusual weight when they are put to a serving or former president. On *Jimmy Kimmel Live!*, however, those questions are asked inside an entertainment format designed to reward wit, timing and personality as much as factual answers. The result is that presidential comments about UFOs often become memorable comic performances rather than serious discussions of evidence. The interviews with Bill Clinton in 2014 and Barack Obama in 2015 illustrate how humour can acknowledge public curiosity while avoiding claims that would imply classified knowledge or official confirmation. Their exchanges remain widely shared not because they resolved the UFO question, but because they demonstrated how late-night television turns a politically sensitive subject into accessible entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">If you saw that there were aliens there, would you tell us?&quot; Kimmel asked ...Read more</span><span class="citation-popover-snippet">ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel</span></span></span>
+Questions about UFOs carry unusual weight when they are put to a serving or former president. On *Jimmy Kimmel Live!*, however, those questions are asked inside an entertainment format designed to reward wit, timing and personality as much as factual answers. The result is that presidential comments about UFOs often become memorable comic performances rather than serious discussions of evidence. The interviews with Bill Clinton in 2014 and Barack Obama in 2015 illustrate how humour can acknowledge public curiosity while avoiding claims that would imply classified knowledge or official confirmation. Their exchanges remain widely shared not because they resolved the UFO question, but because they demonstrated how late-night television turns a politically sensitive subject into accessible entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">If you saw that there were aliens there, would you tell us?&quot; Kimmel asked ...Read more</span><span class="citation-popover-snippet">ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-1-dark.svg" | relative_url }}" alt="Presidents illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Questions about UFOs carry unusual weight when they are put to a serving or form
 
 Bill Clinton's 2014 appearance established the template that later presidential interviews on the programme would follow. Jimmy Kimmel asked the question many UFO enthusiasts would ask any president: did he ever investigate Area 51 or Roswell while in office?
 
-Clinton answered that he had indeed asked aides to review records relating to Area 51 and the Roswell incident. He explained that Area 51's secrecy stemmed from classified [military]({{ 'military/' | relative_url }}) aircraft development rather than hidden extraterrestrials, and said the Roswell review had likewise uncovered no evidence of aliens. Yet he deliberately avoided presenting himself as someone who could settle the broader question of life elsewhere in the universe. Instead, he added that he "wouldn't be surprised" if humanity were visited someday, before joking that he hoped it would not resemble the alien invasion portrayed in *Independence Day*. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">If you saw that there were aliens there, would you tell us?&quot; Kimmel asked ...Read more</span><span class="citation-popover-snippet">ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel</span></span></span>
+Clinton answered that he had indeed asked aides to review records relating to Area 51 and the Roswell incident. He explained that Area 51's secrecy stemmed from classified [military]({{ 'military/' | relative_url }}) aircraft development rather than hidden extraterrestrials, and said the Roswell review had likewise uncovered no evidence of aliens. Yet he deliberately avoided presenting himself as someone who could settle the broader question of life elsewhere in the universe. Instead, he added that he "wouldn't be surprised" if humanity were visited someday, before joking that he hoped it would not resemble the alien invasion portrayed in *Independence Day*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">If you saw that there were aliens there, would you tell us?&quot; Kimmel asked ...Read more</span><span class="citation-popover-snippet">ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel</span></span></span>
 
 That combination of reassurance and speculation is important. Clinton distinguished between:
 
@@ -304,9 +304,9 @@ The final joke prevented the interview from ending on an authoritative or invest
 
 When Barack Obama appeared on the programme in 2015, Kimmel deliberately referred back to Clinton's interview. Kimmel noted that Clinton had claimed to investigate the files, inviting Obama either to confirm or contradict his predecessor.
 
-Obama chose a different strategy. Rather than discussing government procedures or classified information, he responded with escalating deadpan humour. When Kimmel suggested that searching for Area 51 records would be his first act as president, Obama replied that this was precisely why Kimmel could never become president. He then joked that "the aliens won't let it happen" because they exercised strict control over humanity. When Kimmel pointed out that Clinton had said there was nothing there, Obama extended the joke by replying, "That's what we're instructed to say." <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la pn obama kimmel jokes 20150312 story</span><span class="citation-popover-snippet">UFO files” about the mysterious desert region known as Area 51. “The aliens won&#x27;t let it happen,” Obama joked. “You&#x27;d reveal all their...</span></span></span>
+Obama chose a different strategy. Rather than discussing government procedures or classified information, he responded with escalating deadpan humour. When Kimmel suggested that searching for Area 51 records would be his first act as president, Obama replied that this was precisely why Kimmel could never become president. He then joked that "the aliens won't let it happen" because they exercised strict control over humanity. When Kimmel pointed out that Clinton had said there was nothing there, Obama extended the joke by replying, "That's what we're instructed to say."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times+2Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la pn obama kimmel jokes 20150312 story</span><span class="citation-popover-snippet">UFO files” about the mysterious desert region known as Area 51. “The aliens won&#x27;t let it happen,” Obama joked. “You&#x27;d reveal all their...</span></span></span>
 
-The humour depended on audiences recognising that Obama was parodying UFO conspiracy theories rather than endorsing them. Nevertheless, the exchange illustrates a recurring feature of presidential UFO interviews: even obvious jokes can circulate independently online, detached from their comic setting. Contemporary commentary noted that some conspiracy websites interpreted the exchange literally despite its clear entertainment context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2015/03/16/did-president-obama-admit-the-us-is-cont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">did president obama admit the us is cont</span><span class="citation-popover-snippet">No, it was a joke. But Poe&#x27;s Law applies...</span></span></span>
+The humour depended on audiences recognising that Obama was parodying UFO conspiracy theories rather than endorsing them. Nevertheless, the exchange illustrates a recurring feature of presidential UFO interviews: even obvious jokes can circulate independently online, detached from their comic setting. Contemporary commentary noted that some conspiracy websites interpreted the exchange literally despite its clear entertainment context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2015/03/16/did-president-obama-admit-the-us-is-cont/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">did president obama admit the us is cont</span><span class="citation-popover-snippet">No, it was a joke. But Poe&#x27;s Law applies...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-2-dark.svg" | relative_url }}" alt="Presidents illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,7 +326,7 @@ On Kimmel's programme, humour performs several political functions:
 
 </div>
 
-Because the format rewards timing and charm, the audience remembers memorable lines—such as aliens controlling presidents or hoping to avoid an *Independence Day*-style invasion—more readily than the more mundane statements that neither president found evidence of hidden extraterrestrials while in office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/bill-clinton-on-aliens-visiting-earth-wouldnt-be-surprised/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsBill Clinton on aliens visiting Earth: &quot;Wouldn&#x27;t be surprised&quot;Apr 3, 2014 — Former President Bill Clinton never saw evidence of a...</span></span></span>
+Because the format rewards timing and charm, the audience remembers memorable lines—such as aliens controlling presidents or hoping to avoid an *Independence Day*-style invasion—more readily than the more mundane statements that neither president found evidence of hidden extraterrestrials while in office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/bill-clinton-on-aliens-visiting-earth-wouldnt-be-surprised/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsBill Clinton on aliens visiting Earth: &quot;Wouldn&#x27;t be surprised&quot;Apr 3, 2014 — Former President Bill Clinton never saw evidence of a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gxreSxkvETI" title="Barack Obama Asked if Aliens Were in Government Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gxreSxkvETI" target="_blank" rel="noopener noreferrer">Barack Obama Asked if Aliens Were in Government Lab</a></p><p class="youtube-embed-meta">Channel: Inside Edition</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gxreSxkvETI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gxreSxkvETI">Open on YouTube</a></p></div></div></div>
@@ -342,200 +342,200 @@ On one hand, asking presidents about Area 51 legitimises public curiosity. The v
 
 On the other hand, the entertainment setting changes what viewers remember. Rather than evaluating documentary evidence, government investigations or competing explanations for unidentified aerial phenomena, audiences often recall the jokes. The comic framing becomes part of the story itself.
 
-This explains why both interviews continue to be referenced years later. Clinton is remembered for saying he checked the files and still would not rule out extraterrestrial life, while Obama is remembered for pretending that aliens controlled presidential secrecy. In both cases, the most enduring public memory is not an evidential claim but a carefully performed piece of presidential humour that balanced curiosity, scepticism and entertainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">If you saw that there were aliens there, would you tell us?&quot; Kimmel asked ...Read more</span><span class="citation-popover-snippet">ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel</span></span></span>
+This explains why both interviews continue to be referenced years later. Clinton is remembered for saying he checked the files and still would not rule out extraterrestrial life, while Obama is remembered for pretending that aliens controlled presidential secrecy. In both cases, the most enduring public memory is not an evidential claim but a carefully performed piece of presidential humour that balanced curiosity, scepticism and entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-aliens-exist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">If you saw that there were aliens there, would you tell us?&quot; Kimmel asked ...Read more</span><span class="citation-popover-snippet">ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-3-dark.svg" | relative_url }}" alt="Presidents illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_talk_shows_ufo_testi_6fbbcc_presidents_kimmel_uf_df9cda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Presidents Joke About UFO Secrets. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Presidents Joke About UFO Secrets. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers government and official perspectives relevant to presidential remarks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers government and official perspectives relevant to presidential remarks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Provides historical context for Area 51 references.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context for Area 51 references.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how UFO narratives influence culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO narratives influence culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical thinking about public claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical thinking about public claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="presidents-why-presidents-joke-about-ufo-secrets-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -551,7 +551,7 @@ This explains why both interviews continue to be referenced years later. Clinton
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -571,7 +571,7 @@ This explains why both interviews continue to be referenced years later. Clinton
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -603,7 +603,7 @@ This explains why both interviews continue to be referenced years later. Clinton
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -655,7 +655,7 @@ This explains why both interviews continue to be referenced years later. Clinton
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -700,7 +700,7 @@ This explains why both interviews continue to be referenced years later. Clinton
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -741,93 +741,93 @@ This explains why both interviews continue to be referenced years later. Clinton
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reason.com  
    Title: did president obama admit the us is cont  
-   Link: <a href="https://reason.com/2015/03/16/did-president-obama-admit-the-us-is-cont/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2015/03/16/did-president-obama-admit-the-us-is-cont/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>No, it was a joke. But Poe&#x27;s Law applies...</p></details>
+   Link:<a href="https://reason.com/2015/03/16/did-president-obama-admit-the-us-is-cont/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2015/03/16/did-president-obama-admit-the-us-is-cont/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No, it was a joke. But Poe&#x27;s Law applies...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bill.com  
-   Link: <a href="https://www.bill.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bill.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial Operations Platform for Businesses &amp; FirmsThe intelligent way to create and pay bills, send invoices, manage expenses, c...</p></details>
+   Link:<a href="https://www.bill.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bill.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Financial Operations Platform for Businesses &amp; FirmsThe intelligent way to create and pay bills, send invoices, manage expenses, c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-[aliens-exist" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-[aliens-exist</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel...</p></details>
+   Link:<a href="https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-[aliens-exist" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/blogs/politics/2014/04/bill-clinton-wouldnt-be-surprised-if-[aliens-exist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsBill Clinton Wouldn&#x27;t be Surprised if Aliens ExistApr 3, 2014 — &quot;I had all the Roswell papers reviewed - everything,&quot; he told Kimmel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: latimes.com  
    Title: la pn obama kimmel jokes 20150312 story  
-   Link: <a href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files” about the mysterious desert region known as Area 51. “The aliens won&#x27;t let it happen,” Obama joked. “You&#x27;d reveal all their...</p></details>
+   Link:<a href="https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/nation/politics/politicsnow/la-pn-obama-kimmel-jokes-20150312-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO files” about the mysterious desert region known as Area 51. “The aliens won&#x27;t let it happen,” Obama joked. “You&#x27;d reveal all their...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/bill-clinton-on-aliens-visiting-earth-wouldnt-be-surprised/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/bill-clinton-on-aliens-visiting-earth-wouldnt-be-surprised/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsBill Clinton on aliens visiting Earth: &quot;Wouldn&#x27;t be surprised&quot;Apr 3, 2014 — Former President Bill Clinton never saw evidence of a...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/bill-clinton-on-aliens-visiting-earth-wouldnt-be-surprised/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/bill-clinton-on-aliens-visiting-earth-wouldnt-be-surprised/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsBill Clinton on aliens visiting Earth: &quot;Wouldn&#x27;t be surprised&quot;Apr 3, 2014 — Former President Bill Clinton never saw evidence of a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: latimes.com  
    Title: la et st obama denies alien knowledge to jimmy kimmel 20150313 story  
-   Link: <a href="https://www.latimes.com/entertainment/tv/showtracker/la-et-st-obama-denies-alien-knowledge-to-jimmy-kimmel-20150313-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment/tv/showtracker/la-et-st-obama-denies-alien-knowledge-to-jimmy-kimmel-20150313-story.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Obama, pressed by Jimmy Kimmel, clams up about...13 Mar 2015 — After Kimmel admitted seeking out the Area 51 files would be his first ac...</p></details>
+   Link:<a href="https://www.latimes.com/entertainment/tv/showtracker/la-et-st-obama-denies-alien-knowledge-to-jimmy-kimmel-20150313-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/entertainment/tv/showtracker/la-et-st-obama-denies-alien-knowledge-to-jimmy-kimmel-20150313-story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Obama, pressed by Jimmy Kimmel, clams up about...13 Mar 2015 — After Kimmel admitted seeking out the Area 51 files would be his first ac...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=azaSwEIw6HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=azaSwEIw6HE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Barack Obama clarifies he&#x27;s seen &#x27;no evidence&#x27; of aliensThe former president who has long declared himself a fan of Star Trek&#x27;s highly lo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=azaSwEIw6HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=azaSwEIw6HE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Barack Obama clarifies he&#x27;s seen &#x27;no evidence&#x27; of aliensThe former president who has long declared himself a fan of Star Trek&#x27;s highly lo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: deadline.com  
    Title: obama aliens jimmy kimmel clinton birth certificate video 1201392079  
-   Link: <a href="https://deadline.com/2015/03/obama-aliens-jimmy-kimmel-clinton-birth-certificate-video-1201392079/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2015/03/obama-aliens-jimmy-kimmel-clinton-birth-certificate-video-1201392079/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Obama Denies Knowledge Of Aliens On &#x27;Jimmy Kimmel Live&#x27;13 Mar 2015 — President Obama denied knowing anything about aliens to late-night h...</p></details>
+   Link:<a href="https://deadline.com/2015/03/obama-aliens-jimmy-kimmel-clinton-birth-certificate-video-1201392079/" target="_blank" rel="noopener noreferrer nofollow">https://deadline.com/2015/03/obama-aliens-jimmy-kimmel-clinton-birth-certificate-video-1201392079/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Obama Denies Knowledge Of Aliens On &#x27;Jimmy Kimmel Live&#x27;13 Mar 2015 — President Obama denied knowing anything about aliens to late-night h...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: chicago.suntimes.com  
    Title: bill clinton says alien invasion could unite the world  
-   Link: <a href="https://chicago.suntimes.com/politics/2014/4/3/18626544/bill-clinton-says-alien-invasion-could-unite-the-world" target="_blank" rel="noopener noreferrer nofollow">https://chicago.suntimes.com/politics/2014/4/3/18626544/bill-clinton-says-alien-invasion-could-unite-the-world</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago Sun-TimesBill Clinton says alien invasion could unite the worldApr 3, 2014 — Clinton told Kimmel that while in office, he examine...</p></details>
+   Link:<a href="https://chicago.suntimes.com/politics/2014/4/3/18626544/bill-clinton-says-alien-invasion-could-unite-the-world" target="_blank" rel="noopener noreferrer nofollow">https://chicago.suntimes.com/politics/2014/4/3/18626544/bill-clinton-says-alien-invasion-could-unite-the-world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago Sun-TimesBill Clinton says alien invasion could unite the worldApr 3, 2014 — Clinton told Kimmel that while in office, he examine...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yahoo.com  
    Title: obama denies knowledge aliens jimmy 114713242  
-   Link: <a href="https://www.yahoo.com/entertainment/obama-denies-knowledge-aliens-jimmy-114713242.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/obama-denies-knowledge-aliens-jimmy-114713242.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Obama Denies Knowledge Of Aliens On &#x27;Jimmy Kimmel Live&#x27;13 Mar 2015 — President Obama denied knowing anything about aliens to late-night h...</p></details>
+   Link:<a href="https://www.yahoo.com/entertainment/obama-denies-knowledge-aliens-jimmy-114713242.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/entertainment/obama-denies-knowledge-aliens-jimmy-114713242.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Obama Denies Knowledge Of Aliens On &#x27;Jimmy Kimmel Live&#x27;13 Mar 2015 — President Obama denied knowing anything about aliens to late-night h...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABCNewsLive/posts/former-president-obama-is-attempting-to-clarify-comments-he-made-about-alien-lif/1304210451563080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNewsLive/posts/former-president-obama-is-attempting-to-clarify-comments-he-made-about-alien-lif/1304210451563080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>th Jimmy Kimmel... ” “Clinton said there was nothing,” Kimmel said...</p></details>
+   Link:<a href="https://www.facebook.com/ABCNewsLive/posts/former-president-obama-is-attempting-to-clarify-comments-he-made-about-alien-lif/1304210451563080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABCNewsLive/posts/former-president-obama-is-attempting-to-clarify-comments-he-made-about-alien-lif/1304210451563080/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>th Jimmy Kimmel... ” “Clinton said there was nothing,” Kimmel said...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: csmonitor.com  
    Title: Bill Clinton talks aliens with Jimmy Kimmel  
-   Link: <a href="https://www.csmonitor.com/USA/Politics/Decoder/2014/0403/Bill-Clinton-talks-aliens-with-Jimmy-Kimmel.-And-what-else" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/USA/Politics/Decoder/2014/0403/Bill-Clinton-talks-aliens-with-Jimmy-Kimmel.-And-what-else</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And what else?Apr 3, 2014 — “First, I had people go look at the records on Area 51 to make sure there was no alien down there,” Clinton s...</p></details>
+   Link:<a href="https://www.csmonitor.com/USA/Politics/Decoder/2014/0403/Bill-Clinton-talks-aliens-with-Jimmy-Kimmel.-And-what-else" target="_blank" rel="noopener noreferrer nofollow">https://www.csmonitor.com/USA/Politics/Decoder/2014/0403/Bill-Clinton-talks-aliens-with-Jimmy-Kimmel.-And-what-else</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And what else?Apr 3, 2014 — “First, I had people go look at the records on Area 51 to make sure there was no alien down there,” Clinton s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/abc7news/posts/obama-has-clarified-comments-he-made-about-alien-life-on-a-podcast-over-the-week/1351164900386870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7news/posts/obama-has-clarified-comments-he-made-about-alien-life-on-a-podcast-over-the-week/1351164900386870/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>will reveal all of their secrets. They exercise strict control...</p></details>
+   Link:<a href="https://www.facebook.com/abc7news/posts/obama-has-clarified-comments-he-made-about-alien-life-on-a-podcast-over-the-week/1351164900386870/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/abc7news/posts/obama-has-clarified-comments-he-made-about-alien-life-on-a-podcast-over-the-week/1351164900386870/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>will reveal all of their secrets. They exercise strict control...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/nr3bvy/what_if_obama_already_told_everyone_the_truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/nr3bvy/what_if_obama_already_told_everyone_the_truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>answered: • ⁠“the aliens won&#x27;t let it happen. You&#x27;d reveal all...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/nr3bvy/what_if_obama_already_told_everyone_the_truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/nr3bvy/what_if_obama_already_told_everyone_the_truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>answered: • ⁠“the aliens won&#x27;t let it happen. You&#x27;d reveal all...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Channel4News/posts/former-us-president-barack-obama-has-clarified-his-comments-after-saying-during-/884927120837068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/former-us-president-barack-obama-has-clarified-his-comments-after-saying-during-/884927120837068/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cy about UFOs. According to the LA Times and New York...</p></details>
+   Link:<a href="https://www.facebook.com/Channel4News/posts/former-us-president-barack-obama-has-clarified-his-comments-after-saying-during-/884927120837068/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/former-us-president-barack-obama-has-clarified-his-comments-after-saying-during-/884927120837068/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cy about UFOs. According to the LA Times and New York...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Hillary Clinton Promises the Truth About UFOs  
-   Link: <a href="https://www.youtube.com/watch?v=C4qkIW8rEzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C4qkIW8rEzQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Kimmel Bill Clinton UFO interview 2014 2014-04-02: Bill Clinton on Aliens with Kimmel Tom Owens UAP...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C4qkIW8rEzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C4qkIW8rEzQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Kimmel Bill Clinton UFO interview 2014 2014-04-02: Bill Clinton on Aliens with Kimmel Tom Owens UAP...</p></details>
    Published: April 2, 2014  

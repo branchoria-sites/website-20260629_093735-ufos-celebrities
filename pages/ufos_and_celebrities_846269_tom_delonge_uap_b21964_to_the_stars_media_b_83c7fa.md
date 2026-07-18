@@ -290,7 +290,7 @@ The significance of TTSA lies less in proving extraordinary claims than in chang
 
 Many celebrities interested in UFOs have relied on personal testimony or media appearances. DeLonge instead attempted to create an organisation that looked like a hybrid of a media studio, research venture and aerospace company.
 
-TTSA launched with divisions dedicated to entertainment, science and aerospace, signalling that UAPs would be discussed across multiple formats rather than through occasional interviews. Company filings and public presentations positioned the organisation as something intended to generate films, books, television programming and research simultaneously, making the institution—not only DeLonge—the continuing public face of the subject. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+TTSA launched with divisions dedicated to entertainment, science and aerospace, signalling that UAPs would be discussed across multiple formats rather than through occasional interviews. Company filings and public presentations positioned the organisation as something intended to generate films, books, television programming and research simultaneously, making the institution—not only DeLonge—the continuing public face of the subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 This institutional approach mattered because journalists generally treat organisations differently from individual enthusiasts. Instead of asking whether a rock musician believed in UFOs, reporters could cover:
 
@@ -313,7 +313,7 @@ The shift was largely about presentation. TTSA supplied an organisational framew
 
 TTSA's launch illustrated a carefully constructed blend of credibility signals drawn from different audiences.
 
-DeLonge contributed public recognition and media reach. Alongside him appeared former Pentagon and intelligence figures including Luis Elizondo, Christopher Mellon and aerospace engineer Steve Justice. Their biographies gave reporters recognised institutional affiliations that could be cited independently of DeLonge's celebrity status. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+DeLonge contributed public recognition and media reach. Alongside him appeared former Pentagon and intelligence figures including Luis Elizondo, Christopher Mellon and aerospace engineer Steve Justice. Their biographies gave reporters recognised institutional affiliations that could be cited independently of DeLonge's celebrity status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 This combination solved a long-standing problem in UFO journalism. Historically, stories often depended on anonymous witnesses, amateur investigators or enthusiasts. TTSA instead offered:
 
@@ -327,7 +327,7 @@ This combination solved a long-standing problem in UFO journalism. Historically,
 
 </div>
 
-The entertainment component was equally important. Rather than separating [documentaries]({{ 'documentaries/' | relative_url }}), books and fictional storytelling from [advocacy]({{ 'advocacy/' | relative_url }}), TTSA treated them as complementary. Fictional projects such as *Sekret Machines* created audience interest, while non-fiction interviews, television appearances and public presentations encouraged viewers to interpret UAP through military and intelligence narratives rather than purely science-fiction imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+The entertainment component was equally important. Rather than separating [documentaries]({{ 'documentaries/' | relative_url }}), books and fictional storytelling from [advocacy]({{ 'advocacy/' | relative_url }}), TTSA treated them as complementary. Fictional projects such as *Sekret Machines* created audience interest, while non-fiction interviews, television appearances and public presentations encouraged viewers to interpret UAP through military and intelligence narratives rather than purely science-fiction imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 This was an unusual communications strategy: entertainment generated attention, while institutional voices attempted to legitimise the discussion.
 
@@ -342,7 +342,7 @@ Before 2017, mainstream reporting frequently framed UFO stories around eyewitnes
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* "unidentified aerial phenomena" instead of "UFOs"; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">what is up with those pentagon ufo videos</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span>
+* "unidentified aerial phenomena" instead of "UFOs";<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">what is up with those pentagon ufo videos</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span>
 * Navy pilots rather than civilian witnesses;
 * classified programmes rather than conspiracy theories;
 * aviation safety rather than alien visitation;
@@ -350,7 +350,7 @@ Before 2017, mainstream reporting frequently framed UFO stories around eyewitnes
 
 </div>
 
-This change did not require journalists to endorse extraordinary explanations. Instead, it allowed editors to justify coverage because the subject involved military operations, defence reporting and government accountability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+This change did not require journalists to endorse extraordinary explanations. Instead, it allowed editors to justify coverage because the subject involved military operations, defence reporting and government accountability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 The distinction proved important. Stories could now be published in defence, politics or investigative sections instead of lifestyle or entertainment pages.
 
@@ -361,9 +361,9 @@ The distinction proved important. Stories could now be published in defence, pol
 
 TTSA's influence cannot be separated from the coordinated publication of the December 2017 reports in *The New York Times*, *The Washington Post* and *Politico* concerning the Pentagon's Advanced Aerospace Threat Identification Program (AATIP) and military encounter videos.
 
-Christopher Mellon and Luis Elizondo, both associated with TTSA, played significant roles in bringing the Navy videos into public discussion. The simultaneous appearance of respected newspapers, named former officials and authenticated military footage produced a powerful journalistic package. The story became news not because it demonstrated extraterrestrial technology, but because reputable institutions were reporting on documented military encounters and an obscure government programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Christopher_Mellon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Christopher Mellon</span><span class="citation-popover-snippet">Christopher Mellon</span></span></span>
+Christopher Mellon and Luis Elizondo, both associated with TTSA, played significant roles in bringing the Navy videos into public discussion. The simultaneous appearance of respected newspapers, named former officials and authenticated military footage produced a powerful journalistic package. The story became news not because it demonstrated extraterrestrial technology, but because reputable institutions were reporting on documented military encounters and an obscure government programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Christopher_Mellon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Christopher Mellon</span><span class="citation-popover-snippet">Christopher Mellon</span></span></span>
 
-The timing reinforced TTSA's strategy. On the same day that major newspapers published their investigations, TTSA provided related material and commentary through its own media channels, allowing audiences to move seamlessly from traditional journalism to the organisation's broader narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">tom delonges to the stars academy posts declassified ufo videos 126497</span><span class="citation-popover-snippet">military videos purportedly showing evidence of unidentified flying...</span></span></span>
+The timing reinforced TTSA's strategy. On the same day that major newspapers published their investigations, TTSA provided related material and commentary through its own media channels, allowing audiences to move seamlessly from traditional journalism to the organisation's broader narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rollingstone.com">[Rolling Stone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rollingstone.com</span><span class="citation-popover-title">tom delonges to the stars academy posts declassified ufo videos 126497</span><span class="citation-popover-snippet">military videos purportedly showing evidence of unidentified flying...</span></span></span>
 
 ## Why television producers found the format attractive
 
@@ -390,7 +390,7 @@ These are journalistic questions rather than claims about extraterrestrial life,
 
 The increased legitimacy of UAP reporting should not be confused with acceptance of TTSA's interpretations.
 
-Journalists, scientists and sceptical investigators have argued that some media coverage relied too heavily on limited evidence or insufficiently tested assumptions. Critics have questioned aspects of the reporting surrounding AATIP, the interpretation of military videos and some of TTSA's broader scientific ambitions, including its public discussion of purported "[metamaterials]({{ 'metamaterials/' | relative_url }})". Others have argued that mainstream coverage sometimes adopted an unnecessarily mysterious framing before conventional explanations had been fully examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
+Journalists, scientists and sceptical investigators have argued that some media coverage relied too heavily on limited evidence or insufficiently tested assumptions. Critics have questioned aspects of the reporting surrounding AATIP, the interpretation of military videos and some of TTSA's broader scientific ambitions, including its public discussion of purported "[metamaterials]({{ 'metamaterials/' | relative_url }})". Others have argued that mainstream coverage sometimes adopted an unnecessarily mysterious framing before conventional explanations had been fully examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
 Government reviews have likewise drawn a distinction between acknowledging genuinely unidentified observations and concluding that they represent non-human technology. Subsequent Pentagon and NASA assessments have consistently stated that, while some incidents remain unexplained, there is no publicly available evidence establishing an extraterrestrial origin.
 
@@ -407,194 +407,194 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How To The Stars changed UFO coverage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How To The Stars changed UFO coverage. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Places TTSA in the wider UAP media landscape.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places TTSA in the wider UAP media landscape.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
-        </h4>
-        <p class="fr-book-author">By Luis Elizondo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+</h4>
+<p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">Explains the movement surrounding TTSA.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the movement surrounding TTSA.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader context for official involvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context for official involvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
-        </h4>
-        <p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
+</h4>
+<p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
         
-        <p class="fr-book-desc">Directly tied to TTSA&#x27;s media strategy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tied to TTSA&#x27;s media strategy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1960s set of three UFO wall art"><img src="{{ '/assets/images/marketplace-covers/be68d6dc5e42b0f085ad.jpg' | relative_url }}" alt="Listing image for Vintage 1960s set of three UFO wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Vintage 1960s set of three UFO wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="to-the-stars-463029-how-to-the-stars-changed-ufo-coverage-ufos-and-celebrities-ufo-wall-art-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,91 +800,91 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Christopher Mellon  
-   Link: <a href="https://en.wikipedia.org/wiki/Christopher_Mellon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Christopher_Mellon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Christopher_Mellon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Christopher_Mellon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: [Pentagon UFO videos](&#123;&#123; 'navy-videos/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: what is up with those pentagon ufo videos  
-   Link: <a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</p></details>
+   Link:<a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: rollingstone.com  
    Title: tom delonges to the stars academy posts declassified ufo videos 126497  
-   Link: <a href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military videos purportedly showing evidence of unidentified flying...</p></details>
+   Link:<a href="https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/" target="_blank" rel="noopener noreferrer nofollow">https://www.rollingstone.com/culture/culture-news/tom-delonges-to-the-stars-academy-posts-declassified-ufo-videos-126497/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military videos purportedly showing evidence of unidentified flying...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop7323UUaCOnP28o2Po8-clcmoZNhBi1Vjzf2XtYdTRvQ_wcNU5" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop7323UUaCOnP28o2Po8-clcmoZNhBi1Vjzf2XtYdTRvQ_wcNU5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To the Stars Academy of Arts &amp; Science Acknowledges...28 Apr 2020 — The Pentagon officially released three videos of Unidentified Aerial...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop7323UUaCOnP28o2Po8-clcmoZNhBi1Vjzf2XtYdTRvQ_wcNU5" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/to-the-stars-academy-of-arts-science-acknowledges-the-pentagons-official-release-of-uap-video-footage?srsltid=AfmBOop7323UUaCOnP28o2Po8-clcmoZNhBi1Vjzf2XtYdTRvQ_wcNU5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To the Stars Academy of Arts &amp; Science Acknowledges...28 Apr 2020 — The Pentagon officially released three videos of Unidentified Aerial...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: pentagon released ufo videos chase aliens  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its UFO videos – so I went to...22 Apr 2026 — He claimed he ran a secret Pentagon programme called the Advanced Ae...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its UFO videos – so I went to...22 Apr 2026 — He claimed he ran a secret Pentagon programme called the Advanced Ae...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX56wolftv/posts/the-defense-department-on-friday-released-new-ufo-files-of-sightings-in-the-nort/1716092949982123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX56wolftv/posts/the-defense-department-on-friday-released-new-ufo-files-of-sightings-in-the-nort/1716092949982123/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rtheastern U.S., which FBI agents also observed after deeming...</p></details>
+   Link:<a href="https://www.facebook.com/FOX56wolftv/posts/the-defense-department-on-friday-released-new-ufo-files-of-sightings-in-the-nort/1716092949982123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX56wolftv/posts/the-defense-department-on-friday-released-new-ufo-files-of-sightings-in-the-nort/1716092949982123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rtheastern U.S., which FBI agents also observed after deeming...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: U.S. Navy Discloses Existence of "Unidentified Aerial Phenomena"  
-   Link: <a href="https://www.youtube.com/watch?v=c-U8o8swmdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c-U8o8swmdI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c-U8o8swmdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c-U8o8swmdI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Delonge: Skinwalkers &amp; CIA Spooks | With Jim Semivan...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Unidentified: Inside America's UFO Investigation Promo  
-   Link: <a href="https://www.youtube.com/watch?v=ewnJ6okvsK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewnJ6okvsK0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Go Fast: Official USG Footage of UAP for Public Release...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ewnJ6okvsK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewnJ6okvsK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Go Fast: Official USG Footage of UAP for Public Release...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: How blink-182's Singer Proved That [Aliens Exist](&#123;&#123; 'aliens-exist/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=CDZ40bmirVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CDZ40bmirVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Navy Discloses Existence of &quot;Unidentified Aerial Phenomena&quot;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CDZ40bmirVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CDZ40bmirVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Navy Discloses Existence of &quot;Unidentified Aerial Phenomena&quot;...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Tom Delonge: Skinwalkers & CIA Spooks | With Jim Semivan  
-   Link: <a href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OBSdg3nwxoo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meanwhile... Navy Confirms Existence Of UFOs...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OBSdg3nwxoo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OBSdg3nwxoo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meanwhile... Navy Confirms Existence Of UFOs...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IK1nXr-ia2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IK1nXr-ia2Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO Investigation Promo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IK1nXr-ia2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IK1nXr-ia2Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified: Inside America&#x27;s UFO Investigation Promo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rO_M0hLlJ-Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Pentagon&#x27;s three declassified UFO videos taken by...The videos were taken during training flights and the 2017 leaks were published...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rO_M0hLlJ-Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Pentagon&#x27;s three declassified UFO videos taken by...The videos were taken during training flights and the 2017 leaks were published...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Go Fast: Official USG Footage of UAP for Public Release  
-   Link: <a href="https://www.youtube.com/watch?v=wxVRg7LLaQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wxVRg7LLaQA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=wxVRg7LLaQA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wxVRg7LLaQA</a>  

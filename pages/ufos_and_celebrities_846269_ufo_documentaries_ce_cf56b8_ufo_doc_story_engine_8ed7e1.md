@@ -280,7 +280,7 @@ image: /assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_uf
 
 ## Introduction
 
-Celebrity [UFO documentaries]({{ 'documentaries/' | relative_url }}) often leave viewers with the feeling that they have seen a compelling case even when the underlying evidence remains incomplete or disputed. The key mechanism is not necessarily the discovery of new facts, but the way film transforms scattered observations into a story with a beginning, rising tension and an implied destination. A brief cockpit video, a witness interview, a declassified memo and an official acronym may each be ambiguous on their own. Through documentary storytelling, however, they become connected chapters in an unfolding investigation. Understanding this storytelling mechanism helps explain why many UFO documentaries feel persuasive without necessarily resolving the central factual questions. At the same time, scientific bodies examining unidentified aerial phenomena (UAP) continue to emphasise that coherent narratives are not substitutes for high-quality, reproducible evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+Celebrity [UFO documentaries]({{ 'documentaries/' | relative_url }}) often leave viewers with the feeling that they have seen a compelling case even when the underlying evidence remains incomplete or disputed. The key mechanism is not necessarily the discovery of new facts, but the way film transforms scattered observations into a story with a beginning, rising tension and an implied destination. A brief cockpit video, a witness interview, a declassified memo and an official acronym may each be ambiguous on their own. Through documentary storytelling, however, they become connected chapters in an unfolding investigation. Understanding this storytelling mechanism helps explain why many UFO documentaries feel persuasive without necessarily resolving the central factual questions. At the same time, scientific bodies examining unidentified aerial phenomena (UAP) continue to emphasise that coherent narratives are not substitutes for high-quality, reproducible evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ufo_doc_story_engine_8ed7e1-Illustration-1-dark.svg" | relative_url }}" alt="Story Engine illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ufo_doc_story_engine_8ed7e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ufo_doc_story_engine_8ed7e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ A real-world UFO report is usually fragmented. A witness remembers an unusual li
 
 Documentary filmmaking reverses that fragmentation. Rather than presenting isolated incidents, it arranges them into a sequence that resembles an investigation. Earlier scenes establish mystery, middle sections introduce apparently [independent witnesses]({{ 'witnesses-491abb/' | relative_url }}), and later scenes promise a broader pattern. Viewers are encouraged to interpret each new piece as confirmation that the previous pieces belong together.
 
-This structure reflects a well-studied feature of narrative psychology. Research on narrative transportation shows that stories encourage audiences to integrate separate events into a meaningful whole. Attention shifts from evaluating each individual claim to following the overall narrative journey, making the experience feel internally coherent even if important evidential gaps remain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-030-63614-2_6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2mcm.uni-wuerzburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkTransportation into Narrative Worlds &#124; Springer Nature Linkby MC Green · 2021 · Cited by 279 — Transportation is a key mecha...</span></span></span>
+This structure reflects a well-studied feature of narrative psychology. Research on narrative transportation shows that stories encourage audiences to integrate separate events into a meaningful whole. Attention shifts from evaluating each individual claim to following the overall narrative journey, making the experience feel internally coherent even if important evidential gaps remain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-030-63614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2mcm.uni-wuerzburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkTransportation into Narrative Worlds &#124; Springer Nature Linkby MC Green · 2021 · Cited by 279 — Transportation is a key mecha...</span></span></span>
 
 Celebrity-led productions amplify this effect because familiar presenters provide continuity between otherwise unrelated cases. Rather than asking whether one specific sighting has been conclusively explained, viewers are encouraged to ask what all the sightings might collectively mean.
 
@@ -324,7 +324,7 @@ This differs from scientific verification.
 
 Science generally asks whether each observation can be independently measured, reproduced and evaluated using reliable data. Documentary storytelling instead asks whether individual observations contribute to a larger narrative that feels plausible.
 
-NASA's Independent Study Team on UAP highlighted exactly this distinction. The report concluded that unidentified observations deserve systematic study, but stressed that current data are frequently insufficient because of inconsistent measurements, limited [metadata]({{ 'metadata/' | relative_url }}) and poor sensor calibration. The recommendation was not that existing cases collectively prove an extraordinary explanation, but that better-quality observations are needed before robust conclusions can be drawn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+NASA's Independent Study Team on UAP highlighted exactly this distinction. The report concluded that unidentified observations deserve systematic study, but stressed that current data are frequently insufficient because of inconsistent measurements, limited [metadata]({{ 'metadata/' | relative_url }}) and poor sensor calibration. The recommendation was not that existing cases collectively prove an extraordinary explanation, but that better-quality observations are needed before robust conclusions can be drawn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 This creates an important contrast:
 
@@ -343,7 +343,7 @@ Audiences already understand these personalities through previous films, televis
 
 This is particularly noticeable when productions combine celebrity presenters with former military personnel, intelligence officials or [pilots]({{ 'pilots/' | relative_url }}). The celebrity supplies accessibility and emotional engagement, while official-looking interviewees provide institutional gravitas. Together they create a story that feels balanced between entertainment and investigation, even if many claims remain unresolved or contested.
 
-Critics of films such as *The Phenomenon* have noted this tension. Admirers praise the way it organises decades of testimony into a coherent historical account, while sceptical reviewers observe that a coherent presentation does not eliminate unresolved evidential questions. The film itself ultimately argues for continued consideration rather than claiming definitive proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phenomenon_%28film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phenomenon (film</span><span class="citation-popover-snippet">The Phenomenon (film</span></span></span>
+Critics of films such as *The Phenomenon* have noted this tension. Admirers praise the way it organises decades of testimony into a coherent historical account, while sceptical reviewers observe that a coherent presentation does not eliminate unresolved evidential questions. The film itself ultimately argues for continued consideration rather than claiming definitive proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Phenomenon_%28film%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Phenomenon (film</span><span class="citation-popover-snippet">The Phenomenon (film</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ufo_doc_story_engine_8ed7e1-Illustration-3-dark.svg" | relative_url }}" alt="Story Engine illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ufo_doc_story_engine_8ed7e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_ufo_documentaries_ce_cf56b8_ufo_doc_story_engine_8ed7e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ Critics of films such as *The Phenomenon* have noted this tension. Admirers prai
 
 People rarely remember documentaries as collections of disconnected interviews. They remember them as stories.
 
-That memory reflects how narrative works. Once viewers understand separate sightings as chapters in a larger quest for disclosure, later information is often interpreted within the same framework. Narrative psychology suggests that immersive stories can influence beliefs by encouraging audiences to construct integrated mental models rather than continually re-evaluating every factual claim in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-030-63614-2_6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2mcm.uni-wuerzburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkTransportation into Narrative Worlds &#124; Springer Nature Linkby MC Green · 2021 · Cited by 279 — Transportation is a key mecha...</span></span></span>
+That memory reflects how narrative works. Once viewers understand separate sightings as chapters in a larger quest for disclosure, later information is often interpreted within the same framework. Narrative psychology suggests that immersive stories can influence beliefs by encouraging audiences to construct integrated mental models rather than continually re-evaluating every factual claim in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/chapter/10.1007/978-3-030-63614" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2mcm.uni-wuerzburg.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkTransportation into Narrative Worlds &#124; Springer Nature Linkby MC Green · 2021 · Cited by 279 — Transportation is a key mecha...</span></span></span>
 
 This does not mean UFO documentaries inevitably mislead audiences. Many openly acknowledge uncertainty and present competing viewpoints. Their distinctive influence lies elsewhere: they transform uncertainty into an emotionally satisfying narrative structure. The unresolved evidence remains unresolved, but the story surrounding it feels complete, giving viewers a sense of coherence that is stronger than the current state of verification.
 
@@ -360,194 +360,194 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How UFO documentaries turn fragments into stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How UFO documentaries turn fragments into stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Provides a contrast between investigation and narrative framing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a contrast between investigation and narrative framing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Shows how evidence is assembled outside documentary editing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how evidence is assembled outside documentary editing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs : Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12010188-M.jpg" alt="Cover for UFOs : Generals, Pilots, and Government Officials Go on the Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
         
-        <p class="fr-book-desc">First published 2011.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2011.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Explains why coherent stories are not equivalent to reliable evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why coherent stories are not equivalent to reliable evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs : Generals, Pilots, and Government Officials Go on the Record</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="story-engine-how-ufo-documentaries-turn-fragments-into-stories-ufos-and-celebrities-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -563,7 +563,7 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -583,7 +583,7 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -615,7 +615,7 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -667,7 +667,7 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -712,7 +712,7 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -753,104 +753,104 @@ This does not mean UFO documentaries inevitably mislead audiences. Many openly a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-030-63614-2_6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-030-63614-2_6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkTransportation into Narrative Worlds | Springer Nature Linkby MC Green · 2021 · Cited by 279 — Transportation is a key mecha...</p></details>
+   Link:<a href="https://link.springer.com/chapter/10.1007/978-3-030-63614" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-030-63614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkTransportation into Narrative Worlds | Springer Nature Linkby MC Green · 2021 · Cited by 279 — Transportation is a key mecha...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mcm.uni-wuerzburg.de  
-   Link: <a href="https://www.mcm.uni-wuerzburg.de/fileadmin/06110300/2024/Pdfs/Green___Appel__2024__Advances_Preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcm.uni-wuerzburg.de/fileadmin/06110300/2024/Pdfs/Green___Appel__2024__Advances_Preprint.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on and its correction, self and identity, social cognitive skills, and on the fulfillment of belongingness.Read more...</p></details>
+   Link:<a href="https://www.mcm.uni-wuerzburg.de/fileadmin/06110300/2024/Pdfs/Green___Appel__2024__Advances_Preprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcm.uni-wuerzburg.de/fileadmin/06110300/2024/Pdfs/Green___Appel__2024__Advances_Preprint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on and its correction, self and identity, social cognitive skills, and on the fulfillment of belongingness.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Phenomenon (film)  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Phenomenon_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Phenomenon_%28film%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Phenomenon_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Phenomenon_%28film%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2015/04/607107main_psychologyspaceexploration-ebook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2015/04/607107main_psychologyspaceexploration-ebook.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>otal dependency on life support; poses significant...Read more...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2015/04/607107main_psychologyspaceexploration-ebook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2015/04/607107main_psychologyspaceexploration-ebook.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>otal dependency on life support; poses significant...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Transportation theory (psychology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Transportation_theory_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transportation_theory_%28psychology%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation theory (psychology)Narrative transportation theory, proposed by Green and Brock suggests that people become immersed in...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Transportation_theory_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transportation_theory_%28psychology%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation theory (psychology)Narrative transportation theory, proposed by Green and Brock suggests that people become immersed in...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/8a990be79c22f8f4770a79202ac2d5e9" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/8a990be79c22f8f4770a79202ac2d5e9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation TheoryTransportation predicts the persuasive impact of narratives, with transported consumers frequently displaying increa...</p></details>
+   Link:<a href="https://www.scilit.com/publications/8a990be79c22f8f4770a79202ac2d5e9" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/8a990be79c22f8f4770a79202ac2d5e9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation TheoryTransportation predicts the persuasive impact of narratives, with transported consumers frequently displaying increa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381855061_Narrative_Transportation_How_Stories_Shape_How_We_See_Ourselves_and_the_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381855061_Narrative_Transportation_How_Stories_Shape_How_We_See_Ourselves_and_the_World</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Narrative Transportation: How Stories Shape How We See...1 Jul 2024 — The focus of this chapter is on narrative transportation, an exper...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/381855061_Narrative_Transportation_How_Stories_Shape_How_We_See_Ourselves_and_the_World" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381855061_Narrative_Transportation_How_Stories_Shape_How_We_See_Ourselves_and_the_World</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Narrative Transportation: How Stories Shape How We See...1 Jul 2024 — The focus of this chapter is on narrative transportation, an exper...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: astrobiology.com  
    Title: nasa releases uap independent study report and names research director  
-   Link: <a href="https://astrobiology.com/2023/09/14/nasa-releases-uap-independent-study-report-and-names-research-director/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2023/09/14/nasa-releases-uap-independent-study-report-and-names-research-director/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases UAP Independent Study Report And...14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendatio...</p></details>
+   Link:<a href="https://astrobiology.com/2023/09/14/nasa-releases-uap-independent-study-report-and-names-research-director/" target="_blank" rel="noopener noreferrer nofollow">https://astrobiology.com/2023/09/14/nasa-releases-uap-independent-study-report-and-names-research-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases UAP Independent Study Report And...14 Sept 2023 — The report contains the external study team&#x27;s findings and recommendatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: desktop-documentaries.com  
-   Link: <a href="https://www.desktop-documentaries.com/ufos-the-secret-history-documentary-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.desktop-documentaries.com/ufos-the-secret-history-documentary-review.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The narration is rational, playful and understated. Most Alien related themes are slathered in...Read more...</p></details>
+   Link:<a href="https://www.desktop-documentaries.com/ufos-the-secret-history-documentary-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.desktop-documentaries.com/ufos-the-secret-history-documentary-review.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The narration is rational, playful and understated. Most Alien related themes are slathered in...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm. Includes bibliographic references and index. ISBN 1-57859-029...</p></details>
+   Link:<a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO book: encyclopedia of the extraterrestrial / Jerome Clark, p. cm. Includes bibliographic references and index. ISBN 1-57859-029...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nps.edu  
    Title: Unidentified Anomalous Phenomena: Science and Analysis Dr  
-   Link: <a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Randy Bostick discusses the importance of data vetting and accessibility in the study of UAP, emphasizing the need for high-quality datas...</p></details>
+   Link:<a href="https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Randy Bostick discusses the importance of data vetting and accessibility in the study of UAP, emphasizing the need for high-quality datas...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
    Title: A History of Government Management of UFO Perceptions  
-   Link: <a href="https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA scientists on the likely official response to an alien&#x27;s arrival.... In regard to the US government&#x27;s historical UFO research, the...</p></details>
+   Link:<a href="https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/70523533/A_History_of_Government_Management_of_UFO_Perceptions_through_Film_and_Television</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA scientists on the likely official response to an alien&#x27;s arrival.... In regard to the US government&#x27;s historical UFO research, the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: digitalcollections.trentu.ca  
    Title: A History of Canada s UFO Investigation 1950 1995  
-   Link: <a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report a UFO sighting above...</p></details>
+   Link:<a href="https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcollections.trentu.ca/_flysystem/fedora/2022-04/A_History_of_Canada_s_UFO_Investigation_1950_1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>history of canada&#x27;s ufo investigation, 1950-19957 Apr 2022 — Davies wrote to the National Research Council to report a UFO sighting above...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>studying UFO reports for the U.S. Air Force&#x27;s official UFO investigation. In... the observing—the psychology and soci ology of persons w...</p></details>
+   Link:<a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>studying UFO reports for the U.S. Air Force&#x27;s official UFO investigation. In... the observing—the psychology and soci ology of persons w...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Normanfrankelestian/posts/34935023012811545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Normanfrankelestian/posts/34935023012811545/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inting, teasing, dangling ambiguity like a trailer for a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/Normanfrankelestian/posts/34935023012811545/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Normanfrankelestian/posts/34935023012811545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inting, teasing, dangling ambiguity like a trailer for a...Read more...</p></details>

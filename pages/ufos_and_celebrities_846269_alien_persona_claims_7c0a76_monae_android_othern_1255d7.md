@@ -274,7 +274,7 @@ image: /assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_mo
 
 ## Introduction
 
-Janelle Monáe's android alter ego, Cindi Mayweather, is one of the clearest examples of an "alien" or futuristic [persona]({{ 'persona/' | relative_url }}) being used as metaphor rather than as evidence of belief in extraterrestrials. Within the broader conversation about celebrities and UFOs, Monáe's work illustrates why fictional science-fiction world-building should not be confused with real-world claims. Across the *Metropolis* project, *The ArchAndroid*, *The Electric Lady* and later *Dirty Computer*, the android becomes a language for discussing race, gender, sexuality, exclusion and freedom. Monáe has repeatedly explained that the android represents "the other"—a figure through which audiences who feel marginalised can recognise themselves—rather than a literal account of non-human [beings]({{ 'beings/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
+Janelle Monáe's android alter ego, Cindi Mayweather, is one of the clearest examples of an "alien" or futuristic [persona]({{ 'persona/' | relative_url }}) being used as metaphor rather than as evidence of belief in extraterrestrials. Within the broader conversation about celebrities and UFOs, Monáe's work illustrates why fictional science-fiction world-building should not be confused with real-world claims. Across the *Metropolis* project, *The ArchAndroid*, *The Electric Lady* and later *Dirty Computer*, the android becomes a language for discussing race, gender, sexuality, exclusion and freedom. Monáe has repeatedly explained that the android represents "the other"—a figure through which audiences who feel marginalised can recognise themselves—rather than a literal account of non-human [beings]({{ 'beings/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_monae_android_othern_1255d7-Illustration-1-dark.svg" | relative_url }}" alt="Android illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_monae_android_othern_1255d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_monae_android_othern_1255d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ Janelle Monáe's android alter ego, Cindi Mayweather, is one of the clearest exa
 
 ### Cindi Mayweather as world-building
 
-Cindi Mayweather first appeared in Monáe's 2007 *Metropolis: Suite I (The Chase)* as an android outlaw condemned for falling in love with a human. The premise borrows visual inspiration from classic science fiction, especially Fritz Lang's *Metropolis*, but transforms the robot from a symbol of danger into the protagonist of a liberation story. The android's persecution is the narrative engine that allows Monáe to examine discrimination, surveillance and social hierarchy through speculative fiction rather than autobiography alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_ArchAndroid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Arch Android</span><span class="citation-popover-snippet">The Arch Android</span></span></span>
+Cindi Mayweather first appeared in Monáe's 2007 *Metropolis: Suite I (The Chase)* as an android outlaw condemned for falling in love with a human. The premise borrows visual inspiration from classic science fiction, especially Fritz Lang's *Metropolis*, but transforms the robot from a symbol of danger into the protagonist of a liberation story. The android's persecution is the narrative engine that allows Monáe to examine discrimination, surveillance and social hierarchy through speculative fiction rather than autobiography alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_ArchAndroid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Arch Android</span><span class="citation-popover-snippet">The Arch Android</span></span></span>
 
-Monáe has consistently described the android as a metaphorical figure. In interviews surrounding *The ArchAndroid*, she explained that androids represent "the new other" because technological futures inevitably create new categories of people who may be feared or excluded. She has also described Cindi as a mediator between the powerful and the powerless, making the character less a machine than a symbolic bridge between different forms of human experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
+Monáe has consistently described the android as a metaphorical figure. In interviews surrounding *The ArchAndroid*, she explained that androids represent "the new other" because technological futures inevitably create new categories of people who may be feared or excluded. She has also described Cindi as a mediator between the powerful and the powerless, making the character less a machine than a symbolic bridge between different forms of human experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
 
 This distinction matters when discussing celebrity "alien" imagery. Cindi Mayweather belongs entirely within a fictional universe. The character's futuristic setting, elaborate mythology and android identity function as artistic devices rather than testimony about UFOs or extraterrestrial encounters.
 
@@ -295,9 +295,9 @@ This distinction matters when discussing celebrity "alien" imagery. Cindi Maywea
 
 The strength of Monáe's mythology lies in its intersectional symbolism. Rather than standing for one marginalised identity, Cindi Mayweather compresses multiple experiences of exclusion into a single science-fiction figure.
 
-Monáe has explained that the android can be compared with people who are treated as outsiders because of race, sexuality or gender. Before publicly identifying as queer and later as non-binary, she deliberately left the symbolism open enough that different audiences could project themselves into the character. The android therefore became a shared metaphor rather than a fixed autobiographical cipher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
+Monáe has explained that the android can be compared with people who are treated as outsiders because of race, sexuality or gender. Before publicly identifying as queer and later as non-binary, she deliberately left the symbolism open enough that different audiences could project themselves into the character. The android therefore became a shared metaphor rather than a fixed autobiographical cipher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
 
-Scholars of Monáe's work argue that this differs from earlier performers who adopted alien imagery primarily to escape conventional gender roles. In critical readings of her [music]({{ 'music/' | relative_url }}), Cindi Mayweather is understood as an explicitly queer Black android whose oppression mirrors real structures affecting Black women and LGBTQ+ communities rather than simply expressing eccentricity or theatrical futurism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csalateral.org">[Lateral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csalateral.org</span><span class="citation-popover-snippet">LateralAlter Egoing: The Shifting Affects of Janelle Monáe - Lateralby L Irizarry · 2022 · Cited by 2 — Cindi Mayweather&#x27;s connection to...</span></span></span>
+Scholars of Monáe's work argue that this differs from earlier performers who adopted alien imagery primarily to escape conventional gender roles. In critical readings of her [music]({{ 'music/' | relative_url }}), Cindi Mayweather is understood as an explicitly queer Black android whose oppression mirrors real structures affecting Black women and LGBTQ+ communities rather than simply expressing eccentricity or theatrical futurism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csalateral.org">[Lateral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csalateral.org</span><span class="citation-popover-snippet">LateralAlter Egoing: The Shifting Affects of Janelle Monáe - Lateralby L Irizarry · 2022 · Cited by 2 — Cindi Mayweather&#x27;s connection to...</span></span></span>
 
 The storyline also allows Monáe to discuss vulnerability without reducing her work to personal confession. Instead of presenting herself directly as the victim of discrimination, she stages injustice inside a futuristic society where androids are criminalised, monitored and denied full personhood. Science fiction becomes a protective distance that simultaneously universalises the experience.
 
@@ -307,7 +307,7 @@ The storyline also allows Monáe to discuss vulnerability without reducing her w
 
 For roughly a decade, Monáe remained publicly associated with Cindi Mayweather. The character gave coherence to albums, videos, costumes and live performances while creating an expansive Afrofuturist universe.
 
-Critics have noted that the android mythology also functioned as a form of artistic armour. The fictional framework allowed Monáe to explore desire, identity and resistance before speaking more openly about her own sexuality and personal life. By the time *Dirty Computer* arrived in 2018, many reviewers interpreted the project as intentionally reducing the distance between creator and character. Rather than abandoning the earlier mythology, *Dirty Computer* reframed it: the "dirty computer" became another metaphor for people labelled defective because they refuse social conformity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/janelle-monae-dirty-computer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2WBUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">On Dirty Computer Janelle Monáe Breaks Out of Her Android Persona</span><span class="citation-popover-snippet">Drawing inspiration from numerous sources like Monica Sjöö&#x27;s &quot;The Great Cosmic Mother&quot; and her mentor Prince, Monáe delves into themes of...</span></span></span>
+Critics have noted that the android mythology also functioned as a form of artistic armour. The fictional framework allowed Monáe to explore desire, identity and resistance before speaking more openly about her own sexuality and personal life. By the time *Dirty Computer* arrived in 2018, many reviewers interpreted the project as intentionally reducing the distance between creator and character. Rather than abandoning the earlier mythology, *Dirty Computer* reframed it: the "dirty computer" became another metaphor for people labelled defective because they refuse social conformity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/janelle-monae-dirty-computer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2WBUR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">On Dirty Computer Janelle Monáe Breaks Out of Her Android Persona</span><span class="citation-popover-snippet">Drawing inspiration from numerous sources like Monica Sjöö&#x27;s &quot;The Great Cosmic Mother&quot; and her mentor Prince, Monáe delves into themes of...</span></span></span>
 
 This evolution reflects continuity rather than contradiction. The android story had always been about human freedom.
 
@@ -320,9 +320,9 @@ Within Monáe's audience, the android mythology is generally understood as specu
 
 Several features make that distinction clear:
 
-* **The narrative is internally fictional.** Cindi Mayweather exists within an invented chronology, complete with fictional governments, social systems and recurring characters rather than references to alleged real-world UFO events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_ArchAndroid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Arch Android</span><span class="citation-popover-snippet">The Arch Android</span></span></span>
-* **Monáe explains the symbolism directly.** Across multiple interviews, she has identified the android as representing "the other" and as a way to discuss oppression and belonging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
-* **Criticism centres on identity, not extraterrestrials.** Academic and cultural commentary overwhelmingly analyses the work through Afrofuturism, queer theory, race and gender studies instead of UFO belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csalateral.org">[Lateral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csalateral.org</span><span class="citation-popover-snippet">LateralAlter Egoing: The Shifting Affects of Janelle Monáe - Lateralby L Irizarry · 2022 · Cited by 2 — Cindi Mayweather&#x27;s connection to...</span></span></span>
+* **The narrative is internally fictional.** Cindi Mayweather exists within an invented chronology, complete with fictional governments, social systems and recurring characters rather than references to alleged real-world UFO events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_ArchAndroid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Arch Android</span><span class="citation-popover-snippet">The Arch Android</span></span></span>
+* **Monáe explains the symbolism directly.** Across multiple interviews, she has identified the android as representing "the other" and as a way to discuss oppression and belonging.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Janelle Monáe</span><span class="citation-popover-snippet">Janelle Monáe</span></span></span>
+* **Criticism centres on identity, not extraterrestrials.** Academic and cultural commentary overwhelmingly analyses the work through Afrofuturism, queer theory, race and gender studies instead of UFO belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csalateral.org">[Lateral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csalateral.org</span><span class="citation-popover-snippet">LateralAlter Egoing: The Shifting Affects of Janelle Monáe - Lateralby L Irizarry · 2022 · Cited by 2 — Cindi Mayweather&#x27;s connection to...</span></span></span>
 
 Because of this, Monáe occupies a different category from celebrities who publicly claim to have witnessed UFOs or advocate specific extraterrestrial hypotheses. Her futuristic imagery is narrative and symbolic, not evidentiary.
 
@@ -339,194 +339,194 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Android Was Never Just a Costume. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Android Was Never Just a Costume. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By D.W. Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By D.W. Pasulka</p>
         
-        <p class="fr-book-desc">Helps distinguish symbolic narratives from belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps distinguish symbolic narratives from belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Left Hand of Darkness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10618463-M.jpg" alt="Cover for The Left Hand of Darkness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Left Hand of Darkness">The Left Hand of Darkness</a>
-        </h4>
-        <p class="fr-book-author">By Ursula K. Le Guin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Left Hand of Darkness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10618463-M.jpg" alt="Cover for The Left Hand of Darkness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Left Hand of Darkness">The Left Hand of Darkness</a>
+</h4>
+<p class="fr-book-author">By Ursula K. Le Guin</p>
         
-        <p class="fr-book-desc">First published 1969. Subjects: Ciencia-ficción, Hugo Award Winner, award:hugo_award=1970, award:hugo_award=novel, human nature.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1969. Subjects: Ciencia-ficción, Hugo Award Winner, award:hugo_award=1970, award:hugo_award=novel, human nature.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afrofuturism: The World of Black Sci-Fi and Fantasy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8737975-M.jpg" alt="Cover for Afrofuturism: The World of Black Sci-Fi and Fantasy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
-        </h4>
-        <p class="fr-book-author">By Ytasha Womack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afrofuturism: The World of Black Sci-Fi and Fantasy Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8737975-M.jpg" alt="Cover for Afrofuturism: The World of Black Sci-Fi and Fantasy Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
+</h4>
+<p class="fr-book-author">By Ytasha Womack</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Race identity, Social aspects, Futurologists, Influence, Science fiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Race identity, Social aspects, Futurologists, Influence, Science fiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open More brilliant than the sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/448190-M.jpg" alt="Cover for More brilliant than the sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="More brilliant than the sun">More brilliant than the sun</a>
-        </h4>
-        <p class="fr-book-author">By Kodwo Eshun</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open More brilliant than the sun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/448190-M.jpg" alt="Cover for More brilliant than the sun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="More brilliant than the sun">More brilliant than the sun</a>
+</h4>
+<p class="fr-book-author">By Kodwo Eshun</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Popular music, Blacks, History and criticism, Music, Fiction, general.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Popular music, Blacks, History and criticism, Music, Fiction, general.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Left Hand of Darkness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci+Fi+and+Fantasy+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Afrofuturism: The World of Black Sci Fi and Fantasy Culture</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Left Hand of Darkness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci+Fi+and+Fantasy+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Afrofuturism: The World of Black Sci Fi and Fantasy Culture</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds"><img src="{{ '/assets/images/marketplace-covers/f84f2dd05fdd42ea4f2d.jpg' | relative_url }}" alt="Listing image for Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Weyland-yutani Corporation Alien Film Tshirt | Building Better Worlds</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi"><img src="{{ '/assets/images/marketplace-covers/1282abce5a8a5425e0e8.jpg' | relative_url }}" alt="Listing image for Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Nostromo T-Shirt 180286 Mens Alien Film Movie USCSS Weyland-Yutani Sci-fi</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation"><img src="{{ '/assets/images/marketplace-covers/13dfc898b110829c409c.jpg' | relative_url }}" alt="Listing image for NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">NOSTROMO T-shirt Alien Aliens scifi tribute crew tshirt Weyland corporation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee"><img src="{{ '/assets/images/marketplace-covers/0c5f9a5dee70cdf61235.jpg' | relative_url }}" alt="Listing image for Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Official Alien T-Shirt 1979 Retro Bars Design Black Unisex Sci-Fi Graphic Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="android-the-android-was-never-just-a-costume-ufos-and-celebrities-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,98 +732,98 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Janelle Monáe  
-   Link: <a href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Arch Android  
-   Link: <a href="https://en.wikipedia.org/wiki/The_ArchAndroid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_ArchAndroid</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_ArchAndroid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_ArchAndroid</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: On Dirty Computer Janelle Monáe Breaks Out of Her Android Persona  
-   Link: <a href="https://www.wired.com/story/janelle-monae-dirty-computer" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/janelle-monae-dirty-computer</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drawing inspiration from numerous sources like Monica Sjöö&#x27;s &quot;The Great Cosmic Mother&quot; and her mentor Prince, Monáe delves into themes of...</p></details>
+   Link:<a href="https://www.wired.com/story/janelle-monae-dirty-computer" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/janelle-monae-dirty-computer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drawing inspiration from numerous sources like Monica Sjöö&#x27;s &quot;The Great Cosmic Mother&quot; and her mentor Prince, Monáe delves into themes of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wbur.org  
-   Link: <a href="https://www.wbur.org/news/2018/05/02/janelle-monae-dirty-computer-review" target="_blank" rel="noopener noreferrer nofollow">https://www.wbur.org/news/2018/05/02/janelle-monae-dirty-computer-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2018 — “Dirty Computer” is the first of Monáe&#x27;s projects to dispense with her alter ego Cindi Mayweather, an android from a fictio...</p></details>
+   Link:<a href="https://www.wbur.org/news/2018/05/02/janelle-monae-dirty-computer-review" target="_blank" rel="noopener noreferrer nofollow">https://www.wbur.org/news/2018/05/02/janelle-monae-dirty-computer-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2018 — “Dirty Computer” is the first of Monáe&#x27;s projects to dispense with her alter ego Cindi Mayweather, an android from a fictio...</p></details>
    Published: May 2, 2018  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With a Kansas accent, she combines disciplined sartorial choices from designer Thom Browne to reflect her complex identity. Monáe initial...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/janelle-monae-peels-the-onion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With a Kansas accent, she combines disciplined sartorial choices from designer Thom Browne to reflect her complex identity. Monáe initial...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/culture-desk/the-otherworldly-concept-albums-of-janelle-monae" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-otherworldly-concept-albums-of-janelle-monae</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monáe’s work spans elaborate narratives, inspired by classic sci-fi themes from Fritz Lang&#x27;s &quot;Metropolis&quot;, and infuses Afrofuturism, mark...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/culture-desk/the-otherworldly-concept-albums-of-janelle-monae" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/culture-desk/the-otherworldly-concept-albums-of-janelle-monae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monáe’s work spans elaborate narratives, inspired by classic sci-fi themes from Fritz Lang&#x27;s &quot;Metropolis&quot;, and infuses Afrofuturism, mark...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: csalateral.org  
-   Link: <a href="https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/" target="_blank" rel="noopener noreferrer nofollow">https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LateralAlter Egoing: The Shifting Affects of Janelle Monáe - Lateralby L Irizarry · 2022 · Cited by 2 — Cindi Mayweather&#x27;s connection to...</p></details>
+   Link:<a href="https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/" target="_blank" rel="noopener noreferrer nofollow">https://csalateral.org/issue/11-1/alter-egoing-shifting-affects-janelle-monae-irizarry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LateralAlter Egoing: The Shifting Affects of Janelle Monáe - Lateralby L Irizarry · 2022 · Cited by 2 — Cindi Mayweather&#x27;s connection to...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NowThisEntertainment/posts/janelle-mon%C3%A1e-has-revealed-that-she-identifies-as-non-binary-during-a-recent-int/5335602586501260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NowThisEntertainment/posts/janelle-mon%C3%A1e-has-revealed-that-she-identifies-as-non-binary-during-a-recent-int/5335602586501260/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe has revealed that she identifies as nonJanelle Monáe has revealed that she identifies as non-binary during a recent intervi...</p></details>
+   Link:<a href="https://www.facebook.com/NowThisEntertainment/posts/janelle-mon%C3%A1e-has-revealed-that-she-identifies-as-non-binary-during-a-recent-int/5335602586501260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NowThisEntertainment/posts/janelle-mon%C3%A1e-has-revealed-that-she-identifies-as-non-binary-during-a-recent-int/5335602586501260/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe has revealed that she identifies as nonJanelle Monáe has revealed that she identifies as non-binary during a recent intervi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40blackqueergirl/the-genius-of-janelle-mon%C3%A1e-3ac6576168fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blackqueergirl/the-genius-of-janelle-mon%C3%A1e-3ac6576168fb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Genius Of Janelle MonáeShe flawlessly addresses the intersections of race, gender, and sexuality as her android persona — Cindi Maywe...</p></details>
+   Link:<a href="https://medium.com/%40blackqueergirl/the-genius-of-janelle-mon%C3%A1e-3ac6576168fb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blackqueergirl/the-genius-of-janelle-mon%C3%A1e-3ac6576168fb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Genius Of Janelle MonáeShe flawlessly addresses the intersections of race, gender, and sexuality as her android persona — Cindi Maywe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/04/30/unpacking-the-meaning-of-dirty-computer-in-which-janelle-monae-finally-gets-to-be-herself/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/04/30/unpacking-the-meaning-of-dirty-computer-in-which-janelle-monae-finally-gets-to-be-herself/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In &#x27;Dirty Computer,&#x27; Janelle Monáe finally gets to be herselfApr 30, 2018 — A decade has passed since Janelle Monáe entered the public ey...</p></details>
+   Link:<a href="https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/04/30/unpacking-the-meaning-of-dirty-computer-in-which-janelle-monae-finally-gets-to-be-herself/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/04/30/unpacking-the-meaning-of-dirty-computer-in-which-janelle-monae-finally-gets-to-be-herself/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In &#x27;Dirty Computer,&#x27; Janelle Monáe finally gets to be herselfApr 30, 2018 — A decade has passed since Janelle Monáe entered the public ey...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: afropunk.com  
    Title: Janelle Monáe's 'The Arch Android' Invited Us To Free Our  
-   Link: <a href="https://afropunk.com/2025/05/janelle-monae-the-archandroid-afrofuturism-black-music-legacy/" target="_blank" rel="noopener noreferrer nofollow">https://afropunk.com/2025/05/janelle-monae-the-archandroid-afrofuturism-black-music-legacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe&#x27;s &#x27;The ArchAndroid&#x27; Invited Us To Free Our...May 18, 2025 — Through a metaphorical storyline of restricted freedom, love p...</p></details>
+   Link:<a href="https://afropunk.com/2025/05/janelle-monae-the-archandroid-afrofuturism-black-music-legacy/" target="_blank" rel="noopener noreferrer nofollow">https://afropunk.com/2025/05/janelle-monae-the-archandroid-afrofuturism-black-music-legacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe&#x27;s &#x27;The ArchAndroid&#x27; Invited Us To Free Our...May 18, 2025 — Through a metaphorical storyline of restricted freedom, love p...</p></details>
    Published: May 18, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: minorityafrica.org  
    Title: tuning into queerness how i found my identity with music  
-   Link: <a href="https://minorityafrica.org/tuning-into-queerness-how-i-found-my-identity-with-music/" target="_blank" rel="noopener noreferrer nofollow">https://minorityafrica.org/tuning-into-queerness-how-i-found-my-identity-with-music/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tuning into queerness: How I found my identity with musicSep 14, 2023 — In interviews promoting the series of albums, they have described...</p></details>
+   Link:<a href="https://minorityafrica.org/tuning-into-queerness-how-i-found-my-identity-with-music/" target="_blank" rel="noopener noreferrer nofollow">https://minorityafrica.org/tuning-into-queerness-how-i-found-my-identity-with-music/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tuning into queerness: How I found my identity with musicSep 14, 2023 — In interviews promoting the series of albums, they have described...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WLHAa-1D2WU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WLHAa-1D2WU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>about her love for sci-fi, the message behind her album Dirty...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WLHAa-1D2WU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WLHAa-1D2WU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about her love for sci-fi, the message behind her album Dirty...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Janelle Monáe: I Was Non-Binary Before I Had Language For It  
-   Link: <a href="http://www.youtube.com/watch?v=1G-JHoqHA8U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1G-JHoqHA8U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monae ArchAndroid interview explanation The Defiant Sci-Fi of Janelle Monae Polyphonic...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1G-JHoqHA8U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1G-JHoqHA8U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monae ArchAndroid interview explanation The Defiant Sci-Fi of Janelle Monae Polyphonic...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Janelle Monáe discusses reactions to The Arch Android | GRAMMYs  
-   Link: <a href="http://www.youtube.com/watch?v=c0VrVspymOk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=c0VrVspymOk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe: I Was Non-Binary Before I Had Language For It...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=c0VrVspymOk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=c0VrVspymOk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe: I Was Non-Binary Before I Had Language For It...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Janelle Monáe on Growing Up Queer and Black | The New Yorker  
-   Link: <a href="http://www.youtube.com/watch?v=SgdsZJpnthg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SgdsZJpnthg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monae on new album, The ArchAndroid...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SgdsZJpnthg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SgdsZJpnthg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monae on new album, The ArchAndroid...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Janelle Monae on new album, The Arch Android  
-   Link: <a href="http://www.youtube.com/watch?v=QjhRgMCyzOQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QjhRgMCyzOQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe discusses reactions to The ArchAndroid | GRAMMYs...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=QjhRgMCyzOQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=QjhRgMCyzOQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janelle Monáe discusses reactions to The ArchAndroid | GRAMMYs...</p></details>

@@ -286,7 +286,7 @@ One of the most important limitations of John Lennon's 1974 UFO story is not wha
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_failed_ufo_photos_f3d0b5-Illustration-1-dark.svg" | relative_url }}" alt="Missing Photos illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_failed_ufo_photos_f3d0b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_failed_ufo_photos_f3d0b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Missing Photos Matter
 
-The reported attempt to photograph the object is often treated as an intriguing detail because it suggests the witnesses themselves recognised that visual evidence would be valuable. According to recurring versions of the story, Lennon and Pang reached for cameras while observing the object over Manhattan, hoping to record what they were seeing. Later accounts also connect photographer Bob Gruen to the aftermath, with Lennon reportedly discussing the sighting soon afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://airmail.news/issues/2023-10-28/across-the-universe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airmail.news">[Air Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airmail.news</span><span class="citation-popover-title">across the universe</span><span class="citation-popover-snippet">across the universe</span></span></span>
+The reported attempt to photograph the object is often treated as an intriguing detail because it suggests the witnesses themselves recognised that visual evidence would be valuable. According to recurring versions of the story, Lennon and Pang reached for cameras while observing the object over Manhattan, hoping to record what they were seeing. Later accounts also connect photographer Bob Gruen to the aftermath, with Lennon reportedly discussing the sighting soon afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://airmail.news/issues/2023-10-28/across-the-universe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airmail.news">[Air Mail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airmail.news</span><span class="citation-popover-title">across the universe</span><span class="citation-popover-snippet">across the universe</span></span></span>
 
 The key evidential point, however, is that no usable photographs have ever been produced. Unlike many historical UFO cases where disputed images can at least be analysed, Lennon's case contains no publicly available negatives, prints, contact sheets or authenticated originals. Consequently:
 
@@ -302,7 +302,7 @@ Instead, every description ultimately traces back to human memory.
 
 ## What Retellings Say About the Cameras
 
-Most modern accounts repeat broadly similar claims while differing in small details. The common elements are that Lennon and Pang attempted to take photographs, but the results were unusable or failed to capture the object. Some versions add that two different cameras were used, while others simply state that photographs were attempted without success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/cavern.photos/photos/august-23rd-1974-john-lennon-sees-a-ufoon-the-cover-of-john-lennons-album-walls-/4604506882895603/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">august 23rd 1974 john lennon sees a ufoon the cover of john lennons album walls</span><span class="citation-popover-snippet">Though he took photos with two different cameras, no pictures emerged.Read more...</span></span></span>
+Most modern accounts repeat broadly similar claims while differing in small details. The common elements are that Lennon and Pang attempted to take photographs, but the results were unusable or failed to capture the object. Some versions add that two different cameras were used, while others simply state that photographs were attempted without success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/cavern.photos/photos/august-23rd-1974-john-lennon-sees-a-ufoon-the-cover-of-john-lennons-album-walls-/4604506882895603/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">august 23rd 1974 john lennon sees a ufoon the cover of john lennons album walls</span><span class="citation-popover-snippet">Though he took photos with two different cameras, no pictures emerged.Read more...</span></span></span>
 
 What is notable is not the consistency of every detail—there is variation—but the consistency of the outcome: no photograph survives as evidence.
 
@@ -351,7 +351,7 @@ The absence of photographs therefore leaves the case in the category of an unexp
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_failed_ufo_photos_f3d0b5-Illustration-2-dark.svg" | relative_url }}" alt="Missing Photos illustration 2" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_failed_ufo_photos_f3d0b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_john_lennon_sighting_0cf69a_failed_ufo_photos_f3d0b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Testimony and Physical Evidence
 
-Lennon's sighting is unusual among celebrity UFO stories because it has an unusually early documentary marker: his handwritten note on the *Walls and Bridges* album packaging confirms that he publicly claimed to have seen a UFO shortly after the reported event. That strengthens the historical authenticity of the claim that Lennon believed he witnessed something unusual. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesstory.com">[The Beatles Story Museum, Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesstory.com</span><span class="citation-popover-title">john lennon ufo sighting</span><span class="citation-popover-snippet">The Beatles Story Museum, LiverpoolJohn Lennon&#x27;s UFO Sighting30 Jun 2023 — 1974 at 9 o&#x27;clock I saw a U.F.O.” The event was referenced, to...</span></span></span>
+Lennon's sighting is unusual among celebrity UFO stories because it has an unusually early documentary marker: his handwritten note on the *Walls and Bridges* album packaging confirms that he publicly claimed to have seen a UFO shortly after the reported event. That strengthens the historical authenticity of the claim that Lennon believed he witnessed something unusual.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beatlesstory.com">[The Beatles Story Museum, Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beatlesstory.com</span><span class="citation-popover-title">john lennon ufo sighting</span><span class="citation-popover-snippet">The Beatles Story Museum, LiverpoolJohn Lennon&#x27;s UFO Sighting30 Jun 2023 — 1974 at 9 o&#x27;clock I saw a U.F.O.” The event was referenced, to...</span></span></span>
 
 It does not, however, create physical evidence of the object itself.
 
@@ -395,194 +395,194 @@ The reported failed photographs remain one of the defining limitations of John L
 Lennon and May Pang consistently described seeing something they could not identify, and Lennon publicly recorded that belief almost immediately after the event. Yet because no authenticated photographs, negatives, instrument data or other physical traces have survived, the case cannot progress beyond eyewitness testimony. The missing images therefore matter less because they might have proved an extraterrestrial explanation, and more because they represent the lost opportunity for independent verification that separates an enduring story from a testable piece of evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Missing Photos Matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Missing Photos Matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Explains the importance and limitations of witness testimony versus physical evidence such as photographs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the importance and limitations of witness testimony versus physical evidence such as photographs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidential standards and why corroborating documentation matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidential standards and why corroborating documentation matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of extraordinary claims and the evidential value of photographs and other physical records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of extraordinary claims and the evidential value of photographs and other physical records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World: Science as a Candle in the Dark on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World: Science as a Candle in the Dark">The Demon-Haunted World: Science as a Candle in the Dark</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World: Science as a Candle in the Dark on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World: Science as a Candle in the Dark">The Demon-Haunted World: Science as a Candle in the Dark</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages critical evaluation of extraordinary claims and the evidential value of photographs and other physical records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages critical evaluation of extraordinary claims and the evidential value of photographs and other physical records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World%3A+Science+as+a+Candle+in+the+Dark+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-photos-why-the-missing-photos-matter-ufos-and-celebrities-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ Lennon and May Pang consistently described seeing something they could not ident
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ Lennon and May Pang consistently described seeing something they could not ident
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ Lennon and May Pang consistently described seeing something they could not ident
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ Lennon and May Pang consistently described seeing something they could not ident
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ Lennon and May Pang consistently described seeing something they could not ident
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,97 +788,97 @@ Lennon and May Pang consistently described seeing something they could not ident
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
    Title: august 23rd 1974 john lennon sees a ufoon the cover of john lennons album walls  
-   Link: <a href="https://www.facebook.com/cavern.photos/photos/august-23rd-1974-john-lennon-sees-a-ufoon-the-cover-of-john-lennons-album-walls-/4604506882895603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cavern.photos/photos/august-23rd-1974-john-lennon-sees-a-ufoon-the-cover-of-john-lennons-album-walls-/4604506882895603/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Though he took photos with two different cameras, no pictures emerged.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/cavern.photos/photos/august-23rd-1974-john-lennon-sees-a-ufoon-the-cover-of-john-lennons-album-walls-/4604506882895603/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/cavern.photos/photos/august-23rd-1974-john-lennon-sees-a-ufoon-the-cover-of-john-lennons-album-walls-/4604506882895603/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Though he took photos with two different cameras, no pictures emerged.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
    Title: also on august 23 on this day in 1974 john lennon and may pang saw a ufo this dr  
-   Link: <a href="https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s 1974 UFO sightingLennon: When UFOs Attack: Documented Cases of Hostile Alien Encounters · No photo description available. E...</p></details>
+   Link:<a href="https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fabfourfaq2/posts/also-on-august-23-on-this-day-in-1974-john-lennon-and-may-pang-saw-a-ufo-this-dr/483509867113501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon&#x27;s 1974 UFO sightingLennon: When UFOs Attack: Documented Cases of Hostile Alien Encounters · No photo description available. E...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
    Title: john lennon famously claimed that he saw a ufo over new york city on august 23 1  
-   Link: <a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon famously claimed that he saw a UFO over...1974 at 9 o&#x27;clock I saw a U.F.O.” The event was referenced, too, in the lyrics “Th...</p></details>
+   Link:<a href="https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmyKristinePsychicMedium/posts/john-lennon-famously-claimed-that-he-saw-a-ufo-over-new-york-city-on-august-23-1/10163282966807898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon famously claimed that he saw a UFO over...1974 at 9 o&#x27;clock I saw a U.F.O.” The event was referenced, too, in the lyrics “Th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
    Title: UF O On the 23rd Aug  
-   Link: <a href="https://www.facebook.com/johnlennon/posts/ufoon-the-23rd-aug-1974-at-9-oclocki-saw-a-ufojllike-a-ufo-you-came-to-meand-ble/891688612313594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/johnlennon/posts/ufoon-the-23rd-aug-1974-at-9-oclocki-saw-a-ufojllike-a-ufo-you-came-to-meand-ble/891688612313594/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw... - FacebookSince Jimi Hendrix was fascinated by the subject of UFOs and aliens I thought it will be interestin...</p></details>
+   Link:<a href="https://www.facebook.com/johnlennon/posts/ufoon-the-23rd-aug-1974-at-9-oclocki-saw-a-ufojllike-a-ufo-you-came-to-meand-ble/891688612313594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/johnlennon/posts/ufoon-the-23rd-aug-1974-at-9-oclocki-saw-a-ufojllike-a-ufo-you-came-to-meand-ble/891688612313594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw... - FacebookSince Jimi Hendrix was fascinated by the subject of UFOs and aliens I thought it will be interestin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: airmail.news  
    Title: across the universe  
-   Link: <a href="https://airmail.news/issues/2023-10-28/across-the-universe" target="_blank" rel="noopener noreferrer nofollow">https://airmail.news/issues/2023-10-28/across-the-universe</a>  
+   Link:<a href="https://airmail.news/issues/2023-10-28/across-the-universe" target="_blank" rel="noopener noreferrer nofollow">https://airmail.news/issues/2023-10-28/across-the-universe</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: beatlesstory.com  
    Title: john lennon ufo sighting  
-   Link: <a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Beatles Story Museum, LiverpoolJohn Lennon&#x27;s UFO Sighting30 Jun 2023 — 1974 at 9 o&#x27;clock I saw a U.F.O.” The event was referenced, to...</p></details>
+   Link:<a href="https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesstory.com/blog/john-lennon-ufo-sighting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Beatles Story Museum, LiverpoolJohn Lennon&#x27;s UFO Sighting30 Jun 2023 — 1974 at 9 o&#x27;clock I saw a U.F.O.” The event was referenced, to...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Like a UFO You Came to Me | Point of ContactDid John Lennon Imagine His UFO Sighting? John Lennon and May Pang claimed they saw a UFO for...</p></details>
+   Link:<a href="https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/like-a-ufo-you-came-to-me-50ab7544312a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Like a UFO You Came to Me | Point of ContactDid John Lennon Imagine His UFO Sighting? John Lennon and May Pang claimed they saw a UFO for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: almond-static.stanford.edu  
-   Link: <a href="https://almond-static.stanford.edu/test-data/common-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://almond-static.stanford.edu/test-data/common-words.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.educommon-words.txt... UFO ufo ufos Uganda uganda Ugandan ugandan ugandans Ugaritic ugaritic ugli uglier uglies ugliest uglified...</p></details>
+   Link:<a href="https://almond-static.stanford.edu/test-data/common-words.txt" target="_blank" rel="noopener noreferrer nofollow">https://almond-static.stanford.edu/test-data/common-words.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.educommon-words.txt... UFO ufo ufos Uganda uganda Ugandan ugandan ugandans Ugaritic ugaritic ugli uglier uglies ugliest uglified...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: beatlesbible.com  
    Title: The Beatles Bible John Lennon: 'On the 23rd Aug  
-   Link: <a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — I know what I saw. And the rational explanation is… it was a UFO. There&#x27;s UFOs over New York...</p></details>
+   Link:<a href="https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/" target="_blank" rel="noopener noreferrer nofollow">https://www.beatlesbible.com/1974/08/23/john-lennon-sees-ufo-new-york-city/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1974 at 9 o&#x27;clock I saw a...23 Aug 1974 — I know what I saw. And the rational explanation is… it was a UFO. There&#x27;s UFOs over New York...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: john lennon describes seeing a ufo flying over  
-   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York...John Lennon describes seeing a UFO flying over New York City, August 1974. r/aliens - John Lennon describes seeing a UFO flyi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/1o6irm5/john_lennon_describes_seeing_a_ufo_flying_over/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New York...John Lennon describes seeing a UFO flying over New York City, August 1974. r/aliens - John Lennon describes seeing a UFO flyi...</p></details>
    Published: August 1974  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dangerousminds.net  
    Title: john lennon sees a ufo in new york city 1974  
-   Link: <a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon sees a UFO in New York City, 197413 Apr 2015 — Pang later made the claim that Lennon had seen other UFOs before this night, a...</p></details>
+   Link:<a href="https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/" target="_blank" rel="noopener noreferrer nofollow">https://dangerousminds.net/comments/john_lennon_sees_a_ufo_in_new_york_city_1974/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Lennon sees a UFO in New York City, 197413 Apr 2015 — Pang later made the claim that Lennon had seen other UFOs before this night, a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: today in 1974 john saw a ufo solved  
-   Link: <a href="https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today in 1974 John saw a UFO. SOLVED.: r/beatlesWhat we expect to learn about UFOs in 2024 · Mouth In Motion Guy is Carp Lowry · John Le...</p></details>
+   Link:<a href="https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/beatles/comments/wvru9z/today_in_1974_john_saw_a_ufo_solved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Today in 1974 John saw a UFO. SOLVED.: r/beatlesWhat we expect to learn about UFOs in 2024 · Mouth In Motion Guy is Carp Lowry · John Le...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
    Title: intimate alien the hidden story of the ufo 9781503612129  
-   Link: <a href="https://dokumen.pub/intimate-alien-the-hidden-story-of-the-ufo-9781503612129.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/intimate-alien-the-hidden-story-of-the-ufo-9781503612129.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A voyage of exploration to the outer reaches of our inner lives. UFOs are a myth, says David J.Read more...</p></details>
+   Link:<a href="https://dokumen.pub/intimate-alien-the-hidden-story-of-the-ufo-9781503612129.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/intimate-alien-the-hidden-story-of-the-ufo-9781503612129.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A voyage of exploration to the outer reaches of our inner lives. UFOs are a myth, says David J.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Unusual articles  
-   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual articlesBrazil&#x27;s first ever first-person shooter is based on a UFO sighting. Also used to train Army division soldie...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual articlesBrazil&#x27;s first ever first-person shooter is based on a UFO sighting. Also used to train Army division soldie...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: legsmcneil.substack.com  
    Title: across the universe  
-   Link: <a href="https://legsmcneil.substack.com/p/across-the-universe" target="_blank" rel="noopener noreferrer nofollow">https://legsmcneil.substack.com/p/across-the-universe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Universe? - Legs McNeilThe week before Bob Gruen took this photograph, Lennon told him that he had seen a U.F.O. floating near his bu...</p></details>
+   Link:<a href="https://legsmcneil.substack.com/p/across-the-universe" target="_blank" rel="noopener noreferrer nofollow">https://legsmcneil.substack.com/p/across-the-universe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Universe? - Legs McNeilThe week before Bob Gruen took this photograph, Lennon told him that he had seen a U.F.O. floating near his bu...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: albahari.com  
-   Link: <a href="https://www.albahari.com/ispell/allwords.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.albahari.com/ispell/allwords.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>filas ulmaceous ulpian...Read more...</p></details>
+   Link:<a href="https://www.albahari.com/ispell/allwords.txt" target="_blank" rel="noopener noreferrer nofollow">https://www.albahari.com/ispell/allwords.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>filas ulmaceous ulpian...Read more...</p></details>

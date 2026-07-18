@@ -452,17 +452,17 @@ UFO advocacy can change what the public, the press and politicians are willing t
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233-overview.webp" | relative_url }}" alt="Overview image for Advocacy" loading="eager" decoding="sync" fetchpriority="high">
-The most careful way to read modern UFO campaigning is therefore double-edged. Advocates have helped create transparency pressure, especially in the United States, but the strongest official and scientific reviews still say the public record has not verified extraterrestrial craft, recovered alien material or non-human [beings]({{ 'beings/' | relative_url }}). NASA’s independent UAP study found no conclusive evidence of extraterrestrial origin in the peer-reviewed literature, while the Pentagon’s All-domain Anomaly Resolution Office, known as AARO, has repeatedly said it has found no verifiable evidence of extraterrestrial beings, activity or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+The most careful way to read modern UFO campaigning is therefore double-edged. Advocates have helped create transparency pressure, especially in the United States, but the strongest official and scientific reviews still say the public record has not verified extraterrestrial craft, recovered alien material or non-human [beings]({{ 'beings/' | relative_url }}). NASA’s independent UAP study found no conclusive evidence of extraterrestrial origin in the peer-reviewed literature, while the Pentagon’s All-domain Anomaly Resolution Office, known as AARO, has repeatedly said it has found no verifiable evidence of extraterrestrial beings, activity or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 ## What advocates can achieve
 
-The strongest case for UFO advocacy is not that it proves aliens are here. It is that it can reduce silence around unusual aerial observations. Pilots, service members and civilian witnesses may avoid reporting strange events because they fear [ridicule]({{ 'ridicule/' | relative_url }}) or career damage. NASA’s 2023 study treated that stigma as a real data problem: if people do not report what they see, investigators lose potentially useful information before any scientific assessment can begin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+The strongest case for UFO advocacy is not that it proves aliens are here. It is that it can reduce silence around unusual aerial observations. Pilots, service members and civilian witnesses may avoid reporting strange events because they fear [ridicule]({{ 'ridicule/' | relative_url }}) or career damage. NASA’s 2023 study treated that stigma as a real data problem: if people do not report what they see, investigators lose potentially useful information before any scientific assessment can begin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-That is where [public figures]({{ 'public-figures/' | relative_url }}) can matter. Celebrity advocates and recognisable campaigners can make a topic feel less professionally dangerous to discuss. Tom DeLonge’s move from Blink-182 fame into UFO campaigning through To The Stars helped bring former defence and intelligence figures into mainstream media coverage after the 2017 New York Times reporting on a Pentagon UFO programme and Navy videos. The important point is not that DeLonge’s celebrity made the claims true; it is that celebrity helped move the claims into a space where major newspapers, cable news, Congress and federal agencies responded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOorxpr1EP4QArjqjulZadK0olKYwZuj9guBS6aXrlc32t4EGgB4j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*The New York Times: Glowing Auras and &#x27;Black Money</span><span class="citation-popover-snippet">Program · Read Next · UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are...Read more...</span></span></span>
+That is where [public figures]({{ 'public-figures/' | relative_url }}) can matter. Celebrity advocates and recognisable campaigners can make a topic feel less professionally dangerous to discuss. Tom DeLonge’s move from Blink-182 fame into UFO campaigning through To The Stars helped bring former defence and intelligence figures into mainstream media coverage after the 2017 New York Times reporting on a Pentagon UFO programme and Navy videos. The important point is not that DeLonge’s celebrity made the claims true; it is that celebrity helped move the claims into a space where major newspapers, cable news, Congress and federal agencies responded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tothestars.media/en-de/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOorxpr1EP4QArjqjulZadK0olKYwZuj9guBS6aXrlc32t4EGgB4j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*The New York Times: Glowing Auras and &#x27;Black Money</span><span class="citation-popover-snippet">Program · Read Next · UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are...Read more...</span></span></span>
 
-Advocacy has also helped reframe UFOs as an aviation-safety and transparency issue rather than only an alien-contact issue. Ryan Graves, a former US Navy pilot and executive director of Americans for Safe Aerospace, has pushed reporting systems and pilot support under the language of flight safety. That framing matters because it does not require anyone to accept an extraterrestrial explanation. A drone, balloon, sensor artefact, classified aircraft, foreign surveillance platform or genuinely unexplained object can all be relevant to airspace safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeaerospace.org">[Safe Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeaerospace.org</span><span class="citation-popover-snippet">Open source on safeaerospace.org.</span></span></span>
+Advocacy has also helped reframe UFOs as an aviation-safety and transparency issue rather than only an alien-contact issue. Ryan Graves, a former US Navy pilot and executive director of Americans for Safe Aerospace, has pushed reporting systems and pilot support under the language of flight safety. That framing matters because it does not require anyone to accept an extraterrestrial explanation. A drone, balloon, sensor artefact, classified aircraft, foreign surveillance platform or genuinely unexplained object can all be relevant to airspace safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: safeaerospace.org">[Safe Aerospace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">safeaerospace.org</span><span class="citation-popover-snippet">Open source on safeaerospace.org.</span></span></span>
 
-The practical wins are visible in policy. The US House Oversight Committee held a public UAP hearing on 26 July 2023 with witnesses including Graves, retired Commander David Fravor and former intelligence official David Grusch. Separately, Congress created legal machinery for a UAP Records Collection at the National Archives, requiring federal agencies to identify and organise UAP records for review and public transmission. That is advocacy doing what advocacy can legitimately do: creating pressure for records, processes and oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
+The practical wins are visible in policy. The US House Oversight Committee held a public UAP hearing on 26 July 2023 with witnesses including Graves, retired Commander David Fravor and former intelligence official David Grusch. Separately, Congress created legal machinery for a UAP Records Collection at the National Archives, requiring federal agencies to identify and organise UAP records for review and public transmission. That is advocacy doing what advocacy can legitimately do: creating pressure for records, processes and oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
 
 
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233-Illustration-1-dark.svg" | relative_url }}" alt="Advocacy illustration 1" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_advocacy_vs_evidence_5c9233-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -470,9 +470,9 @@ The practical wins are visible in policy. The US House Oversight Committee held 
 
 The danger begins when a public campaign slides from “this should be investigated” to “this proves alien technology”. Those are very different claims. An unresolved sighting may deserve better data collection, but unresolved does not mean extraterrestrial. A witness may be sincere, experienced and technically competent, but [sincerity]({{ 'sincerity/' | relative_url }}) and expertise do not replace calibrated sensor data, chain of custody, physical samples, repeatable measurements and independent review.
 
-The David Grusch episode shows the gap clearly. In 2023, Grusch testified that he had been told of a secret crash-retrieval and reverse-engineering programme involving non-human material. The hearing drew enormous attention because the claim was extraordinary and because it was made under oath before Congress. Yet the public evidential position remained thin: the core claims were not accompanied in open session by inspectable craft, verified biological material, documents that could be publicly tested, or a complete evidence chain. The Pentagon denied that it had verified such programmes, and expert responses repeatedly returned to the same point: without material evidence or testable data, the claims remain allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
+The David Grusch episode shows the gap clearly. In 2023, Grusch testified that he had been told of a secret crash-retrieval and reverse-engineering programme involving non-human material. The hearing drew enormous attention because the claim was extraordinary and because it was made under oath before Congress. Yet the public evidential position remained thin: the core claims were not accompanied in open session by inspectable craft, verified biological material, documents that could be publicly tested, or a complete evidence chain. The Pentagon denied that it had verified such programmes, and expert responses repeatedly returned to the same point: without material evidence or testable data, the claims remain allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Open source on time.com.</span></span></span>
 
-The same caution applies to famous Navy videos. The Pentagon’s 2020 release of three historical Navy clips confirmed that the videos were real military footage, not fabricated internet hoaxes. It did not confirm alien vehicles. That distinction is often blurred in popular culture, especially when clips are shared as if official release equals official endorsement of the most exotic interpretation. AARO’s later case pages show how often the problem is not a dramatic hidden answer but incomplete data: some videos cannot be resolved because they lack corroborating telemetry, multi-modal sensor records or enough context to distinguish a physical object from a sensor artefact or thermal effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Pentagon declassifies Navy videos that purportedly show</span><span class="citation-popover-snippet">ABC News Pentagon declassifies Navy videos that purportedly show</span></span></span>
+The same caution applies to famous Navy videos. The Pentagon’s 2020 release of three historical Navy clips confirmed that the videos were real military footage, not fabricated internet hoaxes. It did not confirm alien vehicles. That distinction is often blurred in popular culture, especially when clips are shared as if official release equals official endorsement of the most exotic interpretation. AARO’s later case pages show how often the problem is not a dramatic hidden answer but incomplete data: some videos cannot be resolved because they lack corroborating telemetry, multi-modal sensor records or enough context to distinguish a physical object from a sensor artefact or thermal effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Pentagon declassifies Navy videos that purportedly show</span><span class="citation-popover-snippet">ABC News Pentagon declassifies Navy videos that purportedly show</span></span></span>
 
 This is where celebrity influence can distort the evidence ladder. A celebrity can make a clip trend, make a witness sympathetic, or make a government denial look suspicious to a fandom already primed for disclosure. But scientific confidence does not scale with fame. It scales with the quality, independence and reproducibility of the evidence.
 
@@ -483,9 +483,9 @@ This is where celebrity influence can distort the evidence ladder. A celebrity c
 
 A useful way to judge UFO advocacy is to separate three questions that are often collapsed into one.
 
-First, is there a legitimate reason to collect more information? In many cases, yes. Pilots reporting unknown objects in controlled or military airspace are describing a safety and security issue even when the object later turns out to be mundane. NASA’s report supported better data [standards]({{ 'standards/' | relative_url }}), better reporting culture and more scientific openness precisely because the existing evidence base is often too patchy for firm conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span></span></span>
+First, is there a legitimate reason to collect more information? In many cases, yes. Pilots reporting unknown objects in controlled or military airspace are describing a safety and security issue even when the object later turns out to be mundane. NASA’s report supported better data [standards]({{ 'standards/' | relative_url }}), better reporting culture and more scientific openness precisely because the existing evidence base is often too patchy for firm conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span></span></span>
 
-Second, does the current public evidence prove alien technology? No. NASA’s UAP study did not find conclusive evidence of extraterrestrial origin, and AARO’s historical review found no empirical evidence that US government or private-sector efforts had verified extraterrestrial technology. Reuters’ coverage of the 2024 AARO report summarised the same institutional finding: most cases that can be resolved point towards ordinary objects or phenomena, while unresolved cases often remain unresolved because the data is poor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Open source on war.gov.</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+Second, does the current public evidence prove alien technology? No. NASA’s UAP study did not find conclusive evidence of extraterrestrial origin, and AARO’s historical review found no empirical evidence that US government or private-sector efforts had verified extraterrestrial technology. Reuters’ coverage of the 2024 AARO report summarised the same institutional finding: most cases that can be resolved point towards ordinary objects or phenomena, while unresolved cases often remain unresolved because the data is poor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Open source on war.gov.</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 Third, are all witnesses therefore wrong or dishonest? Also no. A careful evidence standard does not require mocking witnesses. It means treating witness testimony as a starting point rather than an endpoint. A pilot may accurately report that something looked fast, strange or dangerous; later analysis may still show that apparent speed was affected by parallax, camera movement, range uncertainty or missing metadata. A sober UFO discussion must be able to hold both thoughts at once: witnesses can be worth hearing, and their accounts can still fall short of proof.
 
@@ -511,7 +511,7 @@ A credible campaign usually has several features:
 
 </div>
 
-Scientific UAP projects point in a better direction when they prioritise instruments over celebrity. The Galileo Project has argued for multi-modal ground-based observatories that can collect synchronised data across optical, infrared, radio and other sensors. UAPx’s Catalina Island field work similarly showed both the promise and difficulty of hard-data approaches: many ambiguities could be reduced through analysis, while the remaining anomaly still required caution rather than a leap to exotic explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Scientific UAP projects point in a better direction when they prioritise instruments over celebrity. The Galileo Project has argued for multi-modal ground-based observatories that can collect synchronised data across optical, infrared, radio and other sensors. UAPx’s Catalina Island field work similarly showed both the promise and difficulty of hard-data approaches: many ambiguities could be reduced through analysis, while the remaining anomaly still required caution rather than a leap to exotic explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rO_M0hLlJ-Q" title="Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer">Watch the Pentagon&#x27;s three declassified UFO videos taken by U.S. Navy pilots</a></p><p class="youtube-embed-meta">Channel: CNBC Television &middot; Views: 3.5M &middot; Uploaded: April 2020 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rO_M0hLlJ-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rO_M0hLlJ-Q">Open on YouTube</a></p></div></div></div>
@@ -520,7 +520,7 @@ Scientific UAP projects point in a better direction when they prioritise instrum
 
 Celebrity makes UFO advocacy persuasive because it provides a human shortcut. People are more likely to listen when a familiar figure says a subject has been unfairly dismissed. In the parent topic of UFOs and celebrities, this is the recurring pattern: public figures do not necessarily bring better evidence, but they bring attention, narrative and emotional permission.
 
-That can be valuable. Without popular pressure, official secrecy can persist, witnesses can stay quiet, and badly designed reporting systems can remain unused. The 2017 media turn, the later congressional hearings and the National Archives records process all show that attention can become policy pressure. Advocacy can open doors that technical evidence alone may struggle to open in a distracted political environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span>
+That can be valuable. Without popular pressure, official secrecy can persist, witnesses can stay quiet, and badly designed reporting systems can remain unused. The 2017 media turn, the later congressional hearings and the National Archives records process all show that attention can become policy pressure. Advocacy can open doors that technical evidence alone may struggle to open in a distracted political environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-title">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span><span class="citation-popover-snippet">Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify</span></span></span>
 
 The risk is that fame rewards the most dramatic version of the story. A careful sentence such as “this sensor record is unresolved because the metadata are incomplete” travels less widely than “the government has alien craft”. The first may be closer to the evidence; the second is more clickable. Once a celebrity or media figure becomes associated with the stronger claim, their audience may treat subsequent denials, corrections or mundane explanations as part of a cover-up rather than as normal evidential filtering.
 
@@ -539,194 +539,194 @@ But the evidence for alien technology remains a separate question, and the publi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When UFO Advocacy Outruns the Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When UFO Advocacy Outruns the Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Balances serious UFO advocacy with the need for evidence and official accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances serious UFO advocacy with the need for evidence and official accountability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Places public campaigns and official investigations into a long historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places public campaigns and official investigations into a long historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
-        </h4>
-        <p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sekret Machines: Gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rcwmvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sekret Machines: Gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
+</h4>
+<p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
         
-        <p class="fr-book-desc">Directly fits the celebrity-advocacy lane while showing how UFO narratives are promoted to wider audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly fits the celebrity-advocacy lane while showing how UFO narratives are promoted to wider audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+by+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports the page’s distinction between advocacy, persuasion, and proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the page’s distinction between advocacy, persuasion, and proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sekret Machines: Gods</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sekret Machines: Gods</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="advocacy-when-ufo-advocacy-outruns-the-evidence-ufos-and-celebrities-ufo-poster-book-books-series-television-gerry-ander" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ But the evidence for alien technology remains a separate question, and the publi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ But the evidence for alien technology remains a separate question, and the publi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ But the evidence for alien technology remains a separate question, and the publi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ But the evidence for alien technology remains a separate question, and the publi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ But the evidence for alien technology remains a separate question, and the publi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,192 +932,192 @@ But the evidence for alien technology remains a separate question, and the publi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;It is also important to underscore that, to date, AARO has...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: nasa panel hold first public meeting ufo study ahead report 2023 05 31  
-   Link: <a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>space agency for a subject the government...Read more...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/nasa-panel-hold-first-public-meeting-ufo-study-ahead-report-2023-05-31/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>space agency for a subject the government...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
    Title: NASA Didn't Find Aliens-but if You See Any UFOs, Holler  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: democrats.senate.gov  
    Title: Democratic Leadership Schumer, Rounds Introduce New Legislation To Declassify  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
+   Link:<a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
+   Link:<a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tothestars.media  
    Title: To The Stars*The New York Times: Glowing Auras and 'Black Money'  
-   Link: <a href="https://tothestars.media/en-de/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOorxpr1EP4QArjqjulZadK0olKYwZuj9guBS6aXrlc32t4EGgB4j" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-de/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOorxpr1EP4QArjqjulZadK0olKYwZuj9guBS6aXrlc32t4EGgB4j</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Program · Read Next · UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are...Read more...</p></details>
+   Link:<a href="https://tothestars.media/en-de/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOorxpr1EP4QArjqjulZadK0olKYwZuj9guBS6aXrlc32t4EGgB4j" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-de/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOorxpr1EP4QArjqjulZadK0olKYwZuj9guBS6aXrlc32t4EGgB4j</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Program · Read Next · UFOs Are Real · UFOs Are Real · UFOs Are Real · UFOs Are...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: safeaerospace.org  
-   Link: <a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
+   Link:<a href="https://www.safeaerospace.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: abcnews.com  
    Title: ABC News Pentagon declassifies Navy videos that purportedly show  
-   Link: <a href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183</a>  
+   Link:<a href="https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagon-declassifies-navy-videos-purportedly-show-ufos/story?id=70364183</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: safeaerospace.org  
    Title: asa welcomes presidential directive to release government uap files  
-   Link: <a href="https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files</a>  
+   Link:<a href="https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files" target="_blank" rel="noopener noreferrer nofollow">https://www.safeaerospace.org/news/asa-welcomes-presidential-directive-to-release-government-uap-files</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
+   Link:<a href="https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/962722/unresolved-uap-report-middle-east-2024</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
+   Link:<a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sec.gov  
-   Link: <a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
+   Link:<a href="https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sec.gov/Archives/edgar/data/1710274/000110465920072815/tm2022367d1_partii.htm</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/how-blink-182-s-tom-delonge-became-a-u-f-o-researcher?srsltid=AfmBOoprgRsh6OOtgboVq57_qdKOrSx5dI5fRk57K_kfF5QLixO3sL5-" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/how-blink-182-s-tom-delonge-became-a-u-f-o-researcher?srsltid=AfmBOoprgRsh6OOtgboVq57_qdKOrSx5dI5fRk57K_kfF5QLixO3sL5-</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/how-blink-182-s-tom-delonge-became-a-u-f-o-researcher?srsltid=AfmBOoprgRsh6OOtgboVq57_qdKOrSx5dI5fRk57K_kfF5QLixO3sL5-" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/how-blink-182-s-tom-delonge-became-a-u-f-o-researcher?srsltid=AfmBOoprgRsh6OOtgboVq57_qdKOrSx5dI5fRk57K_kfF5QLixO3sL5-</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: cga.ct.gov  
-   Link: <a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Collins%2C%20Sean%2C%20Government%20Affairs%20Lead-Americans%20for%20Safe%20Aerospace-Supports-TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Collins%2C%20Sean%2C%20Government%20Affairs%20Lead-Americans%20for%20Safe%20Aerospace-Supports-TMY.PDF</a>  
+   Link:<a href="https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Collins%2C%20Sean%2C%20Government%20Affairs%20Lead-Americans%20for%20Safe%20Aerospace-Supports-TMY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.cga.ct.gov/2026/appdata/TMY/2026HB-05422-R000312-Collins%2C%20Sean%2C%20Government%20Affairs%20Lead-Americans%20for%20Safe%20Aerospace-Supports-TMY.PDF</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: How blink-182's Singer Proved That [Aliens Exist](&#123;&#123; 'aliens-exist/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=CDZ40bmirVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CDZ40bmirVo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kacey Musgraves vs. Mick West: Country star mocks UFO skeptic | Unreported...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CDZ40bmirVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CDZ40bmirVo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kacey Musgraves vs. Mick West: Country star mocks UFO skeptic | Unreported...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Pentagon UFO files show no alien evidence, analyst says  
-   Link: <a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How blink-182&#x27;s Singer Proved That Aliens Exist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How blink-182&#x27;s Singer Proved That Aliens Exist...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
+   Link:<a href="https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/six-articles/5-the-new-architecture-tracing-the-apparatus-of-the-modern-ufo-disclosure-push-afd40ed1c381</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1q6mz2i/americans_for_safe_aerospace_white_paper_reveals/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q6mz2i/americans_for_safe_aerospace_white_paper_reveals/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1q6mz2i/americans_for_safe_aerospace_white_paper_reveals/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1q6mz2i/americans_for_safe_aerospace_white_paper_reveals/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/</a>  
+   Link:<a href="https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/</a>  
+   Link:<a href="https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Blink182/comments/1k4nico/is_tom_still_active_in_to_the_stars_are_they/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
