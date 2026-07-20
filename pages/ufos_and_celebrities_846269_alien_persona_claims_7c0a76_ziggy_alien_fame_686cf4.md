@@ -329,89 +329,89 @@ For readers navigating the wider subject of [UFOs and celebrities]({{ 'ufos-and-
 <img src="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_ziggy_alien_fame_686cf4-Illustration-3-dark.svg" | relative_url }}" alt="Ziggy illustration 3" data-theme-src-dark="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_ziggy_alien_fame_686cf4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufos_and_celebrities_846269_alien_persona_claims_7c0a76_ziggy_alien_fame_686cf4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Ziggy Stardust Felt Alien. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Ziggy Stardust Felt Alien. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Starman: David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8562432-M.jpg" alt="Cover for Starman: David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Starman: David Bowie">Starman: David Bowie</a>
+        </h4>
+        <p class="fr-book-author">By Paul Trynka</p>
         
-<p class="fr-book-desc">Reinforces the distinction between symbolism and evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers Ziggy Stardust and its artistic purpose.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Starman: David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8562432-M.jpg" alt="Cover for Starman: David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Starman: David Bowie">Starman: David Bowie</a>
-</h4>
-<p class="fr-book-author">By Paul Trynka</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Strange Fascination: David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/500658-M.jpg" alt="Cover for Strange Fascination: David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Fascination: David Bowie">Strange Fascination: David Bowie</a>
+        </h4>
+        <p class="fr-book-author">By David Buckley</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Rock musicians, Biography, Bowie, david, 1947-2016, Rock musicians, biography, Great britain, biography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores theatrical identity and reinvention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Strange Fascination: David Bowie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/500658-M.jpg" alt="Cover for Strange Fascination: David Bowie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Fascination: David Bowie">Strange Fascination: David Bowie</a>
-</h4>
-<p class="fr-book-author">By David Buckley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonage daydream on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/551292-M.jpg" alt="Cover for Moonage daydream" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonage daydream">Moonage daydream</a>
+        </h4>
+        <p class="fr-book-author">By Mick Rock, David Bowie</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: Composers, biography, Rock musicians, Biography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Documents the creation of the Ziggy character.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of Ziggy Stardust and the Spiders from Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of Ziggy Stardust and the Spiders from Mars">The rise and fall of Ziggy Stardust and the Spiders from Mars</a>
-</h4>
-<p class="fr-book-author">By David Bowie</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of Ziggy Stardust and the Spiders from Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of Ziggy Stardust and the Spiders from Mars">The rise and fall of Ziggy Stardust and the Spiders from Mars</a>
+        </h4>
+        <p class="fr-book-author">By David Bowie</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Rock music, Glam rock music, Avant-garde (Music).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Primary creative work behind the alien persona.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Starman: David Bowie</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Strange Fascination: David Bowie</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Starman%3A+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Starman: David Bowie</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Strange Fascination: David Bowie</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Moonage+daydream&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moonage daydream</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
