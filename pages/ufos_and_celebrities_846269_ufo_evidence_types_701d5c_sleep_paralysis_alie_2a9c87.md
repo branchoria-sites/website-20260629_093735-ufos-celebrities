@@ -402,7 +402,7 @@ Understanding this distinction helps separate two different questions. One conce
           <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction">Abduction</a>
         </h4>
         <p class="fr-book-author">By John E. Mack</p>
-        
+
         <p class="fr-book-desc">Directly connects alien memories, testimony, and the difficulty of testing private experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abduction+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Understanding this distinction helps separate two different questions. One conce
           <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep paralysis">Sleep paralysis</a>
         </h4>
         <p class="fr-book-author">By Shelley R. Adler</p>
-        
+
         <p class="fr-book-desc">Specifically addresses sleep paralysis, sensed presences, and frightening night experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Understanding this distinction helps separate two different questions. One conce
           <a href="https://www.amazon.com/s?k=The+Nocturnal+Brain+Dr.+Guy+Leschziner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nocturnal Brain">The Nocturnal Brain</a>
         </h4>
         <p class="fr-book-author">By Dr. Guy Leschziner</p>
-        
+
         <p class="fr-book-desc">Covers sleep phenomena that help contextualise paralysis, hallucinations, and unusual night experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Nocturnal+Brain+Dr.+Guy+Leschziner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ Understanding this distinction helps separate two different questions. One conce
           <a href="https://www.amazon.com/s?k=The+twenty-four+hour+mind+Rosalind+Dymond+Cartwright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The twenty-four hour mind">The twenty-four hour mind</a>
         </h4>
         <p class="fr-book-author">By Rosalind Dymond Cartwright</p>
-        
+
         <p class="fr-book-desc">Helps explain how sleeping and waking states can shape powerful remembered experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+twenty-four+hour+mind+Rosalind+Dymond+Cartwright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

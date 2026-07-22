@@ -382,7 +382,7 @@ The continuing preservation of Ziggy costumes, notebooks and stage materials wit
           <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Starman: David Bowie">Starman: David Bowie</a>
         </h4>
         <p class="fr-book-author">By Paul Trynka</p>
-        
+
         <p class="fr-book-desc">Explains the creation and significance of Ziggy Stardust.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ The continuing preservation of Ziggy costumes, notebooks and stage materials wit
           <a href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete David Bowie">The Complete David Bowie</a>
         </h4>
         <p class="fr-book-author">By Nicholas Pegg, Pegg</p>
-        
+
         <p class="fr-book-desc">Provides detailed entries on Ziggy Stardust, songs and performances.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+David+Bowie+Nicholas+Pegg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ The continuing preservation of Ziggy costumes, notebooks and stage materials wit
           <a href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="David Bowie">David Bowie</a>
         </h4>
         <p class="fr-book-author">By Jones, Dylan, Dylan Jones et al.</p>
-        
+
         <p class="fr-book-desc">Covers Ziggy as a transformative artistic persona.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=David+Bowie+Jones%2C+Dylan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ The continuing preservation of Ziggy costumes, notebooks and stage materials wit
           <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonage daydream">Moonage daydream</a>
         </h4>
         <p class="fr-book-author">By Mick Rock, David Bowie</p>
-        
+
         <p class="fr-book-desc">Focuses on the Ziggy Stardust period and its artistic legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

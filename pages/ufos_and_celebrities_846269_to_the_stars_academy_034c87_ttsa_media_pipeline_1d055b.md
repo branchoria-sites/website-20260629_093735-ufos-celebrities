@@ -388,7 +388,7 @@ The broader lesson is not that entertainment and investigation are incompatible.
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Contrasts evidence-focused reporting with entertainment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The broader lesson is not that entertainment and investigation are incompatible.
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By D.W. Pasulka</p>
-        
+
         <p class="fr-book-desc">Directly addresses media, culture and UFO narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The broader lesson is not that entertainment and investigation are incompatible.
           <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sekret Machines: Gods">Sekret Machines: Gods</a>
         </h4>
         <p class="fr-book-author">By Tom DeLonge, Peter Levenda</p>
-        
+
         <p class="fr-book-desc">Represents the organization&#x27;s storytelling strategy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sekret+Machines%3A+Gods+Tom+DeLonge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The broader lesson is not that entertainment and investigation are incompatible.
           <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Amusing Ourselves to Death">Amusing Ourselves to Death</a>
         </h4>
         <p class="fr-book-author">By Neil Postman</p>
-        
+
         <p class="fr-book-desc">Explains how entertainment shapes public discourse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Amusing+Ourselves+to+Death+Neil+Postman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

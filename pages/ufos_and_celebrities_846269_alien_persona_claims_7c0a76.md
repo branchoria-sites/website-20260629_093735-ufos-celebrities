@@ -568,7 +568,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Helps clarify why artistic alien imagery should not be treated as factual UFO testimony.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -585,7 +585,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By D.W. Pasulka</p>
-        
+
         <p class="fr-book-desc">Useful for understanding how alien imagery becomes meaningful in popular culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -602,7 +602,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Explains how audiences can read sincerity, symbolism, and claims through existing belief patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -619,7 +619,7 @@ The strongest conclusion is not cynical. Celebrity alien personas can be meaning
           <a href="https://www.amazon.com/s?k=Space+Oddities%3A+Women+and+Outer+Space+in+Popular+Film+and+Culture%2C+1960-2000+Marie+Lathers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Oddities: Women and Outer Space in Popular Film and Culture, 1960-2000">Space Oddities: Women and Outer Space in Popular Film and Cul...</a>
         </h4>
         <p class="fr-book-author">By Marie Lathers</p>
-        
+
         <p class="fr-book-desc">Connects outer-space imagery with identity, gender, celebrity, and cultural representation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Space+Oddities%3A+Women+and+Outer+Space+in+Popular+Film+and+Culture%2C+1960-2000+Marie+Lathers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

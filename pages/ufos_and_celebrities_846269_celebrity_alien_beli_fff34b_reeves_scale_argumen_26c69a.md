@@ -364,7 +364,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Reinforces evidence-based reasoning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
           <a href="https://www.amazon.com/s?k=Cosmos+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Captures the cosmic-scale reasoning Reeves described.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cosmos+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
           <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pale Blue Dot">Pale Blue Dot</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Explores humanity&#x27;s place in a vast universe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pale+Blue+Dot+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Reeves remains one of the clearest examples of a celebrity whose public position
           <a href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The eerie silence">The eerie silence</a>
         </h4>
         <p class="fr-book-author">By Paul Davies</p>
-        
+
         <p class="fr-book-desc">Distinguishes possibility from evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+eerie+silence+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

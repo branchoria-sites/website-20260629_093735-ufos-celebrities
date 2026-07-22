@@ -414,7 +414,7 @@ For that reason, the reported additional calls are best treated as supporting co
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
-        
+
         <p class="fr-book-desc">Explains how multiple-witness cases and corroborating evidence should be assessed rather than accepted at face value.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For that reason, the reported additional calls are best treated as supporting co
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Focuses on documented testimony, official records, and the evidential value of independent witnesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ For that reason, the reported additional calls are best treated as supporting co
           <a href="https://www.amazon.com/s?k=The+Complete+Beatles+Chronicle+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Beatles Chronicle">The Complete Beatles Chronicle</a>
         </h4>
         <p class="fr-book-author">By Mark Lewisohn</p>
-        
+
         <p class="fr-book-desc">Provides reliable historical context for John Lennon&#x27;s life and the period surrounding the 1974 sighting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Beatles+Chronicle+Mark+Lewisohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ For that reason, the reported additional calls are best treated as supporting co
           <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
         </h4>
         <p class="fr-book-author">By Philip Norman</p>
-        
+
         <p class="fr-book-desc">Places the UFO story within the broader chronology of Lennon&#x27;s life and documented public statements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

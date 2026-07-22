@@ -372,7 +372,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
           <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
         </h4>
         <p class="fr-book-author">By Ytasha Womack</p>
-        
+
         <p class="fr-book-desc">Provides context for Sun Ra&#x27;s cosmic identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By D.W. Pasulka</p>
-        
+
         <p class="fr-book-desc">Helps frame myth, belief and UFO culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
           <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space is the place">Space is the place</a>
         </h4>
         <p class="fr-book-author">By John F. Szwed</p>
-        
+
         <p class="fr-book-desc">Explains the Saturn mythology as artistic philosophy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ For readers navigating the broader landscape of [UFOs and celebrities]({{ 'ufos-
           <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="More brilliant than the sun">More brilliant than the sun</a>
         </h4>
         <p class="fr-book-author">By Kodwo Eshun</p>
-        
+
         <p class="fr-book-desc">Discusses Black futurist musical imagination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -346,7 +346,7 @@ For readers navigating the wider subject of [UFOs and celebrities]({{ 'ufos-and-
           <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Starman: David Bowie">Starman: David Bowie</a>
         </h4>
         <p class="fr-book-author">By Paul Trynka</p>
-        
+
         <p class="fr-book-desc">Covers Ziggy Stardust and its artistic purpose.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Starman%3A+David+Bowie+Paul+Trynka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For readers navigating the wider subject of [UFOs and celebrities]({{ 'ufos-and-
           <a href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strange Fascination: David Bowie">Strange Fascination: David Bowie</a>
         </h4>
         <p class="fr-book-author">By David Buckley</p>
-        
+
         <p class="fr-book-desc">Explores theatrical identity and reinvention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Strange+Fascination%3A+David+Bowie+David+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For readers navigating the wider subject of [UFOs and celebrities]({{ 'ufos-and-
           <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonage daydream">Moonage daydream</a>
         </h4>
         <p class="fr-book-author">By Mick Rock, David Bowie</p>
-        
+
         <p class="fr-book-desc">Documents the creation of the Ziggy character.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moonage+daydream+Mick+Rock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For readers navigating the wider subject of [UFOs and celebrities]({{ 'ufos-and-
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of Ziggy Stardust and the Spiders from Mars">The rise and fall of Ziggy Stardust and the Spiders from Mars</a>
         </h4>
         <p class="fr-book-author">By David Bowie</p>
-        
+
         <p class="fr-book-desc">Primary creative work behind the alien persona.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+David+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

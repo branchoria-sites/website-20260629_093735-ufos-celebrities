@@ -356,7 +356,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
           <a href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Left Hand of Darkness">The Left Hand of Darkness</a>
         </h4>
         <p class="fr-book-author">By Ursula K. Le Guin</p>
-        
+
         <p class="fr-book-desc">Explores identity, otherness and gender through speculative fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Left+Hand+of+Darkness+Ursula+K.+Le+Guin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
           <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
         </h4>
         <p class="fr-book-author">By Ytasha Womack</p>
-        
+
         <p class="fr-book-desc">Explains Afrofuturist themes behind android and alien metaphors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
         <p class="fr-book-author">By D.W. Pasulka</p>
-        
+
         <p class="fr-book-desc">Helps distinguish symbolic narratives from belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Cosmic+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The Cindi Mayweather mythology invites audiences to imagine a future in which pr
           <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="More brilliant than the sun">More brilliant than the sun</a>
         </h4>
         <p class="fr-book-author">By Kodwo Eshun</p>
-        
+
         <p class="fr-book-desc">Connects futuristic personas, music and Black speculative culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -376,7 +376,7 @@ Within the broader history of celebrity UFO stories, Lennon's experience marks a
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Provides broader context for famous UFO accounts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Within the broader history of celebrity UFO stories, Lennon's experience marks a
           <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
         </h4>
         <p class="fr-book-author">By Philip Norman</p>
-        
+
         <p class="fr-book-desc">Places the UFO anecdote within Lennon&#x27;s documented life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Within the broader history of celebrity UFO stories, Lennon's experience marks a
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Helps distinguish historical testimony from proof.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Within the broader history of celebrity UFO stories, Lennon's experience marks a
           <a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beatles anthology">The Beatles anthology</a>
         </h4>
         <p class="fr-book-author">By Beatles., John Lennon et al.</p>
-        
+
         <p class="fr-book-desc">Provides context for Lennon&#x27;s life and public mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -388,7 +388,7 @@ Instead, he transformed the language of planets, cosmic travel and alien origin 
           <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
         </h4>
         <p class="fr-book-author">By Ytasha Womack</p>
-        
+
         <p class="fr-book-desc">Explains the Afrofuturist ideas central to Sun Ra&#x27;s cosmic identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Instead, he transformed the language of planets, cosmic travel and alien origin 
           <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space is the place">Space is the place</a>
         </h4>
         <p class="fr-book-author">By John F. Szwed</p>
-        
+
         <p class="fr-book-desc">Covers Sun Ra&#x27;s Saturn mythology, Arkestra and artistic philosophy in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ Instead, he transformed the language of planets, cosmic travel and alien origin 
           <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="More brilliant than the sun">More brilliant than the sun</a>
         </h4>
         <p class="fr-book-author">By Kodwo Eshun</p>
-        
+
         <p class="fr-book-desc">Interprets Sun Ra&#x27;s speculative musical philosophy and influence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ Instead, he transformed the language of planets, cosmic travel and alien origin 
           <a href="https://www.amazon.com/s?k=A+pure+solar+world+Paul+Youngquist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A pure solar world">A pure solar world</a>
         </h4>
         <p class="fr-book-author">By Paul Youngquist</p>
-        
+
         <p class="fr-book-desc">Examines Sun Ra&#x27;s cosmology and role in Afrofuturism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+pure+solar+world+Paul+Youngquist&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

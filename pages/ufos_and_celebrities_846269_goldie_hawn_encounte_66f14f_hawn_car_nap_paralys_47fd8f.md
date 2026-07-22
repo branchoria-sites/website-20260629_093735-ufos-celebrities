@@ -359,7 +359,7 @@ For that reason, the West Covina car episode is often discussed less as physical
           <a href="https://www.amazon.com/s?k=Why+We+Sleep+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
         </h4>
         <p class="fr-book-author">By Matthew Walker</p>
-        
+
         <p class="fr-book-desc">Provides accessible science on sleep states.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+Sleep+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For that reason, the West Covina car episode is often discussed less as physical
           <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
         </h4>
         <p class="fr-book-author">By Oliver Sacks</p>
-        
+
         <p class="fr-book-desc">Explains vivid perceptual experiences including sleep-related phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For that reason, the West Covina car episode is often discussed less as physical
           <a href="https://www.amazon.com/s?k=The+Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believer">The Believer</a>
         </h4>
         <p class="fr-book-author">By Ralph Blumenthal</p>
-        
+
         <p class="fr-book-desc">Places encounter reports into wider UFO culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believer+Ralph+Blumenthal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For that reason, the West Covina car episode is often discussed less as physical
           <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep paralysis">Sleep paralysis</a>
         </h4>
         <p class="fr-book-author">By Shelley R. Adler</p>
-        
+
         <p class="fr-book-desc">Directly addresses sleep paralysis and cultural interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

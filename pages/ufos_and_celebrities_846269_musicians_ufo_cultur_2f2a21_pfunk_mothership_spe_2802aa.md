@@ -370,7 +370,7 @@ Within the wider history of UFOs and celebrity culture, the Mothership occupies 
 <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afrofuturism: The World of Black Sci-Fi and Fantasy Culture">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>
 </h4>
 <p class="fr-book-author">By Ytasha Womack</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Race identity, Social aspects, Futurologists, Influence, Science fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Afrofuturism%3A+The+World+of+Black+Sci-Fi+and+Fantasy+Culture+Ytasha+Womack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Within the wider history of UFOs and celebrity culture, the Mothership occupies 
 <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="More brilliant than the sun">More brilliant than the sun</a>
 </h4>
 <p class="fr-book-author">By Kodwo Eshun</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Popular music, Blacks, History and criticism, Music, Fiction, general.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=More+brilliant+than+the+sun+Kodwo+Eshun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Within the wider history of UFOs and celebrity culture, the Mothership occupies 
 <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space is the place">Space is the place</a>
 </h4>
 <p class="fr-book-author">By John F. Szwed</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Biography, Jazz musicians, Biographies, Musiciens de jazz, Sun Ra.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Space+is+the+place+John+F.+Szwed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Within the wider history of UFOs and celebrity culture, the Mothership occupies 
 <a href="https://www.amazon.com/s?k=Funk+Rickey+Vincent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Funk">Funk</a>
 </h4>
 <p class="fr-book-author">By Rickey Vincent</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Funk (Music), History and criticism, Popular music, history and criticism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Funk+Rickey+Vincent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

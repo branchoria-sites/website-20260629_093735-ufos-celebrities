@@ -376,7 +376,7 @@ That makes the note highly valuable for reconstructing the history of Lennon's c
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">Supports discussion of why a contemporaneous note documents a claim rather than proving it.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Believing+Brain+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ That makes the note highly valuable for reconstructing the history of Lennon's c
           <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Loving John">Loving John</a>
         </h4>
         <p class="fr-book-author">By May Pang, Henry Edwards</p>
-        
+
         <p class="fr-book-desc">Provides firsthand context from the other principal witness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Loving+John+May+Pang&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ That makes the note highly valuable for reconstructing the history of Lennon's c
           <a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beatles anthology">The Beatles anthology</a>
         </h4>
         <p class="fr-book-author">By Beatles., John Lennon et al.</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the documentary record surrounding Lennon and his work.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Beatles+anthology+Beatles.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ That makes the note highly valuable for reconstructing the history of Lennon's c
           <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="John Lennon">John Lennon</a>
         </h4>
         <p class="fr-book-author">By Philip Norman</p>
-        
+
         <p class="fr-book-desc">Supplies historical context for the 1974 period and Lennon&#x27;s public statements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=John+Lennon+Philip+Norman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
