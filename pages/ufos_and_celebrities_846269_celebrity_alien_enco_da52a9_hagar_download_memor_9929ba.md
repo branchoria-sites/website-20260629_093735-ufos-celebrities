@@ -390,6 +390,23 @@ That makes his account historically interesting even for readers who remain unco
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/208300-M.jpg" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack</p>
+
+        <p class="fr-book-desc">Provides psychological and experiential context for encounter narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from folklore to flying saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/594147-M.jpg" alt="Cover for Passport to Magonia: from folklore to flying saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -407,16 +424,16 @@ That makes his account historically interesting even for readers who remain unco
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Red+Sammy+Hagar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Red on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6712886-M.jpg" alt="Cover for Red" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Red%3A+My+Uncensored+Life+in+Rock+Sammy+Hagar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Red: My Uncensored Life in Rock on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6712886-M.jpg" alt="Cover for Red: My Uncensored Life in Rock" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Red+Sammy+Hagar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Red">Red</a>
+          <a href="https://www.amazon.com/s?k=Red%3A+My+Uncensored+Life+in+Rock+Sammy+Hagar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Red: My Uncensored Life in Rock">Red: My Uncensored Life in Rock</a>
         </h4>
         <p class="fr-book-author">By Sammy Hagar</p>
 
-        <p class="fr-book-desc">First published 2011. Subjects: Rock musicians, Biography, Rock music, nyt:combined-print-and-e-book-nonfiction=2011-04-03, New York Time...</p>
+        <p class="fr-book-desc">Primary source for Hagar&#x27;s account of the alleged encounter and &#x27;download&#x27; description.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Red+Sammy+Hagar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Red%3A+My+Uncensored+Life+in+Rock+Sammy+Hagar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,7 +441,7 @@ That makes his account historically interesting even for readers who remain unco
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Red&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Red</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+folklore+to+flying+saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from folklore to flying saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
